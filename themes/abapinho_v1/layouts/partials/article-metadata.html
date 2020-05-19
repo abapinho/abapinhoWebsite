@@ -1,0 +1,18 @@
+{{- if or .Params.categories .Params.tags -}}
+  Categorias:
+  {{ range .Params.categories -}}
+    {{- $category := replace . "#" "%23" -}}
+    {{- $category = replace $category "." "%2e" -}}
+    {{- $url := print "/category/" ($category | urlize) "/" -}}
+    <a class="category" href={{- $url | relLangURL -}}>{{- . -}}</a>
+  {{ end -}}
+  |
+  Etiquetas: 
+  {{ range .Params.tags -}}
+    {{- $tag := replace . "#" "%23" -}}
+    {{- $tag = replace $tag "." "%2e" -}}
+    {{- $url := print "/tag/" ($tag | urlize) "/" -}}
+    <a class="tag" href={{- $url | relLangURL -}}>{{- . -}}</a>
+  {{ end -}}
+{{- end -}}
+| <a href="https://abapinho.com/2020/05/clean-abap/#respond">Nenhum comentário</a>

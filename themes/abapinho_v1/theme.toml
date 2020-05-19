@@ -1,0 +1,6 @@
+name = "abapinho_v1"
+description = "Copy paste of Abapinho v1 just to test the contents"
+min_version = "0.41"
+
+[author]
+name = "Nuno Godinho"

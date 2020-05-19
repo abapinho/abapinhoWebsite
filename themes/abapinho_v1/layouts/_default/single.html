@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>{{ partial "head.html" . }}</head>
+<body>
+  <div id="page">
+    {{ partial "header.html" }}    
+    <div id="content" class="narrowcolumn">
+      {{ partial "sponsor.html" }} 
+      <div class="post" id="post-4473">
+        <h2><a href="https://abapinho.com/2020/05/clean-abap/" rel="bookmark" title="Permanent Link to {{ .Title }}">{{ .Title }}</a></h2>
+        <div class="post_frame">
+          <div class="post_date">&nbsp;{{ .Date.Format "2006-01-02" }}</div>
+          <div class="entry"> 
+            {{ partial "article-featuredimage.html" . }}
+            <p>{{ .Content }}</p>
+          </div>
+          <p class="postmetadata">{{ partial "article-metadata.html" . }}</p>
+        </div>
+      </div> 
+     {{ partial "comments.html" }} 
+    </div>
+    <div id="sidebar">{{ partial "sidebar.html" . }}</div>
+    <hr />
+    <div id="footer">&nbsp;</div>
+  </div>
+{{ partial "footer.html" }}
+{{ partial "footer-scripts.html" }}  
+</body>
+</html>
