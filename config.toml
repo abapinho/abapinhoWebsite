@@ -7,6 +7,9 @@ defaultContentLanguage = "pt"
 theme = "abapinho_v1"
 refLinksErrorLevel = "WARNING"
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 [params]
   description = "ABAP em português"
   copyright = "&copy;2009-2020 Nuno Godinho"
