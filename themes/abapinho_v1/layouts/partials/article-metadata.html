@@ -12,7 +12,7 @@
     {{- $tag := replace . "#" "%23" -}}
     {{- $tag = replace $tag "." "%2e" -}}
     {{- $url := print "/tag/" ($tag | urlize) "/" -}}
-    <a class="tag" href={{- $url | relLangURL -}}>{{- . -}}</a>
+    <a class="tag" rel="tag" href={{- $url | relLangURL -}}>{{- . -}}</a>
   {{ end -}}
 {{- end -}}
 | <a href="https://abapinho.com/2020/05/clean-abap/#respond">Nenhum comentário</a>
