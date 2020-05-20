@@ -18,6 +18,11 @@ repos:
   - id: pretty-format-toml
   - id: pretty-format-yaml
 
+- repo: https://github.com/pre-commit/mirrors-csslint
+  rev: v1.0.5
+  hooks:
+  - id: csslint
+
 #- repo: https://gitlab.com/devopshq/gitlab-ci-linter
 #  rev: v1.0.0
 #  hooks:
