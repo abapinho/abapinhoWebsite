@@ -14,7 +14,9 @@ repos:
   rev: v1.3.2
   hooks:
   - id: pretty-format-toml
+    args: [--autofix]
   - id: pretty-format-yaml
+    args: [--autofix]
 
 - repo: https://github.com/pre-commit/mirrors-csslint
   rev: v1.0.5
