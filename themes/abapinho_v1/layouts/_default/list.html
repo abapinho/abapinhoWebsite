@@ -1,0 +1,9 @@
+{{- define "main" -}}
+    {{- $paginator := .Paginator -}}
+    {{- range .Paginator.Pages -}}
+        {{ partial "article-header.html" . }}
+        {{ .Summary }}
+        {{ partial "article-footer.html" . }}
+    {{- end -}}
+    {{- partial "pagination.html" $paginator -}}
+{{- end -}}
