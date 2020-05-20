@@ -10,7 +10,7 @@ refLinksErrorLevel = "WARNING"
 copyright = "&copy;2009-2020 Nuno Godinho"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:title/" 
 
 [params]
   description = "ABAP em português"
