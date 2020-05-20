@@ -3,23 +3,22 @@ languageCode = "pt-PT"
 title = "Abapinho"
 author = "Nuno Godinho"
 defaultContentLanguage = "pt"
-# theme = "hugo-notepadium"
-# theme = "aether"
 theme = "abapinho_v1"
-refLinksErrorLevel = "WARNING"
 copyright = "&copy;2009-2020 Nuno Godinho"
+paginate = 15
+refLinksErrorLevel = "WARNING"
 
 [permalinks]
-  posts = "/:year/:month/:title/" 
+posts = "/:year/:month/:title/"
 
 [params]
-  description = "ABAP em português"
-  keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
+description = "ABAP em português"
+keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
 
-[languages]
-  [languages.pt]
-    languageName = "Português"
-    weight = 1
-  [languages.en]
-    languageName = "English"
-    weight = 2
+[languages.pt]
+languageName = "Português"
+weight = 1
+
+[languages.en]
+languageName = "English"
+weight = 2
