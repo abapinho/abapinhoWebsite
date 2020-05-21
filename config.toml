@@ -1,4 +1,4 @@
-baseURL = "https://abapinho.com/"
+baseURL = "https://hugo-abapinho-com.netlify.app/"
 languageCode = "pt-PT"
 title = "Abapinho"
 author = "Nuno Godinho"
