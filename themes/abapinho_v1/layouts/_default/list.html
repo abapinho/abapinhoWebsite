@@ -1,0 +1,16 @@
+{{- define "main" -}}
+    {{- $paginator := .Paginator -}}
+    {{- range .Paginator.Pages -}}
+        {{ partial "article-header.html" . }}
+        {{ .Summary }}
+        <a href="{{ .Permalink }}">Ler o resto do artigo</a>
+        {{ partial "article-footer.html" . }}
+    {{- end -}}
+
+    {{ if or ($paginator.HasPrev) ($paginator.HasNext) -}}
+    <nav class="pagination-nav side-padding">
+      {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" class="pagination-older pagination-text">&lt; Older Posts</a>{{ end }}
+      {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" class="pagination-newer pagination-text">Newer Posts &gt;</a>{{ end }}
+    </nav>
+    {{- end }}
+{{- end -}}

@@ -1,4 +1,4 @@
-/*  
+/*
 Theme Name: Abapinho
 Theme URI: http://abapinho.com/
 Description: Para o blog abapinho
@@ -55,7 +55,7 @@ body {
 	}
 
 #footer {
-	background: #eee url('../img/footer.gif') no-repeat top; 
+	background: #eee url('../img/footer.gif') no-repeat top;
 	}
 
 small {
@@ -231,7 +231,7 @@ a:hover {
 /* Begin Structure */
 body {
 	margin: 0 0 20px 0;
-	padding: 0; 
+	padding: 0;
 	}
 
 #page {
@@ -243,7 +243,7 @@ body {
 	}
 
 #header {
-	height: 135px; 
+	height: 135px;
 	width: 800px;
 	}
 
@@ -401,7 +401,7 @@ html>body .entry ul {
 	list-style: none;
 	padding-left: 10px;
 	text-indent: -10px;
-	} 
+	}
 
 html>body .entry li {
 	margin: 7px 0 8px 10px;
@@ -472,7 +472,7 @@ ol li, #sidebar ul ol li {
 
 /* Begin Form Elements */
 #searchform {
-	padding: 0 0 0 0px; 
+	padding: 0 0 0 0px;
 	text-align: left;
 	}
 
@@ -655,7 +655,7 @@ a img {
 	left: -6px;
 }
 
- 
+
 
 /* = Q&A Menu
 -------------------------------------------------------------- */
@@ -700,7 +700,7 @@ a img {
 ul.boaspracticas {
 	list-style-type: none;
 	padding: 0;
-	margin: 0; 
+	margin: 0;
 }
 
 .boaspracticas a.boapractica {

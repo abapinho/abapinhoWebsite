@@ -1,0 +1,6 @@
+<div class="post">
+  <h2><a href="{{ .Permalink }}" rel="bookmark" title="Permanent Link to {{ .Title }}">{{ .Title }}</a></h2>
+  <div class="post_frame">
+    <div class="post_date">&nbsp;{{ .Date.Format "2006-01-02" }}</div>
+    <div class="entry">
+      {{ partial "article-featuredimage.html" . }}
