@@ -15,6 +15,9 @@ posts = "/:year/:month/:title/"
 description = "ABAP em português"
 keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
 
+[outputs]
+home = [ "HTML", "JSON",]
+
 [languages.pt]
 languageName = "Português"
 weight = 1
