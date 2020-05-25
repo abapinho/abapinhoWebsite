@@ -3,19 +3,18 @@
 <head>
     {{- partial "head.html" . -}}
 </head>
-
 <body>
   <div id="page">
-    {{ partial "header.html" }}    
+    {{ partial "header.html" }}
     <div id="content" class="narrowcolumn">
-      {{ partial "sponsor.html" }} 
+      {{ partial "sponsor.html" }}
       {{- block "main" . -}}{{- end -}}
     </div>
     <div id="sidebar">{{ partial "sidebar.html" . }}</div>
     <hr />
     <div id="footer">&nbsp;</div>
   </div>
-  {{ partial "footer.html" }}
+  {{ block "footerfiles" . -}}
+  {{- end -}}
 </body>
-
 </html>
