@@ -18,32 +18,25 @@ var fuseOptions = {
 };
 
 
-function searchButton()
-{
-  searchQuery = document.getElementById("search-query").value;
-  if(searchQuery){
-    $("#search-query").val(searchQuery);
-    executeSearch( searchQuery);
-  }else {
-    $('#search-results').append("<p>Please enter a word or phrase above</p>");
-  }
-  return false
+var searchQuery = param("s");
+if(searchQuery){
+  $("#search-query").val(searchQuery);
+  executeSearch(searchQuery);
+}else {
+  $('#search-results').append("<p>Please enter a word or phrase above</p>");
 }
 
-function executeSearch(searchQuery) {
-  $.getJSON("/index.json", function (data) {
+
+
+function executeSearch(searchQuery){
+  $.getJSON( "/index.json", function( data ) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
-    console.log({
-      "matches": result
-    });
-    $('#search-results').html("")
-    if (result.length > 0) {
-      $('#search-results').append("<h3>Matching pages</h3>");
+    console.log({"matches":result});
+    if(result.length > 0){
       populateResults(result);
-      renderMathInElement(document.getElementById('search-results'));
-    } else {
+    }else{
       $('#search-results').append("<p>No matches found</p>");
     }
   });
