@@ -30,10 +30,15 @@
       </li>
     </ul>
   </li>
-  <li>
-    <ul>
-      <li><a href="https://abapinho.com/pt/2020/05/clean-abap/" hreflang="pt">Português</a></li>
-      <li><a href="https://abapinho.com/en/2020/05/clean-abap/" hreflang="en">English</a></li>
-    </ul>
-  </li>
+{{ if .IsTranslated }}
+<li>
+  <ul>
+  {{ range .Translations }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+    </li>
+  {{ end }}
+  </ul>
+</li>
+{{ end }}
 </ul>
