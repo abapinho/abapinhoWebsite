@@ -26,6 +26,10 @@ weight = 1
 languageName = "English"
 weight = 2
 
+[markup.highlight]
+style = "abap"
+tabWidth = 2
+
 [languages.pt.menu]
 [[languages.pt.menu.main]]
 name = "Dicas"
