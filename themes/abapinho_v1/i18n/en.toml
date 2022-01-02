@@ -12,3 +12,6 @@ other = "Tags"
 
 [read_more]
 other = "Read more"
+
+[search_results]
+other = "Results"

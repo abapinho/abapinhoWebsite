@@ -12,3 +12,6 @@ other = "Etiquetas"
 
 [read_more]
 other = "Ler o resto do artigo"
+
+[search_results]
+other = "Resultados"
