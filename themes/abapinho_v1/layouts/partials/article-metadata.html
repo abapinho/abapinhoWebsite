@@ -7,7 +7,7 @@
     <a class="category" href={{- $url | relLangURL -}}>{{- . -}}</a>
   {{ end -}}
   |
-  Etiquetas: 
+  Etiquetas:
   {{ range .Params.tags -}}
     {{- $tag := replace . "#" "%23" -}}
     {{- $tag = replace $tag "." "%2e" -}}
@@ -15,4 +15,3 @@
     <a class="tag" rel="tag" href={{- $url | relLangURL -}}>{{- . -}}</a>
   {{ end -}}
 {{- end -}}
-| <a href="https://abapinho.com/2020/05/clean-abap/#respond">Nenhum comentário</a>
