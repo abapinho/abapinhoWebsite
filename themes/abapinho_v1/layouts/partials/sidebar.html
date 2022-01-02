@@ -1,13 +1,15 @@
 <ul>
-  <li><h2>Categorias</h2>
+  <li><h2>{{ i18n "categories" }}</h2>
   <ul>
-    <li><a href="/categories/dicas/">Dicas</a></li>
-    <li><a href="/categories/artigos/">Artigos</a></li>
-    <li><a href="/categories/boaspracticas/">Boas prácticas</a></li>
-    <li><a href="/categories/historias/">Histórias</a></li>
-    <li><a href="/categories/noticias/">Notícias</a></li>
-    <li><a href="/categories/codigo/">Código</a></li>
-    <li><a href="/acerca/">Acerca</a></li>
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+    <li>
+      <a href="{{ .URL }}">
+        {{ .Pre }}
+        <span>{{ .Name }}</span>
+      </a>
+    </li>
+  {{ end }}
   </ul>
   </li>
   <li>
@@ -20,7 +22,7 @@
     </ul>
   </li>
   <li>
-    <h2>Pesquisa</h2>
+    <h2>{{ i18n "search" }}</h2>
     <ul>
       <li>
         <form method="get" id="searchform" action="/search">

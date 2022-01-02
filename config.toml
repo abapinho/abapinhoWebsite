@@ -25,3 +25,65 @@ weight = 1
 [languages.en]
 languageName = "English"
 weight = 2
+
+[languages.pt.menu]
+[[languages.pt.menu.main]]
+name = "Dicas"
+url = "/categories/dicas/"
+weight = 10
+
+[[languages.pt.menu.main]]
+name = "Artigos"
+url = "/categories/artigos/"
+weight = 20
+
+[[languages.pt.menu.main]]
+name = "Boas prácticas"
+url = "/categories/boaspracticas/"
+weight = 30
+
+[[languages.pt.menu.main]]
+name = "Histórias"
+url = "/categories/historias/"
+weight = 40
+
+[[languages.pt.menu.main]]
+name = "Notícias"
+url = "/categories/noticias/"
+weight = 50
+
+[[languages.pt.menu.main]]
+name = "Código"
+url = "/categories/codigo/"
+weight = 60
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = "Tips&Tricks"
+url = "/categories/dicas/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Articles"
+url = "/categories/artigos/"
+weight = 20
+
+[[languages.en.menu.main]]
+name = "Best practices"
+url = "/categories/boaspracticas/"
+weight = 30
+
+[[languages.en.menu.main]]
+name = "Stories"
+url = "/categories/historias/"
+weight = 40
+
+[[languages.en.menu.main]]
+name = "News"
+url = "/categories/noticias/"
+weight = 50
+
+[[languages.en.menu.main]]
+name = "Code"
+url = "/categories/codigo/"
+weight = 60

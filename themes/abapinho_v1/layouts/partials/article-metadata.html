@@ -1,5 +1,5 @@
 {{- if or .Params.categories .Params.tags -}}
-  Categorias:
+  {{ i18n "categories" }}:
   {{ range .Params.categories -}}
     {{- $category := replace . "#" "%23" -}}
     {{- $category = replace $category "." "%2e" -}}
@@ -7,7 +7,7 @@
     <a class="category" href={{- $url | relLangURL -}}>{{- . -}}</a>
   {{ end -}}
   |
-  Etiquetas:
+  {{ i18n "tags" }}:
   {{ range .Params.tags -}}
     {{- $tag := replace . "#" "%23" -}}
     {{- $tag = replace $tag "." "%2e" -}}
