@@ -1,22 +1,22 @@
-baseURL = "https://hugo-abapinho-com.netlify.app/"
+baseURL = "https://v2.abapinho.com/"
 languageCode = "pt-PT"
 title = "Abapinho"
 author = "Nuno Godinho"
 defaultContentLanguage = "pt"
 theme = "abapinho_v1"
-copyright = "&copy;2009-2020 Nuno Godinho"
+copyright = "&copy;2009-2022 Nuno Godinho"
 paginate = 15
 refLinksErrorLevel = "WARNING"
 
 [permalinks]
-posts = "/:year/:month/:title/"
+posts = "/:year/:month/:slug/"
 
 [params]
 description = "ABAP em português"
 keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
 
 [outputs]
-home = [ "HTML", "JSON",]
+home = [ "HTML",]
 
 [languages.pt]
 languageName = "Português"
