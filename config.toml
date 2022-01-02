@@ -56,11 +56,6 @@ name = "Notícias"
 url = "/categories/noticias/"
 weight = 50
 
-[[languages.pt.menu.main]]
-name = "Código"
-url = "/categories/codigo/"
-weight = 60
-
 [languages.en.menu]
 [[languages.en.menu.main]]
 name = "Tips&Tricks"
@@ -86,8 +81,3 @@ weight = 40
 name = "News"
 url = "/categories/noticias/"
 weight = 50
-
-[[languages.en.menu.main]]
-name = "Code"
-url = "/categories/codigo/"
-weight = 60
