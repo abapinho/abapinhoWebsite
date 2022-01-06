@@ -1,0 +1,8 @@
+{{- define "pagetitle" -}}
+  <div id='qa-menu'>
+    <div class="pagetitle">Tag &gt;&nbsp;{{- with . -}}{{ .Title }} {{- end -}}</div>
+  </div>
+{{- end -}}
+{{- define "main" -}}
+  {{ partial "article-list.html" . }}
+{{- end -}}

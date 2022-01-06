@@ -1,4 +1,5 @@
 [categories]
+one = "Categoria"
 other = "Categorias"
 
 [search]
@@ -6,9 +7,6 @@ other = "Pesquisa"
 
 [sponsored_by]
 other = "Patrocinado por"
-
-[tags]
-other = "Etiquetas"
 
 [read_more]
 other = "Ler o resto do artigo"
