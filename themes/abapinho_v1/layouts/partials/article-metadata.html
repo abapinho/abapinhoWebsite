@@ -8,10 +8,11 @@
   {{ end -}}
   |
   Tags:
-  {{ range .Params.tags -}}
-    {{- $tag := replace . "#" "%23" -}}
+  {{ range $index, $tag := .Params.tags -}}
+    {{- $tag := replace $tag "#" "%23" -}}
     {{- $tag = replace $tag "." "%2e" -}}
     {{- $url := print "/tags/" ($tag | urlize) "/" -}}
+    {{- if gt $index 0 }}, {{ end -}}
     <a class="tag" rel="tag" href={{- $url | relLangURL -}}>{{- . -}}</a>
-  {{ end -}}
+  {{- end -}}
 {{- end -}}
