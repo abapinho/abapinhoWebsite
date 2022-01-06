@@ -2,7 +2,7 @@
   <li><h2>{{ i18n "categories" }}</h2>
   <ul>
   {{- $currentPage := . }}
-  {{ range .Site.Menus.main -}}
+  {{ range .Site.Menus.categories -}}
     <li><a href="{{ .URL }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
   {{- end }}
   </ul>

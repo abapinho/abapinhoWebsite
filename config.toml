@@ -31,53 +31,53 @@ style = "abap"
 tabWidth = 2
 
 [languages.pt.menu]
-[[languages.pt.menu.main]]
+[[languages.pt.menu.categories]]
 name = "Dicas"
 url = "/categories/dicas/"
 weight = 10
 
-[[languages.pt.menu.main]]
+[[languages.pt.menu.categories]]
 name = "Artigos"
 url = "/categories/artigos/"
 weight = 20
 
-[[languages.pt.menu.main]]
+[[languages.pt.menu.categories]]
 name = "Boas prácticas"
 url = "/categories/boaspracticas/"
 weight = 30
 
-[[languages.pt.menu.main]]
+[[languages.pt.menu.categories]]
 name = "Histórias"
 url = "/categories/historias/"
 weight = 40
 
-[[languages.pt.menu.main]]
+[[languages.pt.menu.categories]]
 name = "Notícias"
 url = "/categories/noticias/"
 weight = 50
 
 [languages.en.menu]
-[[languages.en.menu.main]]
-name = "Tips&Tricks"
+[[languages.en.menu.categories]]
+name = "Tips & Tricks"
 url = "/categories/dicas/"
 weight = 10
 
-[[languages.en.menu.main]]
+[[languages.en.menu.categories]]
 name = "Articles"
 url = "/categories/artigos/"
 weight = 20
 
-[[languages.en.menu.main]]
+[[languages.en.menu.categories]]
 name = "Best practices"
 url = "/categories/boaspracticas/"
 weight = 30
 
-[[languages.en.menu.main]]
+[[languages.en.menu.categories]]
 name = "Stories"
 url = "/categories/historias/"
 weight = 40
 
-[[languages.en.menu.main]]
+[[languages.en.menu.categories]]
 name = "News"
 url = "/categories/noticias/"
 weight = 50
