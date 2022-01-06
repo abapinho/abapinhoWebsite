@@ -3,7 +3,7 @@
   <ul>
   {{- $currentPage := . }}
   {{ range .Site.Menus.categories -}}
-    <li><a href="{{ .URL }}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
+    <li><a href="{{ .URL }}">{{ .Pre }}<span>{{ i18n .Name }}</span></a></li>
   {{- end }}
   </ul>
   </li>

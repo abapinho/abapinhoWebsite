@@ -16,3 +16,18 @@ other = "Read more"
 
 [search_results]
 other = "Results"
+
+[dicas]
+other = "Tips & tricks"
+
+[artigos]
+other = "Articles"
+
+[boaspracticas]
+other = "Best practices"
+
+[historias]
+other = "Stories"
+
+[noticias]
+other = "News"

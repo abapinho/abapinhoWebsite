@@ -13,3 +13,18 @@ other = "Ler o resto do artigo"
 
 [search_results]
 other = "Resultados"
+
+[dicas]
+other = "Dicas"
+
+[artigos]
+other = "Artigos"
+
+[boaspracticas]
+other = "Boas prácticas"
+
+[historias]
+other = "Histórias"
+
+[noticias]
+other = "Notícias"

@@ -32,52 +32,52 @@ tabWidth = 2
 
 [languages.pt.menu]
 [[languages.pt.menu.categories]]
-name = "Dicas"
+name = "dicas"
 url = "/categories/dicas/"
 weight = 10
 
 [[languages.pt.menu.categories]]
-name = "Artigos"
+name = "artigos"
 url = "/categories/artigos/"
 weight = 20
 
 [[languages.pt.menu.categories]]
-name = "Boas prácticas"
+name = "boaspracticas"
 url = "/categories/boaspracticas/"
 weight = 30
 
 [[languages.pt.menu.categories]]
-name = "Histórias"
+name = "historias"
 url = "/categories/historias/"
 weight = 40
 
 [[languages.pt.menu.categories]]
-name = "Notícias"
+name = "noticias"
 url = "/categories/noticias/"
 weight = 50
 
 [languages.en.menu]
 [[languages.en.menu.categories]]
-name = "Tips & Tricks"
-url = "/categories/dicas/"
+name = "dicas"
+url = "/en/categories/dicas/"
 weight = 10
 
 [[languages.en.menu.categories]]
-name = "Articles"
-url = "/categories/artigos/"
+name = "artigos"
+url = "/en/categories/artigos/"
 weight = 20
 
 [[languages.en.menu.categories]]
-name = "Best practices"
-url = "/categories/boaspracticas/"
+name = "boaspracticas"
+url = "/en/categories/boaspracticas/"
 weight = 30
 
 [[languages.en.menu.categories]]
-name = "Stories"
-url = "/categories/historias/"
+name = "historias"
+url = "/en/categories/historias/"
 weight = 40
 
 [[languages.en.menu.categories]]
-name = "News"
-url = "/categories/noticias/"
+name = "noticias"
+url = "/en/categories/noticias/"
 weight = 50

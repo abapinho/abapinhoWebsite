@@ -1,6 +1,6 @@
 {{- define "pagetitle" -}}
   <div id='qa-menu'>
-    <div class="pagetitle">{{ i18n "categories" 1 }} &gt;&nbsp;{{- with . -}}{{ humanize .Title }} {{- end -}}</div>
+    <div class="pagetitle">{{ i18n "categories" 1 }} &gt;&nbsp;{{- with . -}}{{ i18n .Title }} {{- end -}}</div>
   </div>
 {{- end -}}
 {{- define "main" -}}
