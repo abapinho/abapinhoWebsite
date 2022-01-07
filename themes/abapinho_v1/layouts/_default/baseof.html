@@ -13,9 +13,10 @@
     </div>
     <div id="sidebar">{{ partial "sidebar.html" . }}</div>
     <hr />
-    <div id="footer">&nbsp;</div>
+    <div id="footer">&nbsp;Algolia</div>
   </div>
   {{ block "footerfiles" . -}}
   {{- end -}}
+  {{ partial "footer-algolia.html" . }}
 </body>
 </html>

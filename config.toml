@@ -16,7 +16,7 @@ description = "ABAP em português"
 keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
 
 [outputs]
-home = [ "HTML", "JSON",]
+home = [ "HTML",]
 
 [languages.pt]
 languageName = "Português"
