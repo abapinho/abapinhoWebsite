@@ -214,6 +214,7 @@ a:hover {
 	border-width: 1px;
 	border-color: #6289ae;
 	background-color: #e0e7ed;
+	min-height: 185px;
 }
 
 .post .post_frame .post_date {
