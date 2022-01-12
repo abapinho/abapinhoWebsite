@@ -31,3 +31,6 @@ other = "Stories"
 
 [noticias]
 other = "News"
+
+[projectos]
+other = "Projects"
