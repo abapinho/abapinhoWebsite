@@ -22,8 +22,3 @@ repos:
   rev: v1.0.5
   hooks:
   - id: csslint
-
-#- repo: https://gitlab.com/devopshq/gitlab-ci-linter
-#  rev: v1.0.0
-#  hooks:
-#  - id: gitlab-ci-linter
