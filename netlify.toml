@@ -16,4 +16,11 @@ branches = [ "*",]
 
 [build]
 publish = "public"
-command = "hugo"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.91.2"
+HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.91.2"
