@@ -21,6 +21,8 @@ command = "hugo --gc --minify"
 [context.production.environment]
 HUGO_VERSION = "0.91.2"
 HUGO_ENV = "production"
+GIT_LFS_ENABLED = "true"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.91.2"
+GIT_LFS_ENABLED = "true"
