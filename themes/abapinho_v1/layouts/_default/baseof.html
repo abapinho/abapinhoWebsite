@@ -6,6 +6,7 @@
 <body>
   <div id="page">
     {{ partial "header.html" }}
+    {{ partial "search.html" }}
     <div id="content" class="narrowcolumn">
       {{- block "pagetitle" . -}}{{- end -}}
       {{ partial "sponsor.html" }}
@@ -13,10 +14,9 @@
     </div>
     <div id="sidebar">{{ partial "sidebar.html" . }}</div>
     <hr />
-    <div id="footer">&nbsp;Algolia</div>
+    <div id="footer">&nbsp;</div>
   </div>
-  {{ block "footerfiles" . -}}
-  {{- end -}}
-  {{ partial "footer-algolia.html" . }}
+  {{ block "footerfiles" . -}} {{- end -}}
+  {{ partial "search-footer.html" . }}
 </body>
 </html>
