@@ -9,9 +9,10 @@ npm install atomic-algolia
 # 2.1. Portuguese
 export ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_PT}
 export ALGOLIA_INDEX_FILE=./public/index.json
-npm run algolia
+DEBUG=true npm run algolia
 
 # 2.2. English
-export ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_EN}
-export ALGOLIA_INDEX_FILE=./public/en/index.json
-npm run algolia
+#export ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_EN}
+#export ALGOLIA_INDEX_FILE=./public/en/index.json
+#npm run algolia
+
