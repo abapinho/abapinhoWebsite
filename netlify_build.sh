@@ -7,11 +7,11 @@ hugo --gc --minify
 npm install atomic-algolia
 
 # 2.1. Portuguese
-ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_PT}
-ALGOLIA_INDEX_FILE=./public/index.json
+export ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_PT}
+export ALGOLIA_INDEX_FILE=./public/index.json
 npm run algolia
 
 # 2.2. English
-ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_EN}
-ALGOLIA_INDEX_FILE=./public/en/index.json
+export ALGOLIA_INDEX_NAME=${ALGOLIA_INDEX_NAME_EN}
+export ALGOLIA_INDEX_FILE=./public/en/index.json
 npm run algolia
