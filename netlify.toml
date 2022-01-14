@@ -8,8 +8,6 @@ force = false
 path = ":path"
 [redirects.conditions]
 Language = [ "en",]
-[[plugins]]
-package = "@algolia/netlify-plugin-crawler"
 
 [plugins.inputs]
 branches = [ "*",]
