@@ -9,9 +9,6 @@ path = ":path"
 [redirects.conditions]
 Language = [ "en",]
 
-[plugins.inputs]
-branches = [ "*",]
-
 [build]
 publish = "public"
 command = "./netlify_build.sh"
