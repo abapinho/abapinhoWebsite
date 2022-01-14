@@ -16,7 +16,7 @@ branches = [ "*",]
 
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "./netlify_build.sh"
 
 [context.production.environment]
 HUGO_VERSION = "0.91.2"
