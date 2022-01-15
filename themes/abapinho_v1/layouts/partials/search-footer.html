@@ -1,11 +1,19 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: 'SSX0RY4V3W',
-    apiKey: 'a960586b7b29186de59160f10cb9e1da',
-    siteId: '97b54fcd-ab3f-4d87-b9d0-d3bf355363c6',
-    branch: 'main',
-    selector: 'div#search',
+<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+<script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js"></script>
+<script>
+  var client = algoliasearch('K04O5TBOWN', '54d00ee8777de43e18248a3ddd535ed7');
+  var index = client.initIndex('abapinho.com-{{ .Page.Language | upper }}');
+  autocomplete('#search-input', { hint: false }, [
+    {
+      source: autocomplete.sources.hits(index, { hitsPerPage: 10 }),
+      displayKey: 'title',
+      templates: {
+        suggestion: function(suggestion) {
+          return suggestion._highlightResult.title.value;
+        }
+      }
+    }
+  ]).on('autocomplete:selected', function(event, suggestion, dataset) {
+    window.location.href = suggestion.permalink;
   });
 </script>
