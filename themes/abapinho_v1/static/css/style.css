@@ -718,3 +718,22 @@ ul.boaspracticas {
 .boaspracticas a.boapractica:hover  {
 	color: #06c;
 }
+
+.algolia-autocomplete .aa-dropdown-menu {
+	min-width: 500px;
+	background-color: #fff;
+	border: 1px solid #999;
+	border-top: none;
+}
+.algolia-autocomplete .aa-dropdown-menu .aa-suggestion {
+	cursor: pointer;
+	padding: 5px 4px;
+}
+.algolia-autocomplete .aa-dropdown-menu .aa-suggestion.aa-cursor {
+	background-color: #B2D7FF;
+}
+.algolia-autocomplete .aa-dropdown-menu .aa-suggestion em {
+	font-weight: bold;
+	font-style: normal;
+}
+.form-control {max-width: 100px;}
