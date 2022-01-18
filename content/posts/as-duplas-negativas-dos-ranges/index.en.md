@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'NOT IN RANGE'
+keywords: ['NOT IN RANGE']
 description: 'As duplas negativas de um RANGE são confusas. Que valor devolve o NOT IN range quando esse RANGE está vazio? TRUE como é lógico? Ou FALSE como é óbvio?'
 ---
 RANGEs have interesting properties.

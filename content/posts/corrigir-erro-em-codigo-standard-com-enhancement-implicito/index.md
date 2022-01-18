@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'enhancement'
+keywords: ['enhancement']
 ---
 Descobriste um bug num FORM (ou Função ou método) standard:
 

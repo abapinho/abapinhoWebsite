@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'Sérgio Fraga'
+keywords: ['Sérgio Fraga']
 ---
 O meu querido amigo Sérgio Fraga faleceu.
 

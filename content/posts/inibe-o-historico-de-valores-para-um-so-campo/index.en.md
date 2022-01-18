@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'value history'
+keywords: ['value history']
 ---
 SapGUI usually keeps a history of the last values entered on each field. This is usually a good thing. But you may very well not want it to happen (in case you're entering pornographic values in a specific field for example). You could always turn it off globally in the SapGUI settings.
 

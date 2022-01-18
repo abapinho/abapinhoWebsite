@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'editar objectos standard'
+keywords: ['editar objectos standard']
 description: 'Aprende como podes editar um objecto standard sem teres de pedir a chave de acesso. Ainda por cima é fácil de fazer. Espero que nunca apliques o que aqui vais aprender.'
 ---
 Estamos perante mais um daquelas dilemas: esconder porque é perigoso e alguém pode fazer o mal usando esta informação ou ensinar porque não o fazer é paternalista porque presume que os leitores não são responsáveis. O regimes de ditadura costumam optar pela primeira: queimam livros e censuram. O Abapinho gosta de acreditar que os seus leitores são pessoas responsáveis que merecem ter acesso ao conhecimento.

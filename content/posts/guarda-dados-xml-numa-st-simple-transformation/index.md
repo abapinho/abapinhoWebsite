@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'xml simple transformation'
+keywords: ['xml simple transformation']
 description: 'Como guardar dados XML numa Simple Transformation. Uma alternativa interessante para guardar dados estáticos que não recorre à base de dados.'
 ---
 No outro dia estava a aprender sobre ST (Simple Transformations) e lembrei-me que, ainda que tenha sido desenvolvida para transformar dados, é uma forma práctica de guardar dados XML.

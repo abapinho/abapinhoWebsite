@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'fechar parêntesis automaticamente'
+keywords: ['fechar parêntesis automaticamente']
 description: 'Configura o teu SAPGui para o editor de código começar a fechar automaticamente os parêntesis e pelicas e aspas que abres.'
 ---
 Estas no editor. Introduzes um ( ou [ ou { ou ' e o SAP é mongo e não o fecha certo?

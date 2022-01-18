@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'lookup sem excepção'
+keywords: ['lookup sem excepção']
 description: 'Como fazer lookup a uma tabela interna de forma elegante, numa única linha, e sem ter de tratar a excepção CX_SY_ITAB_LINE_NOT_FOUND.'
 ---
 Antes do 7.40 ter modernizado o ABAP, um lookup a uma tabela obrigava a declarar uma variável auxiliar e a pelo menos 4 linhas de código.

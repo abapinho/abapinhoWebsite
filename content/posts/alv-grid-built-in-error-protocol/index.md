@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'ALV Grid error protocol'
+keywords: ['ALV Grid error protocol']
 description: 'A ALV Grid tem a sua própria gestão de erros e esta pode ser usada por nós para fazer a validação dos dados inseridos pelo utilizador.{:en}A '
 ---
 A lei do menor esforço, esse grande axioma da Humanidade, tem, no mundo da programação, a particularidade de, em muitos casos, acabar por ser simplesmente a lei do esforço adiado. Porque é muito provável que algo que tenha sido desenvolvido de acordo com esta lei venha mais tarde a precisar de um grande esforço extra. Seja dos utilizadores que vão utilizar esse algo ou dos programadores que mais tarde terão de o manter.

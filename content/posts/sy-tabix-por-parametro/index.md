@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'sy-tabix por parâmetro'
+keywords: ['sy-tabix por parâmetro']
 description: 'Ao passar o SY-TABIX por parâmetro o valor parecia mudar. Muito estranho. Primeiro era 1 e depois já era 0. Mas finalmente percebi o que se passava.'
 ---
 No outro dia aconteceu-me uma coisa muito estranha. Estava eu a passar o SY-TABIX como parâmetro para dentro de um método quando reparei que cá fora era 1 mas quando lá chegava dentro era 0.

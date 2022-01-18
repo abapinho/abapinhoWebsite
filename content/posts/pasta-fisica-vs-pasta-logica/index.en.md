@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'pastas lógicas'
+keywords: ['pastas lógicas']
 description: 'Como usar pastas lógicas em vez de pastas físicas para evitar ter de alterar o programa caso um dia alguém decida alterar a localização da pasta.'
 ---
 If in your report called APP1 you need to save a file in a server folder (ex.: /export/app1/) and you don't want it to be a selection screen parameter, how do you do it?

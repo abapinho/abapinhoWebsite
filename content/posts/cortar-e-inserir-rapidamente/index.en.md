@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'quick copy paste'
+keywords: ['quick copy paste']
 description: 'Uma opção pouco conhecida do SAPGui que permite acelerar o corte&costura de texto, guardando de imediato no Clipboard qualquer texto seleccionado.'
 ---
 I learned yet another small obscure SAPGui functionality. How to speed up copy and paste.

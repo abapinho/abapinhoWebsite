@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'checkpoint groups'
+keywords: ['checkpoint groups']
 ---
 Checkpoints is a very powerful ABAP framework which almost nobody uses. Why? Probably for the same reason hardly anyone listens to [Sun Ra][1] and knows that [Frank Zappa][2] has 102 albums. Because, even though really good, it’s obscure and not commercial. Checkpoints are, indeed, really good and not commercial. But they should be more like Mozart and the Beach Boys which are both good and commercial.
 

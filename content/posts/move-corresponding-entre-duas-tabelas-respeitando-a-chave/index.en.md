@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'CORRESPONDING de tabelas'
+keywords: ['CORRESPONDING de tabelas']
 description: 'Como, num único comando, preencher campos extra de uma tabela interna a partir de outra usando a nova forma "look up" do CORRESPONDING.'
 ---
 Abapinho hasn't been talking a lot about 7.40 because most of the new possibilities have already been widely discussed in other sites and we don't want to reinvent the wheel.

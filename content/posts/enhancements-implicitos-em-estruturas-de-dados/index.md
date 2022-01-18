@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'enhancement em estrutura'
+keywords: ['enhancement em estrutura']
 description: 'É normal usar enhancements implícitos para adicionar código ABAP a programas standard. Mas também podemos adicionar campos a estruturas de dados.'
 ---
 Já todos usámos _enhancements_ implícitos para adicionar código ao início ou final de funções, forms ou métodos standard. Mas é menos conhecido o facto de que também podemos adicionar campos a estruturas de dados, estejam elas declaradas como TYPES ou ou directamente como DATA.

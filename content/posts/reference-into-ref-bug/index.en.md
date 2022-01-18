@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'reference into'
+keywords: ['reference into']
 description: 'Recentemente descobri um comportamento muito lamentável do seguinte comando: INSERT wa INTO itbl REFERENCE INTO ref. Passo a explicar.'
 ---
 Every day I use more reference variables in ABAP. First I used REF TO just for classes but, as I become more familiarized with its advantages, I start using them more and more for data structures, instead of field-symbols.

@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'native sql'
+keywords: ['native sql']
 ---
 Por vezes o SQL do ABAP não te permite fazer coisas que conseguirias fazer usando SQL nativo da base de dados. É possível fazê-lo.
 

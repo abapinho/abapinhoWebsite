@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'pacotes locais'
+keywords: ['pacotes locais']
 description: 'Afinal há mais para além do $TMP. Aprende aqui como criar pacotes locais para os objectos que não pretendes que sejam transportados.'
 ---
 Any object created in SAP must belong to a package.

@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'gui status standard'
+keywords: ['gui status standard']
 description: 'Aprender aqui como podes usar o GUI Status Standard numa ALV sem teres de o andar a copiar de outro programa standard qualquer.'
 ---
 When you want to use CL_GUI_ALV_GRID in a CONTAINER you must copy a standard Status GUI from another program. For example, the GUI Status "STANDARD" of the function group SALV. And then, in the screen's PAI you do:

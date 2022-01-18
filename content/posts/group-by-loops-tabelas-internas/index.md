@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'group by'
+keywords: ['group by']
 ---
 Todos já ordenamos tabelas internas e utilizamos a instrução AT NEW.
 Mas a partir da 7.40, podemos utilizar GROUP BY no LOOP.

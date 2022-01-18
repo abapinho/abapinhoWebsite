@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'controla ecra seleccao'
+keywords: ['controla ecra seleccao']
 ---
 The PARAMETERS and SELECT-OPTIONS already have some configuration options. But sometimes you need more control, more customising. Interestingly, although it's not simple nor obvious, it can be done through a standard function module.
 

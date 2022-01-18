@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'comentários'
+keywords: ['comentários']
 description: 'O código ABAP normalmente tem comentários a mais ou a menos. Neste artigo explico a regra que uso para decidir quando usar comentários.'
 ---
 Na escola aprende-se que o código deve ter sempre comentários. Depois, na vida real, descobrimos que nem toda a gente prestou atenção na escola.

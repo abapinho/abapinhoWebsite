@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'Esconder parâmetro'
+keywords: ['Esconder parâmetro']
 description: 'Como esconder dos utilizadores um parâmetro no ecrã de selecção e mesmo assim ter acesso a ele através de uma palavra mágica.'
 ---
 Aqui está uma forma pouco ortodoxa de lidar com o ecrã de selecção de um programa.

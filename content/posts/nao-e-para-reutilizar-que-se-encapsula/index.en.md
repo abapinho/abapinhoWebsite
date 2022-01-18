@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'encapsular'
+keywords: ['encapsular']
 description: 'A ideia de que a principal razão para encapsular código é poder reutilizá-lo é um dos maiores mal entendidos da história do nosso planeta.'
 ---
 Since 1998, I hear some ABAPer colleagues saying that it's not worth encapsulating a particular piece of code in a function or method because it will never be reused again. And then they go to SE38 and create yet another report full of includes.

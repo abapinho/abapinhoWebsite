@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'código mal cheiroso'
+keywords: ['código mal cheiroso']
 description: 'É frequente ao programar sentir um cheiro desagradável. Inicialmente não consigo identificá-lo. À medida que vou cheirando vou percebendo de onde vem.'
 ---
 It happens very often that, while programming, I smell something strange. It's usually hard to identify it right away. It usually starts like a faint fragrance. But, as I become more aware of it, eventually it starts stinking and I understand where it comes from. Even then it is not immediately clear why that particular thing smells bad.

@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'ALV Grid error protocol'
+keywords: ['ALV Grid error protocol']
 description: 'A ALV Grid tem a sua própria gestão de erros e esta pode ser usada por nós para fazer a validação dos dados inseridos pelo utilizador.{:en}A '
 ---
 We're all lazy. It's just human. Programmers are human. We're often lazy when it comes to the way we program something. And usually being lazy when making a program will result in someone else having more work when maintaining it.

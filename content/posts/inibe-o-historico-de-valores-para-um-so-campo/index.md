@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'value history'
+keywords: ['value history']
 ---
 Normalmente o SapGUI memoriza os últimos valores introduzidos em cada campo. E isso costuma ser bom. Mas podes muito bem não querer que isto aconteça. (ex: no caso, improvável eu sei, de quereres introduzir valores pornográficos num determinado campo). Uma hipótese é desligar globalmente esta funcionalidade nas configurações do SapGUI.
 

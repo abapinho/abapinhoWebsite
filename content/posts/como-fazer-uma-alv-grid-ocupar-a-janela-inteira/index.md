@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'redimensionar ALV grid[:en]resize ALV grid'
+keywords: ['redimensionar ALV grid[:en]resize ALV grid']
 description: 'Às vezes é nas coisas mais básicas que se perde mais tempo. Por exemplo, recentemente foi preciso esticar uma ALV grid para ocupar o ecrã inteiro. Mas como? Mas como? Mas como?'
 ---
 Às vezes é nas coisas mais básicas que se perde mais tempo. Por exemplo, recentemente foi preciso que uma ALV grid ocupasse automaticamente a janela inteira. Mas como? Mas como? Mas como?

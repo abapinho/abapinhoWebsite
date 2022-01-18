@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'dummy function module'
+keywords: ['dummy function module']
 description: 'Cria funções manequins locais com o mesmo nome de funções chamadas por RFC noutros sistemas SAP.'
 ---
 I recently started working in a new customer and noticed something they do here which I really liked. Whenever they need to call a remote function module by RFC in another SAP system, they create a local function module with the same name and leave it empty, except for a comment explaining that it is a dummy function for that remote function call.

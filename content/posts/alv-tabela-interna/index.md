@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'tabela interna alv debug'
+keywords: ['tabela interna alv debug']
 description: 'Como ver o conteúdo de uma tabela interna numa ALV durante o debug para poder filtrar, ordenar e manipular o seu conteúdo de forma mais práctica.'
 ---
 Não sei há quanto tempo é que isto está disponível mas só agora descobri que é muito fácil ver numa ALV o conteúdo de uma tabela interna durante debug.

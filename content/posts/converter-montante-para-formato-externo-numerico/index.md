@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'montantes formato externo'
+keywords: ['montantes formato externo']
 description: 'Como converter um montante do formato interno para o formato interno atribuindo o resultado a uma variável de tipo numérico.'
 ---
 Como é conhecido, o SAP guarda internamente os montantes e variáveis com 2 casas decimais. Quando queremos convertê-los no formato externo costumamos usar o WRITE com a opção CURRENCY. Mas o WRITE escreve numa variável alfa-numérica. E se quisermos escrever numa variável numérica?

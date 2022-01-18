@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'fechar parêntesis automaticamente'
+keywords: ['fechar parêntesis automaticamente']
 description: 'Configura o teu SAPGui para o editor de código começar a fechar automaticamente os parêntesis e pelicas e aspas que abres.'
 ---
 You're in the editor. You type ( or [ or { or ' and SAP is dumb and doesn't close it right away like a proper IDE would.

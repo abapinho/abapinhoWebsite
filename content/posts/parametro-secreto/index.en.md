@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'Esconder parâmetro'
+keywords: ['Esconder parâmetro']
 description: 'Como esconder dos utilizadores um parâmetro no ecrã de selecção e mesmo assim ter acesso a ele através de uma palavra mágica.'
 ---
 Here's a not very orthodox wat to deal with a report's selection screen.

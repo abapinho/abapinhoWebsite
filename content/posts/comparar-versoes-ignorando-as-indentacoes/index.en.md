@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'comparar versões ignorando indentação'
+keywords: ['comparar versões ignorando indentação']
 description: 'Quando se comparar versões por vezes aparecem diferenças que são alterações na indentação do código. Torna tudo confuso. Mas há solução.'
 ---
 Sometimes, when comparing versions, several differences show up even when we did not make changes to the code. These differences may simply be a consequence of a Pretty Printer that altered code indentations. This makes comparing the versions confusing.

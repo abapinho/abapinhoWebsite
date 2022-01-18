@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'transacção faz call transaction'
+keywords: ['transacção faz call transaction']
 description: 'Ensina-se aqui uma forma airosa, ainda que bizarra, para conseguir que uma transacção A chame uma transacção B mesmo quando não se tem acesso a ela.'
 ---
 O Manelinho criou a transacção ZFB01 associada ao programa ZFB01 que faz lá umas coisas e depois faz CALL TRANSACTION à FB01. A seguir veio o Joãozinho e correu a transacção ZFB01.

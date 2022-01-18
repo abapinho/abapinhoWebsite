@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'injectar comandos ABAP'
+keywords: ['injectar comandos ABAP']
 ---
 O vídeo abaixo demonstra como é simples criar condições para facilmente injectar comandos ABAP em programas em produtivo.
 

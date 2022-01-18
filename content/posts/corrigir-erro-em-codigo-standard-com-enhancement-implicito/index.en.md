@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'enhancement'
+keywords: ['enhancement']
 ---
 You just found a bug in a standard FORM (or FM or METHDO):
 

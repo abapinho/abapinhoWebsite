@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'obsidian'
+keywords: ['obsidian']
 description: 'Parece que desta vez vou mesmo conseguir livrar-me do Evernote. O Obsidian parece fazer tudo o que preciso.'
 ---
 After 10 years using Evernote, this year I finally started looking for better alternatives. At first Evernote was great. But it never evolved and the world moved on. So many new concepts have appeared: [jardins digitais][1], [backlinks][2], [Zettelkasten][3], [Evergreen notes][4], [MOCs][5], etc. And Evernote is still the same, forcing you to be a [note taker instead of a note maker][6].

@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'duplicate'
+keywords: ['duplicate']
 ---
 Quando tentas inserir um registo numa tabela que já tenha outro registo com a mesma chave primária o programa faz _dump_. O que em alguns casos é uma chatice porque, mesmo que te estejas nas tintas, te obriga a verificar antecipadamente se aqueles chaves já existem na tabela.
 

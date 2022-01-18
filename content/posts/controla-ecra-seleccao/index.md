@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'controla ecra seleccao'
+keywords: ['controla ecra seleccao']
 ---
 Os PARAMETERS e os SELECT-OPTIONS até têm algumas opções de configuração. Mas muitas vezes dava jeito conseguir configurá-los ainda mais. E curiosamente, ainda que não seja assim tão simples, é possível fazê-lo, através de uma função standard.
 
