@@ -8,7 +8,7 @@ wordpressId: 2259
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You’ve screwed up the productive system. You made a change to a method of a class (or to a function, whatever). Someone else makes another change to another method of the same class (or to another function of the same group of functions, whatever) and saves it to a different transport. When you transport your changes to the productive system, you discover that the class (or function, whatever) now has a syntax error because the changes had interdependencies. You also discover that now, until you get this problem resolved, all your functional co-workers hate you.
 

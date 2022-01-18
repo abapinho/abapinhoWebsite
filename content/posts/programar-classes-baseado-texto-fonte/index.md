@@ -8,7 +8,7 @@ wordpressId: 3550
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Estando habituado a programar em Java e C++, a forma como a SE24 obriga a navegar entre as várias partes de uma classe e o facto de cada método estar isolado no seu próprio include ao início fez-me muita confusão. Mas porque é que a SAP complica sempre tudo? Acabei por habituar-me.
 

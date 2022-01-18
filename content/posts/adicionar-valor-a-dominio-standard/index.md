@@ -8,7 +8,7 @@ wordpressId: 2523
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se julgas que não é possível acrescentar valores a um domínio SAP standard sem pedir uma chave de activação, estás enganado.
 

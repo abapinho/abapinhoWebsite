@@ -8,7 +8,7 @@ wordpressId: 2473
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 This tip is simple and quick, but I bet 200.482 Portuguese escudos that few know it.
 

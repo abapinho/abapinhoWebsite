@@ -8,7 +8,7 @@ wordpressId: 2559
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 ABAP is getting smarter all the time. Back in my day, no one did anything with it. And now, slowly, more than a fifth of a century late, it’s trying to imitate C and Java, and becoming more flexible.
 

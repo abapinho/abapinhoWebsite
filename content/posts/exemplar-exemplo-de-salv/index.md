@@ -8,7 +8,7 @@ wordpressId: 2593
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A não ser que queiras fazer edição dos dados, a única forma digna de usar ALVs nos dias que correm é através das classes SALV. São mais modernas, mais elegantes e permitem a quem as usa alcançar um estatuto social até aqui apenas ao alcance daqueles que são donos de uma [matrícula de carro][1].
 

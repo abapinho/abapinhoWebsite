@@ -8,7 +8,7 @@ wordpressId: 1652
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Textos standard toda a gente usa. Mas sabias que os textos standard podem ter campos dinâmicos lá pelo meio? A SAP chama-lhes "símbolos de texto". A forma de o conseguir é igual à dos velhos formulários da nefasta SE71, ou seja, envolvendo-os com o símbolo &. Assim: &KNA1-NAME1;&. Dá um jeitão. Vou mostrar-te como se faz.
 

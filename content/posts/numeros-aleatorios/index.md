@@ -8,7 +8,7 @@ wordpressId: 1848
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Os programas ABAP são todos demasiado bem comportados; demasiado previsíveis.
 

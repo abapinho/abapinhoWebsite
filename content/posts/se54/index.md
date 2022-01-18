@@ -8,7 +8,7 @@ wordpressId: 2071
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há alguns projectos em que o grupo de autorizações associados à manutenção de tabelas é sempre &NC;&, ou seja, &N;ão cuidado&. É sinal de que lá é tudo amigo e ninguém faz mal a ninguém. Mas há outros projectos em que os grupos de autorização são levados a sério. O que não é sinónimo de dizer que estão organizados. A sério ou não, o normal é acabar tudo uma grande salgalhada onde ninguém sabe quem é que está autorizado a fazer o quê.
 

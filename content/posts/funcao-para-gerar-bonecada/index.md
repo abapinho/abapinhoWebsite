@@ -8,7 +8,7 @@ wordpressId: 2460
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Bonecada fica sempre bem num relatório. Num SAPGui que é um tédio azulado, quanto mais cores e bonecos melhor. O Luís Rocha mostrou-me uma função muito conveniente para atafulhar um relatório com ícones.
 

@@ -8,7 +8,7 @@ wordpressId: 2918
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 To indent a block of lines do the following:
 

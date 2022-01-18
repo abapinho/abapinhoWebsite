@@ -8,7 +8,7 @@ wordpressId: 2392
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 As expressões regulares já existem há que tempos. Mas ainda são muito pouco conhecidas e ainda menos usadas. São uma espécie de linguagem descritiva que permite efectuar pesquisas e substituições muito sofisticadas em cadeias alfa-numéricas.
 

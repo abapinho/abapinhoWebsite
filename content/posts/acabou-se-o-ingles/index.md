@@ -8,7 +8,7 @@ wordpressId: 3142
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 É com pena que vos digo que não será possível ao Abapinho continuar a publicar também em inglês. Peço desculpa aos leitores que não sabem português.
 

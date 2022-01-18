@@ -8,7 +8,7 @@ wordpressId: 3525
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Embora uma parte substancial do trabalho de um ABAPador seja depurar código, a maior parte dos ABAPadores que eu conheço investem muito pouco em explorar a ferramenta que o permite, o depurador. Talvez por terem passado anos a aturar um depurador arcaico e limitado. Mas o novo pode fazer muito mais do que lhe costuma ser pedido. E o Abapinho vai tentar ensinar como.
 

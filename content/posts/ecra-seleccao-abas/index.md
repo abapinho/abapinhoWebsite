@@ -8,7 +8,7 @@ wordpressId: 1335
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Os ecrãs de selecção dos programas ABAP têm várias funcionalidades que, embora sofisticadas e simples de usar, são geralmente ignoradas. Aqui mostrar-te-ei quão simples é criar abas para melhor organizar os parâmetros de um programa. Desta vez, excepcionalmente, vou poupar-te à verborreia. É uma aula prática.
 

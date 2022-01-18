@@ -8,7 +8,7 @@ wordpressId: 1625
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Wherever you use the data element KUNNR, its descriptions is “Client”. And what if we wanted to change this field description from "Client" to "Customer"? “Customer" is so much nicer! Or let's suppose that the company you work for is trafficking in drugs and tells you that they want "Dealer" rather than “Supplier” to appear in the LIFNR field. Obviously we can label it as we wish on screens and Z reports but what about standard transactions?
 

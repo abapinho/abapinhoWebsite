@@ -8,7 +8,9 @@ wordpressId: 3684
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'sy-tabix por parâmetro'
+description: 'Ao passar o SY-TABIX por parâmetro o valor parecia mudar. Muito estranho. Primeiro era 1 e depois já era 0. Mas finalmente percebi o que se passava.'
 ---
 The other day a very strange thing happened to me. I was sending SY-TABIX as a parameter into a method. Before the call it contained 1 but, once inside, the parameter's value was 0. Weird.
 

@@ -8,7 +8,7 @@ wordpressId: 2610
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quantas vezes te aconteceu ficar com uma janela "pendurada" quando terminas um debug?
 

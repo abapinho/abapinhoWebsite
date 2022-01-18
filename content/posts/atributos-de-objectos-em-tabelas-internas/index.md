@@ -8,7 +8,7 @@ wordpressId: 1551
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há cada vez mais objectos em ABAP, cada vez menos medo deles e, vê só!, cada vez mais gente a escrevê-los e a usá-los. Ora, se começam a aparecer objectos por todo o lado, é normal e desejável que comecem a enfiá-los também dentro de tabelas internas. Também eu guardei há uns tempos um monte de objectos dentro de tabelas mas infelizmente na altura não sabia disto que vou ensinar aqui. Tinha-me dado jeito.
 

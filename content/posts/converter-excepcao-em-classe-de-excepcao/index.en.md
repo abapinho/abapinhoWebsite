@@ -8,7 +8,7 @@ wordpressId: 3104
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If you’re still not using exception classes, then you’re making a mistake. Cause they are very healthy for your code. They’re not only good nutrients for the system, they also make it lean and less vulnerable to diseases.
 

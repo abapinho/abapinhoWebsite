@@ -8,7 +8,7 @@ wordpressId: 1596
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Was SAP born miserable or are SAP-users simply unable to cheer it up?
 

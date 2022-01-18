@@ -8,7 +8,7 @@ wordpressId: 3002
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 No matter how many times things go around in ABAP, everything ends up in SE38. Even the methods of the ABAP classes are saved in includes.
 

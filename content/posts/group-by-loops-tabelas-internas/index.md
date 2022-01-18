@@ -8,7 +8,8 @@ wordpressId: 3497
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'group by'
 ---
 Todos já ordenamos tabelas internas e utilizamos a instrução AT NEW.
 Mas a partir da 7.40, podemos utilizar GROUP BY no LOOP.

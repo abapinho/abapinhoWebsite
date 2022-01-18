@@ -8,7 +8,7 @@ wordpressId: 995
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Volta não volta aparece um cliente que pede a um funcional que pede a um programador que crie um parâmetro protegido contra escrita no ecrã de selecção de um programa. É um bocado cretino visto que a ideia dos parâmetros é serem parametrizáveis.
 

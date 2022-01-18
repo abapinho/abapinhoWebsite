@@ -8,7 +8,7 @@ wordpressId: 2715
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Historically ABAP programs tend to grow very loooong. All programming best practices teach us there is not a single advantage in this approach.
 If any routine, be it a program, a method, a function or anything else, becomes longer than 200-300 lines, question it and seriously consider refactoring it into several sub-routines.

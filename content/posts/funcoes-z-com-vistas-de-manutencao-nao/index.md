@@ -8,7 +8,7 @@ wordpressId: 2351
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A dica de hoje não é uma dica. É um conselho.
 

@@ -8,7 +8,7 @@ wordpressId: 648
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sabes aquelas barras de progresso que vão indicando quanto falta para terminar um processo? Aquelas que às vezes quando chegam ao fim voltam ao princípio e te deixam frustrado e baralhado sem entender para que servem afinal? Eis como as podes usar num programa ABAP.
 

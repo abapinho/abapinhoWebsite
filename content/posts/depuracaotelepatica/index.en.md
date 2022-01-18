@@ -8,7 +8,7 @@ wordpressId: 505
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagine o seguinte cenário: um utilizador (ou utilizadora) está sentado no escritório dele, a correr uma transacção ou não sei o quê. Tem um problema e chama um programador (ou programadora) para o (ou a) ajudar a entender o que se passa. Normalmente o programador (ou programadora) teria de se deslocar lá, à sala do senhor utilizador (ou senhora utilizadora) e das duas uma: fazer debug no computador dele (ou dela) ou aprender como recriar o problema e depois fazer debug no seu computador.
 

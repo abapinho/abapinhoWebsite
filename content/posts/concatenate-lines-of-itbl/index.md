@@ -8,7 +8,7 @@ wordpressId: 3222
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se queres serializar um conjunto de _strings_ que tens guardadas numa tabela interna tens duas formas de o fazer. Uma ranhosa e outra cheia de estilo.
 

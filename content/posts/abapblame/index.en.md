@@ -8,7 +8,9 @@ wordpressId: 4337
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'abap blame'
+description: 'abapBlame é um projecto open source que tenta replicar em ABAP algum da funcionalidade da ferramenta git-blame: saber quem fez o quê e quando.'
 ---
 ABAP's versioning system is terribly bad. Besides all its faults, it doesn't provide an easy way to determine who did what and when. [Git][1], which is a decent versioning tool, let's you do this through its [git-blame][2] command.
 

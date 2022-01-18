@@ -8,7 +8,8 @@ wordpressId: 4672
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+description: 'Aprende a usar 5 botões na barra de ferramentas dos ecrãs de selecção dos teus reports.'
 ---
 There's so many things you can do on the selection screen. Here's another one: five buttons in the toolbar.
 

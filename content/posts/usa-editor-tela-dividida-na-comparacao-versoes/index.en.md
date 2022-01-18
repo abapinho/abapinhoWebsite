@@ -8,7 +8,7 @@ wordpressId: 3562
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 By default, the ABAP version comparison tool is horrible. It displays both versions in a single column and, even though the differences are highlighted, it's awfully confusing.
 

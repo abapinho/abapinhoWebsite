@@ -8,7 +8,7 @@ wordpressId: 1249
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sabes apresentar, numa janela de diálogo, uma ALV com uma lista de registos permitindo escolha múltipla? Eu não sabia e agora já sei. Vou explicar como é.
 

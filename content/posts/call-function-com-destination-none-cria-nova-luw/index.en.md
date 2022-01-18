@@ -8,7 +8,7 @@ wordpressId: 3132
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 [:pt]Sabias que quando invocas uma função com a opção DESTINATION ‘NONE’ estás a iniciar uma nova LUW?
 

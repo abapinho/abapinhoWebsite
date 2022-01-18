@@ -8,7 +8,7 @@ wordpressId: 1970
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Rui Dias mostrou-me um site onde podes ver as relações que qualquer tabela standard tem com as outras.
 

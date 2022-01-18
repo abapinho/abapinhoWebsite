@@ -8,7 +8,7 @@ wordpressId: 1447
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagina que estás a fazer debug de uma transacção e entras numa função e encontras algo interessante. Tão interessante que tens de lhe fazer debug várias vezes. A via convencional é tornar a iniciar o debug da transacção desde o início. Que seca.
 

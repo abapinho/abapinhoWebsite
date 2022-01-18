@@ -8,7 +8,9 @@ wordpressId: 4093
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'extrair método'
+description: 'Primeiro de uma série de artigos sobre refactorização. Este aborda a técnica "Extrair método" que premite modularizar uma rotina complexa demais.'
 ---
 No mundo do SAP, o código ABAP onde cai é onde fica.
 
@@ -36,15 +38,15 @@ METHOD select_data.
   DATA: t_bkpf TYPE ty_t_bkpf.
   FIELD-SYMBOLS: <s_bkpf> LIKE LINE OF t_bkpf.
 
-  SELECT * FROM bkpf 
-    INTO CORRESPONDING FIELDS OF TABLE t_bkpf 
+  SELECT * FROM bkpf
+    INTO CORRESPONDING FIELDS OF TABLE t_bkpf
     WHERE belnr IN me->r_belnr.
 
   LOOP AT t_bkpf ASSIGNING <s_bkpf>.
-    SELECT SINGLE name1 
+    SELECT SINGLE name1
       INTO <s_bkpf>-name1
       FROM kna1
-      WHERE kunnr = <s_bkpf>-kunnr. 
+      WHERE kunnr = <s_bkpf>-kunnr.
   ENDLOOP.
 ENDMETHOD.
 {{< /highlight >}}
@@ -62,8 +64,8 @@ METHOD select_data.
 ENDMETHOD.
 
 METHOD select_bkpf.
-  SELECT * FROM bkpf 
-    INTO CORRESPONDING FIELDS OF TABLE rt_bkpf 
+  SELECT * FROM bkpf
+    INTO CORRESPONDING FIELDS OF TABLE rt_bkpf
     WHERE belnr IN me->r_belnr.
 ENDMETHOD.
 

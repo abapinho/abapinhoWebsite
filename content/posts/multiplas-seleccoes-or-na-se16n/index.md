@@ -8,7 +8,7 @@ wordpressId: 3156
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se tu és daquelas pessoas que ainda usa a SE16, este artigo não é para ti. Se continuares a ler corres o risco de encontrar ainda mais uma razão para finalmente passares a usar a SE16N (como se todas as outras não fossem já suficientes).
 

@@ -8,7 +8,7 @@ wordpressId: 2387
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Now, learn how to dynamically invoke a method.
 
@@ -25,16 +25,16 @@ CALL METHOD ref->(f)
 How to invoke a static method:
 
 {{< highlight ABAP >}}
-CALL METHOD class=>(f) 
+CALL METHOD class=>(f)
 CALL METHOD (c)=>method
-CALL METHOD (c)=>(f) 
+CALL METHOD (c)=>(f)
 {{< /highlight >}}
 
 And how to invoke a method of the same class:
 
 {{< highlight ABAP >}}
 CALL METHOD (f)
-CALL METHOD ME->(f) 
+CALL METHOD ME->(f)
 {{< /highlight >}}
 
 Variable f is alphanumeric and holds the name of the method.
@@ -45,8 +45,8 @@ The related instructions manual is [here][1].
 As if it weren’t enough, you can also pass through parameters dynamically, as follows:
 
 {{< highlight ABAP >}}
-CALL METHOD (class)=>(meth) 
-      PARAMETER-TABLE 
+CALL METHOD (class)=>(meth)
+      PARAMETER-TABLE
         t_param.
 {{< /highlight >}}
 

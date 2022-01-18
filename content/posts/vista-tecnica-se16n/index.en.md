@@ -8,7 +8,7 @@ wordpressId: 2811
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Hi. How've you been? How's life? All cool? This tip is so simple that if we don't talk for a while it will all end too quickly. The sun is shinning. It rained in the morning but now it stopped.
 

@@ -8,7 +8,7 @@ wordpressId: 956
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nunca te aconteceu estar a programar num programa ABAP daqueles que parecem um testamento com centenas e centenas de linhas e teres de estar sempre a saltar entre uma zona e outra do código?
 

@@ -8,7 +8,7 @@ wordpressId: 2027
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Por alguma razão misteriosa, a LISTBOX é uma funcionalidade pouco utilizada nos ecrãs de selecção do SAP. E, no entanto, na web está por todo o lado. Vá-se lá saber porquê.
 
@@ -25,7 +25,7 @@ Tão simples:
 
 {{< highlight ABAP >}}
 TABLES: kna1.
-PARAMETERS: p_land1 LIKE kna1-land1 AS LISTBOX 
+PARAMETERS: p_land1 LIKE kna1-land1 AS LISTBOX
                     VISIBLE LENGTH 25 DEFAULT 'PT' OBLIGATORY.
 {{< /highlight >}}
 

@@ -8,7 +8,7 @@ wordpressId: 1048
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Have you ever come up against something in ABAP that seems to be one thing but is in fact another? The documentation says it is this and everything seems to indicate that it is, but after all it isn’t.
 

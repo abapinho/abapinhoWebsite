@@ -8,7 +8,7 @@ wordpressId: 3232
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Para verificar se um programa está em _background_ é costume espreitar a variável de sistema SY-BATCH. A SY-BINPT também pode ser usada para verificar se o que está a correr em _background_ é uma sessão de BDC. Normalmente usa-se uma destas duas.
 
@@ -24,7 +24,7 @@ A resposta a esta peculiar pergunta pode ser dada de por este módulo de funçõ
 
 
 {{< highlight ABAP >}}
-  CALL FUNCTION 'GUI_IS_AVAILABLE' 
+  CALL FUNCTION 'GUI_IS_AVAILABLE'
    IMPORTING
      RETURN        = is_gui_available.
 {{< /highlight >}}

@@ -8,7 +8,7 @@ wordpressId: 1262
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Para tentar determinar quais as profissões com gente mais preguiçosa fiz as seguintes pesquisas no Google:
 

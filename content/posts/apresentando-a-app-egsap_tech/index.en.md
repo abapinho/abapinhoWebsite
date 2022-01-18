@@ -8,7 +8,7 @@ wordpressId: 3015
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Do you know about the EGSAP_TECH app? It's a SAP knowledge bank.
 

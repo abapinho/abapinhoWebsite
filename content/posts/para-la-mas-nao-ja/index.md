@@ -8,7 +8,7 @@ wordpressId: 2516
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Estás a fazer um LOOP AT a uma tabela com 1000 linhas e sabes que a linha que te interessa é a 853. Até há pouco tempo tinhas duas hipóteses: ou carregavas 852 vezes na tecla F8, arriscando-te a carregar 853 e teres de começar tudo de novo ou então criavas um _watchpoint_ com a condição SY-TABIX = 852 ou lá perto e rezavas para que funcionasse.
 

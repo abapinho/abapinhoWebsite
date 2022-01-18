@@ -8,7 +8,7 @@ wordpressId: 2825
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 No outro dia apareceram uma série de coisas espatifadas na nossa máquina de testes. De repente ninguém podia trabalhar na máquina. Na STMS encontrámos uma série de ordens de transporte indevidamente transportadas para lá. O utilizador que aparece associado a cada uma dessas ordens é o dono dela. Mas será que a culpa é dele? Não terá sido outra pessoa a fazer o transporte?
 

@@ -8,7 +8,7 @@ wordpressId: 3335
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 E pronto, está dada a dica. Esteve sempre debaixo do teu nariz mas provavelmente nunca pensaste nisso: é possível gravar variantes na SE16N. E até podem ser específicas por utilizador. Algo tão práctico e no entanto tão pouco conhecido.
 

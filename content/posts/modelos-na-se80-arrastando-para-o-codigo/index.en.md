@@ -8,7 +8,9 @@ wordpressId: 3659
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'Modelo por arrasto'
+description: 'Aprende como criar modelos de código arrastando métodos (e outros) com o rato directamente para o código na transacção SE80.'
 ---
 While coding, it's always good to have ways to speed up what we're doing. A good one is automatic generation of templates for function and method calls.
 

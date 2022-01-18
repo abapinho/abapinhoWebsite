@@ -8,7 +8,9 @@ wordpressId: 4171
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'código mal cheiroso'
+description: 'É frequente ao programar sentir um cheiro desagradável. Inicialmente não consigo identificá-lo. À medida que vou cheirando vou percebendo de onde vem.'
 ---
 É frequente ao programar começar a sentir um cheiro desagradável. Normalmente não consigo logo identificar o que é. Sinto apenas uma leve mas incómoda fragrância. À medida que vou cheirando com mais propósito vou conseguindo perceber de onde vem. Mas mesmo nessa altura, muitas vezes ainda não me é perfeitamente claro porque é que aquele cheiro dali vem.
 

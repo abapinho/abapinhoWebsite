@@ -8,7 +8,8 @@ wordpressId: 4252
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'atalho para gravar ficheiro local'
 ---
 O SAP está replecto de recantos refundidos e rebuscados raramente reconhecidos que o Abapinho se regozija por revelar.
 

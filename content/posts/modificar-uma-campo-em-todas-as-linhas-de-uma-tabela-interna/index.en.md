@@ -8,7 +8,7 @@ wordpressId: 3209
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 What I’m about to show you is not exactly new. It [has even been used][1] in Abapinho before. But since there is still a lot of people out there using LOOP to change a single field of an internal table, I thought it would be worth talking about it.
 

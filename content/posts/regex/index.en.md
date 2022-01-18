@@ -8,7 +8,7 @@ wordpressId: 2392
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Regularly expressions have been around for ages. But they’re not very well known and even less used. They are a sort of descriptive language that allows for making research and very sophisticated replacements in alpha-numeric chains.
 

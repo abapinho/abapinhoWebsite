@@ -8,7 +8,7 @@ wordpressId: 3162
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Get ready because you'll soon be running into a lot of surprises. ABAP is learning new tricks. Look at this one:
 
@@ -20,7 +20,7 @@ CONSTANTS:
   lc_senhor TYPE STRING VALUE ’GENTLEMAN’,
   lc_senhora TYPE STRING VALUE ‘LADY’.
 
-SELECT nome,  
+SELECT nome,
  CASE
    WHEN sexo_id = ‘M' AND idade < 18 THEN @lc_menino
    WHEN sexo_id = ‘F’ AND idade < 18 THEN @lc_menina

@@ -8,7 +8,7 @@ wordpressId: 3369
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Uma das coisas que distingue o homem dos restantes animais é o facto de ser capaz de pensar o pensamento.
 
@@ -26,9 +26,9 @@ Um deles usa a função `RS_TOOL_ACCESS` que permite aceder programaticamente a 
 {{< highlight ABAP >}}
 CALL FUNCTION 'RS_TOOL_ACCESS'
   EXPORTING
-    operation           = 'SHOW' 
-    object_name         = 'CL_GUI_FRONTEND_SERVICES' 
-    object_type         = 'CLAS' 
+    operation           = 'SHOW'
+    object_name         = 'CL_GUI_FRONTEND_SERVICES'
+    object_type         = 'CLAS'
     position            = 0
   EXCEPTIONS
     not_executed        = 01

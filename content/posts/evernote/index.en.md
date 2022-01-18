@@ -8,7 +8,7 @@ wordpressId: 213
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 _Il faut cultiver notre jardin - Voltaire_
 

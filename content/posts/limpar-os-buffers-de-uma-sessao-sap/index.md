@@ -8,7 +8,7 @@ wordpressId: 2904
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Todos os dias aprendo novos comandos para introduzir no campo da transacção. Hoje aprendi uns que resolvem um problema que, ainda que raramente, já me aconteceu no passado.
 

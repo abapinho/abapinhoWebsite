@@ -8,7 +8,9 @@ wordpressId: 3822
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'relatório consistência SALV'
+description: 'Aprende como utilizar o relatório de consistência da SALV para descobrires todos os problemas que ela possa ter que de outra forma não descobririas'
 ---
 Sometimes a SALV has inconsistencies which can go unnoticed. For example, if its structure has an amount field which doesn't have an associated currency field:
 

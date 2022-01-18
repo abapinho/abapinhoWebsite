@@ -8,7 +8,7 @@ wordpressId: 2741
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se um desenvolvimento necessitar de mais do que uma tabela de parametrização, considera agrupar as tuas vistas de manutenção num “cluster”. Assim será mais intuitivo mantê-las. Isto fará ainda mais sentido se umas dependerem de outras uma vez que na definição do “cluster” estas relações podem ser explicitadas.
 

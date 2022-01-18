@@ -8,7 +8,7 @@ wordpressId: 2413
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Most functionals, and even the hardcore functionals, knows that in order to start debugging an ABAP program, we use the /H command. But few programmers, even the hardcode programmers, will know the purpose of the /HS command.
 

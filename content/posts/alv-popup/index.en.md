@@ -8,7 +8,7 @@ wordpressId: 1249
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Do you know how to present an ALV with a list of records in a dialogue box allowing multiple choice? I didn’t. But I do now. Let me explain how.
 

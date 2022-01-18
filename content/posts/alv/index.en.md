@@ -8,7 +8,7 @@ wordpressId: 259
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Os ALVs são poderosos. Mas esse poder vem à custa de alguma complexidade. Além disso, como quase tudo em SAP, funcionam de forma obscura. Aqui ficam dois manuais de referência em PDF. São muito parecidos mas suficientemente diferentes para referir os dois.
 

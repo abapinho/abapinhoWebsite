@@ -8,7 +8,7 @@ wordpressId: 909
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O RICEF é um acrónimo do mundo SAP que aparentemente não foi inventado pela SAP. É, por isso, um acrónimo não oficial. O que não faz dele um acrónimo ilegal ou clandestino visto que tem vindo a tornar-se um termo de uso corrente em cada vez mais projectos.
 

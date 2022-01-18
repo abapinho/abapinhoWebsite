@@ -8,7 +8,7 @@ wordpressId: 1048
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nunca te aconteceu esbarrares com uma coisa no ABAP que parece que é mas não é? A documentação diz que é, tudo indica que assim seja, e depois afinal não é.
 

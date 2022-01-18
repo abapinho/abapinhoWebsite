@@ -8,7 +8,9 @@ wordpressId: 4423
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'valores únicos de campo'
+description: 'Como obter os valores únicos de um campo de uma tabela interna usando apenas um único comando em vez dos clássicos LOOP e COLLECT.'
 ---
 In SQL you can get a list of unique values of a field using DISTINCT. When the data is already in an internal table, before ABAP 7.40 you had to use a LOOP and a COLLECT.
 

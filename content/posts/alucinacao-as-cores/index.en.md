@@ -8,7 +8,7 @@ wordpressId: 2172
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 This is not really an article. It’s hardly a tip. It’s closer to getting something off my chest in all the colours of the rainbow.
 

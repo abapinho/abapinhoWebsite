@@ -8,7 +8,7 @@ wordpressId: 1153
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Obviously you already know the SE30 transaction (run time analysis) and obviously you use it often to analyse standard programs and to discover tables, functions, BADIs and similar contained within them.
 

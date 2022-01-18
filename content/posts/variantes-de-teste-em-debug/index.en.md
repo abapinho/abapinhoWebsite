@@ -8,7 +8,7 @@ wordpressId: 1447
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagine that you are debugging a transaction, you enter into a function and find something interesting. So interesting that you have to debug it several times. The conventional way is to start the debug of the transaction again from the beginning. How tedious.
 

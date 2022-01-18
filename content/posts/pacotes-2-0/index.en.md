@@ -8,7 +8,7 @@ wordpressId: 2853
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 SAP R/3 repository is a wonderful thing. A vast warehouse of data elements, structures, tables and much more, readily available to one and all. As developers, it is extremely convenient to quickly pick these elements and pull them into our programs as necessity conveys, while our string of thought remains virtually uninterrupted.
 Well, not all is sunshine and roses. If you are not careful with the mushrooms you pick you might get a poisoned one.

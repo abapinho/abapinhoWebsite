@@ -8,7 +8,7 @@ wordpressId: 599
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Às vezes temos de criar uma tabela Z. Às vezes temos até de criar várias tabelas Z. Às vezes estas tabelas estão relacionadas de alguma forma. Como quando uma contém dados de cabeçalho e a outra dados de item, por exemplo. Ora se estão relacionadas pode dar jeito que sejam editadas em conjunto. É para isso que servem os Clusters de Visão (view cluster).
 

@@ -8,7 +8,7 @@ wordpressId: 1140
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O SAP é um grande poliglota. Mas o ABAP nem sempre. O ABAP até tem muita facilidade em aprender e falar várias línguas, mas às vezes os programadores não o deixam.
 

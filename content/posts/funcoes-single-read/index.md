@@ -8,7 +8,7 @@ wordpressId: 920
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando se quer obter um único registo de uma tabela da base de dados é costume usar-se o SELECT SINGLE que, como toda a gente sabe, na sua forma mais básica reza assim:
 
@@ -64,7 +64,7 @@ Em termos de performance isto é muito mau. A alternativa, chata e trabalhosa, �
 
 
 {{< highlight ABAP >}}
-TYPES: BEGIN OF ty_kna1,        
+TYPES: BEGIN OF ty_kna1,
         kunnr TYPE kunnr,
         name1 TYPE name1,
       END OF ty_kna1 .
@@ -77,7 +77,7 @@ FIELD-SYMBOLS: <vbak> LIKE LINE OF lt_vbak,
                <kna1> LIKE LINE OF lt_kna1.
 
 * 1. Obter todas as ordens de venda
-SELECT * FROM vbak 
+SELECT * FROM vbak
   INTO TABLE lt_vbak
   WHERE vbeln IN so_vbeln  " parâmetro do report
 
@@ -105,13 +105,13 @@ Mas vê agora quão mais simples é usar a KNA1_SINGLE_READ:
 
 
 {{< highlight ABAP >}}
-DATA: lt_vbak TYPE STANDARD TABLE OF vbak,      
+DATA: lt_vbak TYPE STANDARD TABLE OF vbak,
           wa_kna1 TYPE kna1.
 
 FIELD-SYMBOLS: <vbak> LIKE LINE OF lt_vbak.
 
 * 1. Obter todas as ordens de venda
-SELECT * FROM vbak 
+SELECT * FROM vbak
   INTO TABLE lt_vbak
   WHERE vbeln IN so_vbeln  " parâmetro do report
 

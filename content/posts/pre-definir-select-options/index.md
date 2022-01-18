@@ -8,7 +8,7 @@ wordpressId: 2993
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Abapinho recebeu uma carta.
 
@@ -24,11 +24,11 @@ Assim:
 {{< highlight ABAP >}}
 DATA: s_registo TYPE ZDATA.
 
-SELECT-OPTIONS so_cod1 FOR s_registo-codigo 
-                       DEFAULT '20140805' 
+SELECT-OPTIONS so_cod1 FOR s_registo-codigo
+                       DEFAULT '20140805'
                        OPTION GE SIGN I.
 
-SELECT-OPTIONS so_cod2 FOR s_registo-codigo 
+SELECT-OPTIONS so_cod2 FOR s_registo-codigo
                        NO INTERVALS.
 {{< /highlight >}}
 

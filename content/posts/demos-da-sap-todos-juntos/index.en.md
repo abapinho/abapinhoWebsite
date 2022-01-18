@@ -8,7 +8,9 @@ wordpressId: 4362
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'ABAP demo code'
+description: 'Todo o código de demonstração da SAP está agrupado debaixo do mesmo pacote. Isto torna mais simples encontrar código exemplo para aprender.'
 ---
 When I was a little boy, back in the 80's, I had to type `LOAD ""` and then wait for several minutes staring at stripes in a TV and listening to strange noises before a ZX Spectrum game was ready to be played. Many years later, when I already had a PC, I found an emulator which had a menu with hundreds of ZX Spectrum games. I just had to pick one from the list and start playing immediately.
 

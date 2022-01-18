@@ -8,7 +8,9 @@ wordpressId: 3703
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'texto de cadeia de excepções'
+description: 'Como conseguir obter automaticamente o texto da excepção mais profunda de uma cadeia de excepções sem que o programa cliente precise de código específico'
 ---
 If you're not already using ABAP Objects you're [chicken][1].
 

@@ -8,7 +8,7 @@ wordpressId: 2976
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Today I will teach you how to chain exceptions. It’s a very practical solution to a complicated, not so obvious problem.
 

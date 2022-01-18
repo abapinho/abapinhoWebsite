@@ -8,7 +8,7 @@ wordpressId: 420
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagina que estás a trabalhar num sistema partilhado por muitos outros utilizadores que não conheces. Como no [IDESACCESS][1] por exemplo. Nada impede que, por distracção ou perfídia, algum desses outros utilizadores altere ou mesmo apague os teus programas.
 

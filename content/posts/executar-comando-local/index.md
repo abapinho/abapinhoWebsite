@@ -8,7 +8,7 @@ wordpressId: 646
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagina que queres executar um programa no teu PC a partir de um programa ABAP. Não sei porque carga de água quererás tu fazer isto mas ok, se queres mesmo fazer, é assim:
 

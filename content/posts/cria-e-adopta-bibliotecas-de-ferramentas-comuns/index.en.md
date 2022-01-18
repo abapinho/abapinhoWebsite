@@ -8,7 +8,7 @@ wordpressId: 2723
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Code which is used very often should be made available centrally, if possible under a single package (ex: ZTOOLS) so that it’s easily identified.
 

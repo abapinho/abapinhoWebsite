@@ -8,7 +8,7 @@ wordpressId: 1071
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When developing a report with a selection screen it is very annoying that every time we test it we have to input the test data to the selection screen. We usually end up creating a variant of the test to save us from this hassle. But, every time we run the report we still have to manually call this variant.
 

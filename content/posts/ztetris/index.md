@@ -8,7 +8,7 @@ wordpressId: 257
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Abapinho aconselha todos os ABAPers a, pelo sim, pelo não, instalarem o programa [ZTETRIS][1] no seu ambiente de desenvolvimento. A versão do Tetris para ABAP é da autoria de Sergey Shumakov.
 

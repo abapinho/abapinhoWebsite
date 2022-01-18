@@ -8,7 +8,7 @@ wordpressId: 2928
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sabias que podes fazer LOOP de uma tabela interna com uma estrutura A para dentro de uma estrutura do tipo B?
 
@@ -38,7 +38,7 @@ Normalmente terias de converter manualmente a LINHA1 para a LINHA2:
               s_linha2 TYPE ty_s_linha2.
 
     FIELD-SYMBOLS: <s_linha1> TYPE ty_s_linha2.
-    
+
    LOOP AT t_linha1 ASSIGNING <s_linha1>.
      MOVE-CORRESPONDING <s_linha1> TO s_linha2.
      faz_algo( s_linha2 ).
@@ -51,7 +51,7 @@ Mas basta a palavrinha CASTING para a coisa ficar mais simples:
 {{< highlight ABAP >}}
     DATA: t_linha1 TYPE STANDARD TABLE OF ty_s_linha1.
     FIELD-SYMBOLS: <s_linha2> TYPE ty_s_linha2.
-    
+
    LOOP AT t_linha1 ASSIGNING <s_linha2> CASTING.
     faz_algo( s_linha2 ).
   ENDLOOP.

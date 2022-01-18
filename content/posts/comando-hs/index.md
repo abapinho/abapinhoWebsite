@@ -8,7 +8,7 @@ wordpressId: 2413
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Todo os funcional, até o mais funcional dos funcionais, sabe que para começar a depurar (vá, a fazer _debug_ a) um programa ABAP se usa o comando /H. Mas raro será o programador, mesmo o mais programador dos programadores, que saberá para que serve o comando /HS.
 

@@ -8,7 +8,7 @@ wordpressId: 956
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Have you ever found yourself programming in one of those ABAP programs that’s as long as the Bible with hundreds and hundreds of lines where you always have to jump from one code area to another?
 

@@ -8,7 +8,7 @@ wordpressId: 1836
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 As chamadas a funções remotas (por RFC) não suportam parâmetros com estruturas complexas ( _deep structures_ ). Por outras palavras, se algum dos parâmetros tiver uma estrutura em que um dos seus campos seja outra estrutura ou uma tabela interna, azar, não dá.
 
@@ -42,7 +42,7 @@ E depois, na função ZF4_EXIT fazes o contrário:
 FUNCTION zf4_exit.
 
   IMPORT shlp FROM DATA BUFFER shlp_serialized.
-  
+
 *  e pronto, aqui tens o shlp outra vez para fazeres com ele o que te der na telha
 
 ENDFUNCTION.

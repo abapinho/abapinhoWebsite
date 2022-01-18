@@ -8,7 +8,7 @@ wordpressId: 1161
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sometimes a program wants to save a file locally on the user's computer via the SAP Gui. In these cases it is usual that one of the fields of the selection screen is the location of the folder on the local disk.
 
@@ -20,14 +20,14 @@ PARAMETERS: p_path TYPE string.
 
 AT SELECTION-SCREEN ON VALUE-REQUEST FOR p_path.
   CALL METHOD cl_gui_frontend_services=>directory_browse
-    EXPORTING 
+    EXPORTING
       initial_folder  = p_path
-    CHANGING  
+    CHANGING
       selected_folder = p_path.
 
 INITIALIZATION.
   CALL METHOD cl_gui_frontend_services=>get_sapgui_workdir
-    CHANGING 
+    CHANGING
       sapworkdir = p_path.
   CALL METHOD cl_gui_cfw=>flush.
 {{< /highlight >}}

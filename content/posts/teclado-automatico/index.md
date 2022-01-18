@@ -8,7 +8,7 @@ wordpressId: 2545
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Todos os programadores conhecem a relação íntima que há entre batch-inputs e pisa-papéis, agrafadores e outros objectos pesados do tipo. São ajudantes preciosíssimos que evitam passarmos por vezes 8 horas a empurrar uma tecla chamada ENTER com um dedo.
 

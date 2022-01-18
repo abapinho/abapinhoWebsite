@@ -8,7 +8,7 @@ wordpressId: 1817
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Acabaste de fazer um belíssimo relatório encabeçado por um ecrã de selecção atafulhado de campos muito interessantes. Mas o mais normal é que, se tiver alguma complexidade, quem correr o teu relatório não saiba para que serve cada um dos campos. Para isso há, claro, as especificações técnica e funcional. Há? E mesmo que haja, não seria mais simples se ela pudesse fazer F1 em cima de cada campo e logo ali aprender para que serve?
 

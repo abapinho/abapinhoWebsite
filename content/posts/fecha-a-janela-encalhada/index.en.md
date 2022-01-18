@@ -8,7 +8,7 @@ wordpressId: 2610
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 How many times have you been left with a “hanging” window when you end a debug?
 

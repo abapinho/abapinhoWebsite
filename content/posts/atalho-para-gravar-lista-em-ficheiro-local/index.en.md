@@ -8,7 +8,8 @@ wordpressId: 4252
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'atalho para gravar ficheiro local'
 ---
 SAP is full of hidden corners rarely visited. Abapinho is happy to shed some light on them.
 

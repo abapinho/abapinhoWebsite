@@ -8,7 +8,7 @@ wordpressId: 2737
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In classes, consider using exceptions classes over the old ones. These have great advantages and, once understood, are simple and allow for simpler code.
 http://www.slideshare.net/pruebaedublog/exceptions-handling-concept-in-abap

@@ -8,7 +8,7 @@ wordpressId: 2711
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Deverás implementar todos os novos desenvolvimentos usando ABAP Objects excepto quando isso se reveler impossível (RFC, IN UPDATE TASK, ecrãs, etc).
 Quando tiverem de ser alterados, deverás também tentar converter em OO os desenvolvimentos existentes, se isso se mostrar realista.

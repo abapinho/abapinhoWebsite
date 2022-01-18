@@ -8,7 +8,7 @@ wordpressId: 1510
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In a functional screen I often feel the need to see technical information about a particular field. I place the cursor on the field I want, then I click on F1 and a dialog screen will appear with help for that field. Then I click on the button that says "technical information".But there is a quick way to do the same thing using only the keyboard.
 

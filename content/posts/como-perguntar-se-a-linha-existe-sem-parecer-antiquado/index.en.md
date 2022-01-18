@@ -8,7 +8,7 @@ wordpressId: 3063
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Long ago, you used the expression "groovy, man". Later came "great, man". Then there was "cool". Today you say "awesome". It's important not to get confused and not make a fool of yourself.
 

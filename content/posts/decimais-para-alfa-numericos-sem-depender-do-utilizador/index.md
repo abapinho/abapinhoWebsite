@@ -8,7 +8,7 @@ wordpressId: 2221
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Ao ler um ficheiro com valores numéricos para uma tabela interna ou vice-versa, o sucesso da conversão destes depende de o utilizador tem definido o ponto ou a vírgula como separador decimal. É costume ir então ler a configuração do utilizador e depois, adaptar os valores vindos do ficheiro com ponto ou vírgula conforme.
 
@@ -23,7 +23,7 @@ E há.
 
 {{< highlight ABAP >}}
 * Forçamos o formato padrão dos Estados Unidos da América do Norte
-SET COUNTRY 'US'.                    
+SET COUNTRY 'US'.
 
 * Agora fazemos o que temos a fazer
 WRITE wrbtr TO value CURRENCY 'USD'.

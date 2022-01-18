@@ -8,7 +8,8 @@ wordpressId: 3634
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'append structure foreign key'
 ---
 During all my ABAPian life I was convinced that APPEND STRUCTURES had one single purpose: to add new extra fields to an existing standard table.
 

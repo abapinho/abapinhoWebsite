@@ -8,7 +8,9 @@ wordpressId: 4166
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'encapsular'
+description: 'A ideia de que a principal razão para encapsular código é poder reutilizá-lo é um dos maiores mal entendidos da história do nosso planeta.'
 ---
 Desde 1998 que oiço colegas ABAPers dizerem que não vale a pena meter determinado código numa função ou método porque não lhes parece que este vá tornar a ser reutilizado. E lá vão continuando na SE38 a fazer os seus reports cheios de includes.
 

@@ -8,7 +8,7 @@ wordpressId: 2870
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sweet little trick: when in SE38 you need to surround a word or expression with () or [] or ‘’, just select it and press ( or [ or ' and it immediately becomes (it) or [it] or 'it'.
 

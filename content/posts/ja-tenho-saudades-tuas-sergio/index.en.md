@@ -8,7 +8,8 @@ wordpressId: 4731
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'Sérgio Fraga'
 ---
 My dear friend Sérgio Fraga passed away.
 

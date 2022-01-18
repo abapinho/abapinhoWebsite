@@ -8,7 +8,7 @@ wordpressId: 2963
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Temos duas variáveis:
 

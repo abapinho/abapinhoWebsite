@@ -8,7 +8,9 @@ wordpressId: 4456
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'NOT ABAP'
+description: 'Por razões históricas, a linguagem ABAP não tem nem nunca vai ter o operador NOT. Sugerimos aqui a melhor forma de o conseguir emular.'
 ---
 No,
 ABAP

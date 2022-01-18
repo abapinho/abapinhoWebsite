@@ -8,7 +8,7 @@ wordpressId: 752
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 [In a previous article][1] we talked about macros, a relatively obscure and little used feature that can be both useful as well as create a huge mess. But these aren’t the only ABAP macros. There are others that are even more obscure and with even greater potential to mix up a system: the global macros.
 

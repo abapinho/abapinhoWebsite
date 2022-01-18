@@ -8,7 +8,7 @@ wordpressId: 2444
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A friend of a friend of a friend said that a friend of his knew a friend who explained to him in a shady club bar in the docks area of Lisbon how to steal data from a SALV.
 
@@ -25,7 +25,7 @@ The first deception is to run a very special command that causes the data of the
 cl_salv_bs_runtime_info=> set(
       display  = abap_false
       metadata = abap_false
-      data     = abap_true ). 
+      data     = abap_true ).
 {{< /highlight >}}
 
 Sly. Veeeery sly.
@@ -63,7 +63,7 @@ ASSIGN ls_data->* TO <lt_data>.
 LOOP AT <lt_data> ASSIGNING <l_data>.
   MOVE-CORRESPONDING <l_data> TO s_belege.
   WRITE: / s_belege-mblnr.
-ENDLOOP. 
+ENDLOOP.
 {{< /highlight >}}
 {{< highlight ABAP >}}
 FIELD-SYMBOLS: <lt_data> TYPE table,
@@ -74,7 +74,7 @@ ASSIGN ls_data->* TO <lt_data>.
 LOOP AT <lt_data> ASSIGNING <l_data>.
   MOVE-CORRESPONDING <l_data> TO s_belege.
   WRITE: / s_belege-mblnr.
-ENDLOOP. 
+ENDLOOP.
 {{< /highlight >}}
 
 Note that the GET_DATA_REF() method launches the exception CX_SALV_BS_SC_RUNTIME_INFO if something fails, so it would be convenient to wrap your call in a TRY CATCH block.

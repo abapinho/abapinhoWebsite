@@ -8,7 +8,7 @@ wordpressId: 2559
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O ABAP anda cada vez mais esperto. Ainda sou do tempo em que não se fazia nada dele. E agora, lentamente, com mais de um quinto de século de atraso, lá vai tentado imitar o C e o Java e ficando mais flexível.
 

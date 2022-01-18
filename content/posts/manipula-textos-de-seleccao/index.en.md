@@ -8,7 +8,8 @@ wordpressId: 4653
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+description: 'Manipula os textos de selecção de um relatório podendo continuar a traduzi-los sem problemas.'
 ---
 Even though many ABAP programmers tend to forget this, the less texts you hard code in your program the simpler it will be to translate it.
 

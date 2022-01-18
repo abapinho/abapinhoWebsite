@@ -8,7 +8,9 @@ wordpressId: 4646
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'AS SEPARATE UNIT'
+description: 'Chama um módulo de função por RFC garantindo que os dados globais não serão reutilizados dando cabo dos resultados.'
 ---
 Imagine that you are calling an RFC function module several times in a row. Maybe you think that each call is completely independent from the others. It is not. The remote function group remains in memory and so does its global data. That global data will be reused on every call.
 

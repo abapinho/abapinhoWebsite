@@ -8,7 +8,7 @@ wordpressId: 1038
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Classes. Sempre as houve entre as pessoas. Mas no ABAP ainda há poucos que as tenham em conta. Se ser classicista na sociedade pode resultar em pedantismo, no ABAP, a única luta de classes é a que alguns travam para que estas sejam mais usadas.
 

@@ -8,7 +8,7 @@ wordpressId: 2473
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Esta dica é simples e rápida mas aposto 200$482 em como poucos a sabem.
 

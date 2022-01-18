@@ -8,7 +8,7 @@ wordpressId: 2358
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 This is a 2-in-1 article. That is to say, you’ll learn two subjects at once.
 

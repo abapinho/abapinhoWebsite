@@ -8,7 +8,9 @@ wordpressId: 4690
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'INSERT vs APPEND'
+description: 'Chegou a hora de deixares de usar APPEND e começares a usar o INSERT INTO TABLE para adicionar entradas a tabelas internas.'
 ---
 How many times in your ABAP consultant life did you have to deal with dumps happening as a consequence of a program trying to insert duplicate lines into an internal table defined with a UNIQUE KEY?
 

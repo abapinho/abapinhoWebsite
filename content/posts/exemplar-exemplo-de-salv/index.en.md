@@ -8,7 +8,7 @@ wordpressId: 2593
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Unless you want to do data editing, the only dignified way to use ALVs these days is through SALV classes. They are more modern and more elegant, and those who use them can achieve a social status until now only available to owners of a [license plate][1].
 

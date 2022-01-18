@@ -8,7 +8,7 @@ wordpressId: 333
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Vivia-se o ano do Senhor de 1998. No século XX portanto, quando ainda se trabalhava de gravata. Estava eu com 1 mês de experiência em SAP e pela primeira vez sozinho num cliente, de gravata ao pescoço, num armazém gigante, a fazer formulários de WM e coisas do género ao serviço de um funcional de WM. Certo dia fui directamente abordado por um senhor condutor de um empilhador que me disse que o código identificador na etiqueta das paletes tinha letras muito pequeninas e ele tinha muita dificuldade em lê-lo. O senhor empilhador perguntou-me se eu lhe podia aumentar o tamanho das letras. Situação relativamente irregular visto que tudo o que eu fazia deveria ser pedido pelo tal consultor funcional.
 

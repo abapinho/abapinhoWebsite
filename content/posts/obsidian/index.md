@@ -8,7 +8,9 @@ wordpressId: 4600
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'obsidian'
+description: 'Parece que desta vez vou mesmo conseguir livrar-me do Evernote. O Obsidian parece fazer tudo o que preciso.'
 ---
 Depois de 10 anos a usar o Evernote, este ano comecei a procurar alternativas. No início o Evernote era fantástico. Mas parou no tempo e deixou-se ultrapassar. Entretanto apareceram tantos conceitos novos: [jardins digitais][1], _[backlinks][2]_ , _[Zettelkasten][3]_ , _[Evergreen notes][4]_ , [MOCs][5], etc. E o Evernote lá continua, igual ao que sempre foi, condicionando-nos a [tirar notas em vez de criar notas][6].
 <!--more-->

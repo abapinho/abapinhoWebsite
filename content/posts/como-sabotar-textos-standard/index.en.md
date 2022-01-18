@@ -8,7 +8,7 @@ wordpressId: 3281
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Some times I don't like the names SAP gave to things. So I change them.
 

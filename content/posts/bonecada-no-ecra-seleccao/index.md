@@ -8,7 +8,7 @@ wordpressId: 1596
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Foi o SAP que nasceu tristonho ou são os SAPeiros que não o alegram?
 

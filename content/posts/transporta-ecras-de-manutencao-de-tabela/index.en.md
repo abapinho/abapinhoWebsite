@@ -8,7 +8,9 @@ wordpressId: 4037
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'transportar tabela local'
+description: 'Como transportar os ecrãs de manutenção de uma tabela que foi originalmente criada localmente? Duas soluções. manual e automática.'
 ---
 Some time ago you created a table and its maintenance screens as local objects.
 

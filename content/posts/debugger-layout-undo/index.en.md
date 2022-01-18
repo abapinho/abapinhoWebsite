@@ -8,7 +8,7 @@ wordpressId: 3525
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Although a substantial part of an ABAP programmer time is spent debugging code, most programmers I know don't invest much in getting to know the ABAP debugger. Maybe because they spent too many years working with its previous version which was truly archaic and worthless. But the new one can do much more than you usually ask of it. And Abapinho intends to teach you how.
 

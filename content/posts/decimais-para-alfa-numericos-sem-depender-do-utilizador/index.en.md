@@ -8,7 +8,7 @@ wordpressId: 2221
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When reading a file with numeric values to an internal table or vice versa, the success of the conversion depends on whether the user has defined the dot or comma as the decimal separator. It is customary to then go and read the user setting and then adjust the values from the file with a dot or a comma as required.
 
@@ -23,12 +23,12 @@ This is how:
 
 {{< highlight ABAP >}}
 * Let us force the USA default format
-SET COUNTRY 'US'.                    
+SET COUNTRY 'US'.
 
 * Now we do what we have to do
 WRITE wrbtr TO value CURRENCY 'USD'.
 
-* And at the end we set it to the defined format for the current user 
+* And at the end we set it to the defined format for the current user
 SET COUNTRY space.
 {{< /highlight >}}
 

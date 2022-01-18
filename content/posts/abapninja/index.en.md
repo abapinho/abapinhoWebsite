@@ -8,7 +8,7 @@ wordpressId: 286
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 One of the major new features in ERP 6.0 is the Enhancement Framework, a kind of “landlord’s friend” that allows you to hammer on all the SAP walls without chipping the paintwork. Unfortunately there’s still very little documentation about this and it’s always difficult to find the right _Enhancement Point_ for the hammering you want.
 

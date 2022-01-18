@@ -8,7 +8,7 @@ wordpressId: 2164
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Cada vez uso mais RANGEs. Uso-os ao pequeno-almoço, ao almoço, ao jantar e fora das refeições. É como o molho de soja. Umas colheradas daquilo e fica logo tudo mais saboroso.
 

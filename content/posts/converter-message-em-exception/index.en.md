@@ -8,7 +8,8 @@ wordpressId: 4304
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+description: 'Até à v7.40 era complicado converter uma mensagem numa excepção. Mas agora não podia ser mais simples. Aqui vais aprender como.'
 ---
 Some years agor I [showed how to convert a normal MESSAGE into a typified exception][1]. Meanwhile ABAP evolved a lot and now, since version 7.40, that complex solution is no longer needed.
 

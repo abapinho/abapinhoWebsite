@@ -8,7 +8,7 @@ wordpressId: 1420
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Na transacção SE80 há de tudo. Parece aquelas mercearias de aldeia atafulhadas de tralha onde se compra pasta de dentes, pão, sandálias, perfume e arroz a granel. Eu gosto dessas mercearias. Mas para lá ir é preciso saber ao que se vai, senão anda-se ao tio ao tio.
 

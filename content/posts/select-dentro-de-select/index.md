@@ -8,7 +8,7 @@ wordpressId: 2677
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Provavelmente por razões históricas, os programadores ABAP não exploram as possibilidades do SQL. Muitos há que em vez de usarem INNER JOINs, ainda julgam que é mais rápido fazer vários SELECTs para tabelas internas e depois trabalhar os dados em ABAP. Mas a verdade é que, mesmo que se haja excepções, a regra é: quanto menos acessos à base de dados, melhor a performance. E faz sentido porque, afinal, porque foram escritas explicitamente para isso, as bases de dados relacionais são muito mais peritas em processar dados relacionais do que um programa ABAP.
 

@@ -8,7 +8,7 @@ wordpressId: 3323
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Durante anos as tabelas internas eram declaradas assim:
 

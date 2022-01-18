@@ -8,7 +8,7 @@ wordpressId: 2545
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Every programmer knows about the intimate relationship between batch-inputs and paperweights, staplers and similar heavy objects. These precious little helpers can keep us from spending up to eight hours hitting the “ENTER” key with one finger.
 

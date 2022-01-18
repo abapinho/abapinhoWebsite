@@ -8,7 +8,7 @@ wordpressId: 1666
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 It is not uncommon for us to be emotionally attached to our passwords. Therefore, it is always rather painful to receive those despicable threatening notices that say "your password is going to expire”. Soon followed by the blow we receive to our heart on the appearance of the inevitable vile invective that "your password has expired." At such times, the hurt is so great that all the muses leave us, we have imagination cramp and remain stuck there, staring and drained, emptied of any idea to help us choose our next password.
 

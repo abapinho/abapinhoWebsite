@@ -8,7 +8,7 @@ wordpressId: 3222
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If you want to serialize a set of strings stored in an internal table there are two ways to do it. One is dull, the other one is full of style.
 

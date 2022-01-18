@@ -8,7 +8,7 @@ wordpressId: 3183
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Já estás a meio de um debug e queres que a execução pare numa determinada mensagem.
 

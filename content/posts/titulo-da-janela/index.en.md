@@ -8,7 +8,7 @@ wordpressId: 2136
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The client where I'm working at the moment owns more SAP systems than the number of volcanoes in Chile. And, of course, it's inevitable to have multiple sessions open for several of those systems. With the windows minimized it's impossible to know the matching between systems and sessions. I mean, it was impossible, because today that's already possible:
 

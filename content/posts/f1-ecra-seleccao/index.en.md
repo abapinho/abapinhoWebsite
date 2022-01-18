@@ -8,7 +8,7 @@ wordpressId: 1817
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You have just produced a wonderful report headed by a selection screen crammed full of very interesting fields. But usually those running the report will not know, if it has some complexity, what each of the fields does. There are, of course, the technical and functional specifications for this. But are there? And even if there are, wouldn’t it be easier if you could press F1 on top of each field and find out there and then what it’s for?
 

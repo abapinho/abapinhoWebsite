@@ -8,7 +8,7 @@ wordpressId: 2451
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When you create a return parameter in a method of a class that is a TABLE TYPE based on a type declared in the class proper, an error sometimes pops up that says:
 

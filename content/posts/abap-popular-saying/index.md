@@ -8,6 +8,6 @@ wordpressId: 3664
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Não deixes para amanhã o que podes fazer SY-DATUM.

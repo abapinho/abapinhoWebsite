@@ -8,7 +8,9 @@ wordpressId: 4314
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'SELECT to RANGE'
+description: 'Várias formas diferentes de converter um SELECT num RANGE. Da pior com 15 linhas e 7 comandos à melhor com apenas 5 linhas e 1 comando.'
 ---
 Hoje debruçamo-nos sobre como tentar optimizar o código para transformar um SELECT num RANGE.
 

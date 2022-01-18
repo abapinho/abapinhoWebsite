@@ -8,7 +8,7 @@ wordpressId: 3411
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 [Toad][1] is a very famous SQL tool which allows you to build and execute SQL queries in an easy and interactive way. And now, thanks to Mr. Sébastien HERMANN, SAP has a simplified version of this wonderful tool.
 

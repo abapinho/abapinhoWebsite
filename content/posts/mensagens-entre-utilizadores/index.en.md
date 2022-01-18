@@ -8,7 +8,7 @@ wordpressId: 350
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Muitas vezes precisamos de aceder aos dados de uma tabela através da SM30 ou a um qualquer documento e esbarramos com uma mensagem a dizer que os dados estão bloqueados por outro utilizador.
 

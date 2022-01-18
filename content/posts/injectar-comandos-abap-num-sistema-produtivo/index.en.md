@@ -8,7 +8,8 @@ wordpressId: 4051
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'injectar comandos ABAP'
 ---
 The view below shows how simple it is to create the conditions to inject ABAP commands into programs in a productive system.
 

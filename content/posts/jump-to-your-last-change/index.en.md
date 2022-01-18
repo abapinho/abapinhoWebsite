@@ -8,7 +8,7 @@ wordpressId: 3539
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagine that you're editing one of those ancient programs with thousands of lines (yes because today you know that it's wrong not to modularize (it's a sin really) your methods (yes because today you always use methods) don't have more than 200 lines).
 

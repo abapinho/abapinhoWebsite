@@ -8,7 +8,7 @@ wordpressId: 1652
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Everyone uses standard texts. But did you know that standard texts can have dynamic fields in the middle? SAP calls them "text symbols". The way to do it is identical to that of the old forms of the harmful SE71, in other words wrapping them in the & symbol. Thus: &KNA1-NAME1;&. It’s really handy. I’ll show you how it’s done.
 

@@ -8,7 +8,7 @@ wordpressId: 3192
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Abapinho will slowly start posting tips specific to AS ABAP 7.4. Slowly because there are still only a few people with access to this version. But there are so many new things to tell that I feel tempted to start posting all of them.
 

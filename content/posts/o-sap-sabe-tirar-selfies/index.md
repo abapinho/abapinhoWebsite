@@ -8,7 +8,7 @@ wordpressId: 3352
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Acabei de descobrir que o SAP consegue tirar selfies. Ainda não estou a ver para que é que isto possa servir. Mas não é grave porque na verdade também nunca vi para que é que servem as selfies tiradas por nós os humanos.
 

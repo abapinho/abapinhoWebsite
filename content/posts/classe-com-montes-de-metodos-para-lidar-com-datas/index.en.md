@@ -8,7 +8,7 @@ wordpressId: 2685
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 There are countless standard functions to make calculations with dates. There are too many of them, they are redundant and, in many cases, they are obscure or impossible to understand. I've been meaning to insert an article here with a list of the most useful ones. But now it's no longer necessary.
 

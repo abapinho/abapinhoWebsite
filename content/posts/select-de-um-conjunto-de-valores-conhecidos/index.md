@@ -8,7 +8,7 @@ wordpressId: 3343
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Pedem-te para seleccionares registos cujo critério é um conjunto de meia dúzia de códigos que são conhecidos e nunca vão mudar. Sabias que podes fazer tudo logo no SELECT?
 

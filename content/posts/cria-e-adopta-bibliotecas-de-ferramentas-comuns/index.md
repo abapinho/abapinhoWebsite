@@ -8,7 +8,7 @@ wordpressId: 2723
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Código que seja usado comummente deve estar disponível centralmente, se possível guardado em pacotes bem identificados (ex: ZFERRAMENTAS) para que seja facilmente encontrados e transportados.
 

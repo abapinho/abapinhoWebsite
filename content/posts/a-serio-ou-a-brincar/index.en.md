@@ -8,7 +8,7 @@ wordpressId: 1994
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Some things can only happen in production.
 While with some others it's quite the opposite.

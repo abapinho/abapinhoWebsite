@@ -8,7 +8,9 @@ wordpressId: 3691
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'estrutura parcialmente protegida'
+description: 'Ao tentar actualizar um registo de uma SORTED TABLE o códgio dá dump porque estava a tentar passar por referência uma estrutura parcialmente protegida.'
 ---
 Estava a tentar actualizar uma linha de uma SORTED TABLE e não estava a conseguir.
 

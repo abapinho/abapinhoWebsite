@@ -8,7 +8,9 @@ wordpressId: 3650
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'chave de estrutura DDIC'
+description: 'Há um truque para conseguir definir os campos chave de uma estrutura DDIC para que a a SALV fixe automaticamente as colunas chave.'
 ---
 Hoje em dia quando quero criar uma SALV defino sempre a estrutura dos dados no DDIC já com os elementos de dados com as descrições desejadas em vez de os forçar no código.
 

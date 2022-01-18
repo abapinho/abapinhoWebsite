@@ -8,7 +8,7 @@ wordpressId: 429
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Os americanos são tão bons como os tibetanos a arranjar mnemónicas e abreviaturas para tornar as coisas fáceis de decorar.
 

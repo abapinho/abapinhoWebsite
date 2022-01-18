@@ -8,7 +8,7 @@ wordpressId: 3507
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Volta não volta encontro mais uma virtude escondida do SAP. Então não é que fiquei a saber que existe uma transacção em que podemos introduzir uma determinada palavra numa determinada lingua e o SAP ajuda-nos a traduzi-la para outra lingua qualquer mostrando-nos noutras traduções que já existam para essa mesma palavra.
 

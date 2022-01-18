@@ -8,7 +8,7 @@ wordpressId: 2451
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando, num método de uma classe, crias um parâmetro de retorno que é um TABLE TYPE baseado num tipo declarado na própria classe, às vezes aparece um erro que diz:
 

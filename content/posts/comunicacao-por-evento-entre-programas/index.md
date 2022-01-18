@@ -8,7 +8,7 @@ wordpressId: 2943
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Na mitologia grega a forma de comunicação mais frequentemente utilizada pelos deuses para comunicar com os mortais era o estupro. Estupravam por dá cá aquela palha.
 

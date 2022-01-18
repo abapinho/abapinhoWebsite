@@ -8,7 +8,7 @@ wordpressId: 400
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Mas afinal o que é que quer dizer ABAP?
 

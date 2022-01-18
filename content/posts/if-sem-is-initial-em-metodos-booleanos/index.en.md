@@ -8,7 +8,7 @@ wordpressId: 4244
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 My current client's system is finally being upgraded to 7.50 and, after all these years stuck with the old ABAP, I am now finally able to enjoy the wonders introduced in 7.40.
 

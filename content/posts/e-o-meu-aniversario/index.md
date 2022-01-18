@@ -8,7 +8,7 @@ wordpressId: 3038
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Tenho [6 anos][1]!
 

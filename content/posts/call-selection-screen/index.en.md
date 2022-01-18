@@ -8,7 +8,7 @@ wordpressId: 1356
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In a report, the values are normally requested from the user at the first selection screen before the program is run. But what if you want to interactively ask for more values in the middle of running the program?
 

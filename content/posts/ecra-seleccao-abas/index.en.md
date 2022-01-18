@@ -8,7 +8,7 @@ wordpressId: 1335
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The selection screens of ABAP programs have several features that, although complex and easy to use, are generally ignored. Here, I will show you how easy it is to create tabs to better organise the parameters of a program. This time though, and uncommonly, I'll spare you the verbal onslaught. It’s a practical class.
 

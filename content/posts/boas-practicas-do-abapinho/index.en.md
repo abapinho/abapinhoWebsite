@@ -8,7 +8,7 @@ wordpressId: 2607
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Recently, I have compiled a set of personal best practices. I decided to share them here by creating a new category (which will soon appear on the menu to the left) into which they will be grouped. The original idea was to make a PDF file but, since they are constantly being reviewed and expanded, this was largely impractical. As such, they will be published one by one.
 

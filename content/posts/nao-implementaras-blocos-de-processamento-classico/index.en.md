@@ -8,6 +8,6 @@ wordpressId: 2709
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Official ABAP Programming Guidelines (page 34): [When a classical processing block is required], you should immediately delegate the execution to a suitable method (see Rule 6.37, No Implementations in Function Modules and Subroutines, and Rule 6.44, No Implementations in Dialog Modules and Event Blocks).

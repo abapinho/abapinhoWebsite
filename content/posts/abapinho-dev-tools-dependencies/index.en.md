@@ -8,7 +8,7 @@ wordpressId: 3297
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nuno Morais developed a very useful tool which can compare objects between systems and works much better than transaction SREPO.
 

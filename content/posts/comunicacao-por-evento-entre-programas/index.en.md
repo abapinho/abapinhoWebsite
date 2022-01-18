@@ -8,7 +8,7 @@ wordpressId: 2943
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In Greek mythology, the gods’ most commonly used means of communication with mortals was rape. They would rape for no reason whatsoever.
 

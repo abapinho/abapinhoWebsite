@@ -8,7 +8,8 @@ wordpressId: 4304
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+description: 'Até à v7.40 era complicado converter uma mensagem numa excepção. Mas agora não podia ser mais simples. Aqui vais aprender como.'
 ---
 Há alguns anos atrás [mostrei como se podia converter uma MESSAGE normal numa excepção tipificada][1]. Entretanto o ABAP evoluiu um bocadinho e agora, na versão 7.40, aquela solução complexa já não é necessária.
 

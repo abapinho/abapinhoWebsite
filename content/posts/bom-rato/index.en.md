@@ -8,7 +8,7 @@ wordpressId: 2117
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Most of my friends, when they buy a new computer, worry a lot about CPU speed, disk speed and memory speed and whatnot speed. And then they go and buy a €6 mouse and a €7 keyboard. Ironic. While the CPU, the disk and the memory and all that other stuff often end up being wasted, the mouse and the keyboard are used to the max the entire time the computer is in use. I can’t count the number of times I’ve picked up someone else’s mouse and ended up having to whack it a few times to get to an icon, simply because the mouse is of poor quality or because the owner never bothered to get a suitable mouse pad. It doesn’t make sense. For someone like me, whose primary work tool is his or her computer, the way you interact with it should be as hassle-free as possible – it should make your work easier, not harder.
 

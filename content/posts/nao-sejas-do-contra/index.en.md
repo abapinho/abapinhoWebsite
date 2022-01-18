@@ -8,7 +8,9 @@ wordpressId: 4764
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'evita negativas'
+description: 'Aqui fica um par de dicas para ajudar a tornar expressões booleanas mais legíveis.'
 ---
 Legibility is very important in all written text. Except, maybe, in [concrete poetry][1].
 

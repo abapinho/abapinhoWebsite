@@ -8,7 +8,7 @@ wordpressId: 2653
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Toma lá uma forma simples de começares a fazer debug a um job:
 

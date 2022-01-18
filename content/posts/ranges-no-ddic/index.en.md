@@ -8,7 +8,7 @@ wordpressId: 2164
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I am using RANGEs more and more. I use them at breakfast, lunch, and dinner and outside meal times. It’s like soy sauce. A few spoonfuls and everything is instantly tastier.
 

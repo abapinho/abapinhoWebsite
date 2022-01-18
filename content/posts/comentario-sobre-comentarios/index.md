@@ -8,7 +8,9 @@ wordpressId: 4120
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'comentários'
+description: 'O código ABAP normalmente tem comentários a mais ou a menos. Neste artigo explico a regra que uso para decidir quando usar comentários.'
 ---
 Na escola aprende-se que o código deve ter sempre comentários. Depois, na vida real, descobrimos que nem toda a gente prestou atenção na escola.
 
@@ -28,9 +30,9 @@ METHOD processa_clientes.
   FIELD-SYMBOLS: <s_kna1> LIKE LINE OF t_kna1.
 
 * Selecciona clientes
-  SELECT kunnr name1 
-    INTO CORRESPONDING FIELDS OF TABLE t_kna1 
-    FROM kna1 
+  SELECT kunnr name1
+    INTO CORRESPONDING FIELDS OF TABLE t_kna1
+    FROM kna1
     WHERE kunnr IN r_kunnr.
 
 * Escreve clientes no ecrã
@@ -52,8 +54,8 @@ E depois crio os seguintes métodos:
 
 {{< highlight ABAP >}}
 METHOD selecciona_clientes.
-  SELECT kunnr name1 
-    INTO CORRESPONDING FIELDS OF TABLE rt_kna1 
+  SELECT kunnr name1
+    INTO CORRESPONDING FIELDS OF TABLE rt_kna1
     FROM kna1
     WHERE kunnr IN r_kunnr.
 ENDMETHOD.

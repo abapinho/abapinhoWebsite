@@ -8,7 +8,7 @@ wordpressId: 1187
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sometimes I ask myself what percentage of the world’s ABAP code is unnecessary. A paradigmatic example of how time can be wasted writing code which is of no use to anyone and only creates problems is the ALV’s all-too-common field description definition sitting directly in ABAP.
 

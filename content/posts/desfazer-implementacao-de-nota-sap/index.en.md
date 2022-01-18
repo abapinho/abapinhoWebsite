@@ -8,7 +8,9 @@ wordpressId: 4554
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'SNOTE'
+description: 'Como desfazer facilmente uma nota implementada através da transacção SNOTE utilizando a própria transacção SNOTE.'
 ---
 I remember when SAP notes had to be inserted by hand. Copy paste and pray that no mistake was made. Wild.
 

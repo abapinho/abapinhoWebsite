@@ -8,7 +8,7 @@ wordpressId: 2038
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A verdade nua e crua, custe o que custar, é que as estruturas estão fora de moda. Agora o que está em voga é FIELD-SYMBOLS.
 
@@ -26,7 +26,7 @@ DATA: T_ABC TYPE STANDARD TABLE OF ZABC,
       W_ABC LIKE LINE OF T_ABC.
 
 W_ABC-XYZ = 'Olá'.
-APPEND W_ABC TO T_ABC. 
+APPEND W_ABC TO T_ABC.
 {{< /highlight >}}
 
 O que é uma pena porque, lá está, usar estruturas… enfim… é como ainda ter o Windows 7 quando o Windows 8 já saiu há mais de uma semana. Ou como ainda ouvir Madonna agora que já há Lady Gaga. Ou mesmo como ainda ouvir Lady Gaga agora que já há [Die Antwoord][2].

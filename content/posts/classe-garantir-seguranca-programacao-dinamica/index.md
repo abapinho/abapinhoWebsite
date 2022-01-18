@@ -8,7 +8,7 @@ wordpressId: 3830
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 No outro dia encontrei um programa que gerava um comando SQL com base em várias variáveis fixadas no código. Mas, por distracção ou ignorância, a alminha que fez aquilo achou que fazia sentido associar essas variáveis a símbolos de texto. Algo assim:
 

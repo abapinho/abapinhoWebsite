@@ -8,7 +8,7 @@ wordpressId: 2172
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Isto não é um artigo. Isto quase nem é uma dica. Isto aproxima-se mais de um desabafo em tom de arco-iris.
 

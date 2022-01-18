@@ -8,7 +8,7 @@ wordpressId: 454
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 No Inverno de 2006 trabalhava no projecto SAP de um enorme retalhista internacional, com centenas de supermercados espalhados por todo um país. Uma bela manhã, pelas 11h45 comecei a ver várias pessoas com ar alarmado a correr de um lado para o outro no escritório. Perguntei o que se passava e se podia ajudar e explicaram-me que não conseguiam fazer a encomenda de leite para o dia seguinte que tinha de ser feita até às 12h15 mas que não tinha nada a ver comigo, que eu não podia ajudar.
 

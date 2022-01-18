@@ -8,7 +8,7 @@ wordpressId: 2182
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se precisas mesmo de aceder a um SAP e ninguém te deixa e não tens um computador onde o possas instalar ou não tens ciência ou paciência para o fazer, podes sempre alugar.
 

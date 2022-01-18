@@ -8,7 +8,9 @@ wordpressId: 3982
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'testa função SE37'
+description: 'A transacção SE37 permite testar módulos de função. Por vezes esses módulos de função utilizam tabelas. Pode dar-se o caso de precisarmos de carregar muitas linhas de dados de teste em uma ou mais dessas tabelas. Aqui fica um truque para o conseguir fazer a partir de um ficheiro.'
 ---
 A transacção SE37 permite testar módulos de função. Por vezes esses módulos de função utilizam tabelas. Pode dar-se o caso de precisarmos de carregar muitas linhas de dados de teste em uma ou mais dessas tabelas.
 

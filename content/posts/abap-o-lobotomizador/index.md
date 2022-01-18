@@ -8,7 +8,9 @@ wordpressId: 4072
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'ABAP lobotolizador'
+description: 'Quando alguém começa a programar em ABAP é lobotomizado, as boas prácticas que aprendeu no passado desaparecem e volta a programar como no ZX Spectrum.'
 ---
 O João estuda Engenharia Informática na Universidade onde aprende Java, polimorfismo, encapsulamento e uma série de outras técnicas e boas prácticas. Quando termina o curso é contratado por uma empresa para trabalhar em SAP. No curso de introdução ao ABAP que a empresa lhe oferece, a primeira coisa que ensinam é como fazer o programa ZJOAO. Explicam assim:
 

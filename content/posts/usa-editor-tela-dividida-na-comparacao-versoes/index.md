@@ -8,7 +8,7 @@ wordpressId: 3562
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Por defeito a comparação de versões é horrível. Mostra as duas versões numa única coluna, com as diferenças destacadas, o que resulta numa grande confusão. É a coisa menos práctica de sempre.
 

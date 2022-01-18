@@ -8,7 +8,7 @@ wordpressId: 1298
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Queres obter o texto de uma mensagem da qual só sabes o ID e o número e não sabes como? Aprende aqui:
 

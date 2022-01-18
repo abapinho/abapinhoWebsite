@@ -8,7 +8,8 @@ wordpressId: 3404
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'fiori'
 ---
 Durante anos queixei-me por o ambiente de desenvolvimento do SAP ser tão retrógrado e antiquado e por demorar tanto tempo a evoluir Sempre que mo ouvia dizer, um amigo meu avisava-me sabiamente: "não mordas a mão que te dá de comer".
 

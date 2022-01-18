@@ -8,7 +8,7 @@ wordpressId: 2981
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You’ve released a transport order because you thought everything was ready. However, one more minor modification was still missing. So now you will have to create a new order and transport both of them. What a drag.
 

@@ -8,7 +8,7 @@ wordpressId: 3352
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I just found out that SAP can take selfies. I still don't see why one would need it. But that's understandable because I never really understood the need for selfies anyway.
 

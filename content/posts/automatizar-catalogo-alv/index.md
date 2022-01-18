@@ -8,7 +8,7 @@ wordpressId: 1187
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Às vezes pergunto-me qual será, no mundo, a percentagem de código ABAP desnecessário. Um exemplo paradigmático de como se pode desperdiçar tempo a escrever código que não serve para nada e só prejudica é a tão frequente definição das descrições dos campos de uma ALV directamente em ABAP.
 

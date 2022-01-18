@@ -8,7 +8,7 @@ wordpressId: 3740
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Todos os dias o ABAP me revela coisas novos. Às vezes coisas que mais valia eu nem saber que existem. Como esta.
 

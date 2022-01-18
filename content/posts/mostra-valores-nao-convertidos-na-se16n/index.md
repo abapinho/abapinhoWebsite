@@ -8,7 +8,9 @@ wordpressId: 3913
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'se16n formato interno'
+description: 'Há uma forma de ver o formato interno dos valores dos campos na SE16N para não ter de usar a transacção SE17. Basta uma pequena configuração.'
 ---
 A SE16N mostra-te os valores dos campos no formato externo. Até há pouco tempo eu usava a arcaica SE17 para ver os valores no formato interno. Mas o Rui Nunes explicou que há uma forma de o conseguir fazer na SE16N.
 

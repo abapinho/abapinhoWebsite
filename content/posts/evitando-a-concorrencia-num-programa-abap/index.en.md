@@ -8,7 +8,7 @@ wordpressId: 1865
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 They say that competition in trade is good. Good for consumers, that is. It lowers prices and so on. But inside computers it creates problems for those using them.
 

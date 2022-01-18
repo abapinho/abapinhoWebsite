@@ -8,7 +8,7 @@ wordpressId: 3568
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sometimes a thing is right under your nose and your still don't see it.
 

@@ -8,7 +8,7 @@ wordpressId: 1153
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Claro que já conheces a transacção SE30 (Análise de tempo de execução) e claro que a usas amiúde para analisar programas standard e descobrir nele tabelas, funções, BADIs e quejandos.
 

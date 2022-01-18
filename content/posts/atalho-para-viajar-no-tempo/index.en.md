@@ -8,7 +8,7 @@ wordpressId: 2660
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Some months ago I [showed how to transform the debugger into a time machine][1].
 

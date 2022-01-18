@@ -8,7 +8,9 @@ wordpressId: 3913
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'se16n formato interno'
+description: 'Há uma forma de ver o formato interno dos valores dos campos na SE16N para não ter de usar a transacção SE17. Basta uma pequena configuração.'
 ---
 By default SE16N always shows the values in the external format, applying the conversion exit to all of them. Until recently, I used to go the ancient SE17 whenever I needed to see them in their internal format. But Rui Nunes told me how to do it in SE16N.
 

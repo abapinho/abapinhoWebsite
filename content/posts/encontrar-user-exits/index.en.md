@@ -8,7 +8,7 @@ wordpressId: 1898
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Every now and then we’ll be looking for user-exits and BADIs, BTEs and the like. SAP doesn’t help. But programs appear here and there, almost always called Z_USEREXIT, which help with this unappreciated search. Recently I learned of another one. I share it here because it is the best I have ever seen:
 

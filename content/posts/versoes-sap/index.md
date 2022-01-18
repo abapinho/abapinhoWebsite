@@ -8,7 +8,7 @@ wordpressId: 805
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Toda a gente sabe que as versões do SAP são uma grande confusão. Os senhores de Heidelberg que brincam a dar os nomes às coisas lá deles ou são uns caprichosos, ou andam a gozar connosco, ou devem andar sempre à bulha.
 

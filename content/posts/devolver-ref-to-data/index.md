@@ -8,7 +8,9 @@ wordpressId: 3689
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'ref to data'
+description: 'Aprende aqui como usar o REF TO DATA para passar referências de dados entre métodos. E aprender também como fazer asneira a tentá-lo.'
 ---
 Tenho usado cada vez mais referências em ABAP.
 

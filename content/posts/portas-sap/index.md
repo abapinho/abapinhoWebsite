@@ -8,7 +8,7 @@ wordpressId: 701
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Para tua conveniência, aqui tens as portas TCP/IP utilizadas pelo _NetWeaver Application Server ABAP_ e pelo _Internet Connection Manager (ICM)_ :
 

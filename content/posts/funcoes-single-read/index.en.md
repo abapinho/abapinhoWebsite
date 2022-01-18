@@ -8,7 +8,7 @@ wordpressId: 920
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When you need to derive a single record from a database table, you normally use SELECT SINGLE, which is like this in its most basic form, as everyone knows:
 
@@ -62,7 +62,7 @@ Performance-wise this is very bad. The dull and laborious alternative is first t
 
 
 {{< highlight ABAP >}}
-TYPES: BEGIN OF ty_kna1,        
+TYPES: BEGIN OF ty_kna1,
         kunnr TYPE kunnr,
         name1 TYPE name1,
       END OF ty_kna1 .
@@ -75,7 +75,7 @@ FIELD-SYMBOLS: <vbak> LIKE LINE OF lt_vbak,
                <kna1> LIKE LINE OF lt_kna1.
 
 * 1. Obter todas as ordens de venda
-SELECT * FROM vbak 
+SELECT * FROM vbak
   INTO TABLE lt_vbak
   WHERE vbeln IN so_vbeln  " parâmetro do report
 
@@ -103,13 +103,13 @@ But now see how much easier it is to use KNA1_SINGLE_READ:
 
 
 {{< highlight ABAP >}}
-DATA: lt_vbak TYPE STANDARD TABLE OF vbak,      
+DATA: lt_vbak TYPE STANDARD TABLE OF vbak,
           wa_kna1 TYPE kna1.
 
 FIELD-SYMBOLS: <vbak> LIKE LINE OF lt_vbak.
 
 * 1. Obter todas as ordens de venda
-SELECT * FROM vbak 
+SELECT * FROM vbak
   INTO TABLE lt_vbak
   WHERE vbeln IN so_vbeln  " parâmetro do report
 

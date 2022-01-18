@@ -8,7 +8,7 @@ wordpressId: 1106
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O SAP GUI tem boa memória. Vai decorando os valores que lhe vamos metendo nos campos e depois sugere-os quando, mais tarde, voltamos a esses campos. Mas às vezes decora coisas que mais valia esquecer. Como por exemplo quando introduzimos um valor errado e a seguir ele insiste em sugerir-nos esse valor errado.
 

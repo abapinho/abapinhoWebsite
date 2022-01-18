@@ -8,7 +8,7 @@ wordpressId: 2091
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O SAPlink é um programa Z que se instala no ambiente de desenvolvimento e que permite importar e exportar os mais variados tipos de objectos do Workbench.
 

@@ -8,7 +8,7 @@ wordpressId: 2877
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando alteras um objecto e o guardas numa ordem de transporte ele normalmente fica bloqueado. Dentro da ordem de transporte é podes bloquear objectos que não estejam já bloqueados que não estão já bloqueados noutra ordem. Mas, uma vez bloqueados, como é que se desbloqueiam?
 

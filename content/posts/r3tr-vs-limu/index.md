@@ -8,7 +8,7 @@ wordpressId: 2259
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Espatifaste o sistema produtivo: fizeste uma alteração a um método de uma classe (ou a uma função, vá). Outra pessoa faz outra alteração a outro método da mesma classe (ou a outra função do mesmo grupo de funções, vá) e grava-a num transporte diferente. Quando transportas as tuas alterações para produtivo descobres que a classe (ou função, vá) agora tem um erro de sintaxe porque as alterações tinham dependências. Descobres também que agora, e até resolveres este problema, todos os teus colegas funcionais te odeiam.
 

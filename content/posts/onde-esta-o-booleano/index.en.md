@@ -8,7 +8,7 @@ wordpressId: 2937
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 It's not.
 

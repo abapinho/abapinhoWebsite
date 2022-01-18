@@ -8,7 +8,7 @@ wordpressId: 1520
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Mais um artigo em auxílio dos que buscam a subversão subreptícia. Espiões, reparem como editar uma tabela que não pode (e provavelmente não deve) ser editada. Apresento-vos 3 técnicas. A primeira já caducou há anos, a segunda está em vias de caducar e a terceira vamos ver quando caducará.
 

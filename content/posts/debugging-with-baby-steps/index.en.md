@@ -8,7 +8,7 @@ wordpressId: 3511
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When you debug you use F5 key to move to the next statement (or go inside a sub-routine). But imagine an IF with multiple conditions:
 

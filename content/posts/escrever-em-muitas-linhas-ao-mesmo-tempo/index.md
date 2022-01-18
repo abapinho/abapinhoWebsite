@@ -8,7 +8,7 @@ wordpressId: 2950
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O editor de ABAP tem coisas que não lembram ao diabo.
 Até dá para escrever ao mesmo tempo em várias linhas.

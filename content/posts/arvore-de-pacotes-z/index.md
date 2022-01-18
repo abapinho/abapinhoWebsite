@@ -8,7 +8,7 @@ wordpressId: 4291
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quem lê o Abapinho sabe que eu defendo o uso e abuso do [ABAP Package Concept][1]. Hoje em dia a primeira coisa que eu faço quando começo um desenvolvimento novo é criar-lhe um pacote encapsulado que guardará todos os seus objectos que, nos casos mais complexos, será um pacote "Main" ainda subdividido em vários sub-pacotes.
 

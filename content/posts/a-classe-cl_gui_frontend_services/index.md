@@ -8,7 +8,7 @@ wordpressId: 3358
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A classe CL_GUI_FRONTEND_SERVICES é frequentemente usada para fazer _upload_ e _download_ de ficheiros de e para o computador local. Mas ela consegue fazer muitos mais coisas boas. Por exemplo:
 

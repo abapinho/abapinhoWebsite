@@ -8,7 +8,7 @@ wordpressId: 2214
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há bastante tempo atrás [escrevi aqui um artigo][1] demonstrando as vantagens de usar tabelas internas com índices definidos em vez de simples tabelas STANDARD.
 

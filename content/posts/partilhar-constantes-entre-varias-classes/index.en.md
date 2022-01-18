@@ -8,7 +8,7 @@ wordpressId: 2196
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagine you have a herd of related classes sharing between them a whole bunch of constants. Saying the same thing a different way, would you like all the classes of the herd to have easy access to the bunch of constants?
 

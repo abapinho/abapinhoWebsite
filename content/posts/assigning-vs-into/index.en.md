@@ -8,7 +8,7 @@ wordpressId: 865
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In the beginning there was INTO.
 Actually, in the beginning it was not even INTO.

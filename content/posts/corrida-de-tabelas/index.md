@@ -8,7 +8,7 @@ wordpressId: 759
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Senhoras e senhores, meninos e meninas, a corrida está prestes a começar.
 

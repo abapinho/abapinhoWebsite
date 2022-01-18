@@ -8,7 +8,7 @@ wordpressId: 2214
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Some time ago [ I wrote a post here][1] showing the advantages of using internal tables with defined indexes instead of simple STANDARD tables.
 

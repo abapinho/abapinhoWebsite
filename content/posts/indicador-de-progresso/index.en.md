@@ -8,7 +8,7 @@ wordpressId: 648
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You know those progress bars that show how long it will take for a process to end? The ones that sometimes go back to the beginning when they reach the end and leave you frustrated and confused and wondering what use they are anyway? Here’s how you can use them in an ABAP program.
 

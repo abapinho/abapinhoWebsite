@@ -8,7 +8,7 @@ wordpressId: 1625
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Em todo o lado onde se use o elemento de dados KUNNR, a sua descrição diz "Cliente". E se quiseres mudar a descrição deste campo de "Cliente" para "Freguês"? "Freguês" é tão mais bonito! Ou imagina que a empresa para quem trabalhas trafica droga e te diz que gostava que no LIFNR aparecesse "Dealer" em vez de "Fornecedor". Claro que nos ecrãs e relatórios Z podemos descrevê-lo como quisermos mas... e nas transacções standard?
 

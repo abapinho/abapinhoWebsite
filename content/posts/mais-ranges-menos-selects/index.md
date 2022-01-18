@@ -8,7 +8,7 @@ wordpressId: 1721
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O dicionário diz o seguinte do verbete "estilo": "conjunto de aspectos formais e recursos expressivos que caracterizam um texto".
 
@@ -28,15 +28,15 @@ IF i_kunnr IS INITIAL.
   IF i_name1 IS INITIAL.
     SELECT SINGLE * INTO w_kna1 FROM kna1.
   ELSE.
-    SELECT SINGLE * INTO w_kna1 FROM kna1 
+    SELECT SINGLE * INTO w_kna1 FROM kna1
       WHERE name1 = i_name1.
   ENDIF.
 ELSE.
   IF i_name1 IS INITIAL.
-    SELECT SINGLE * INTO w_kna1 FROM kna1 
+    SELECT SINGLE * INTO w_kna1 FROM kna1
       WHERE kunnr = i_kunnr.
   ELSE.
-    SELECT SINGLE * INTO w_kna1 FROM kna1 
+    SELECT SINGLE * INTO w_kna1 FROM kna1
       WHERE kunnr = i_kunnr AND name1 = i_name1.
   ENDIF.
 ENDIF.
@@ -65,7 +65,7 @@ IF i_name1 IS NOT INITIAL.
   APPEND s_name1 TO r_name1.
 ENDIF.
 
-SELECT SINGLE * INTO w_kna1 FROM kna1 
+SELECT SINGLE * INTO w_kna1 FROM kna1
   WHERE kunnr IN r_kunnr AND name1 IN r_name1.
 {{< /highlight >}}
 

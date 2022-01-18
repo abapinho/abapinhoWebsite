@@ -8,7 +8,7 @@ wordpressId: 1477
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When you want to select some lines in an internal table you normally do something like this:
 

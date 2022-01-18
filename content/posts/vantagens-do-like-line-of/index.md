@@ -8,7 +8,7 @@ wordpressId: 2061
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Partamos do princípio de que és uma pessoa com alguma dignidade e que por isso já não usas tabelas internas com HEADER LINE ;)
 

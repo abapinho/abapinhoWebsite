@@ -8,7 +8,7 @@ wordpressId: 2741
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If a development requires more than one customising table consider grouping their maintenance views under a cluster. This way it will be more intuitive to maintain them. This makes even more sense if one depends on the other since in the cluster definition these relations can be explicitly defined.
 

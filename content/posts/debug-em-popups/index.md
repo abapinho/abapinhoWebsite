@@ -8,7 +8,7 @@ wordpressId: 1307
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há determinados momentos em que não é possível fazer /H para iniciar o _debugger_. O caso mais comum é durante uma janela de diálogo modal (aquilo que os estrangeiros chamam de _popup_ ). Mas há uma forma simples, ainda que rocambolesca, para o conseguires:
 

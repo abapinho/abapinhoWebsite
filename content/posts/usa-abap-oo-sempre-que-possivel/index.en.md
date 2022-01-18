@@ -8,7 +8,7 @@ wordpressId: 2711
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 All new developments should be implemented using ABAP Objects unless still impossible (RFC, IN UPDATE TASK, screens, etc).
 Existing developments, when rewritten, should also be converted to OO, if it proves to be realistic.

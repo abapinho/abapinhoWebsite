@@ -8,7 +8,7 @@ wordpressId: 2444
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Um amigo de um amigo de um amigo disse que um amigo dele conhecia um amigo que, num bar de alterne ali nas docas, lhe explicou como roubar os dados a uma SALV.
 
@@ -25,7 +25,7 @@ A primeira manha é executar um comando muito especial que faz com que os dados 
 cl_salv_bs_runtime_info=> set(
       display  = abap_false
       metadata = abap_false
-      data     = abap_true ). 
+      data     = abap_true ).
 {{< /highlight >}}
 
 Manhoso. Muiiito manhoso.
@@ -63,7 +63,7 @@ ASSIGN ls_data->* TO <lt_data>.
 LOOP AT <lt_data> ASSIGNING <l_data>.
   MOVE-CORRESPONDING <l_data> TO s_belege.
   WRITE: / s_belege-mblnr.
-ENDLOOP. 
+ENDLOOP.
 {{< /highlight >}}
 
 Nota que o método GET_DATA_REF() lança a excepção CX_SALV_BS_SC_RUNTIME_INFO se algo falhar por isso convém envolveres a sua invocação num bloco TRY CATCH.

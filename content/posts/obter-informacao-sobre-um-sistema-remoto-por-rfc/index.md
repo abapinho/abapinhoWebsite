@@ -8,7 +8,7 @@ wordpressId: 2674
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Aqui está uma funçãozinha fixe para obter alguns detalhes de um sistema remoto acessível por RFC:
 

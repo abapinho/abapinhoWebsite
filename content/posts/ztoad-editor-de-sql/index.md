@@ -8,7 +8,7 @@ wordpressId: 3411
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O [Toad][1] é uma ferramenta muito famosa no mundo SQL que permite construir e executar _queries_ SQL de forma fácil e interactiva. E agora, graças ao senhor Sébastien HERMANN, o SAP tem uma versão simplificada desta ferramenta maravilha.
 

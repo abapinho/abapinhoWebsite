@@ -8,7 +8,7 @@ wordpressId: 2797
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Pequeno truque para acelerar a introdução de (alguns) dados.
 

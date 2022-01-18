@@ -8,7 +8,7 @@ wordpressId: 1836
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Remote function calls (by RFC) do not support parameters with complex structures (deep structures). In other words, if any of the parameters has a structure in which one of the fields is another structure or an internal table then, hard luck, it won’t work.
 
@@ -42,8 +42,8 @@ Then do the opposite at function ZF4_EXIT:
 FUNCTION zf4_exit.
 
   IMPORT shlp FROM DATA BUFFER shlp_serialized.
-  
-*  and that’s it, you have the shlp here again to do with it as you please 
+
+*  and that’s it, you have the shlp here again to do with it as you please
 
 ENDFUNCTION.
 {{< /highlight >}}

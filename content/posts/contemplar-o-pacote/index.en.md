@@ -8,7 +8,7 @@ wordpressId: 2838
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You are looking at a class in SE24, a table in SE11 or a program in SE80. Now you want to see the package of this object and its content. Until recently, I would do this: first I would look in the object's characteristics to see its package, then open a new session, go to SE80 and write the package there.
 

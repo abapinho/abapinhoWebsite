@@ -8,7 +8,7 @@ wordpressId: 805
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Everyone knows that the SAP versions are a big mess. The lords of Heidelberg who play around with the names they give their things are either an impulsive bunch, are making fun of us, or they must always be in uproar.
 

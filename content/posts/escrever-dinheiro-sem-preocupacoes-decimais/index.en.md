@@ -8,7 +8,7 @@ wordpressId: 2272
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Some people read the TCURX to find out the number of decimal places of a CURRENCY when they need to write a money field to an alphanumeric variable.
 

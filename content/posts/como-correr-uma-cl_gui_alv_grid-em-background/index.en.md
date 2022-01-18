@@ -8,7 +8,9 @@ wordpressId: 4414
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'alv grid background'
+description: 'Quando se tenta correr uma ALV Grid editável em background dá dump. Encontrei uma solução que é muito simples mas pouco óbvia.'
 ---
 Someone decided to run an editable ALV (based on CL_GUI_ALV_GRID) in background. It dumped. The solution is simple but not that obvious.
 <!--more-->

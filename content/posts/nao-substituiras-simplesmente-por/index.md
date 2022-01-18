@@ -8,7 +8,7 @@ wordpressId: 2729
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se precisas de adaptar o conteúdo de um ficheiro com valores (CURR) tem sempre em consideração a parametrização do utilizador (USR01-DSCFM).
 Se precisares de converter um alfa-numérico num número, usa o FM MOVE_CHAR_TO_NUM.

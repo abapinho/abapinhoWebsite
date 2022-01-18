@@ -8,7 +8,7 @@ wordpressId: 2811
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Olá. Tudo bem? A vida? Flui? Esta dica é tão simples que mais vale conversarmos um bocado antes de eu a dizer senão nem dá para aquecer. Está sol. Choveu de manhã mas agora escampou.
 

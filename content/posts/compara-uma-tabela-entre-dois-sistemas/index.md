@@ -8,7 +8,7 @@ wordpressId: 2484
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A transacção SCMP permite comparar o conteúdo de uma tabela entre dois sistemas. Muito útil, principalmente para tabelas de parameterização.
 

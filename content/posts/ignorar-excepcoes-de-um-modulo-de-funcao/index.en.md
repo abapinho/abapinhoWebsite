@@ -8,7 +8,7 @@ wordpressId: 2985
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When calling a function module which returns exceptions you normally give them sequential numbers like this:
 

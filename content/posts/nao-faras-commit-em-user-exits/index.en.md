@@ -8,6 +8,6 @@ wordpressId: 2757
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Never do COMMITs inside user-exits. Also, make sure any external routine you call from there doesn't do any COMMIT either.
