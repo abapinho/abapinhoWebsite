@@ -8,7 +8,7 @@ wordpressId: 3232
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 To check if a program is running in background usually one takes a peek at SY-BATCH. SY-BINPT can also be used to check if the background program is a BDC session. You usually check one of these.
 
@@ -24,7 +24,7 @@ The answer to this peculiar question can be given by this function module:
 
 
 {{< highlight ABAP >}}
-  CALL FUNCTION 'GUI_IS_AVAILABLE' 
+  CALL FUNCTION 'GUI_IS_AVAILABLE'
    IMPORTING
      RETURN        = is_gui_available.
 {{< /highlight >}}

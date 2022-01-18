@@ -8,7 +8,9 @@ wordpressId: 4337
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'abap blame'
+description: 'abapBlame é um projecto open source que tenta replicar em ABAP algum da funcionalidade da ferramenta git-blame: saber quem fez o quê e quando.'
 ---
 O gestor de versões do ABAP é muito mau. Para além de todos os seus defeitos, ele não permite de forma fácil saber quem fez o quê e quando. O [git][1], que é um gestor de versões a sério, permite obter essa informação facilmente através da sua ferramenta [git-blame][2].
 

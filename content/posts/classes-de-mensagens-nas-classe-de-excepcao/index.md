@@ -8,7 +8,7 @@ wordpressId: 2511
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 As classes de excepção permitem declarar múltiplos textos que descrevem os diferentes erros possíveis que elas podem representar.
 

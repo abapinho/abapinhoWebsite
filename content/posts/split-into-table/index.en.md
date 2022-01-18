@@ -8,7 +8,7 @@ wordpressId: 1014
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I’m going to show you a creative way of filling out an internal table with constants that I learned in a standard program. Imagine you want to create an internal table with the following kinds of financial documents:
 

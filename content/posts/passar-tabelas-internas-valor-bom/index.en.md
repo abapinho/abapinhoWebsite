@@ -8,7 +8,8 @@ wordpressId: 3578
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'tabelas internas por valor'
 ---
 When a method returns a value as a RETURNING parameter this is always done by value and not by reference. Several of my methods return internal tables, some of them quite large. It always worried me the idea that, since it’s being passed by value, ABAP would be returning a copy of the internal table, impacting both performance and the program’s used memory.
 

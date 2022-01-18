@@ -8,7 +8,7 @@ wordpressId: 442
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagina uma tabela interna tão simplória que nem sequer tem uma estrutura de dados com campos:
 
@@ -21,8 +21,8 @@ Agora imagina que queres fazer uma pesquisa nessa tabela para saber se contém o
 
 
 {{< highlight ABAP >}}
-READ TABLE t_simploria 
-  TRANSPORTING NO FIELDS 
+READ TABLE t_simploria
+  TRANSPORTING NO FIELDS
   WITH KEY table_line = 'sumo de melão'.
 {{< /highlight >}}
 

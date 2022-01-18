@@ -8,7 +8,8 @@ wordpressId: 4663
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'listas de distribuição'
 ---
 When you need to send an email to multiple email addresses, the usual approach is to store that list of email addresses in a custom table and then add each one as recipient to the BCS request.
 

@@ -8,7 +8,9 @@ wordpressId: 4682
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'listbox'
+description: 'O LISTBOX é raramente usado em ecrãs de selecção. Este artigo ensina como populá-lo manualmente com os nossos próprios valores.'
 ---
 In 2012 I [wondered why LISTBOX is so rarely used][1]. I taught how to use it with standard data elements, which automatically populate it. Today I'll teach you how you can populate it yourself.
 

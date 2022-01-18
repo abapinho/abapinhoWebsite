@@ -8,7 +8,7 @@ wordpressId: 2330
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nos maus velhos tempos em que o ABAP era ainda mais antiquado do que é hoje, as declarações de variáveis eram quase todas feitas com LIKE e referenciadas a campos de tabelas:
 

@@ -8,7 +8,7 @@ wordpressId: 1921
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Depois de o site irmão ABAPZombie (grande site brasileiro sobre ABAP) me ter [entrevistado][1] há uns meses atrás, aqui fica finalmente a minha vingança Zômbica. Entrevistar o Mauricio foi muito simples porque as perguntas que me fizeram são tão boas que resolvi virá-las contra o feiticeiro (Mauricio, espero que não leves a mal ter-tas usurpado!). As suas óptimas respostas ajudarão certamente os leitores portugueses a terem uma ideia de como funciona o mercado ABAP lá no Brasil:
 

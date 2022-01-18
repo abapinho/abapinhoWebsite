@@ -8,7 +8,7 @@ wordpressId: 1671
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If you are one of those who insert the values directly in code instead of using constants, then read no more and go and stand over there in the corner on punishment for 1 hour to learn not to be lazy. If you've come back from punishment or you usually use constants, then please continue reading.
 

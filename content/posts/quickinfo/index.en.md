@@ -8,7 +8,7 @@ wordpressId: 2298
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In my opinion, this tip has arrived a few years too late, as it is now rare to use the WRITE command to directly write things to the screen. Therefore, we can say it's a retro tip. A _vintage_ tip. But let's assume we are still in the twentieth century grappling with ABAP’s most Baroque command, WRITE.
 

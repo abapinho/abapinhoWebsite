@@ -8,7 +8,9 @@ wordpressId: 4712
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'NOT IN RANGE'
+description: 'As duplas negativas de um RANGE são confusas. Que valor devolve o NOT IN range quando esse RANGE está vazio? TRUE como é lógico? Ou FALSE como é óbvio?'
 ---
 Os RANGEs têm propriedades interessantes.
 

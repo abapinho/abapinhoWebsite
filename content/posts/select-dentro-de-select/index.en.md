@@ -8,7 +8,7 @@ wordpressId: 2677
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 ABAP programmers don't explore the possibilities of SQL, probably for historical reasons. There are many who instead of using INNER JOINs still think it's faster to do several SELECTs for internal tables and then process the data in ABAP. But the truth is that even if there are exceptions, the rule is: the lower the number of accesses to the database, the better the performance. And it makes sense because, after all, they were written explicitly for this; relational databases are much more adept at processing relational data than an ABAP program.
 

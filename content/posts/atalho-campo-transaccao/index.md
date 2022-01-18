@@ -8,7 +8,7 @@ wordpressId: 1938
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Estás tu escrevendo furiosamente pelo SAP adentro qualquer quando de repente precisas de ir lá acima ao campo da transacção escrever /OS37 ou algo assim. Mas escreves com tanto tanto tanto fervor que a simples ideia de largar o teclado por um momento para ir com a mão ao rato te parece catastrófica. Então, em vez disso, carregas em 3 teclas: CTRL-SHIFT-7.
 

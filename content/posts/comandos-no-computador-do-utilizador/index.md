@@ -8,7 +8,7 @@ wordpressId: 2084
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Já há uns tempos que o Abapinho não mexia com o fogo. Hoje mexerá.
 

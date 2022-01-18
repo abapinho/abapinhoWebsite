@@ -8,7 +8,7 @@ wordpressId: 2330
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 In the ‘bad old days’ when the ABAP was even more old-fashioned than today, variable statements were all made through LIKE and were referenced to table fields:
 

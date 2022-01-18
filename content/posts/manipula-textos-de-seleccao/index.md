@@ -8,7 +8,8 @@ wordpressId: 4653
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+description: 'Manipula os textos de selecção de um relatório podendo continuar a traduzi-los sem problemas.'
 ---
 Embora muitos ABAPers ainda se esqueçam disto, quanto menos textos forem fixados no programa mais fácil será traduzi-lo.
 

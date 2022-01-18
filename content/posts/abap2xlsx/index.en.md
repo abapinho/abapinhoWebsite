@@ -8,7 +8,7 @@ wordpressId: 1803
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 There are various ways of creating an Excel spreadsheet in ABAP. Some are more masochistic than others and some are certainly more lousy than others.
 

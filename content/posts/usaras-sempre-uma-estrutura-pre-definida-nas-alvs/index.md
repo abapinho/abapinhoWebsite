@@ -8,7 +8,7 @@ wordpressId: 2751
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 É comum encontrar as estruturas de dados das ALVs declaradas explicitamente no código. Quando isto é feito, o catálogo de campos tem de ser criado manualmente. Se em vez disso se usar uma estrutura pré-definida (do DDIC ou como TYPE), o catálogo de campos pode ser criado automaticamente. Esta abordagem é sempre melhor resultando em menos código, mesmo que o catálogo de campos tenha de ser reajustado aqui e ali.
 https://abapinho.com/en/2011/12/automatizar-catalogo-alv/

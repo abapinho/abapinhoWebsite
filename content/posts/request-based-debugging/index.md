@@ -8,7 +8,7 @@ wordpressId: 2665
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se em _debug_ consultares a variável de sistema UNAME dentro de uma chamada RFC podes achar estranho encontrar um utilizador que não o teu. O que acontece é que o sistema adopta um utilizador específico a chamadas remotas e uma nova sessão é iniciada. Uma nova sessão implica um novo contexto de execução e, consequentemente, todos os nossos _breakpoints_ , já estrategicamente colocados, não serão reconhecidos.
 

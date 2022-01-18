@@ -8,7 +8,7 @@ wordpressId: 2717
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se o mesmo pedaço de código estiver repetido mais do que uma vez, pergunta-te porquê e tenta evitá-lo, criando uma rotina reutilizável.
 Se, num programa, existir mais do que um SELECT para a mesma tabela, tenta fundi-los num único. Por vezes a utilização inteligente de RANGES para unificar parâmetros pode evitar a necessidade de múltiplos SELECTs a uma mesma tabela.

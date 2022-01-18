@@ -8,7 +8,7 @@ wordpressId: 2715
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Historicamente os programas ABAP tendem a ser muito loooongos. Todas as boas prácticas de programação ensinam que não há uma única vantagem nisso.
 Se uma rotina, seja ela um programa, um método, uma função ou outra coisa, tiver mais do que 200-300 linhas, desconfia e considera seriamente modularizá-la em várias sub-rotinas.

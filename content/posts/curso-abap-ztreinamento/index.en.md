@@ -8,7 +8,7 @@ wordpressId: 1748
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 (actualizado em 16 de Junho)
 

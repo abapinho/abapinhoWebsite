@@ -8,7 +8,8 @@ wordpressId: 3603
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'parâmetros de método'
 ---
 Let's say you want to call a method for which you don't know the parameters. What do you do?
 

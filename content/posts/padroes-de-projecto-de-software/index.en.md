@@ -8,7 +8,8 @@ wordpressId: 3421
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'design patterns'
 ---
 We are constantly learning. But once in a while we learn something which is a leap forward forcing us to look in a new way to everything we do.
 

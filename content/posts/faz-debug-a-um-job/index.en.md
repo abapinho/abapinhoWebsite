@@ -8,7 +8,7 @@ wordpressId: 2653
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Here's a simple way to start debugging a job:
 

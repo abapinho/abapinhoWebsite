@@ -8,7 +8,7 @@ wordpressId: 3272
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Pipes are the new trend when it comes to manipulating strings:
 

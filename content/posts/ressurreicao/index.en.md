@@ -8,7 +8,7 @@ wordpressId: 572
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Batendo impetuoso com seus braços no peito,
 o famoso guerreiro gritava desesperado:

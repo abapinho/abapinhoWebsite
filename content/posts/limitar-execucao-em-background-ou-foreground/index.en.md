@@ -8,7 +8,7 @@ wordpressId: 3325
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You've developed a report which you know will take over 12 hours to run. So you don't want anyone to try to run it in foreground. I'll show you a way to make sure it doesn't happen.
 

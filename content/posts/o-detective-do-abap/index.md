@@ -8,7 +8,7 @@ wordpressId: 2622
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Em SAP, quando um desenvolvimento está concluído, chega finalmente o momento de o enviar para outros sistemas onde pode ser devidamente testado e por fim executado pelos utilizadores.
 Mas antes disso, é crucial verificar se não existem lapsos, erros e afins que possam levar ao aparecimento de alguns comportamentos imprevisíveis por parte dos nossos programas.

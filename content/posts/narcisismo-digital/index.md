@@ -8,7 +8,7 @@ wordpressId: 1904
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 
 Chama-se _reflexão_ à capacidade de um programa se ver a si próprio. O ABAP tem uma série de capacidades reflexivas como o RTTS ou a capacidade de gerar código dinamicamente. Além disso há mais umas funções assim e assado que fazem isto e aquilo. Hoje apresento-vos uma delas:

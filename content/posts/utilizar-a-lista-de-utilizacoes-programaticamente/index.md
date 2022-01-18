@@ -8,7 +8,7 @@ wordpressId: 3377
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A ferramenta "lista de utilizações" é uma das mais queridas de um programador ABAP. Através dela conseguimos saber onde é que um objecto é utilizado. Parece pouco mas sabemos que é muito.
 
@@ -39,7 +39,7 @@ EXCEPTIONS
    not_executed                       = 1
    not_found                          = 2
    illegal_object                     = 3
-   no_cross_for_this_object           = 4 
+   no_cross_for_this_object           = 4
    batch                              = 5
    batchjob_error                     = 6
    wrong_type                         = 7

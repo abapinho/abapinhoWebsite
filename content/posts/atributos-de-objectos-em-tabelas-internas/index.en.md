@@ -8,7 +8,7 @@ wordpressId: 1551
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 There are increasingly more objects in ABAP, gradually less fear of them and, lo and behold, more and more people are writing and using them. It is normal and desirable, if objects begin to appear everywhere, to start to stuff them into internal tables. I also stored a load of objects in tables a while back, unfortunately I did not know at that time what I am going to teach you here. It could have come in handy.
 

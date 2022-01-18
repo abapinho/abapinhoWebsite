@@ -8,7 +8,7 @@ wordpressId: 3238
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You may not even know how to program but if you're able to type fast and know enough keyboard shortcuts everyone will think you're an expert.
 

@@ -8,7 +8,9 @@ wordpressId: 4640
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'dummy function module'
+description: 'Cria funções manequins locais com o mesmo nome de funções chamadas por RFC noutros sistemas SAP.'
 ---
 Como é que se há-de traduzir _dummy_? Fica manequim.
 

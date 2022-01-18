@@ -8,7 +8,7 @@ wordpressId: 3539
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagina que estás a mexer num programa daqueles antigos que têm milhares de linhas (sim porque hoje em dia sabes que não modularizar é errado (pecado mesmo) e os teus métodos (sim porque hoje tu já só usas métodos) nunca passam das 200 linhas).
 

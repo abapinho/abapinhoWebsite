@@ -8,7 +8,7 @@ wordpressId: 1520
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Another article to help those who are into sneaky subversion Spies, take note on how to edit a table that cannot be (and probably shouldn’t be) edited. I’ll show you three techniques. The first stopped being useful a few years ago, the second is about to become obsolete and the third, well, we’ll just have to see for how long it will work.
 

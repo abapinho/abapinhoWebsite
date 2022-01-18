@@ -8,7 +8,7 @@ wordpressId: 3183
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You're in the middle of a debug and want it to stop at a specific message.
 

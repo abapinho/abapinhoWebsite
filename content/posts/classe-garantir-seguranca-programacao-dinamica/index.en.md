@@ -8,7 +8,7 @@ wordpressId: 3830
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I recently found a program which was generating an SQL statement by concatenating several variables with fixed SQL parts. But, either by not paying attention or simple ignorance, the person who did it, thought it would make sense to associate a text-symbol to each of these variables with. Something like this:
 

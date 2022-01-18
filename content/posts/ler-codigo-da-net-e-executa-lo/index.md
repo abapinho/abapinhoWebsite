@@ -8,7 +8,7 @@ wordpressId: 2358
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Este artigo é um dois em um. Ou seja, vais aprender duas coisas de uma só vez.
 

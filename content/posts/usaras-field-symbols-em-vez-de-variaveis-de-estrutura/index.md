@@ -8,7 +8,7 @@ wordpressId: 2725
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 READ TABLE itbl ASSIGNING  é sempre mais rápido que READ TABLE itbl INTO wa.
 Além disso, quando precisares de alterar dados em registos de uma tabela interna, assim não precisas de usar o comando MODIFY nem da variável auxiliar que às vezes usas para guardar o SY-TABIX.

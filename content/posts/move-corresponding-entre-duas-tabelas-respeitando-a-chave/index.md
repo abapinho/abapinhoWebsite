@@ -8,7 +8,9 @@ wordpressId: 4427
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'CORRESPONDING de tabelas'
+description: 'Como, num único comando, preencher campos extra de uma tabela interna a partir de outra usando a nova forma "look up" do CORRESPONDING.'
 ---
 O Abapinho não tem falado muito sobre o 7.40 porque as suas novidades têm já sido amplamente descritas em vários sites. Tentamos não inventar a roda.
 

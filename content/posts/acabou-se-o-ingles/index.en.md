@@ -8,7 +8,7 @@ wordpressId: 3142
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sadly, Abapinho will not be able to continue posting the English translation of the Portuguese posts. I am sorry to all the readers who don't speak Portuguese.
 

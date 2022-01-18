@@ -8,7 +8,7 @@ wordpressId: 2516
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You are doing a LOOP AT in a 1000-line table, and you know that you want line 853. Until recently, you had two options: either hit F8 852 times, running the risk of hitting it 853 times and having to start all over again, or create a _watchpoint_ with the condition SY-TABIX = 852 or something close, and pray that it worked.
 

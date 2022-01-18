@@ -8,7 +8,7 @@ wordpressId: 2985
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando chamas um módulo de função que devolve excepções normalmente dás-lhes números sequenciais tipo isto:
 

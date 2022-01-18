@@ -8,7 +8,7 @@ wordpressId: 2460
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Cartoons always look good in a report. In a SAPGui that is boredom in blue, the more colours and cartoons there are the better it is. Luís Rocha showed me a very convenient function to fill up a report with icons.
 

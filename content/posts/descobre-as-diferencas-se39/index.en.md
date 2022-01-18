@@ -8,7 +8,7 @@ wordpressId: 3556
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Earlier today I was doing a QC review to a new program named ZSDFAKSPE with almost 1000 lines and no comment whatsoever. An obvious clone of a standard program called SDFAKSPE.
 

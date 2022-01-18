@@ -8,7 +8,8 @@ wordpressId: 3948
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'debug sem permissões'
 ---
 In a well protected system, normal users don't have debug permissions. Very often, this makes it harder for ABAP programmers to help solve the users' problems, not being able to debug directly in their session.
 

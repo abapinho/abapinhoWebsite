@@ -8,7 +8,7 @@ wordpressId: 1487
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A little while ago I had an idea as eccentric as it was amazing that today I have decided to share here, namely, how to create private methods in BADI classes.
 

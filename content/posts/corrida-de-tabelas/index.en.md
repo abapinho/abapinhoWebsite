@@ -8,7 +8,7 @@ wordpressId: 759
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Ladies and gentlemen, boys and girls, the race is about to begin.
 

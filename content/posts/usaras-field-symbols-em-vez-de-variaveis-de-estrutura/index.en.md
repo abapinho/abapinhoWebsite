@@ -8,7 +8,7 @@ wordpressId: 2725
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 READ TABLE itbl ASSIGNING  is always faster than READ TABLE itbl INTO wa.
 Besides, when making changes to internal tables, not only it doesn’t require the explicit MODIFY but it also does away with the auxiliary TABIX variable.

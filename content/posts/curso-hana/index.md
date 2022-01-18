@@ -8,7 +8,7 @@ wordpressId: 2364
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A SAP começou a semana passada a dar um [curso grátis sobre HANA][1]. Corram!
 

@@ -8,7 +8,9 @@ wordpressId: 3882
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'serialização em ABAP'
+description: 'Aprende a serializar e deserializar classes em ABAP para as clonares como clonaram a Dolly e assim trabalhares em OOP de forma verdadeiramente distribuída'
 ---
 This article was written by José Vília:
 

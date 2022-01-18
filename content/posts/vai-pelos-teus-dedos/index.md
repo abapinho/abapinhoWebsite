@@ -8,7 +8,7 @@ wordpressId: 1710
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Tenho uma série de amigos gestores, advogados, marketeers, programadores, etc. que trabalham em empresas muito dinâmicas e competitivas, que dizem ser muito ocupados e que têm sempre imenso trabalho. Dedicaram vários anos da sua vida a um curso superior para se especializarem numa determinada área e alguns deles já fizeram o esforço adicional de tirar pós-graduações para terem mais qualificações e conseguirem fazer mais coisas melhor e mais depressa. Mas a maior parte deles usa 2 dedos para teclar no computador. Acumularam durante anos imensas capacidades que é suposto torná-los ultra-eficientes, e depois usam 2 dedos para as teclar.
 

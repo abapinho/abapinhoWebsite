@@ -6,6 +6,8 @@ tags: []
 categories: [dicas]
 wordpressId: 3611
 draft: false
+keyword: 'encontra métodos[:en]pesquisa métodos'
+description: 'Uma óptima forma de pesquisar coisas no repositório do sistema de informação do SAP que te pode ajudar a poupar imenso tempo{:en}Uma '
 ---
 Sabes que há uns anos atrás fizeste um método qualquer cujo nome tinha a palavra MALMEQUER. Mas, e agora? Como é que o encontras?
 

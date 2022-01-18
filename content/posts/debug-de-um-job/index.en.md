@@ -8,7 +8,7 @@ wordpressId: 3129
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 [:pt]Para fazeres _debug_ a um programa que faça parte de um _job_ faz o seguinte:
 

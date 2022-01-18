@@ -8,7 +8,7 @@ wordpressId: 1325
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Já te aconteceu o SAPGui não guardar um histórico dos valores que vais introduzindo nos vários campos ainda que, nas configurações, a opção de Histórico esteja activa?
 

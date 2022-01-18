@@ -8,7 +8,7 @@ wordpressId: 1671
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se és daqueles que, em vez de usarem constantes, espetam com os valores directamente no código, então pára de ler isto e vai ali para o canto de castigo durante 1 hora que é para aprenderes a não ser mandrião. Quando voltares podes continuar a ler.
 

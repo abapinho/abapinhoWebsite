@@ -8,7 +8,7 @@ wordpressId: 3377
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The "where used" tool is very dear to any ABAP developer. Through it one can find out where a given object is used. Doesn't look like much but we all know how important this is.
 
@@ -39,7 +39,7 @@ EXCEPTIONS
    not_executed                       = 1
    not_found                          = 2
    illegal_object                     = 3
-   no_cross_for_this_object           = 4 
+   no_cross_for_this_object           = 4
    batch                              = 5
    batchjob_error                     = 6
    wrong_type                         = 7

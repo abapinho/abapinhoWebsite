@@ -8,7 +8,7 @@ wordpressId: 3252
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Normalmente os sistemas SAP têm definido um tempo limite para que um programa possa correr interactivamente. Se o programa demorar mais ocorre um erro de execução (vulgo _dump_ ).
 

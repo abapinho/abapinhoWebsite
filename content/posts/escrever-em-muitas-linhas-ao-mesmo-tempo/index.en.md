@@ -8,7 +8,7 @@ wordpressId: 2950
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The ABAP editor has many curious functionalities.
 You can even write in multiple lines at the same time.

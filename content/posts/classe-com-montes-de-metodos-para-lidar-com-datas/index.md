@@ -8,7 +8,7 @@ wordpressId: 2685
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há inúmeras funções standard para fazer cálculos com datas. São muitas, são demais, são redundantes e, em muitos casos, são obscuras ou impossíveis de compreender. Andava há que tempos para fazer um artigo aqui com uma lista das mais úteis. Mas agora já não é preciso.
 

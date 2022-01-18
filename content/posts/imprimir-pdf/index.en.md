@@ -8,7 +8,7 @@ wordpressId: 536
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Receita rápida:
 

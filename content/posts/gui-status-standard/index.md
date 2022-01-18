@@ -8,7 +8,9 @@ wordpressId: 3667
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'gui status standard'
+description: 'Aprender aqui como podes usar o GUI Status Standard numa ALV sem teres de o andar a copiar de outro programa standard qualquer.'
 ---
 Quando queres usar a CL_GUI_ALV_GRID num CONTAINER tens de copiar um GUI Status standard de outro programa. Por exemplo o GUI Status “STANDARD" do grupo de funções SALV. E depois no PAI do ecrã chamas:
 

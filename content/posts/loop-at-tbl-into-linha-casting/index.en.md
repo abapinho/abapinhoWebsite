@@ -8,7 +8,7 @@ wordpressId: 2928
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Did you know that you can do a LOOP on an internal table of one type into a structure of a different type?
 
@@ -38,7 +38,7 @@ The old way of doing it required you to manually convert LINHA1 into LINHA2:
               s_linha2 TYPE ty_s_linha2.
 
     FIELD-SYMBOLS: <s_linha1> TYPE ty_s_linha2.
-    
+
    LOOP AT t_linha1 ASSIGNING <s_linha1>.
      MOVE-CORRESPONDING <s_linha1> TO s_linha2.
      do_something( s_linha2 ).
@@ -51,7 +51,7 @@ But a simple word, CASTING, makes everything so much simpler:
 {{< highlight ABAP >}}
     DATA: t_linha1 TYPE STANDARD TABLE OF ty_s_linha1.
     FIELD-SYMBOLS: <s_linha2> TYPE ty_s_linha2.
-    
+
    LOOP AT t_linha1 ASSIGNING <s_linha2> CASTING.
     faz_algo( s_linha2 ).
   ENDLOOP.

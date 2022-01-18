@@ -8,7 +8,9 @@ wordpressId: 3717
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'ASSERT vs Excepção'
+description: 'Além de classes de excepções, o ABAP também disponibiliza o commando ASSERT. Aprende quando usar excepções e quando usar ASSERTs.'
 ---
 If you read Abapinho you already know how much I like exception classes. But this is not the only ABAP mechanism for dealing with errors.
 

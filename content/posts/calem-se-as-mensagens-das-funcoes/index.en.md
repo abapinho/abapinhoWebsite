@@ -8,7 +8,7 @@ wordpressId: 3055
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 There are standard functions that trigger messages where they shouldn’t. And they shouldn’t because we want to use these functions in non-interactive programs and then, instead of returning the error, an error message is triggered and ruins the whole process.
 

@@ -8,7 +8,7 @@ wordpressId: 553
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 It’s very easy to get tied up in knots where performance is concerned when you’re working with internal tables – especially when they’re getting really big. In fact these problems often only arise after a few months, when the tables tend to grow as time goes by.
 
@@ -29,14 +29,14 @@ Why don’t you do this instead?
 
 {{< highlight ABAP >}}
 SORT itab2 BY field1.
- 
+
 LOOP AT itab1 ASSIGNING <fs1>.
 
-   READ TABLE itab2 WITH KEY field1 = <fs1>-field1 
+   READ TABLE itab2 WITH KEY field1 = <fs1>-field1
       BINARY SEARCH TRANSPORTING NO FIELDS.
    CHECK SY-SUBRC = 0.
-   lv_tabix = sy-tabix.       
- 
+   lv_tabix = sy-tabix.
+
    LOOP AT itab2 FROM lv_tabix ASSIGNING <fs2>.
       IF <fs2>-field1 <> <fs1>-field1.
          EXIT.

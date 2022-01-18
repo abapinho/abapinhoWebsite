@@ -8,7 +8,7 @@ wordpressId: 3641
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The ABAP editor is full of functionalities yet to be discovered.
 

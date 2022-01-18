@@ -8,7 +8,9 @@ wordpressId: 3822
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'relatório consistência SALV'
+description: 'Aprende como utilizar o relatório de consistência da SALV para descobrires todos os problemas que ela possa ter que de outra forma não descobririas'
 ---
 Às vezes uma SALV pode ter inconsistências que passam despercebidas a quem as programa. Um exemplo é uma estrutura com um campo WRBTR sem um campo de moeda associado:
 

@@ -8,14 +8,14 @@ wordpressId: 2700
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Aqui está uma forma simples de programaticamente ter acesso aos textos de um programa qualquer.
 
 
 {{< highlight ABAP >}}
 DATA: t_textos TYPE TABLE OF textpool.
-READ TEXTPOOL sy-repid INTO t_textos 
+READ TEXTPOOL sy-repid INTO t_textos
   LANGUAGE sy-langu STATE 'A’.
 {{< /highlight >}}
 

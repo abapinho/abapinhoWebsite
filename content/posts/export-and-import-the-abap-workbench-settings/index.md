@@ -8,7 +8,7 @@ wordpressId: 3568
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Às vezes as coisas estão mesmo debaixo do nosso nariz e não as vimos.
 

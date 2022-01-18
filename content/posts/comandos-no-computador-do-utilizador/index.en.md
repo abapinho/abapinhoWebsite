@@ -8,7 +8,7 @@ wordpressId: 2084
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 It’s been a while since Abapinho played with fire. Today he will.
 

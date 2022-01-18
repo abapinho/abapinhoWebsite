@@ -8,7 +8,8 @@ wordpressId: 3488
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'enhancement'
 ---
 You just found a bug in a standard FORM (or FM or METHDO):
 

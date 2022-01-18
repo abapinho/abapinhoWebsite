@@ -8,7 +8,7 @@ wordpressId: 3307
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nuno Morais has developed another very useful tool to help simplify mass translations of most SAP objects.
 

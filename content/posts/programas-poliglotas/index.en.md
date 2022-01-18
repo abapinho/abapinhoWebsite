@@ -8,7 +8,7 @@ wordpressId: 1140
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 SAP is multilingual. But ABAP not always. ABAP does have some ability to learn and speak a few languages, but sometimes the programmers do not let it.
 

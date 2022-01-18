@@ -8,7 +8,7 @@ wordpressId: 752
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 [Noutro artigo][1] falámos de macros, uma funcionalidade relativamente obscura e pouco utilizada que tanto pode ser útil como criar uma grande salganhada. Mas estas não são as únicas macros do ABAP. Há outras, ainda mais obscuras e com ainda maior potencial de enfarelhamento de um sistema: as macros globais.
 

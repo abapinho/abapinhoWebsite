@@ -8,7 +8,7 @@ wordpressId: 2976
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Hoje vou ensinar-te a encadear excepções. É uma solução muito práctica para um problema complicado mas pouco óbvio.
 

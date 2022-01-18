@@ -8,7 +8,9 @@ wordpressId: 3923
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'liberar ordens sem autorização'
+description: 'Aprende como alterar e liberar ordens de transporte num sistema de desenvolvimento mesmo que não tenhas permissõse para o fazer.'
 ---
 Como todos nós sabemos os administradores de sistemas são pessoas más, insensíveis e crueis. A prová-lo está o incontornável [BOFH][1].
 

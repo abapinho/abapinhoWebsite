@@ -8,7 +8,7 @@ wordpressId: 3534
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando chamas uma função por RFC tens de lhe dar a RFC DESTINATION do sistema remoto:
 

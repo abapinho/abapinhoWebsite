@@ -8,18 +8,19 @@ wordpressId: 3502
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'native sql'
 ---
 Por vezes o SQL do ABAP não te permite fazer coisas que conseguirias fazer usando SQL nativo da base de dados. É possível fazê-lo.
 
 
 {{< highlight ABAP >}}
-* Converte para maiúsculas e acrescenta wildcard 
+* Converte para maiúsculas e acrescenta wildcard
   TRANSLATE l_name1 TO UPPER CASE.
   CONCATENATE l_name1 '%' INTO l_name1.
 
 * Executa SQL nativo para fazer
-* uma pesquisa "case insensitive" pelo nome 
+* uma pesquisa "case insensitive" pelo nome
   EXEC sql performing SAVE_ROW.
     SELECT kunnr
            INTO :l_kuune

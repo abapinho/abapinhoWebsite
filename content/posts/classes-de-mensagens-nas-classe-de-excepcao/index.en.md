@@ -8,7 +8,7 @@ wordpressId: 2511
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Exception classes let you state multiple texts describing the different possible errors that they can represent.
 

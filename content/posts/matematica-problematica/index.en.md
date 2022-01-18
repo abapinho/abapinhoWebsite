@@ -8,7 +8,7 @@ wordpressId: 2501
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Do you know the difference between a mystery and an enigma puzzle? An enigma puzzle is known to have a solution, but with a mystery you don’t know if there is solution.
 

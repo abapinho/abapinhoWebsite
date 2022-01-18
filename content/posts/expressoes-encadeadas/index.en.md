@@ -8,7 +8,7 @@ wordpressId: 2232
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Finally, the _SAP NetWeaver 7.0 Enhancement Package 2_ makes ABAP start to seem like a normal programming language.
 

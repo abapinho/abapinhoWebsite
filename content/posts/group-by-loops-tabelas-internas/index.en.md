@@ -8,7 +8,8 @@ wordpressId: 3497
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'group by'
 ---
 We've all sorted internal tables to use AT NEW on a LOOP.
 But starting from 7.40, we can use GROUP BY on LOOPs.

@@ -8,7 +8,8 @@ wordpressId: 3454
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'checkpoint groups'
 ---
 _Checkpoints_ é uma _framework_ muito poderosa do ABAP que no entanto quase ninguém a usa. Porquê? Provavelmente pela mesma razão que quase ninguém ouve [Sun Ra][1] e que quase ninguém sabe que o [Frank Zappa][2] tem 102 álbuns. Porque embora seja bom, é obscuro e pouco comercial. Os _checkpoints_ são, de facto bons e pouco comerciais. Mas deviam ser mais como o Mozart, que é bom e comercial.
 

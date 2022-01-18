@@ -8,7 +8,7 @@ wordpressId: 2804
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When you try to delete a package where you have created objects that have meanwhile been deleted, and the package looks empty in SE80, when you try to delete it, it won’t work because it says the package still contains objects.
 

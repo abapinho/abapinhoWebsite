@@ -8,7 +8,7 @@ wordpressId: 2071
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 There are some projects in which the authorisations group associated with table maintenance is always &NC;&, that is, Not Classified. It signals that everything there is friendly and nobody is hurting anyone else. But there are other projects where authorisation groups are taken seriously. But this is not synonymous with saying that they are organised. Serious or not, usually it all ends in a big mess, with nobody knowing who is authorised to do what.
 

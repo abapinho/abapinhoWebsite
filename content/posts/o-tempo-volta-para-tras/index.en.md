@@ -8,7 +8,7 @@ wordpressId: 1583
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 “Oh time turn back
 Give me everything I have lost

@@ -8,7 +8,7 @@ wordpressId: 2117
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Boa parte dos meus amigos quando compra um computador novo preocupa-se imenso com a velocidade do CPU e a velocidade do disco e a velocidade da memória e a velocidade do raio que os parta. E depois compra um rato de 1200$00 e um teclado de 1400$00. Ironia. Enquanto o CPU e o disco e a memória e o tal raio que os parta acabam quase sempre por ser bastante desperdiçados, o rato e o teclado são usados por inteiro durante a totalidade do tempo de utilização do computador. Quantas vezes não pego num rato alheio que para que ele se chegue a um ícone quase tenho de lhe atravessar umas chapadas, só porque o rato é de má qualidade ou porque o seu dono nunca se deu ao trabalho de usar um tapete apropriado. Não faz sentido. Para quem, como eu, faz do computador a sua ferramenta principal de trabalho, a forma como se interage com ele deve ter o menor atrito possível, deve facilitar e não dificultar.
 

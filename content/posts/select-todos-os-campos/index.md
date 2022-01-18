@@ -8,7 +8,7 @@ wordpressId: 486
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Embora seja evidente que, ao fazer selecções de dados de uma tabela da base de dados, devemos ter o cuidado de escolher apenas os campos que necessitamos, a verdade é que há muito boa gente que não se dá a esse trabalho e manda vir tudo.
 

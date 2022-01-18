@@ -8,7 +8,7 @@ wordpressId: 1904
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 _Reflection_ is the ability of a program to see itself. ABAP has a series of reflective capabilities, such as RTTS or the ability to dynamically generate code. There are also a few other so-and-so functions that do this and that. Today I present one of them to you:
 

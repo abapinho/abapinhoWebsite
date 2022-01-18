@@ -8,7 +8,8 @@ wordpressId: 3948
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'debug sem permissões'
 ---
 Num sistema bem protegido, os utilizadores não têm permissões para debug. Mas muitas vezes isso complica a vida dos ABAPers que, ao quererem resolver um problema desse utilizador, não podem fazer debug à sua sessão.
 

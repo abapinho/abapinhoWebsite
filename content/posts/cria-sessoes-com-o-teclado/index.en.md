@@ -8,7 +8,7 @@ wordpressId: 1933
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You need to start a new session but your mouse was stolen. No problem. Press CTRL and then the + key and you will see a new session coming in.
 

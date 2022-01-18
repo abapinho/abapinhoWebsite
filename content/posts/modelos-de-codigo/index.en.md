@@ -8,7 +8,7 @@ wordpressId: 1262
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 To find out which professions attract the laziest people, I googled the following:
 

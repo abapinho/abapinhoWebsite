@@ -8,7 +8,7 @@ wordpressId: 1933
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Queres criar uma nova sessão e roubaram-te o rato. Não faz mal. Carregas no CTRL e na tecla + e vais ver uma nova sessão a aparecer.
 

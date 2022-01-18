@@ -8,7 +8,7 @@ wordpressId: 1666
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Não é incomum criarmos uma relação emocional com as nossas passwords. Por isso, é sempre com alguma dor que se recebe aqueles abjectos avisos ameaçadores que dizem que "a sua password vai expirar". Brevemente seguidos pelo duro golpe que recebemos no coração quando surge a inevitável ignóbil invectiva que diz que "a sua password expirou". Nesses momentos a mágoa é tanta que todas as musas nos abandonam, temos uma cãibra na imaginação e ficamos ali, especados, esquecidos, esvaziados de qualquer ideia que nos ajude a escolher a nossa próxima palavra-chave.
 

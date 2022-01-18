@@ -8,7 +8,7 @@ wordpressId: 637
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Desde pequenino que uso a transacção SE30 para duas coisas diferentes:
 

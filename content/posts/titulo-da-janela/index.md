@@ -8,7 +8,7 @@ wordpressId: 2136
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O cliente onde estou a trabalhar tem mais sistemas SAP do que há vulcões no Chile. E, claro, é inevitável que eu tenha sempre montes de sessões abertas para vários destes sistemas. Ora, quando estão minimizados, não é possível saber a que sistema corresponde cada sessão. Quer dizer, não era, porque agora já é:
 

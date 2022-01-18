@@ -8,7 +8,9 @@ wordpressId: 3942
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'editar objectos standard'
+description: 'Aprende como podes editar um objecto standard sem teres de pedir a chave de acesso. Ainda por cima é fácil de fazer. Espero que nunca apliques o que aqui vais aprender.'
 ---
 Here we are again facing a dilemma: hide something because it is dangerous and someone can do bad things using this information or teach it because it would be condescending to presume the readers are not responsible enough to know it. Dictatorships usually go for the first: burning books, censorship, etc. Abapinho like to believe that its readers are responsible people and deserve the right to know.
 

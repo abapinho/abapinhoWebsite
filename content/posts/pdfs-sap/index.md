@@ -8,7 +8,7 @@ wordpressId: 395
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A SAP disponibiliza uma série de documentos PDF que contém ajuda e informação preciosa nas mais variadas áreas. Estes PDFs estão dispersos pelos vários sites da SAP, mas alguém no site [Easy Service Marketplace][1] compilou todos numa conveniente lista:
 

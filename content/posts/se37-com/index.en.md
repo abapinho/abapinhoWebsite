@@ -8,7 +8,7 @@ wordpressId: 232
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Neste site pode-se consultar documentação de módulos de função ABAP:
 

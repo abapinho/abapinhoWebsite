@@ -8,7 +8,7 @@ wordpressId: 3369
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 One of the few things that separates us humans from all the other animals is our ability to think about thoughts.
 
@@ -26,9 +26,9 @@ One of them uses function module `RS_TOOL_ACCESS` which allows a program to acce
 {{< highlight ABAP >}}
 CALL FUNCTION 'RS_TOOL_ACCESS'
   EXPORTING
-    operation           = 'SHOW' 
-    object_name         = 'CL_GUI_FRONTEND_SERVICES' 
-    object_type         = 'CLAS' 
+    operation           = 'SHOW'
+    object_name         = 'CL_GUI_FRONTEND_SERVICES'
+    object_type         = 'CLAS'
     position            = 0
   EXCEPTIONS
     not_executed        = 01

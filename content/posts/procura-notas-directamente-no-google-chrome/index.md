@@ -8,7 +8,7 @@ wordpressId: 3150
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Google Chrome tem uma app para pesquisar notas SAP de forma integrada. Chama-se SAP Notes finder.
 

@@ -8,7 +8,7 @@ wordpressId: 3209
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O que vos vou mostrar não é propriamente uma novidade. Até [já foi usado antes][1] no Abapinho. Mas como se continua a ver por aí muita gente a fazer LOOPs a tabelas internas para alterar um campo, achei que valia a pena recordar.
 

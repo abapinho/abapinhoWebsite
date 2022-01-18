@@ -8,7 +8,7 @@ wordpressId: 1014
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Aqui vos mostro uma forma criativa de preencher uma tabela interna com constantes que aprendi num programa standard. Imagina que querias criar uma tabela interna com os seguintes tipos de documento financeiro:
 

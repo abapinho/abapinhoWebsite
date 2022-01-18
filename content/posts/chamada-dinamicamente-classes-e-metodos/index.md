@@ -8,7 +8,7 @@ wordpressId: 2387
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Ora aprende lá como invocar dinamicamente um método.
 
@@ -25,16 +25,16 @@ CALL METHOD ref->(f)
 Como invocar um método estático:
 
 {{< highlight ABAP >}}
-CALL METHOD classe=>(f) 
+CALL METHOD classe=>(f)
 CALL METHOD (c)=>metodo
-CALL METHOD (c)=>(f) 
+CALL METHOD (c)=>(f)
 {{< /highlight >}}
 
 E como invocar um método da própria classe:
 
 {{< highlight ABAP >}}
 CALL METHOD (f)
-CALL METHOD ME->(f) 
+CALL METHOD ME->(f)
 {{< /highlight >}}
 
 A variável f é alfanumérica e contém o nome do método.
@@ -45,8 +45,8 @@ O manual de instruções disto está [aqui][1].
 Como se não bastasse, podes passar os parâmetros dinamicamente assim:
 
 {{< highlight ABAP >}}
-CALL METHOD (class)=>(meth) 
-      PARAMETER-TABLE 
+CALL METHOD (class)=>(meth)
+      PARAMETER-TABLE
         t_param.
 {{< /highlight >}}
 

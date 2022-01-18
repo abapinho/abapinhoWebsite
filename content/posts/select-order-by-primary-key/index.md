@@ -8,7 +8,7 @@ wordpressId: 2481
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Embora já use ABAP desde 1998, todas as semanas aprendo novas funcionalidades ou opções ou mesmo novos comandos. Parece mentira.
 

@@ -8,7 +8,7 @@ wordpressId: 1325
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Has it ever happened to you that SAPGui does not store a history of values that you input to various fields even though the History option is actived in the settings?
 

@@ -8,7 +8,7 @@ wordpressId: 2278
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You want to call an RFC function in another system but, because you’re not a carrion eater, you only want to do it if it’s alive.
 

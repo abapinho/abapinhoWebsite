@@ -8,7 +8,7 @@ wordpressId: 669
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Não sabes a quem rogar as tuas preces nos momentos de desespero? Já podes ficar descansado. Os programadores têm um santo. [Santo Isidoro de Sevilha][1].
 

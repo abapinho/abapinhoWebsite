@@ -8,7 +8,7 @@ wordpressId: 722
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sometimes we want to access a transaction and we don’t have permission. That’s annoying. Luckily there’s the function module **ALINK_CALL_TRANSACTION** which makes things better. But use it with care or someone will get angry. Welcome to the dark side of Abapinho. If they say it was me that said it, I deny everything.
 

@@ -8,7 +8,7 @@ wordpressId: 2149
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Até há dois dias atrás, se eu precisasse de criar entradas de bloqueio numa tabela ZCOISO criada por mim iria à SE11 criar um objecto de bloqueio para a tabela ZCOISO para depois poder usar os módulos de função gerados pelo objecto de bloqueio para bloquear os dados.
 

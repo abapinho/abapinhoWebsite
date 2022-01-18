@@ -8,7 +8,7 @@ wordpressId: 832
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Volta não volta é preciso meter um programa a dormir. E como em quase tudo, há várias formas de o fazer, e umas formas são melhores do que outras.
 

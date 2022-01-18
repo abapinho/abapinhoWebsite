@@ -8,7 +8,7 @@ wordpressId: 3507
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Every once in a while I find yet another hidden SAP virtue. I just found out that there is a transaction which, for a given word in a given language, will help you translate it to another language by showing you which other translations already exist for that same word.
 

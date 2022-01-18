@@ -8,7 +8,9 @@ wordpressId: 4182
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'xml simple transformation'
+description: 'Como guardar dados XML numa Simple Transformation. Uma alternativa interessante para guardar dados estáticos que não recorre à base de dados.'
 ---
 Some days ago I was using an ST (Simple Transformation) and thought that, even though its job is to convert an input into an output, it is can be used to store XML data.
 
@@ -58,9 +60,9 @@ To convert this XML into an internal table we just have to use another simple ST
 
 {{< highlight ABAP >}}
 <?sap.transform simple?>
-<tt:transform 
-  xmlns:tt=&quot;http://www.sap.com/transformation-templates&quot; 
-  xmlns:ddic=&quot;http://www.sap.com/abapxml/types/dictionary&quot; 
+<tt:transform
+  xmlns:tt=&quot;http://www.sap.com/transformation-templates&quot;
+  xmlns:ddic=&quot;http://www.sap.com/abapxml/types/dictionary&quot;
   xmlns:def=&quot;http://www.sap.com/abapxml/types/defined&quot;>
   <tt:root name=&quot;T_COCKTAIL&quot; type=&quot;ddic:ZCOCKTAIL_T&quot;/>
   <tt:template>

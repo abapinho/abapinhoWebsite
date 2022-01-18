@@ -8,7 +8,7 @@ wordpressId: 3550
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Being used to develop in Java and C++, the way transaction SE24 forces you to navigate between each of its parts and the fact that every method has its own include was very confusing to me when I first started using it. Why does SAP always have to make things so complicated? I eventually got used to it.
 

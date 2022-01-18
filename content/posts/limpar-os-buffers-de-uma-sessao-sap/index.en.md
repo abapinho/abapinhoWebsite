@@ -8,7 +8,7 @@ wordpressId: 2904
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I keep learning new transaction commands. Today I learned some which solve a problem which, although rarely, has happened to me in the past.
 

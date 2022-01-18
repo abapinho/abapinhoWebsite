@@ -8,7 +8,7 @@ wordpressId: 3025
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 SAP doesn't know how to do things right the first time. The WebDynpros are a good example of this. It doesn’t even let you do a text search. It's sad.
 

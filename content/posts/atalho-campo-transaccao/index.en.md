@@ -8,7 +8,7 @@ wordpressId: 1938
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 And there you are madly typing with SAP when suddenly you need to go to the transaction field and write /OS37 or whatever. But you are writing with so much passion that the thought of leaving the keyboard for a moment to use your mouse seems catastrophic. Instead, you just press 3 keyboard keys:
 CTRL-SHIFT-7.

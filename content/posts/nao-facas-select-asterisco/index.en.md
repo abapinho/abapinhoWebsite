@@ -8,7 +8,7 @@ wordpressId: 2731
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Always try to select only the fields you’ll need. Selecting others is a waste of resources.
 Exception made for the use of FM *_SINGLE_READ because, even though these do select all fields, since they cache the data, they are still faster when used multiple times for the same key.

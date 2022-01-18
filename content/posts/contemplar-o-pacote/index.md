@@ -8,7 +8,7 @@ wordpressId: 2838
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Estás a contemplar uma classe na SE24, uma tabela na SE11 ou um programa na SE80. Agora queres ver o pacote desse objecto bem como o seu conteúdo. Até há pouco tempo eu faria assim: primeiro via nas características do objecto qual é o seu pacote, depois abria uma sessão nova, ia à SE80 e escrevia lá o pacote.
 

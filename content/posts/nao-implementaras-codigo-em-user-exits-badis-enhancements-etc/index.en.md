@@ -8,7 +8,7 @@ wordpressId: 2713
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 All code to be put in user-exits (BADIs, enhancements, SMOD, etc.) should be encapsulated.
 

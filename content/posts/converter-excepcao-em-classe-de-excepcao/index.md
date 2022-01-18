@@ -8,7 +8,7 @@ wordpressId: 3104
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Se ainda não usas classes de excepção fazes mal. Porque são muito boas para a saúde do código. Além de nutritivas, emagrecem-no e tornam-no mais resistente a doenças.
 

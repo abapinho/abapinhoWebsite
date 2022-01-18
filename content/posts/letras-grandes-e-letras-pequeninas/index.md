@@ -8,7 +8,7 @@ wordpressId: 3238
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Podes nem sequer saber programar mas se souberes datilografar rápido e conheceres muitos atalhos de teclado vais parecer super profissional.
 

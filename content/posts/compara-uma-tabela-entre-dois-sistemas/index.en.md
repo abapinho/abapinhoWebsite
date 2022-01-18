@@ -8,7 +8,7 @@ wordpressId: 2484
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The SCMP transaction compares the content of a table across two systems. It is very useful, especially for parameterization tables.
 

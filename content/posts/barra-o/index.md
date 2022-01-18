@@ -8,7 +8,7 @@ wordpressId: 1684
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Durante toda a minha vida SAPica usei o comando /olalala para iniciar a transacção lalala numa nova janela. Mas nunca tinha experimentado escrever só /o. Experimentei. E o que aconteceu foi interessante:
 

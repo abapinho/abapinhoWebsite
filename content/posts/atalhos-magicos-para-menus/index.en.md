@@ -8,7 +8,8 @@ wordpressId: 4268
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'comando atalhos menu'
 ---
 If you, who are reading this, believe that everything written in Abapinho is literally true, what I'm about to tell you will be a disappointment: when I said magical I didn't mean that it was supernatural. It is just a nicer way of saying it is surprising and unexpected. I took this liberty just as you'd say "I could kill for a glass of water" knowing that you would never do it. Having made this clear, let's continue.
 

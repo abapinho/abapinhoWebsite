@@ -8,7 +8,7 @@ wordpressId: 1420
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The SE80 transaction contains everything. It seems like those village grocery stores crammed with junk where you can buy toothpaste, bread, shoes, perfume and rice in bulk. I like these grocery stores. But to go there you need to know where you are going, otherwise you'll walk from pillar to post.
 

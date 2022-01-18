@@ -8,7 +8,7 @@ wordpressId: 3117
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 [:pt]O Flávio Pagoti, do blog [ABAP101][1] publicou um livro em português sobre SAPUI5/OPENUI5.
 

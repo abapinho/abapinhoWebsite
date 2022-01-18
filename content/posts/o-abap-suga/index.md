@@ -8,7 +8,7 @@ wordpressId: 2528
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Ora bem, este é o primeiro artigo do Abapinho em que o título se sente um bocado perdido na tradução. Mas mesmo tendo consciência de que não é semanticamente são, penso ser o único título à altura do que aqui vos apresento.
 

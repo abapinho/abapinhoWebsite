@@ -8,7 +8,9 @@ wordpressId: 4072
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'ABAP lobotolizador'
+description: 'Quando alguém começa a programar em ABAP é lobotomizado, as boas prácticas que aprendeu no passado desaparecem e volta a programar como no ZX Spectrum.'
 ---
 João studies Computer Science at his College where he learns Java, polymorphism, encapsulation and a lot of other programming techniques and best practices. When he graduates, he decides to join a company to work in SAP. At the introduction training which his new company offers, the first thing he learns is how to make a program in ABAP. Here's how they teach it:
 

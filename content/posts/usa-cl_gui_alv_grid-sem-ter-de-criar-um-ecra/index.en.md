@@ -8,7 +8,9 @@ wordpressId: 4410
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'alv grid'
+description: 'Depois de tantos anos, quem diria que afinal não era necessário criar um ecrã e um container para poder usar a CL_GUI_ALV_GRID.'
 ---
 Nowadays I rarely use CL_GUI_ALV_GRID because SALV is so much better. But when I am asked to make an editable ALV I still use it. Until very recently, I thought that, in order to use it, I needed a screen with a container. And because I'm using ABAP OO, I'd need a function group to host it and a function module to call it. Painful.
 <!--more-->
@@ -17,9 +19,9 @@ But no. It is possible to get a default container like this:
 
 
 {{< highlight ABAP >}}
-DATA(container) = 
-  NEW cl_gui_custom_container( 
-    parent =  cl_gui_container=>default_screen 
+DATA(container) =
+  NEW cl_gui_custom_container(
+    parent =  cl_gui_container=>default_screen
     container_name = 'CONTAINER').
 DATA(grid) = NEW cl_gui_alv_grid( i_parent = container ).
 {{< /highlight >}}

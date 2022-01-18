@@ -8,7 +8,7 @@ wordpressId: 3272
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A nova moda em _strings_ é usar _pipes_. Tipo:
 

@@ -8,7 +8,7 @@ wordpressId: 1948
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Neste artigo vou mostrar-te (e explicar-te!) como podes fazer com que um ecrã de selecção de um programa se refresque periodicamente sem intervenção do utilizador.
 
@@ -22,31 +22,31 @@ O nosso exemplo mostra um parâmetro que se vai actualizando sozinho a cada segu
 {{< highlight ABAP >}}
 PARAMETERS : p_conta TYPE t DEFAULT 300.
 
-CLASS lcl_handler DEFINITION. 
+CLASS lcl_handler DEFINITION.
   PUBLIC SECTION.
-    METHODS: corre_handler FOR EVENT finished OF cl_gui_timer. 
-ENDCLASS. 
+    METHODS: corre_handler FOR EVENT finished OF cl_gui_timer.
+ENDCLASS.
 
 DATA o_temporizador TYPE REF TO cl_gui_timer .
 DATA o_handler TYPE REF TO lcl_handler .
 
-CLASS lcl_handler IMPLEMENTATION. 
-  METHOD corre_handler. 
-    CALL METHOD o_temporizador ->run. 
-    CALL METHOD cl_gui_cfw =>set_new_ok_code 
-      EXPORTING 
+CLASS lcl_handler IMPLEMENTATION.
+  METHOD corre_handler.
+    CALL METHOD o_temporizador ->run.
+    CALL METHOD cl_gui_cfw =>set_new_ok_code
+      EXPORTING
         new_code = 'REFR'.
   ENDMETHOD.
 ENDCLASS.
 
 INITIALIZATION.
-  CREATE OBJECT o_temporizador. 
-  CREATE OBJECT o_handler. 
-  o_temporizador-> interval = '1' . 
+  CREATE OBJECT o_temporizador.
+  CREATE OBJECT o_handler.
+  o_temporizador-> interval = '1' .
   CALL METHOD o_temporizador-> run .
-  SET HANDLER o_handler-> corre_handler FOR ALL INSTANCES. 
+  SET HANDLER o_handler-> corre_handler FOR ALL INSTANCES.
 
-AT SELECTION-SCREEN OUTPUT . 
+AT SELECTION-SCREEN OUTPUT .
   p_conta = p_conta - 1 .
 {{< /highlight >}}
 

@@ -8,7 +8,7 @@ wordpressId: 2733
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Whenever you feel a constant value can change and you can’t add it as a user parameter, store it in ZCONSTS. This table should never be used directly. Instead, a class like ZCL_CONSTS should be created to properly access it, like shown in this article:
 <{{< ref "constantes" >}}> (portuguese only)

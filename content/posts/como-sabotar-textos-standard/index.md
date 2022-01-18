@@ -8,7 +8,7 @@ wordpressId: 3281
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Às vezes não gosto dos nomes que a SAP deu às coisas. E então mudo-os.
 

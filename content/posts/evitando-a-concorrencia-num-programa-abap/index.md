@@ -8,7 +8,7 @@ wordpressId: 1865
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Dizem que a concorrência no comércio é boa. Boa para os consumidores, isto é. Faz descer os preços e assim. Mas dentro dos computadores prejudica quem os consome.
 

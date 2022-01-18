@@ -8,7 +8,8 @@ wordpressId: 3578
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'tabelas internas por valor'
 ---
 Quando um método devolve um valor como RETURNING este é sempre passado por valor e não por referência. Muitas vezes faço métodos que devolvem tabelas internas, algumas bastante grandes. Mas sempre me preocupou a ideia de que, como está a ser devolvida por valor, o ABAP devolva uma cópia da tabela interna, algo que pode ter impacto na performance e na memória que o programa gasta.
 

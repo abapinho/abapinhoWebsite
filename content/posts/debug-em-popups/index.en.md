@@ -8,7 +8,7 @@ wordpressId: 1307
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 There are times when you can’t do /H to launch _debugger_. The most common one is when a pop-up window is open. However there is a simple, if Heath-Robinson, way to do it:
 

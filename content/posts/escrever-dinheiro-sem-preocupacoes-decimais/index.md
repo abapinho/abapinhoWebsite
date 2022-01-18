@@ -8,7 +8,7 @@ wordpressId: 2272
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há quem leia a TCURX para descobrir o número de casas decimais de uma MOEDA quando precisa de escrever um campo endinheirado para uma variável ALFANUMERICA.
 

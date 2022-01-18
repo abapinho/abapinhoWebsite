@@ -8,7 +8,7 @@ wordpressId: 3511
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando fazes _debug_ usas a tecla F5 para avançar para a próxima instrução (ou entrar para dentro de uma sub-rotina). Mas imagina um IF com várias condições:
 

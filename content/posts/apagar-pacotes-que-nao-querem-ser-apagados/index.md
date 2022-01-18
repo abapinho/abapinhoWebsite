@@ -8,7 +8,7 @@ wordpressId: 2804
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando tentas apagar um pacote no qual já criaste objectos que entretanto apagaste e o pacote aparente estar vazio quando visto na SE80, quando o tentas apagar não dá porque diz que o pacote ainda contém objectos.
 

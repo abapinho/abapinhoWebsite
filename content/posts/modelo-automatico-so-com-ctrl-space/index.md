@@ -8,7 +8,7 @@ wordpressId: 2891
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 
 Claro que já conheces o botão “Modelo” no editor de ABAP que permite introduzir automaticamente modelos para módulos de função, chamadas a métodos e outros.

@@ -8,7 +8,7 @@ wordpressId: 2182
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If you really need to access an SAP and nobody lets you, and you don’t have a computer where you can install it or you don’t have enough know-how or patience to do it, you can always rent.
 

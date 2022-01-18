@@ -8,7 +8,7 @@ wordpressId: 235
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 É frequente em SAP cruzarmo-nos com um conceito desconhecido. Às vezes esqueço-me de que há ferramentas disponíveis muito fáceis de consultar. E o glossário SAP é um exemplo disso. Pode ser acedido de várias formas:
 

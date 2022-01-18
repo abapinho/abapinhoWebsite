@@ -8,7 +8,7 @@ wordpressId: 1430
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 This post inaugurates a new category in Abapinho: Code. Posts in this category will present useful programs that are ready to execute.
 
@@ -36,17 +36,17 @@ REPORT zzz_nfg_send_list_by_mail MESSAGE-ID so.
 ***************************************************************************
 
 * Exception classes
-CLASS zcx_zs_no_receivers       
-  DEFINITION FINAL INHERITING FROM cx_static_check. 
+CLASS zcx_zs_no_receivers
+  DEFINITION FINAL INHERITING FROM cx_static_check.
 ENDCLASS.
-CLASS zcx_zs_spool_error        
-  DEFINITION FINAL INHERITING FROM cx_static_check. 
+CLASS zcx_zs_spool_error
+  DEFINITION FINAL INHERITING FROM cx_static_check.
 ENDCLASS.
-CLASS zcx_zs_invalid_parameters 
-  DEFINITION FINAL INHERITING FROM cx_static_check. 
+CLASS zcx_zs_invalid_parameters
+  DEFINITION FINAL INHERITING FROM cx_static_check.
 ENDCLASS.
-CLASS zcx_zs_objectlist_error   
-  DEFINITION FINAL INHERITING FROM cx_static_check. 
+CLASS zcx_zs_objectlist_error
+  DEFINITION FINAL INHERITING FROM cx_static_check.
 ENDCLASS.
 
 *----------------------------------------------------------------------*

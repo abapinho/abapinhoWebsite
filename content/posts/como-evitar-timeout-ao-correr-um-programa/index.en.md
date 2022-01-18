@@ -8,7 +8,7 @@ wordpressId: 3252
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Usually SAP systems have a predefined time limit for running a program interactively. If the program takes longer to run than that you'll get a runtime execution error. A dump.
 

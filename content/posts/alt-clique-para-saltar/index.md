@@ -8,7 +8,7 @@ wordpressId: 976
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Tens à tua frente um daqueles IF ELSEIF ELSEIF ELSEIF ELSEIF ELSE ENDIF gigantescos que atravessa centenas de linhas de código.
 

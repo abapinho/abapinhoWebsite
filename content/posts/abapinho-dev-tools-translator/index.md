@@ -8,7 +8,7 @@ wordpressId: 3307
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Nuno Morais desenvolveu uma ferramenta muito útil que auxilia na tradução em massa da maioria dos objectos SAP.
 

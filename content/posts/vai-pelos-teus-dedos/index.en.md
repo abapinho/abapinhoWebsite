@@ -8,7 +8,7 @@ wordpressId: 1710
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I have a number of friends working as managers, lawyers, marketers, programmers, etc., at very dynamic and competitive companies who are allegedly very busy and are always up to their eyeballs in work. They dedicated several years of their lives to their degrees in order to specialise in a particular field and some of them have put in the extra effort to get a postgraduate diploma in order to be better qualified and therefore able to do more both better and faster. However, the vast majority of them use two fingers when typing at a computer. Over a number of years they have acquired many skills that supposedly make them ultra efficient and yet they still type with two fingers.
 

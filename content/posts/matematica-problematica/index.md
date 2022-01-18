@@ -8,7 +8,7 @@ wordpressId: 2501
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Sabes a diferença entre um mistério e um enigma? Num enigma sabe-se que há uma solução mas esta não é conhecida; já num mistério, não se sabe se haverá solução.
 

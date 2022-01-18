@@ -8,13 +8,13 @@ wordpressId: 3201
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Pré 7.4:
 
 {{< highlight ABAP >}}
 DATA l_idade type i.
-READ TABLE lt_gente 
+READ TABLE lt_gente
   INTO ls_gente WITH KEY nome = l_nome.
 l_idade = ls_gente-idade.
 {{< /highlight >}}

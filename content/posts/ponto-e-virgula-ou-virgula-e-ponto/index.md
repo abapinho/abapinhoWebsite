@@ -8,7 +8,7 @@ wordpressId: 1756
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há números com pontos, há números com vírgulas e há números com pontos e vírgulas. O problema é que também há números com vírgulas e pontos. É que há vírgulas que são pontos e há pontos que são vírgulas, conforme a tua terra, ou seja, conforme as configurações do teu utilizador. Quando se importa um ficheiro com números decimais, há que converter esses números do seu campo alfa-numérico em campos numéricos. Não é incomum ver-se essa conversão feita à mão. E também não é incomum vê-la feita com os pés. Mas há um módulo de função que nos simplifica a vida e faz a conversão de forma automática e transparente:
 

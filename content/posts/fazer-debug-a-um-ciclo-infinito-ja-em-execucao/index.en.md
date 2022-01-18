@@ -8,7 +8,7 @@ wordpressId: 3008
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagine you have a program executing an infinite cycle or, at least, a cycle with 70x7 iterations. It is neverending, and you want to know what’s going on there.
 

@@ -8,7 +8,7 @@ wordpressId: 2528
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Go to the ABAP Editor (SE38) and check out line 323 of standard program RCIFCUST.
 

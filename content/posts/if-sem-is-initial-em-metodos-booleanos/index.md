@@ -8,7 +8,7 @@ wordpressId: 4244
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O sistema do cliente onde trabalho actualmente foi finalmente actualizado para o 7.50 e, depois de tantos anos preso ao ABAP convencional, posso desfrutar as maravilhas introduzidas no 7.40.
 

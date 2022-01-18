@@ -8,7 +8,9 @@ wordpressId: 4701
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'SELECT multi key custom table'
+description: 'A forma mais simples de fazer SELECT a uma tabela de parametrização com vários níveis de detalhe contemplando wildcards.'
 ---
 Ok let's go slowly on this one.
 
@@ -120,7 +122,7 @@ But I recently realised that this could be greatly simplified:
 SELECT value INTO result
 UP TO 1 ROWS
 FROM zparams
-WHERE BUKRS IN (space, i_bukrs) 
+WHERE BUKRS IN (space, i_bukrs)
   AND WERKS IN (space, i_werks)
   AND LGORT IN (space, i_lgort)
 ORDER BY bukrs DESCENDING werks DESCENDING lgort DESCENDING.

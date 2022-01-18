@@ -8,7 +8,7 @@ wordpressId: 1430
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Este post inaugura uma nova categoria no Abapinho: Código. Os posts desta categoria apresentarão programas úteis prontos a correr.
 

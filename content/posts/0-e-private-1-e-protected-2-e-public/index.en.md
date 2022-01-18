@@ -8,7 +8,7 @@ wordpressId: 2797
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Simple tip to speed up entering data in (some) fields.
 

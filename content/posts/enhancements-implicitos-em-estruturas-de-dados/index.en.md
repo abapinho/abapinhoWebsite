@@ -8,7 +8,9 @@ wordpressId: 4199
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'enhancement em estrutura'
+description: 'É normal usar enhancements implícitos para adicionar código ABAP a programas standard. Mas também podemos adicionar campos a estruturas de dados.'
 ---
 We have all used implicit enhancements to add code to the beginning or end of a standard function, form or method. But you may not know that it can also be used to add fields to data structures, whether they're declared as TYPES or directly as DATA.
 

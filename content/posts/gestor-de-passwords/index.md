@@ -8,7 +8,7 @@ wordpressId: 2612
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 E pronto, se leste o título, a dica está dada.
 

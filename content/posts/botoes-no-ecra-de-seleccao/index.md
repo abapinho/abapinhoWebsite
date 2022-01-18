@@ -8,7 +8,7 @@ wordpressId: 1612
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando num relatório é preciso criar botões para os utilizadores carregarem, normalmente recorre-se ao Screen Painter para criar um ecrã que depois é invocado pelo report com CALL SCREEN. Mas, a não ser que o ecrã a desenhar tenha já alguma complexidade, não é preciso apanhar a valente seca de fazer um ecrã que depois fica para lá. Ecrãs sempre me irritaram.
 
@@ -51,11 +51,11 @@ Assim definimos o texto dos botões de forma a que possa ser traduzido [conforme
 
 {{< highlight ABAP >}}
 AT SELECTION-SCREEN.
-* Se se carregou num dos botões, guarda o seu código e continua  
-  IF sscrfields-ucomm EQ 'BUT1' OR 
-      sscrfields-ucomm EQ 'BUT2' OR 
-      sscrfields-ucomm EQ 'BUT3'.    
-    g_ucomm = sscrfields-ucomm.    
+* Se se carregou num dos botões, guarda o seu código e continua
+  IF sscrfields-ucomm EQ 'BUT1' OR
+      sscrfields-ucomm EQ 'BUT2' OR
+      sscrfields-ucomm EQ 'BUT3'.
+    g_ucomm = sscrfields-ucomm.
     sscrfields-ucomm = 'ONLI'. " Finge que carregou em F8. Belo truque ;)
   ENDIF.
 {{< /highlight >}}
@@ -64,13 +64,13 @@ Ao redefinir o UCOMM com 'ONLI' fingimos que se carregou no F8 o que faz com que
 
 
 {{< highlight ABAP >}}
-START-OF-SELECTION.  
-  CASE g_ucomm.    
-    WHEN 'BUT1'.      
+START-OF-SELECTION.
+  CASE g_ucomm.
+    WHEN 'BUT1'.
       WRITE 'Carregaste no botão de cima'.
     WHEN 'BUT2'.
       WRITE 'Carregaste no botão do meio'.
-    WHEN 'BUT3'.  
+    WHEN 'BUT3'.
       WRITE 'Carregaste no botão de baixo'.
 ENDCASE.
 {{< /highlight >}}

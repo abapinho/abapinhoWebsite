@@ -8,7 +8,7 @@ wordpressId: 3335
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 And that's it really. That's the whole tip right there at the title. This has always been right under your nose but you probably never thought about it: you can save variants in SE16N. And they can even be user-specific. So useful and so little known.
 

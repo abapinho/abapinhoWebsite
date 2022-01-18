@@ -8,7 +8,7 @@ wordpressId: 3218
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When we learn ABAP, we are taught a series of rules on how to name variables. Not everyone uses the same rules but, still, some strict rules are shared between many people:
 

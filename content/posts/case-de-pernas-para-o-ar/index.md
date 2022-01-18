@@ -8,7 +8,7 @@ wordpressId: 938
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Qual é a tua cor preferida?
 

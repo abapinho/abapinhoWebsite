@@ -8,7 +8,7 @@ wordpressId: 2308
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 I have already advised here that, in tables with many fields, it’s always recommended to avoid using SELECT *, you must always select, explicitly, only the necessary fields.
 
@@ -77,19 +77,19 @@ DATA: t_bsad_todos  TYPE STANDARD TABLE OF bsad,
 
 GET RUN TIME FIELD rtime0.
 
-SELECT * FROM bsad 
+SELECT * FROM bsad
   INTO CORRESPONDING FIELDS OF TABLE t_bsad_todos.
 GET RUN TIME FIELD rtime1.
 
-SELECT bukrs belnr gjahr buzei FROM bsad 
+SELECT bukrs belnr gjahr buzei FROM bsad
   INTO CORRESPONDING FIELDS OF TABLE t_bsad_poucos.
 GET RUN TIME FIELD rtime2.
 
-SELECT bukrs belnr gjahr buzei FROM bsad 
+SELECT bukrs belnr gjahr buzei FROM bsad
   INTO CORRESPONDING FIELDS OF TABLE t_campos.
 GET RUN TIME FIELD rtime3.
 
-SELECT bukrs belnr gjahr buzei FROM bsad 
+SELECT bukrs belnr gjahr buzei FROM bsad
   INTO TABLE t_campos.
 GET RUN TIME FIELD rtime4.
 

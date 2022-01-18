@@ -8,7 +8,9 @@ wordpressId: 3842
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'plantuml'
+description: 'PlantUML é uma linguagem descritiva que permite documentar diagramas de classe UML de forma simples sem depender de ferramentas externas'
 ---
 **Foreword**
 

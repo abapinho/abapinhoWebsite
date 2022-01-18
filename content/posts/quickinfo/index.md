@@ -8,7 +8,7 @@ wordpressId: 2298
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Esta dica vem, no meu entender, uns anos tarde demais, visto ser já raro usar o comando WRITE para escrever directamente coisas para o ecrã. É, portanto, digamos assim, uma dica retro. Uma dica _vintage_. Mas vamos supor que estamos ainda no século XX a debater-nos com o comando mais barroco do ABAP, o WRITE.
 

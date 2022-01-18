@@ -8,7 +8,7 @@ wordpressId: 2877
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When you touch an object and add it to a transport request, it becomes locked there by default. In a transport request you can also lock objects which are not yet locked in another order. But, once locked, how to unlock them?
 

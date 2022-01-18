@@ -8,7 +8,8 @@ wordpressId: 4228
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+description: 'A SAAB disponibiliza variantes de activação onde podemos agrupar um conjunto de objectos que queremos analisar, permitindo focar no que interessa.'
 ---
 Em tempos falámos na SAAB e nas vantagens de a utilizar para melhor conseguir analisar e descobrir problemas no nosso código. Nesse artigo não expliquei uma coisa que é realmente importante: variantes de activação.
 

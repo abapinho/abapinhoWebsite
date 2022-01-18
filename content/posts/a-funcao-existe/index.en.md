@@ -8,7 +8,7 @@ wordpressId: 2284
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You call a function.
 Imagine it doesn’t answer.

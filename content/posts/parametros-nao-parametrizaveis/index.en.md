@@ -8,7 +8,7 @@ wordpressId: 995
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Every now and then you get a client who asks a programmer to create a write-protected parameter on the program selection screen. It’s a bit dumb given that the whole idea of parameters is that they are parameterisable.
 

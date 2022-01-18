@@ -8,7 +8,7 @@ wordpressId: 1848
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 ABAP programs are all too well behaved, too predictable.
 

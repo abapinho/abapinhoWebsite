@@ -8,7 +8,7 @@ wordpressId: 3258
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A long time ago transaction SE17 was used to look at database tables content.
 They quickly felt ashamed and decided to improve it, creating SE16.

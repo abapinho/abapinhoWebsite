@@ -8,7 +8,7 @@ wordpressId: 2622
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 When a development is completed in SAP, the time to send it to other systems where it can be duly tested and then executed by users has finally arrived.
 Before that occurs, however, it has to be checked for lapses, errors and other problems that could lead to our programmes behaving in an unpredictable manner.

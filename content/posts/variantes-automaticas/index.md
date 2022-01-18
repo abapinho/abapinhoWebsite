@@ -8,7 +8,7 @@ wordpressId: 1071
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando se está a desenvolver um relatório com um ecrã de selecção, é muito chato de cada vez que o testamos ter de preencher o ecrã de selecção com os dados de teste. Normalmente acabamos por criar uma variante de teste para nos poupar a esse chatice. Mas mesmo assim, de cada vez que corremos o relatório, temos de invocar manualmente esta variante.
 

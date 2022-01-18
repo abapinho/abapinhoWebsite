@@ -8,7 +8,7 @@ wordpressId: 909
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 RICEF is an acronym in SAP world which apparently was not invented by SAP. And so it is an unofficial acronym. Which does not mean it is an illegal or secret acronym given that it has become a term in proper usage in more and more projects.
 

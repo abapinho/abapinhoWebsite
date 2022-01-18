@@ -8,7 +8,7 @@ wordpressId: 3343
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Someone asks you to select records based on a criteria for which you'll have a small set of known values which you're told will never change. Did you know you can do it directly in the SELECT?
 

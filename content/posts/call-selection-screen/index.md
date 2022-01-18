@@ -8,7 +8,7 @@ wordpressId: 1356
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Num relatório, os valores são normalmente pedidos ao utilizador no ecrã de selecção inicial, antes da execução do programa. Mas e se quiseres pedir-lhe mais alguns valores, interactivamente, a meio da execução do programa?
 

@@ -8,7 +8,8 @@ wordpressId: 3584
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'incremental search'
 ---
 When I want to search for a word in an ABAP program I usually press CTRL-F to use the normal search feature of the ABAP editor. I enter the word I want to find and then press "NEXT" to look for it.
 

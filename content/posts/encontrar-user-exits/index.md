@@ -8,7 +8,7 @@ wordpressId: 1898
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Volta não volta lá andamos nós à procura de user-exits e BADIs, BTEs e quejandos. A SAP não ajuda. Mas vão aparecendo aqui e ali programas, quase sempre chamados Z_USEREXIT, que dão uma ajuda nessa ingrata busca. Pois recentemente fiquei a saber de mais um. Partilho-o aqui porque é o melhor que vi até hoje:
 

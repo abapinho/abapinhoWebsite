@@ -8,7 +8,7 @@ wordpressId: 3297
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Nuno Morais desenvolveu uma ferramenta muito útil que permite comparar objectos entre sistemas e que funciona muito melhor do que a transacção SREPO.
 

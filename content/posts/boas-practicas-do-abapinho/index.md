@@ -8,7 +8,7 @@ wordpressId: 2607
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Ao longo dos últimos tempos compilei um conjunto de boas prácticas que fui adoptando para mim próprio. Resolvi partilhá-las aqui, criando para isso uma nova categoria (que aparecerá em breve no menu à esquerda) sob a qual serão agrupadas. A ideia original era fazer um PDF mas, como elas estão em constante revisão e ampliação, tornava-se pouco práctico. Como tal, serão publicadas uma a uma.
 

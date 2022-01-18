@@ -8,7 +8,7 @@ wordpressId: 1122
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Durante doze anos
 Quando quis contar

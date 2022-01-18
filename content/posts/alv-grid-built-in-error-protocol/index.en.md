@@ -8,7 +8,9 @@ wordpressId: 3856
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'ALV Grid error protocol'
+description: 'A ALV Grid tem a sua própria gestão de erros e esta pode ser usada por nós para fazer a validação dos dados inseridos pelo utilizador.{:en}A '
 ---
 We're all lazy. It's just human. Programmers are human. We're often lazy when it comes to the way we program something. And usually being lazy when making a program will result in someone else having more work when maintaining it.
 
@@ -41,15 +43,15 @@ METHOD handle_data_changed.
 
   FIELD-SYMBOLS: <s_mod_cell> LIKE LINE OF er_data_changed->mt_mod_cells.
 
-  LOOP AT er_data_changed->mt_mod_cells 
-    ASSIGNING <s_mod_cell> 
+  LOOP AT er_data_changed->mt_mod_cells
+    ASSIGNING <s_mod_cell>
     WHERE fieldname = ‘WRBTR’.
 
     er_data_changed->get_cell_value(
       EXPORTING
         i_row_id    = <s_mod_cell>-row_id
         i_fieldname = ‘WRBTR'
-      IMPORTING 
+      IMPORTING
         e_value     = amount ).
 
     IF amount > 100.
@@ -73,7 +75,7 @@ ENDMETHOD.
 {{< highlight ABAP >}}
 go_grid->check_changed_data( IMPORTING e_valid = valid ).
 IF valid.
-  SAVE() “ grava dados / save data  
+  SAVE() “ grava dados / save data
 ENDIF.
 {{< /highlight >}}
 

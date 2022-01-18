@@ -8,7 +8,7 @@ wordpressId: 346
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O Java, uma linguagem de programação bem pensada, ajuda o programador a organizar o seu código obrigando-o a desenvolvê-lo de forma estruturada. A sua própria filosofia potencia o pensamento estruturado e promove coerência e arrumação.
 

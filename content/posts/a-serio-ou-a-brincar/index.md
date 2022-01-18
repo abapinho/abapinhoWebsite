@@ -8,7 +8,7 @@ wordpressId: 1994
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há coisas que só podem mesmo acontecer em produtivo.
 Outras há que muito pelo contrário

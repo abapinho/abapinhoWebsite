@@ -8,7 +8,7 @@ wordpressId: 2853
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O repositório do R/3 é uma coisa maravilhosa. Um vasto armazém de elementos de dados, estruturas, tabelas e muito mais, prontamente disponíveis a todos. Como programadores, é fácil e conveniente escolher estes objectos e puxa-los para os nossos programas à medida das necessidades sem que a preciosa linha de pensamento seja interrompida.
 Mas nem tudo é sol e flores. Se não tiveres cuidado com os cogumelos que apanhas podes dar por ti com um envenenado entre mãos.

@@ -8,7 +8,7 @@ wordpressId: 874
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Vou ensinar-te uma fórmula mágica para gerar um RANGE em que praticamente é só juntar água.
 

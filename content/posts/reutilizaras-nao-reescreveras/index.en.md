@@ -8,7 +8,7 @@ wordpressId: 2717
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If the same piece of code is repeated at least once, question yourself why and try to avoid it by creating a reusable routine.
 If there is more than one SELECT for the same table in a program, make sure you can’t merge them into a single one. Sometimes a smart use of RANGEs to unify parameters can avoid the need for multiple SELECTs.

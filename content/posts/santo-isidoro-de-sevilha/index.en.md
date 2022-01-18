@@ -8,7 +8,7 @@ wordpressId: 669
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Don’t know who to pray to in moments of desperation? Now you can relax. Programmers have a saint – [St. Isidore of Seville][1].
 

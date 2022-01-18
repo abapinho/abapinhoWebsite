@@ -8,7 +8,7 @@ wordpressId: 294
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quem não gosta de uma promiscuidadezita de vez em quando? Até o Abapinho. É por isso que hoje vos sugerimos que se deleitem a enfiar um browser dentro do SAPGui. E para conseguir isso basta correr este programa na SE38: SAPHTML_R3HTTP_DEMO.
 

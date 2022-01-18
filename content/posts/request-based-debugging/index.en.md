@@ -8,7 +8,7 @@ wordpressId: 2665
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If you look up the UNAME system variable in _debug_ within a RFC call you may think it kind of odd to find a username that is not your own. What happens is that the system adopts a specific username for remote calls and a new session is started. A new session implies a new execution context and, hence, all our strategically placed _breakpoints_ will no longer be recognised.
 

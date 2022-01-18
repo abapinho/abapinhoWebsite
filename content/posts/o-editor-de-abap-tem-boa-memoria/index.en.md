@@ -8,7 +8,7 @@ wordpressId: 2489
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Select a word in the ABAP editor and choose CTRL-C. Then select another word and choose CTRL-C again. Then another word and so on. You have copied words several times to the _clipboard_. Experience and common sense tells us that if you choose CTRL-V you can only paste the last word you copied to the clipboard.
 But that is not quite right. You may not be aware of it, but the ABAP editor has a good memory.

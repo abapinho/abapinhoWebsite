@@ -8,7 +8,7 @@ wordpressId: 1487
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há uns tempos tive uma ideia meio estrambólica meio fantástica que hoje decidi partilhar aqui: criar métodos privados nas classes das BADIs.
 

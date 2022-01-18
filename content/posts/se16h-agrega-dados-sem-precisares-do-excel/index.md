@@ -8,7 +8,7 @@ wordpressId: 3258
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 No início dos tempos usava-se a transacção SE17 para ver o conteúdo de tabelas.
 Rapidamente sentiram vergonha e decidiram fazer uma coisa melhorzinha a que chamaram SE16.

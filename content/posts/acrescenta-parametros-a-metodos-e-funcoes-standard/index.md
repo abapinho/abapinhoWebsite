@@ -8,7 +8,7 @@ wordpressId: 3394
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Todos conhecemos as ampliações implícitas da SAP, que permitem adicionar código no início ou final qualquer blocos de código standard (funções, métodos, etc.). Já todos as usámos para alterar uma BAPI ou outro código standard qualquer.
 

@@ -8,7 +8,7 @@ wordpressId: 1038
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Classes. They have always existed among people. But there are still few who take them into consideration in ABAP. While being a supporter of classes in society can result in pedantry, the only class struggle in ABAP is that some fight for them to be used more.
 

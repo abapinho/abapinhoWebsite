@@ -8,7 +8,7 @@ wordpressId: 878
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A simple but valuable tip: anywhere in the SAP GUI - including the ABAP Editor - to select a word all you have to do is CTRL-click above it. Cool, no?
 

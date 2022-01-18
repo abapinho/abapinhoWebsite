@@ -8,7 +8,7 @@ wordpressId: 464
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há palavras em inglês que o português de Portugal não se dá ao trabalho de traduzir. O verbo inglês _download_ vira _downloadar_ ou _fazer download_. A seu tempo, há-de seguir o caminho que _beef_ seguiu até conseguir chegar a _bife_ , transformando-se lentamente em algo tipo _daunelaudar_. Mas até lá... fazem-se _downloads_.
 

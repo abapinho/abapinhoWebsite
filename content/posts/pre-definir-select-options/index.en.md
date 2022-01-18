@@ -8,7 +8,7 @@ wordpressId: 2993
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Abapinho received a letter.
 
@@ -24,11 +24,11 @@ Like this:
 {{< highlight ABAP >}}
 DATA: s_record TYPE ZDATA.
 
-SELECT-OPTIONS so_code1 FOR s_record-code 
-                        DEFAULT '20140805' 
+SELECT-OPTIONS so_code1 FOR s_record-code
+                        DEFAULT '20140805'
                         OPTION GE SIGN I.
 
-SELECT-OPTIONS so_code2 FOR s_record-code 
+SELECT-OPTIONS so_code2 FOR s_record-code
                        NO INTERVALS.
 {{< /highlight >}}
 

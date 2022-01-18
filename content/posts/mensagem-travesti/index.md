@@ -8,18 +8,18 @@ wordpressId: 1091
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nos módulos AT SELECTION-SCREEN de um REPORT é-te possível lançar mensagens de erro e voltar ao ecrã de selecção. Mas uma vez que passes do START-OF-SELECTION, se lançares uma mensagem de erro, o programa termina. A solução para dar um erro e, ainda assim, regressar ao ecrã de selecção, é travestir a mensagem:
 
 
-{{< highlight ABAP >}} 
+{{< highlight ABAP >}}
 START-OF-SELECTION.
-  IF condicao_desejada. 
-    MESSAGE S208(00) with 'Erro!' DISPLAY LIKE 'E'. 
-    EXIT. 
-  ENDIF. 
-  WRITE 'Olá, eu sou o resto do programa'. 
+  IF condicao_desejada.
+    MESSAGE S208(00) with 'Erro!' DISPLAY LIKE 'E'.
+    EXIT.
+  ENDIF.
+  WRITE 'Olá, eu sou o resto do programa'.
 {{< /highlight >}}
 
 A mensagem do tipo S mascarou-se de E. Parece que É, mas não É.

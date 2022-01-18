@@ -8,7 +8,9 @@ wordpressId: 3679
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'BAPIRET2'
+description: 'Como converter uma classe de excepção numa estrutura tipo BAPIRET2 para, por exemplo, poder adicioná-la a uma tabela de logs.'
 ---
 Some time ago I wrote an article explaining a way to automatically [convert classic exceptions to exception classes][1]. Today I use this technique in almost all the exception classes that I create (and I've even improved it, but I'll leave that for another post).
 

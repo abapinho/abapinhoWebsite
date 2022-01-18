@@ -8,7 +8,7 @@ wordpressId: 1161
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Por vezes um programa quer gravar um ficheiro localmente, no computador do utilizador através do SAP Gui. Nesses casos é comum que um dos campos do ecrã de selecção seja a localização da pasta no disco local.
 
@@ -20,14 +20,14 @@ PARAMETERS: p_path TYPE string.
 
 AT SELECTION-SCREEN ON VALUE-REQUEST FOR p_path.
   CALL METHOD cl_gui_frontend_services=>directory_browse
-    EXPORTING 
+    EXPORTING
       initial_folder  = p_path
-    CHANGING  
+    CHANGING
       selected_folder = p_path.
 
 INITIALIZATION.
   CALL METHOD cl_gui_frontend_services=>get_sapgui_workdir
-    CHANGING 
+    CHANGING
       sapworkdir = p_path.
   CALL METHOD cl_gui_cfw=>flush.
 {{< /highlight >}}

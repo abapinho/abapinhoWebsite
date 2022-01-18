@@ -8,7 +8,9 @@ wordpressId: 4353
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'comentários'
+description: 'Sempre usei * para comentar o código. Só usava " quando precisava de usar pseudo-comentários ou adicionar um pequeno comentário no final da linha.Mas há pouco tempo aprendi que faz muito mais sentido usar ".'
 ---
 Sempre usei * para comentar o código. Só usava " quando precisava de usar pseudo-comentários ou adicionar um pequeno comentário no final da linha.
 

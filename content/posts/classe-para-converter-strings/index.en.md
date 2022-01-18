@@ -8,7 +8,7 @@ wordpressId: 1894
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 You know how you sometimes have a STRING-type variable and you need to send it to a function that needs it in SOLIX-type? It often happens to me. Well, I have found this great class that converts strings into a wide range of formats:
 

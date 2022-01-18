@@ -8,7 +8,7 @@ wordpressId: 1970
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Nice relation diagrams for standard tables. Rui Dias revealed me a site where you can check the relation between any standard table with each other.
 

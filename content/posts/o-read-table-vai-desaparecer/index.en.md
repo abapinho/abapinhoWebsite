@@ -8,7 +8,7 @@ wordpressId: 3201
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Pré 7.4:
 

@@ -8,7 +8,7 @@ wordpressId: 4291
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 If you regularly read Abapinho you probably know by now that I can't live without [ABAP Package Concept][1]. Nowadays the first thing I do when starting a new development is creating an encapsulated package to hold all its objects (in the most complex scenarios, I create it as a main package and then create multiple child sub-packages).
 

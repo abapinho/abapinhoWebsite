@@ -8,7 +8,9 @@ wordpressId: 4754
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'SELECT CASE'
+description: 'ABAP SQL is becoming more and more interesting and powerful. My latest discovery is the ability to use CASE in SELECT.'
 ---
 ABAP SQL is becoming more and more interesting and powerful. My latest discovery is the ability to use CASE in SELECT.
 

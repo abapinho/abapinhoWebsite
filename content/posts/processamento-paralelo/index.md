@@ -8,7 +8,7 @@ wordpressId: 3049
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O que podemos fazer quando as noites não são suficientes para os processamentos diários?
 
@@ -29,9 +29,9 @@ Na prática o processamento paralelo é uma execução de RFC Assíncronos utili
 
 
 {{< highlight ABAP >}}
-CALL FUNCTION func STARTING NEW TASK task 
-              [DESTINATION {dest|{IN GROUP {group|DEFAULT}}}] 
-              [{PERFORMING subr}|{CALLING meth} ON END OF TASK] 
+CALL FUNCTION func STARTING NEW TASK task
+              [DESTINATION {dest|{IN GROUP {group|DEFAULT}}}]
+              [{PERFORMING subr}|{CALLING meth} ON END OF TASK]
               parameter_list.
 {{< /highlight >}}
 
@@ -255,7 +255,7 @@ start-of-selection.
   try .
       " ************************************************************
       " Build instance
-      l_pp_ref = zcl_pp_factory=>build_instance( 
+      l_pp_ref = zcl_pp_factory=>build_instance(
         pit_raw_data            = it_t005
         p_rfc_name              = 'Z_PP_UNIT_TESTS'
         p_logon_group           = sp_loggr

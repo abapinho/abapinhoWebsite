@@ -8,7 +8,7 @@ wordpressId: 1510
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Amiúde sinto necessidade de, num ecrã funcional, ver as informações técnicas de um determinado campo. Coloco o cursor sobre o campo desejado, depois carrego em F1 e aparece um ecrã de diálogo com ajuda sobre esse campo. A seguir carrego no botão que diz "informações técnicas". Mas há uma forma rápida de fazer o mesmo recorrendo apenas ao teclado.
 

@@ -8,7 +8,7 @@ wordpressId: 3063
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há muito tempo atrás dizias "porreiro pá". Depois começaste a dizer "baril". Depois era "fixe". Hoje dizes "altamente". É importante não te baralhares para não dares mau aspecto.
 

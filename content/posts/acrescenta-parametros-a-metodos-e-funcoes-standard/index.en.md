@@ -8,7 +8,7 @@ wordpressId: 3394
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 We are all aware of SAP implicit enhancements which allow you to add code to the top or bottom of any block of standard code (methods, functions, etc). We've all used it to make a change to a BAPI or other standard piece of code.
 

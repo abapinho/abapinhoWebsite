@@ -8,7 +8,7 @@ wordpressId: 2981
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Liberaste uma ordem de transporte porque achavas que estava tudo pronto. Mas afinal ainda faltava fazer mais uma pequena modificação. E agora vais ter de criar uma nova ordem e transportar as duas. Que grande chatice.
 

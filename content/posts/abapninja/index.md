@@ -8,7 +8,7 @@ wordpressId: 286
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Uma das grandes novidades do ERP 6.0 é a _Enhancement Framework_ que é uma espécie de "amigo do senhorio" que permite dar marteladas em todas as paredes do SAP sem escavacar a pintura. Infelizmente ainda há muito pouca documentação sobre isto e é sempre o cabo dos trabalhos para encontrar o _Enhancement Point_ adequado à martelada desejada.
 

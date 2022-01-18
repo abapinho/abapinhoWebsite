@@ -8,7 +8,7 @@ wordpressId: 3055
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há módulos de função standard que lançam mensagens e não deviam. Não deviam porque depois queremos usá-las em programas não interactivos e, em vez de devolverem o erro, atiram com uma mensagem para o ecrã que dá cabo do processo.
 

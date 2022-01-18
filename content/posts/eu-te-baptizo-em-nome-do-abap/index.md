@@ -8,7 +8,7 @@ wordpressId: 3218
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quando aprendemos ABAP ensinam-nos uma série de regras sobre como dar nomes a variáveis. Ainda que nem todos acabem por dar nomes iguais, ainda assim partilham-se algumas ideias rígidas:
 

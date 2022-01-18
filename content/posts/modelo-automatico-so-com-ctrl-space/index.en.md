@@ -8,7 +8,7 @@ wordpressId: 2891
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Of course you already know the "Model" button in the ABAP editor that allows you to automatically add models for function modules, calls for methods and others.
 

@@ -8,7 +8,9 @@ wordpressId: 3627
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'reference into'
+description: 'Recentemente descobri um comportamento muito lamentável do seguinte comando: INSERT wa INTO itbl REFERENCE INTO ref. Passo a explicar.'
 ---
 Tenho usado cada vez mais referências em ABAP. Primeiro usava REF TO só para classes mas agora vou percebendo as vantagens de as usar também para estruturas de dados.
 

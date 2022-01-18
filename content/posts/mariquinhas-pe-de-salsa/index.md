@@ -8,7 +8,7 @@ wordpressId: 1984
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 A SAP tem um livro chamado [Official ABAP Programming Guidelines][1] que descreve regras e boas práticas de como programar em ABAP. E lá diz assim (dizia em estrangeiro, eu traduzi):
 

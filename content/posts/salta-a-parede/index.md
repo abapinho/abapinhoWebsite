@@ -8,7 +8,7 @@ wordpressId: 1877
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Baixa a música.
 Fecha a porta.

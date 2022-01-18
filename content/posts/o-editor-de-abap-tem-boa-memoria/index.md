@@ -8,7 +8,7 @@ wordpressId: 2489
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 No editor ABAP selecciona uma palavra e faz CTRL-C. Depois selecciona outra palavra e faz novamente CTRL-C. Depois outra e outra. Copiaste várias vezes palavras para o _clipboard_. Diz a experiência e o senso comum que agora, se fizeres CTRL-V só vais poder usar a última palavra que para lá copiaste.
 

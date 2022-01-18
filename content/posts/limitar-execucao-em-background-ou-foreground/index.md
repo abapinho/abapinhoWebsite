@@ -8,7 +8,7 @@ wordpressId: 3325
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Desenvolveste um report que sabes que demora 12 horas a correr. Por isso não queres que ninguém tente corrê-lo em _foreground_. Vou mostrar-te uma forma de garantires que isso não acontece.
 

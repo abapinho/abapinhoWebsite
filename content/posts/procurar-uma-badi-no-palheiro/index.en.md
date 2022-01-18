@@ -8,7 +8,7 @@ wordpressId: 309
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 O SAP é um enorme palheiro. E os ABAPers são pessoas que trepam por esse palheiro acima e nele vasculham e escarafuncham em busca de agulhas de todo o género. Às vezes, desesperados, deitam-se a descansar e vêm uma quantidade enorme de bicharocos que vivem no palheiro fazer-lhes comichão. Para evitar que isso aconteça, o Artur Moreira propõe-nos uma série de diferentes técnicas para procurar BADIs neste grande palheiro que é o SAP.
 

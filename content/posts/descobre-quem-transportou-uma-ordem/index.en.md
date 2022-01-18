@@ -8,7 +8,7 @@ wordpressId: 2825
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The other day, a series of things crashed in our test machine. All of a sudden, no one could work on it. We found a series of transport requests improperly transported to STMS. The user who appears to be associated with each of these requests is its owner. But is it the owner’s fault? Didn’t someone else do the transport?
 

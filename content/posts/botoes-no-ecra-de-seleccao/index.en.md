@@ -8,7 +8,7 @@ wordpressId: 1612
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Normally, when buttons must be generated for users to click, Screen Painter is used to create a screen which is then invoked by the report using CALL SCREEN. But, unless the screen being designed is already quite complex it is pointless creating a screen which will have no further use. Screens have always annoyed me.
 
@@ -51,11 +51,11 @@ In this way we define the text of the buttons so that it can be translated [as e
 
 {{< highlight ABAP >}}
 AT SELECTION-SCREEN.
-* Se se carregou num dos botões, guarda o seu código e continua  
-  IF sscrfields-ucomm EQ 'BUT1' OR 
-      sscrfields-ucomm EQ 'BUT2' OR 
-      sscrfields-ucomm EQ 'BUT3'.    
-    g_ucomm = sscrfields-ucomm.    
+* Se se carregou num dos botões, guarda o seu código e continua
+  IF sscrfields-ucomm EQ 'BUT1' OR
+      sscrfields-ucomm EQ 'BUT2' OR
+      sscrfields-ucomm EQ 'BUT3'.
+    g_ucomm = sscrfields-ucomm.
     sscrfields-ucomm = 'ONLI'. " Finge que carregou em F8. Belo truque ;)
   ENDIF.
 {{< /highlight >}}
@@ -64,13 +64,13 @@ By redefining UCOMM as 'ONLI’ it is as though we have pressed the F8 key which
 
 
 {{< highlight ABAP >}}
-START-OF-SELECTION.  
-  CASE g_ucomm.    
-    WHEN 'BUT1'.      
+START-OF-SELECTION.
+  CASE g_ucomm.
+    WHEN 'BUT1'.
       WRITE 'Carregaste no botão de cima'.
     WHEN 'BUT2'.
       WRITE 'Carregaste no botão do meio'.
-    WHEN 'BUT3'.  
+    WHEN 'BUT3'.
       WRITE 'Carregaste no botão de baixo'.
 ENDCASE.
 {{< /highlight >}}

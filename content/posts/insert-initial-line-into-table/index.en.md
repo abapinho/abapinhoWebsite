@@ -8,7 +8,7 @@ wordpressId: 2038
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 The harsh truth, at all costs, is that structures are out of date. Nowadays FIELD-SYMBOLS are in.
 

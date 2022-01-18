@@ -8,7 +8,7 @@ wordpressId: 832
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Whatever the case, it is necessary to put a program to sleep. And, as with almost everything else, there are several ways to do this, some better than others.
 

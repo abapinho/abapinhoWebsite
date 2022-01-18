@@ -8,7 +8,7 @@ wordpressId: 492
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Quantas vezes não é necessária uma pequena estrutura para guardar, por exemplo, uma lista que relacione materiais e centros. Mas perder tempo a inventar a roda é sempre de evitar.
 

@@ -8,7 +8,7 @@ wordpressId: 2027
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 For some strange reason, LISTBOX is rarely used in report selection screens. Even though it's widely used throughout the web. Who knows why.
 
@@ -25,7 +25,7 @@ It's so simple:
 
 {{< highlight ABAP >}}
 TABLES: kna1.
-PARAMETERS: p_land1 LIKE kna1-land1 AS LISTBOX 
+PARAMETERS: p_land1 LIKE kna1-land1 AS LISTBOX
                     VISIBLE LENGTH 25 DEFAULT 'PT' OBLIGATORY.
 {{< /highlight >}}
 

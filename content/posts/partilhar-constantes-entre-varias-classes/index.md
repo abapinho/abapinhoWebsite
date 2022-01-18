@@ -8,7 +8,7 @@ wordpressId: 2196
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Imagina que tens uma manada de classes relacionadas as quais partilham entre elas uma manada de constantes. Dizendo a mesma coisa de outra forma, gostavas que todas as classes da manada tivessem acesso de forma simples à manada de constantes.
 

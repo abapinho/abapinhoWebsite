@@ -8,7 +8,9 @@ wordpressId: 4535
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
+keyword: 'notion'
+description: 'Depois de 10 anos a usar o Evernote para tirar notas, sem que este tenha evoluído grande coisa, decidi mudar para o Notion que é extraordinário.'
 ---
 [Um dos primeiros artigos do Abapinho foi sobre o Evernote][1]. Ou melhor, foi sobre a importância de tomar notas. Mas nele eu explicava como uso o Evernote para tirar essas notas.
 

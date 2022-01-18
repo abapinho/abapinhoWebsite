@@ -8,7 +8,7 @@ wordpressId: 1803
 draft: false
 resources:
 - name: featuredImage
-  src: "images/thumbnail.jpg"
+  src: 'images/thumbnail.jpg'
 ---
 Há várias formas de criar um Excel em ABAP. Umas mais masoquistas, outras menos masoquistas; umas mais foleiras, outras menos foleiras.
 
