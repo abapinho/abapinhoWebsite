@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'transportar tabela local'
+keywords: ['transportar tabela local']
 description: 'Como transportar os ecrãs de manutenção de uma tabela que foi originalmente criada localmente? Duas soluções. manual e automática.'
 ---
 Criaste uma tabela e os seus ecrãs de manutenção como objectos locais.

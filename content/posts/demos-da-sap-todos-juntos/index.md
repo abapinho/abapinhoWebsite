@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'ABAP demo code'
+keywords: ['ABAP demo code']
 description: 'Todo o código de demonstração da SAP está agrupado debaixo do mesmo pacote. Isto torna mais simples encontrar código exemplo para aprender.'
 ---
 Nos anos 80, quando eu era pequenino, tinha de fazer `LOAD ""` e depois esperar vários minutos a olhar para riscas numa TV e a ouvir ruído antes que um jogo do ZX Spectrum ficasse pronto a jogar. Muito anos mais tarde, quando já tinha um PC, descobri um emulador que tinha um menu com centenas de jogos do ZX Spectrum. Só tinha de escolher um da lista e começar a jogar instantaneamente.

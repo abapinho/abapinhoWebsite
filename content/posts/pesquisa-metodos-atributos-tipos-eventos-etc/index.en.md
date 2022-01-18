@@ -6,7 +6,7 @@ tags: []
 categories: [dicas]
 wordpressId: 3611
 draft: false
-keyword: 'encontra métodos[:en]pesquisa métodos'
+keywords: ['encontra métodos[:en]pesquisa métodos']
 description: 'Uma óptima forma de pesquisar coisas no repositório do sistema de informação do SAP que te pode ajudar a poupar imenso tempo{:en}Uma '
 ---
 You remember having written a method some years ago which you need now. You know it had the word MALMEQUER somewhere in its name. But what now? How will you find it?

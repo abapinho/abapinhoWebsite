@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'extrair método'
+keywords: ['extrair método']
 description: 'Primeiro de uma série de artigos sobre refactorização. Este aborda a técnica "Extrair método" que premite modularizar uma rotina complexa demais.'
 ---
 In SAP's world, ABAP code will forever stay wherever you leave it.

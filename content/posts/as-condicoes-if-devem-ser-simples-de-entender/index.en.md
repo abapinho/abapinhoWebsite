@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'condições IF simples'
+keywords: ['condições IF simples']
 description: 'As condições IF devem ser simples de entender. Aprenda aqui como consegui-lo mesmo com condições complexas.'
 ---
 Because...why should they be complex to read? It would only make it harder to maintain in the future.

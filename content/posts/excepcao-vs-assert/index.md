@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'ASSERT vs Excepção'
+keywords: ['ASSERT vs Excepção']
 description: 'Além de classes de excepções, o ABAP também disponibiliza o commando ASSERT. Aprende quando usar excepções e quando usar ASSERTs.'
 ---
 Quem lê o Abapinho sabe quanto gosto de classes de excepções. No entanto, este não é o único mecanismo que o ABAP disponibiliza para controlo de erros.

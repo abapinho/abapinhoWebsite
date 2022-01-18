@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'evita negativas'
+keywords: ['evita negativas']
 description: 'Aqui fica um par de dicas para ajudar a tornar expressões booleanas mais legíveis.'
 ---
 A legibilidade é muito importante em todo o texto escrito. Talvez com a excepção da [poesia concreta][1].

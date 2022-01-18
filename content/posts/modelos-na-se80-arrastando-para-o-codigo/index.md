@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'Modelo por arrasto'
+keywords: ['Modelo por arrasto']
 description: 'Aprende como criar modelos de código arrastando métodos (e outros) com o rato directamente para o código na transacção SE80.'
 ---
 Quando estamos a programar é sempre bom ter formas de acelerar o que estamos a fazer. Uma delas é a geração automática de de padrões de chamadas de métodos e afins.

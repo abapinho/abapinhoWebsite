@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'ticket system'
+keywords: ['ticket system']
 ---
 Today we have a guest, Tamás Holics. He owns STA Consulting, a Hungarian company which has created 2 very interesting SAP products. In this article Tamás presents the STA Ticket System.
 

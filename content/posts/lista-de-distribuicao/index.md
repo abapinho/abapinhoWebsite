@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'listas de distribuição'
+keywords: ['listas de distribuição']
 ---
 Quando tens de enviar o mesmo email para mais do que um endereço, o mais comum é guardar a lista de endereços numa tabela qualquer e depois adicionar todos os endereços como recipientes.
 

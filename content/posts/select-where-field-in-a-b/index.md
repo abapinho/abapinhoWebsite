@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'SELECT multi key custom table'
+keywords: ['SELECT multi key custom table']
 description: 'A forma mais simples de fazer SELECT a uma tabela de parametrização com vários níveis de detalhe contemplando wildcards.'
 ---
 Vamos por partes.

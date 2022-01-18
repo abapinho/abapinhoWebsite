@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'SELECT to RANGE'
+keywords: ['SELECT to RANGE']
 description: 'Várias formas diferentes de converter um SELECT num RANGE. Da pior com 15 linhas e 7 comandos à melhor com apenas 5 linhas e 1 comando.'
 ---
 Today we'll try to optimize the code to convert a SELECT into a RANGE

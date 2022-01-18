@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'BAPIRET2'
+keywords: ['BAPIRET2']
 description: 'Como converter uma classe de excepção numa estrutura tipo BAPIRET2 para, por exemplo, poder adicioná-la a uma tabela de logs.'
 ---
 Há uns tempos escrevi um artigo a explicar uma forma de [converter automaticamente excepções clássicas em classes de excepção][1]. Hoje uso esta técnica em quase todas as classes de excepção que crio (e até já melhorei a coisa mas noutro dia falo disso).

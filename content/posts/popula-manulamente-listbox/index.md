@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'listbox'
+keywords: ['listbox']
 description: 'O LISTBOX é raramente usado em ecrãs de selecção. Este artigo ensina como populá-lo manualmente com os nossos próprios valores.'
 ---
 Em 2012 [lamentei que a LISTBOX fosse tão pouco usada][1]. Ensinei a usá-la com elementos de dado standard, que a populam automaticamente. Hoje vou-te ensinar como a podes popular tu próprio se quiseres listar opções que não venham de um elemento de dados.

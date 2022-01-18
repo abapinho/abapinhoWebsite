@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'responsabilidade'
+keywords: ['responsabilidade']
 ---
 Se, ao construir uma ponte, um engenheiro civil fizer mal as contas a ponte cai. Mas não é só a ponte que cai. Esse engenheiro civil provavelmente também cai. Ou pelo menos desequilibra-se. Porque quando fez o projecto da ponte assinou-o, assumindo responsabilidade pelo que fez.
 

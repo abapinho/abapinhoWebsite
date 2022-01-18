@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'parâmetros de método'
+keywords: ['parâmetros de método']
 ---
 Imagina que queres chamar um método mas não sabem quais os seus parâmetros. O que fazes?
 

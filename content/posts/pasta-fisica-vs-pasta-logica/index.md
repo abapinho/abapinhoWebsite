@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'pastas lógicas'
+keywords: ['pastas lógicas']
 description: 'Como usar pastas lógicas em vez de pastas físicas para evitar ter de alterar o programa caso um dia alguém decida alterar a localização da pasta.'
 ---
 Se num relatório chamado APP1 precisares de gravar um ficheiro numa determinada pasta do servidor (ex.: /export/app1/) e não quiseres que esta pasta seja um parâmetro, como fazes?

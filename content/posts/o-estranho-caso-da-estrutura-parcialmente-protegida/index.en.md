@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'estrutura parcialmente protegida'
+keywords: ['estrutura parcialmente protegida']
 description: 'Ao tentar actualizar um registo de uma SORTED TABLE o códgio dá dump porque estava a tentar passar por referência uma estrutura parcialmente protegida.'
 ---
 The other day I was trying (and failing) to modify a line of a SORTED TABLE.

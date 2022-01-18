@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'SELECT CASE'
+keywords: ['SELECT CASE']
 description: 'ABAP SQL is becoming more and more interesting and powerful. My latest discovery is the ability to use CASE in SELECT.'
 ---
 ABAP SQL is becoming more and more interesting and powerful. My latest discovery is the ability to use CASE in SELECT.

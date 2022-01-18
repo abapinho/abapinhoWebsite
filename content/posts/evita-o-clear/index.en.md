@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'CLEAR'
+keywords: ['CLEAR']
 description: 'Neste artigo tento analisar todas as situações em que o CLEAR costuma ser usado e porque é que pode ser evitado em quase todos.'
 ---
 Please stop. Too many regressions happen because someone forgets to CLEAR or to not CLEAR a variable.

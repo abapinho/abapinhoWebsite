@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'append structure foreign key'
+keywords: ['append structure foreign key']
 ---
 Toda a minha vida ABAPiana usei APPEND STRUCTURES para adicionar campos extra a tabelas standard.
 

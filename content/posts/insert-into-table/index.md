@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'INSERT vs APPEND'
+keywords: ['INSERT vs APPEND']
 description: 'Chegou a hora de deixares de usar APPEND e começares a usar o INSERT INTO TABLE para adicionar entradas a tabelas internas.'
 ---
 Quantas vezes na tua vida de consultor tiveste de lidar com dumps que aconteceram em consequência de um programa tentar inserir duas linhas com a mesma chave numa tabela interna definida com UNIQUE KEY?

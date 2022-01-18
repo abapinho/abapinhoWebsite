@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'notion'
+keywords: ['notion']
 description: 'Depois de 10 anos a usar o Evernote para tirar notas, sem que este tenha evoluído grande coisa, decidi mudar para o Notion que é extraordinário.'
 ---
 [One of the first posts in Abapinho was about Evernote][1]. Well, it was actually about the importance of taking notes. But it suggested Evernote was the best tool for the job.

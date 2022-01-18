@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'relógio SAP[:en]SAP clock'
+keywords: ['relógio SAP[:en]SAP clock']
 description: 'Um sistema SAP é constituído por várias partes. Cada uma tem um relógio e convém que estes estejam sincronizados. Há um programa standard para os testar.'
 ---
 Even though you look at an SAP system as a whole, it is composed by several distinct and interconnected parts. There is a small standard program which checks if each part's clock is correct and synchronised.

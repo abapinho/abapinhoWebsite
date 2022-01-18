@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'incremental search'
+keywords: ['incremental search']
 ---
 Quando quero procurar uma determinada palavra num programa ABAP normalmente uso a função de pesquisa carregando em CTRL-F. E depois vou carregando em NEXT para ir encontrando as várias ocorrências da palavra que procuro.
 

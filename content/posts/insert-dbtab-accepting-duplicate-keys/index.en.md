@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'duplicate'
+keywords: ['duplicate']
 ---
 When you try to insert a record with a key which already exists in the table the program dumps. This, in some cases, is not desirable because, even if you don't care, it forces you to check if the keys already exist before trying to insert then.
 

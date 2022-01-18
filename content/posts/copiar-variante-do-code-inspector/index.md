@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'copiar variante do code inspector'
+keywords: ['copiar variante do code inspector']
 description: 'Há uma forma de exportar variantes do Code Inspector para as poder importar noutro sistema. Aprende neste artigo como se faz.'
 ---
 No meu cliente tenho três ambientes de desenvolvimento. Dantes tinha só um. E foi nesse que configurei a variante do _Code Inspector_ que uso para correr o _Abap Test Cockpit_.

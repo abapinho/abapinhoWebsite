@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'fiori'
+keywords: ['fiori']
 ---
 For many years I've been complaining about how backward ABAP development ecosystem is and how long it takes to evolve. Every time he heard me saying it a good friend of mine would wisely advise me to never bite the hand that feeds you.
 

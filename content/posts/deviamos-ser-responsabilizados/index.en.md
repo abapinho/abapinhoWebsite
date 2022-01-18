@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'responsabilidade'
+keywords: ['responsabilidade']
 ---
 If, when building a bridge, a civil engineer makes a mistake in one of the calculations, the bridge falls. But the bridge won't fall alone. Most probably that engineer will also fall with it. He is accountable for what he did because he must sign his projects.
 

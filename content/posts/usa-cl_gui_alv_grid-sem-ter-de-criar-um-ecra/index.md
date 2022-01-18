@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'alv grid'
+keywords: ['alv grid']
 description: 'Depois de tantos anos, quem diria que afinal não era necessário criar um ecrã e um container para poder usar a CL_GUI_ALV_GRID.'
 ---
 Hoje em dia é raro usar o CL_GUI_ALV_GRID porque uso quase sempre a SALV. Mas quando é preciso fazer ALVs editáveis continuo a recorrer à CL_GUI_ALV_GRID. Durante muito tempo julguei que, para a usar, tinha de criar um ecrã com um container, o que é uma chatice. E como eu uso ABAP OO, precisava de criar um function group para alojar o ecrã e um function module para o chamar, o que era outra chatice.

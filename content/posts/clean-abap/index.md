@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'Clean ABAP'
+keywords: ['Clean ABAP']
 description: 'A SAP criou um guia de boas prácticas inspirado no Clean Code do Robert Martin onde explica exaustivamente qual a melhor forma de programar em ABAP OO. '
 ---
 Durante muitos anos, quando entrava em discussões sobre ABAP OO ser melhor do que FORMs, INCLUDEs e CALL FUNCTIONs, o mais comum é a pessoa do lado de lá continuar convencida de que OO é bom nas outras linguagens mas não traz vantagens para o ABAP. Logo a começar pelo atroz código standard SAP que parece ter sido escrito para provar que é possível fazer algo que viola todas as boas prácticas de programação e mesmo assim funciona.

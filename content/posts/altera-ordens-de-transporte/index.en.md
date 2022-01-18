@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'liberar ordens sem autorização'
+keywords: ['liberar ordens sem autorização']
 description: 'Aprende como alterar e liberar ordens de transporte num sistema de desenvolvimento mesmo que não tenhas permissõse para o fazer.'
 ---
 As we all know, system adminstrators are very bad, cold blooded and cruel people. To prove it you just need to read the [Bastard Operator from Hell][1].

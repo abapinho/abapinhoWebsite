@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'transacção sem ecrã de selecção'
+keywords: ['transacção sem ecrã de selecção']
 description: 'Descobre o atalho secreto para entrar numa transacção se ter de passar pelo ecrã de selecção, usando os últimos dados guardados.'
 ---
 Once again SAPGui surprises me with yet another obscure shortcut I didn't know about.

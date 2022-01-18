@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'transacção faz call transaction'
+keywords: ['transacção faz call transaction']
 description: 'Ensina-se aqui uma forma airosa, ainda que bizarra, para conseguir que uma transacção A chame uma transacção B mesmo quando não se tem acesso a ela.'
 ---
 John created transaction ZFB01 and associated it with program ZFB01 which, after doing some stuff, does a CALL TRANSACTION on FB01. Then came his friend Mike and ran transaction ZFB01.

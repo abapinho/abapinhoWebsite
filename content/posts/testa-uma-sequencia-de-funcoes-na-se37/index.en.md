@@ -9,7 +9,7 @@ draft: false
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-keyword: 'testar sequência de funções'
+keywords: ['testar sequência de funções']
 ---
 I was sure I had already posted about this before but I can't find it so here it goes (again?).
 
