@@ -20,7 +20,7 @@ Referrer-Policy = "no-referrer"
 
 [build]
 publish = "public"
-command = "./netlify_build.sh"
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.91.2"

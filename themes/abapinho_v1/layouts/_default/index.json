@@ -1,5 +1,8 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
-    {{- $.Scratch.Add "index" (dict "objectID" .File.ContentBaseName "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
+    {{- $.Scratch.Add "index" (dict "objectID" .File.ContentBaseName "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink "language" .Language.Lang) -}}
+    {{ range .Translations }}
+        {{- $.Scratch.Add "index" (dict "objectID" .File.ContentBaseName "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink "language" .Language.Lang) -}}
+    {{ end }}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
