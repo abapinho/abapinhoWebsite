@@ -12,7 +12,7 @@ refLinksErrorLevel = "WARNING"
 posts = "/:year/:month/:slug/"
 
 [params]
-description = "ABAP em português"
+description = "Artigos técnicos sobre SAP e ABAP em português"
 keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
 
 [outputs]
