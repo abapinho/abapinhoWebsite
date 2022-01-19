@@ -2,7 +2,7 @@
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v2.5.0
+  rev: v4.1.0
   hooks:
   - id: no-commit-to-branch
   - id: check-xml
@@ -11,7 +11,7 @@ repos:
   - id: trailing-whitespace
 
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
-  rev: v1.3.2
+  rev: v2.2.0
   hooks:
   - id: pretty-format-toml
     args: [--autofix]
