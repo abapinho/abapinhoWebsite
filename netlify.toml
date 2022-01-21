@@ -1,13 +1,14 @@
-[[redirects]]
-from = "/*"
-to = "/en/:splat"
-status = 301
-force = false
+[build]
+publish = "public"
+command = "./netlify_build.sh"
 
-[redirects.query]
-path = ":path"
-[redirects.conditions]
-Language = [ "en",]
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.91.2"
+
+[context.production.environment]
+HUGO_VERSION = "0.91.2"
+HUGO_ENV = "production"
+
 [[headers]]
 for = "/*"
 
@@ -18,13 +19,17 @@ X-Content-Type-Options = "nosniff"
 Content-Security-Policy = "default-src 'self' abapinho.com *.abapinho.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic; form-action 'self'; script-src 'self' 'unsafe-inline' abapinho.com *.abapinho.com https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js algolianet.com *.algolianet.com; connect-src 'self' abapinho.com *.abapinho.com algolianet.com *.algolianet.com *.algolia.net; img-src 'self'; base-uri 'self';"
 Referrer-Policy = "no-referrer"
 
-[build]
-publish = "public"
-command = "./netlify_build.sh"
+[[plugins]]
+package = "@netlify/plugin-sitemap"
 
-[context.production.environment]
-HUGO_VERSION = "0.91.2"
-HUGO_ENV = "production"
+[[redirects]]
+from = "/*"
+to = "/en/:splat"
+status = 301
+force = false
 
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.91.2"
+[redirects.conditions]
+Language = [ "en",]
+
+[redirects.query]
+path = ":path"
