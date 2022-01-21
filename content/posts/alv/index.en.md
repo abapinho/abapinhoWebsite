@@ -22,8 +22,8 @@ Escolhe o que gostares mais e faz bom proveito.
 
 O Abapinho saúda-vos.
 
-   [1]: https://abapinho.com/wp-content/uploads/2010/05/BCSRVALV.pdf
+   [1]: pdf/BCSRVALV.pdf
    [2]: http://help.sap.com/printdocu/core/Print46c/EN/data/pdf/BCSRVALV/BCSRVALV.pdf
    [3]: http://help.sap.com/saphelp_nw04/helpdata/EN/8d/e994374c9cd355e10000009b38f8cf/frameset.htm
-   [4]: https://abapinho.com/wp-content/uploads/2010/05/ALV_Grid_Control_2003.pdf
+   [4]: pdf/ALV_Grid_Control_2003.pdf
    [5]: http://uk.linkedin.com/in/ssimsekler

@@ -16,4 +16,4 @@ Thank you to everyone who visited me during my short life and a special thank yo
 Greetings from me, Abapinho.
 
    [1]: images/grafico_visitas_abapinho-300x54.jpg
-   [2]: https://abapinho.com/wp-content/uploads/2014/03/grafico_visitas_abapinho.jpg
+   [2]: images/grafico_visitas_abapinho.jpg

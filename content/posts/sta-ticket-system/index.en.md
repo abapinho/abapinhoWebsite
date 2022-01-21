@@ -75,33 +75,31 @@ The next screenshot shows a very important and convenient feature of the tool. U
 
 When the user presses “Complete”, the program automatically creates an incident in ServiceNow. All fields are set as defined on the SAP screen. Notice the attachments added automatically (screenshot and PDF). In this integration example we have done the following:
 
-  * Created a new Contact type ("Sent from SAP")
+* Created a new Contact type ("Sent from SAP")
 
-  * Created a new subcategory ("SAP") under category "Software"
+* Created a new subcategory ("SAP") under category "Software"
 
-  * Created two custom fields in ServiceNow
+* Created two custom fields in ServiceNow
 
-    * Scope (Entire SAP system, Entire department, Entire team or group, Single User)
+  * Scope (Entire SAP system, Entire department, Entire team or group, Single User)
 
-    * Type (Authorization, Functional correctness, Fatal error, Performance, User Experience)
+  * Type (Authorization, Functional correctness, Fatal error, Performance, User Experience)
 
-  * Defined groups per SAP module, like SAP Finance, SAP Material Management, SAP Security etc.
+* Defined groups per SAP module, like SAP Finance, SAP Material Management, SAP Security etc.
 
 ![sta4][4]
 
 ## Extra information
 
-Here is a PDF document that was generated using STA Ticket System. All this information will be available for every incident your users create.
-
-[pdf-embedder url="https://abapinho.com/wp-content/uploads/2016/02/Incident_INC0010066_ECC_20151202.pdf"]
+[Here is a PDF document][12] that was generated using STA Ticket System. All this information will be available for every incident your users create.
 
 An additional great function is that depending on the context of the current program, additional attachments are added to the ServiceNow incident.
 
-  * The program cakes a screenshot automatically (must be confirmed by the user)
+* The program cakes a screenshot automatically (must be confirmed by the user)
 
-  * An authorization report (SU53) can be added as well. Your SAP basis and security people will love this feature.
+* An authorization report (SU53) can be added as well. Your SAP basis and security people will love this feature.
 
-  * If the current program results in a short dump, the program can attach it as HTML
+* If the current program results in a short dump, the program can attach it as HTML
 
 ![sta5][5]
 
@@ -119,15 +117,15 @@ You can use the product from SAP Enterprise Portal too. Simply launch it from th
 
 It is easy to see how your company can benefit from integrating SAP its existing ITSM tools using STA Ticket System.
 
-  * Reduce non-value added communication resulting from incomplete or incorrect bug reports
+* Reduce non-value added communication resulting from incomplete or incorrect bug reports
 
-  * Speed up debugging and maintenance tasks by providing additional information to developers
+* Speed up debugging and maintenance tasks by providing additional information to developers
 
-  * Boost job satisfaction of the support staff by reducing unnecessary communication and possibly unneeded debugging
+* Boost job satisfaction of the support staff by reducing unnecessary communication and possibly unneeded debugging
 
-  * Reduce the time needed to create an incident
+* Reduce the time needed to create an incident
 
-  * As a result of all above, save SAP IT costs by reducing time to resolve incidents dramatically
+ * As a result of all above, save SAP IT costs by reducing time to resolve incidents dramatically
 
 You can spare a lot of time if your IT support is located far away from your end-users. Due to a big difference of timezones, often support people have to wait a whole day for some missing information. Very common for big multinational companies or for companies with an outsourced IT support.
 
@@ -147,3 +145,4 @@ You can see it in action connected to ServiceNow in [this video][11].
    [9]: images/sta9.jpg
    [10]: http://sta-technologies.com/products/ticket-system/
    [11]: https://www.youtube.com/watch?v=ML0G8sCA9K4
+   [12]: txt/Incident_INC0010066_ECC_20151202.pdf
