@@ -20,15 +20,15 @@ In this article I am presenting a suggestion that seems a little complex, but it
 
 So here's my suggestion:
 
-1\. When a function returns an exception, we assume that the details of the message associated to that exception are in the SYST fields, where you can find the last message of the system;
-2\. If the function fails right after it is called, we just need to trigger an exception class created specifically to encapsulate this last message (which I have named as ZCX_SYST);
-3\. From this moment the function exception can be treated like an exception class.
+1. When a function returns an exception, we assume that the details of the message associated to that exception are in the SYST fields, where you can find the last message of the system;
+2. If the function fails right after it is called, we just need to trigger an exception class created specifically to encapsulate this last message (which I have named as ZCX_SYST);
+3. From this moment the function exception can be treated like an exception class.
 
 How can we achieve this?
 
-1\. Create the exception class with message class ZCX_SYST.
-2\. Declare four SYSMSGV type attributes: MSGV1, MSGV2, MSGV3, MSGV4.
-3\. Finally we need to change the constructor to automatically populate the T100KEY fields and the four attributes in the SYST fields, which contain the last system message. This way the system message will be encapsulated in the exception class. But since in SAP it is not allowed to make changes in the exception class CONSTRUTCOR for automatically generated classes, we need to use a trick.: insert an enhancement at the end of the constructor of our class. Normally enhancements are used to make changes to the standard code, but this is an example where it can be very useful to apply them in Z-code.
+1. Create the exception class with message class ZCX_SYST.
+2. Declare four SYSMSGV type attributes: MSGV1, MSGV2, MSGV3, MSGV4.
+3. Finally we need to change the constructor to automatically populate the T100KEY fields and the four attributes in the SYST fields, which contain the last system message. This way the system message will be encapsulated in the exception class. But since in SAP it is not allowed to make changes in the exception class CONSTRUTCOR for automatically generated classes, we need to use a trick.: insert an enhancement at the end of the constructor of our class. Normally enhancements are used to make changes to the standard code, but this is an example where it can be very useful to apply them in Z-code.
 
 And this is the ZCX_SYST code:
 
@@ -107,9 +107,6 @@ And bingo, that’s it.
 
 This approach was inspired by [this SAP article][1].
 
-Obrigado Philipp Pohle pela [foto][2].
-
 Best greetings from Abapinho.
 
    [1]: http://help.sap.com/abapdocu_740/en/abenmessage_interface_abexa.htm
-   [2]: https://www.flickr.com/photos/97321708@N07/9317424023

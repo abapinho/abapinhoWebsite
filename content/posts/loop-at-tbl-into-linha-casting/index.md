@@ -63,4 +63,4 @@ Obrigado Nuno Morais pela dica.
 
 Obrigado Eelco pela [foto][1].
 
-   [1]: “https://www.flickr.com/photos/smiling_da_vinci/12781401”
+   [1]: https://www.flickr.com/photos/smiling_da_vinci/12781401

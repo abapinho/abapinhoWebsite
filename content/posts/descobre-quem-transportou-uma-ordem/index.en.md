@@ -30,4 +30,4 @@ And thanks to Jiuck for the [photo][1].
 
 Greetings from Abapinho.
 
-   [1]: “https://www.flickr.com/photos/jiuck/7758480164”
+   [1]: https://www.flickr.com/photos/jiuck/7758480164

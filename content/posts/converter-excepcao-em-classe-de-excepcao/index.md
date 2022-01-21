@@ -20,18 +20,17 @@ Neste artigo apresento uma sugestão um bocado rebuscada mas que funciona muito 
 
 Proponho o seguinte:
 
-1\. Quando uma função devolve uma excepção presumimos que os detalhes da mensagem associada a essa excepção estão nos campos da SYST onde fica a última mensagem de sistema;
-2\. Logo a seguir à chamada da função, se esta falhar, apenas temos de lançar uma classe de excepção por nós criada especificamente para encapsular essa última mensagem (a que chamei ZCX_SYST);
-3\. A partir deste momento a excepção da função pode ser tratada como se fosse uma classe de excepção.
+1. Quando uma função devolve uma excepção presumimos que os detalhes da mensagem associada a essa excepção estão nos campos da SYST onde fica a última mensagem de sistema;
+2. Logo a seguir à chamada da função, se esta falhar, apenas temos de lançar uma classe de excepção por nós criada especificamente para encapsular essa última mensagem (a que chamei ZCX_SYST);
+3. A partir deste momento a excepção da função pode ser tratada como se fosse uma classe de excepção.
 
 E como é que vamos conseguir isto?
 
-1\. Criamos a classe de excepções com classe de mensagem chamada ZCX_SYST;
-2\. Nela declaramos 4 atributos MSGV1, MSGV2, MSGV3 MSGV4 do tipo SYSMSGV;
-3\. Finalmente precisamos de alterar o seu construtor para popular automaticamente os campos da T100KEY e os 4 atributos com os campos da SYST que contêm a última mensagem de sistema. Fica assim encapsulada a mensagem de sistema na classe de excepções. Mas como o SAP não permite alterar o CONSTRUCTOR das classes de excepção visto estas serem geradas automaticamente, temos de recorrer a uma manha: fazer um _enhancement_ no final do construtor da nossa classe. Geralmente os _enhancements_ são usados para alterar código standard mas aqui está um caso em que dão jeito em código Z.
+1. Criamos a classe de excepções com classe de mensagem chamada ZCX_SYST;
+2. Nela declaramos 4 atributos MSGV1, MSGV2, MSGV3 MSGV4 do tipo SYSMSGV;
+3. Finalmente precisamos de alterar o seu construtor para popular automaticamente os campos da T100KEY e os 4 atributos com os campos da SYST que contêm a última mensagem de sistema. Fica assim encapsulada a mensagem de sistema na classe de excepções. Mas como o SAP não permite alterar o CONSTRUCTOR das classes de excepção visto estas serem geradas automaticamente, temos de recorrer a uma manha: fazer um _enhancement_ no final do construtor da nossa classe. Geralmente os _enhancements_ são usados para alterar código standard mas aqui está um caso em que dão jeito em código Z.
 
 Aqui está o código da ZCX_SYST:
-
 
 {{< highlight ABAP >}}
 method CONSTRUCTOR.
@@ -107,9 +106,6 @@ Zás já tá.
 
 Esta abordagem inspirou-se [neste artigo da SAP][1].
 
-Obrigado Philipp Pohle pela [foto][2].
-
 O Abapinho saúda-vos.
 
    [1]: http://help.sap.com/abapdocu_740/en/abenmessage_interface_abexa.htm
-   [2]: https://www.flickr.com/photos/97321708@N07/9317424023

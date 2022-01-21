@@ -30,4 +30,4 @@ Obrigado Jiuck pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: “https://www.flickr.com/photos/jiuck/7758480164”
+   [1]: https://www.flickr.com/photos/jiuck/7758480164

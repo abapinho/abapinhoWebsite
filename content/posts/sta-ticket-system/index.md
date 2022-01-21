@@ -134,4 +134,4 @@ Podes vê-lo em acção ligado ao ServiceNow [neste vídeo][11].
    [9]: images/sta9.jpg
    [10]: http://sta-technologies.com/products/ticket-system/
    [11]: https://www.youtube.com/watch?v=ML0G8sCA9K4
-   [12]: txt/Incident_INC0010066_ECC_20151202.pdf
+   [12]: pdf/Incident_INC0010066_ECC_20151202.pdf

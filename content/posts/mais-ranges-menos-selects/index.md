@@ -75,4 +75,4 @@ Outra forma seria usar um SELECT dinâmico, mas neste caso seria desnecessariame
 
 O Abapinho saúda-vos.
 
-   [1]: https://abapinho.com/tag/estilo/
+   [1]: https://abapinho.com/tags/estilo/
