@@ -22,6 +22,31 @@ Referrer-Policy = "no-referrer"
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[[plugins]]
+package = "netlify-plugin-checklinks"
+
+[[plugins]]
+package = "netlify-plugin-hugo-cache-resources"
+
+[plugins.inputs]
+debug = false
+
+[[plugins]]
+package = "@netlify/plugin-lighthouse"
+
+[plugins.inputs]
+output_path = "reports/lighthouse.html"
+
+[[plugins]]
+package = "netlify-plugin-no-more-404"
+
+[plugins.inputs]
+on404 = "warn"
+cacheKey = "20220121"
+
 [[redirects]]
 from = "/*"
 to = "/en/:splat"
