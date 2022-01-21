@@ -20,8 +20,4 @@ Simple? But do take it easy and don’t start calling MATNR “thingy” and UNA
 
 Thank you to Miguel Freitas for the tip.
 
-(And thank you to David Rodrigues for the [foto][1]).
-
 Greetings from Abapinho.
-
-   [1]: http:://nimages.blogspot.com

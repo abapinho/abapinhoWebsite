@@ -31,4 +31,4 @@ E obrigado Dirk Knight pela [foto][2].
 O Abapinho saúda-vos.
 
    [1]: images/break-point-skip.jpg
-   [2]: “http://www.flickr.com/photos/dkshots/5331436372”
+   [2]: https://www.flickr.com/photos/dkshots/5331436372

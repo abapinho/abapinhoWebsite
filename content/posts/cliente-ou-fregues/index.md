@@ -20,8 +20,4 @@ Simples? Pois, mas tem calma, não te ponhas a chamar "coisa" ao MATNR nem "amig
 
 Obrigado ao Miguel Freitas pela dica.
 
-(E obrigado a David Rodrigues pela [foto][1]).
-
 O Abapinho saúda-vos.
-
-   [1]: http:://nimages.blogspot.com

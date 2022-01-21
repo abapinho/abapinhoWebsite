@@ -75,4 +75,4 @@ Another way would be to use a dynamic SELECT, but that would be unnecessarily co
 
 Greetings from Abapinho.
 
-   [1]: https://abapinho.com/tag/estilo/
+   [1]: https://abapinho.com/tags/estilo/
