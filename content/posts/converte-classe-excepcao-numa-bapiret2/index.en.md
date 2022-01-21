@@ -28,4 +28,4 @@ And that’s it really. A simple tip.
 
 Greetings from Abapinho.
 
-   [1]: https://abapinho.com/en/2015/06/converter-except-in-exception-class
+   [1]: {{< ref "converter-excepcao-em-classe-de-excepcao" >}}
