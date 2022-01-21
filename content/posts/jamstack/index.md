@@ -9,7 +9,7 @@ keywords: ["Jamstack"]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.png'
-draft: true
+draft: false
 ---
 Depois de mais de 10 anos a usar [Wordpress][1], o mundo evoluiu e o Abapinho decidiu evoluir com ele.
 
