@@ -16,13 +16,11 @@ Bonecada fica sempre bem num relatório. Num SAPGui que é um tédio azulado, qu
 
 A função chama-se ICON_CREATE e usa-se, por exemplo, assim. Primeiro, no ecrã de selecção, declara um botão:
 
-
 {{< highlight ABAP >}}
 SELECTION-SCREEN PUSHBUTTON (40) isel_all VISIBLE LENGTH 4.
 {{< /highlight >}}
 
 E depois no evento INITIALIZATION define o seu texto. Mas em vez de meteres um texto metes o resultado da função:
-
 
 {{< highlight ABAP >}}
 INITIALIZATION.

@@ -16,13 +16,11 @@ Cartoons always look good in a report. In a SAPGui that is boredom in blue, the 
 
 The function is called ICON_CREATE and it can be used as follows, for example: First declare a button in the selection screen:
 
-
 {{< highlight ABAP >}}
 SELECTION-SCREEN PUSHBUTTON (40) isel_all VISIBLE LENGTH 4.
 {{< /highlight >}}
 
 Then define your text in the INITIALIZATION event. But insert the result of the function instead of the text:
-
 
 {{< highlight ABAP >}}
 INITIALIZATION.
