@@ -39,5 +39,5 @@ Greetings from Abapinho.
    [1]: images/se16n_vista_tecnica_desligada.png
    [2]: images/se16n_vista_tecnica.png
    [3]: images/se16n_vista_tecnica_ligada-300x70.png
-   [4]: https://abapinho.com/wp-content/uploads/2014/06/se16n_vista_tecnica_ligada.png
+   [4]: images/se16n_vista_tecnica_ligada.png
    [5]: https://www.flickr.com/photos/75905404@N00/7126146307/in/photostream/

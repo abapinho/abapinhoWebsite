@@ -16,4 +16,4 @@ Obrigado a todos os que me visitaram na minha curta vida e um obrigado especial 
 Eu, Abapinho, saúdo-vos.
 
    [1]: images/grafico_visitas_abapinho-300x54.jpg
-   [2]: https://abapinho.com/wp-content/uploads/2014/03/grafico_visitas_abapinho.jpg
+   [2]: images/grafico_visitas_abapinho.jpg

@@ -294,10 +294,10 @@ Greetings from António Vaz.
 
 From Abapinho, many thanks and greetings to António Vaz.
 
-   [1]: https://abapinho.com/wp-content/uploads/2015/03/processamento_sequencial.abap_.txt
+   [1]: txt/processamento_sequencial.abap_.txt
    [2]: images/processamento_sequencial_analise.png
    [3]: images/processamento_sequencial_trace.png
-   [4]: https://abapinho.com/wp-content/uploads/2015/03/processamento_paralelo.abap_.txt
+   [4]: txt/processamento_paralelo.abap_.txt
    [5]: images/processamento_paralelo_analise.png
    [6]: images/processamento_paralelo_trace4.png
    [7]: images/processamento_paralelo_trace3.png

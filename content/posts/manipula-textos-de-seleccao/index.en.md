@@ -35,4 +35,4 @@ ABAP is full of weird stuff like this.
 Greetings from Abapinho.
 
    [1]: images/texto-seleccao-com-icon-300x87.png
-   [2]: https://abapinho.com/wp-content/uploads/2021/05/texto-seleccao-com-icon.png
+   [2]: images/texto-seleccao-com-icon.png

@@ -1,0 +1,456 @@
+REPORT ZTESTEAJV4.
+data: gv_send    type int4,
+      gv_receive type int4.
+
+selection-screen begin of block filter.
+parameters: sp_lins type int4 default 50.
+selection-screen end of block filter.
+
+class cl_event_receiver definition deferred.
+
+types:
+  begin of ty_res,
+     stat        type c length 5,
+     msg         type c length 50,
+     count       type i,
+   end of ty_res,
+   begin of ty_infotask ,
+     task                 type c length 15,
+     data                 type ref to data,
+     status_snd           type i,
+     status_rcv           type i,
+     processed            type flag,
+     retries              type i,
+     start                type tzonref-tstampl,
+     end                  type tzonref-tstampl,
+     elapsed              type tzonref-tstampl,
+     pid                  type wppid,
+     server               type msname,
+     info                 type c length 255,
+   end of ty_infotask,
+   tytab_res              type standard table of ty_res      with key stat,
+   tytab_infotask         type standard table of ty_infotask with key task .
+
+data: it_t005             type table of t005,
+      wa_005              like line of it_t005,
+      l_input             type int4,
+      l_returninfo        type zpp_executioninfo,
+      tp_written          type char255,
+      tp_string_concat    type string,
+      git_processed       type tytab_infotask,
+      wa_proc             like line of git_processed,
+      lit_res             type tytab_res,
+      wa_res              like line of lit_res,
+      gr_table            type ref to cl_salv_table,
+      lr_functions        type ref to cl_salv_functions_list,
+      lr_columns          type ref to cl_salv_columns_table,
+      lr_column           type ref to cl_salv_column,
+      lr_events           type ref to cl_salv_events_table,
+      go_event_receiver   type ref to cl_event_receiver.
+
+*----------------------------------------------------------------------*
+*       CLASS cl_event_receiver DEFINITION
+*----------------------------------------------------------------------*
+*
+*----------------------------------------------------------------------*
+class cl_event_receiver definition.
+  public section.
+    methods handle_double_click
+      for event double_click of cl_salv_events_table importing row.
+
+endclass.                    "cl_event_receiver DEFINITION
+
+*----------------------------------------------------------------------*
+*       CLASS cl_event_receiver IMPLEMENTATION
+*----------------------------------------------------------------------*
+*
+*----------------------------------------------------------------------*
+class cl_event_receiver implementation.
+
+  method handle_double_click.
+    " importing row column
+    data:
+       gr_table_aux           type ref to cl_salv_table,
+       lr_functions_aux       type ref to cl_salv_functions_list.
+
+    read table lit_res into wa_res index row.
+    if sy-subrc <> 0 or wa_res is initial.
+      exit.
+    endif.
+
+    if wa_res-stat = '@5B@'.
+      TRY .
+          cl_salv_table=>factory(
+              exporting  list_display = 'X'
+              importing  r_salv_table = gr_table_aux
+              changing   t_table      = git_processed ).
+        CATCH cx_salv_msg.                              "#EC NO_HANDLER
+
+      ENDTRY.
+    endif.
+
+    gr_table_aux->set_screen_popup(
+      start_column = 1
+      end_column   = 130
+      start_line   = 1
+      end_line     = 20
+    ).
+
+    lr_functions_aux = gr_table_aux->get_functions( ).
+    lr_functions_aux->set_all( abap_true ).
+
+    perform adjust_columns using gr_table_aux
+                                 wa_res-stat.
+
+    gr_table_aux->display( ).
+
+
+  endmethod.                    "handle_double_click
+
+endclass.                    "cl_event_receiver IMPLEMENTATION
+
+INITIALIZATION.
+  %_SP_LINS_%_APP_%-TEXT = '# testes'.                      "#EC NOTEXT
+
+START-OF-SELECTION.
+
+  data: groupname           type RZLLITAB-CLASSNAME,
+          taskname(15)        type c,
+          it_t005_data        type table of t005,
+          wa_005_data         like line of it_t005_data,
+          l_rows              type int4 VALUE 5,
+          l_tabix             type numc10,
+          l_retries           type int4 value 10.
+
+  FIELD-SYMBOLS: <field1> type any.
+
+  l_rows = sp_lins.
+  IF l_rows <= 0 or l_rows > 255.
+    l_rows = 10.
+  ENDIF.
+
+  select * into table it_t005_data up to l_rows rows from t005.
+
+  loop at it_t005_data into wa_005_data.
+    l_tabix = sy-tabix.
+    clear: tp_string_concat.
+
+    DO l_retries TIMES.
+
+      CONCATENATE 'Task' l_tabix into taskname.
+      clear l_returninfo.
+
+      CALL FUNCTION 'Z_PP_UNIT_TESTS'
+        STARTING NEW TASK taskname
+        DESTINATION in group groupname
+        PERFORMING callback_meth ON END OF TASK
+        EXPORTING
+          DATA                  = wa_005_data
+        EXCEPTIONS
+          resource_failure      = 1
+          system_failure        = 2
+          COMMUNICATION_FAILURE = 3.
+      IF sy-subrc = 0.
+        add 1 to gv_send.
+        DO.
+          ASSIGN COMPONENT sy-index OF STRUCTURE wa_005_data TO <field1>.
+          IF sy-subrc NE 0.
+            EXIT.
+          ENDIF.
+          WRITE <field1> TO tp_written.
+          CONCATENATE tp_string_concat tp_written INTO tp_string_concat.
+        ENDDO.
+        wa_proc-info = tp_string_concat.
+        append wa_proc to git_processed.
+        exit.
+      else.
+        " Erro no processamento, efectuar nova tentativa? registar em log? ...
+        " esperar pela libertação de recursos?
+        " ...
+        wait up to 2 SECONDS.
+      ENDIF.
+    ENDDO.
+
+  ENDLOOP.
+
+  WAIT UNTIL gv_receive >= gv_send.
+  " parallel processing is now finalized
+
+  perform display_results.
+
+*&---------------------------------------------------------------------*
+*&      Form  callback_meth
+*&---------------------------------------------------------------------*
+*       text
+*----------------------------------------------------------------------*
+*      -->TASKNAME   text
+*----------------------------------------------------------------------*
+form callback_meth using taskname.
+  data: l_retinfo type ZPP_EXECUTIONINFO.
+
+  RECEIVE RESULTS FROM FUNCTION 'Z_PP_UNIT_TESTS'
+  IMPORTING
+    returninfo = l_retinfo
+    EXCEPTIONS
+        resource_failure      = 1
+        system_failure        = 2
+        COMMUNICATION_FAILURE = 3.
+  IF sy-subrc <> 0.
+    " controlo de erros ... retry? log?
+    " registo de tempo de duração de execução
+  ENDIF.
+  add 1 to gv_receive.
+
+ENDFORM.                    "callback_meth
+
+*&---------------------------------------------------------------------*
+*&      Form  display_results
+*&---------------------------------------------------------------------*
+*       text
+*----------------------------------------------------------------------*
+form display_results.
+
+  if git_processed is not initial.
+    wa_res-stat = '@5B@'.
+    wa_res-count = lines( git_processed ).
+    wa_res-msg = 'Processed entries'.                       "#EC notext
+    append wa_res to lit_res.
+  endif.
+
+  " define ALV
+  try.
+      cl_salv_table=>factory(
+        importing
+          r_salv_table = gr_table
+        changing
+          t_table      = lit_res ).
+    catch cx_salv_msg.                                  "#EC NO_HANDLER
+  endtry.
+
+  " define toolbar
+  lr_functions = gr_table->get_functions( ).
+  lr_functions->set_all( abap_true ).
+
+  " configure columns
+  lr_columns = gr_table->get_columns( ).
+  try.
+      lr_column = lr_columns->get_column( 'STAT' ).
+      lr_column->set_long_text( 'Status' ).                 "#EC notext
+      lr_column->set_medium_text( 'Status' ).               "#EC notext
+      lr_column->set_short_text( 'Status' ).                "#EC notext
+      lr_column->set_output_length( '5' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'MSG' ).
+      lr_column->set_long_text( 'Message' ).                "#EC notext
+      lr_column->set_medium_text( 'Message' ).              "#EC notext
+      lr_column->set_short_text( 'Message' ).               "#EC notext
+      lr_column->set_output_length( '45' ).
+      lr_column->set_alignment( if_salv_c_alignment=>left ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'COUNT' ).
+      lr_column->set_long_text( 'Number of Entries' ).      "#EC notext
+      lr_column->set_medium_text( 'Num. Entries' ).         "#EC notext
+      lr_column->set_short_text( '# Entries' ).             "#EC notext
+      lr_column->set_output_length( '10' ).
+      lr_column->set_alignment( if_salv_c_alignment=>right ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  lr_events = gr_table->get_event( ).
+
+  create object go_event_receiver.
+  set handler go_event_receiver->handle_double_click               for lr_events.
+
+  gr_table->display( ).
+ENDFORM.                    "display_results
+
+
+*&---------------------------------------------------------------------*
+*&      Form  adjust_columns
+*&---------------------------------------------------------------------*
+*       text
+*----------------------------------------------------------------------*
+*      -->P_GR_TABLE_AUX  text
+*      -->P_WA_RES_STAT   text
+*----------------------------------------------------------------------*
+form adjust_columns  using    p_gr_table_aux type ref to cl_salv_table
+                            p_wa_res_stat.
+  data:
+    lr_columns  type ref to cl_salv_columns_table,
+    lr_column   type ref to cl_salv_column.
+
+  lr_columns = p_gr_table_aux->get_columns( ).
+
+
+  lr_columns->set_column_position( columnname = 'TASK' position = 1 ).
+  lr_columns->set_column_position( columnname = 'STATUS_SND' position = 2 ).
+  lr_columns->set_column_position( columnname = 'STATUS_RCV' position = 3 ).
+  lr_columns->set_column_position( columnname = 'RETRIES' position = 4 ).
+  lr_columns->set_column_position( columnname = 'ELAPSED' position = 5 ).
+  lr_columns->set_column_position( columnname = 'INFO' position = 6 ).
+
+  try.
+      lr_column = lr_columns->get_column( 'TASK' ).
+      lr_column->set_long_text( 'Task' ).                   "#EC notext
+      lr_column->set_medium_text( 'Task' ).                 "#EC notext
+      lr_column->set_short_text( 'Task' ).                  "#EC notext
+      lr_column->set_output_length( '14' ).
+      lr_column->set_alignment( if_salv_c_alignment=>left ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'DATA' ).
+      lr_column->set_long_text( 'Raw data' ).               "#EC notext
+      lr_column->set_medium_text( 'Raw data' ).             "#EC notext
+      lr_column->set_short_text( 'Raw data' ).              "#EC notext
+      lr_column->set_output_length( '10' ).
+      lr_column->set_alignment( if_salv_c_alignment=>left ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'STATUS_SND' ).
+      lr_column->set_long_text( 'SUBRC snd' ).              "#EC notext
+      lr_column->set_medium_text( 'SUBRC snd' ).            "#EC notext
+      lr_column->set_short_text( 'SUBRC snd' ).             "#EC notext
+      lr_column->set_output_length( '5' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'STATUS_RCV' ).
+      lr_column->set_long_text( 'SUBRC rcv' ).              "#EC notext
+      lr_column->set_medium_text( 'SUBRC rcv' ).            "#EC notext
+      lr_column->set_short_text( 'SUBRC rcv' ).             "#EC notext
+      lr_column->set_output_length( '5' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'RETRIES' ).
+      lr_column->set_long_text( 'Retries' ).                "#EC notext
+      lr_column->set_medium_text( 'Retries' ).              "#EC notext
+      lr_column->set_short_text( 'Retries' ).               "#EC notext
+      lr_column->set_output_length( '5' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'PROCESSED' ).
+      lr_column->set_long_text( 'Processado' ).             "#EC notext
+      lr_column->set_medium_text( 'Processado' ).           "#EC notext
+      lr_column->set_short_text( 'Processado' ).            "#EC notext
+      lr_column->set_output_length( '4' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'START' ).
+      lr_column->set_long_text( 'Begin' ).                  "#EC notext
+      lr_column->set_medium_text( 'Begin' ).                "#EC notext
+      lr_column->set_short_text( 'Begin' ).                 "#EC notext
+      lr_column->set_output_length( '24' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'END' ).
+      lr_column->set_long_text( 'End' ).                    "#EC notext
+      lr_column->set_medium_text( 'End' ).                  "#EC notext
+      lr_column->set_short_text( 'End' ).                   "#EC notext
+      lr_column->set_output_length( '24' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'ELAPSED' ).
+      lr_column->set_long_text( 'Elapsed' ).                "#EC notext
+      lr_column->set_medium_text( 'Elapsed' ).              "#EC notext
+      lr_column->set_short_text( 'Elapsed' ).               "#EC notext
+      lr_column->set_output_length( '20' ).
+      lr_column->set_alignment( if_salv_c_alignment=>centered ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'PID' ).
+      lr_column->set_long_text( 'Workprocess ID' ).         "#EC notext
+      lr_column->set_medium_text( 'Workprocess ID' ).       "#EC notext
+      lr_column->set_short_text( 'Wrkp.ID' ).               "#EC notext
+      lr_column->set_output_length( '8' ).
+      lr_column->set_alignment( if_salv_c_alignment=>left ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'SERVER' ).
+      lr_column->set_long_text( 'Server' ).                 "#EC notext
+      lr_column->set_medium_text( 'Server' ).               "#EC notext
+      lr_column->set_short_text( 'Server' ).                "#EC notext
+      lr_column->set_output_length( '14' ).
+      lr_column->set_alignment( if_salv_c_alignment=>left ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'INFO' ).
+      lr_column->set_long_text( 'Raw data' ).               "#EC notext
+      lr_column->set_medium_text( 'Raw data' ).             "#EC notext
+      lr_column->set_short_text( 'Raw data' ).              "#EC notext
+      lr_column->set_output_length( '50' ).
+      lr_column->set_alignment( if_salv_c_alignment=>left ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  check p_wa_res_stat <> '@5B@'.
+
+  try.
+      lr_column = lr_columns->get_column( 'DATA' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+  try.
+      lr_column = lr_columns->get_column( 'PROCESSED' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'RETRIES' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'END' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'ELAPSED' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'PID' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'SERVER' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+
+  check p_wa_res_stat <> '@5D@'.
+
+  try.
+      lr_column = lr_columns->get_column( 'STATUS_SND' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'STATUS_RCV' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+      lr_column = lr_columns->get_column( 'START' ).
+      lr_column->set_visible( if_salv_c_bool_sap=>false ).
+    catch cx_salv_not_found.                            "#EC NO_HANDLER
+  endtry.
+
+endform.                    " ADJUST_COLUMNS

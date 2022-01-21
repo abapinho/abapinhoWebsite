@@ -14,7 +14,7 @@ All new developments should be implemented using ABAP Objects unless still impos
 Existing developments, when rewritten, should also be converted to OO, if it proves to be realistic.
 _Official ABAP Programming Guidelines (page 32) rule 3.1: Use ABAP Objects whenever possible for new and further developments. Classical processing blocks may be newly created in exceptional cases only._
 
-  * http://www.erpdb.info/wp-content/uploads/2008/09/why-abap-objects.pdf
+  * pdf/why-abap-objects.pdf
 
   * http://scn.sap.com/people/thomas.jung/blog/2007/12/19/update-your-abap-development-skills-to-sap-netweaver-70
 
