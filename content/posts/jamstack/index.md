@@ -2,7 +2,7 @@
 slug: jamstack
 title: Adeus Wordpress, olá Jamstack
 description: O Abapinho deixou de correr sobre Wordpress. Agora é um site estático gerado em Hugo e alojado no Netlify.
-date: 2022-01-12T09:00:00Z
+date: 2022-01-21T09:00:00Z
 tags: [jamstack, website, hosting]
 categories: [artigos]
 keywords: ["Jamstack"]
