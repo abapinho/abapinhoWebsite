@@ -1,27 +1,18 @@
-[categories]
-one = "Categoria"
-other = "Categorias"
-
-[search]
-other = "Pesquisa"
-
-[sponsored_by]
-other = "Patrocinado por"
-
-[read_more]
-other = "Ler o resto do artigo"
-
-[search_results]
-other = "Resultados"
-
-[dicas]
-other = "Dicas"
+[arquivo]
+other = "Arquivo"
 
 [artigos]
 other = "Artigos"
 
 [boaspracticas]
 other = "Boas prácticas"
+
+[categories]
+one = "Categoria"
+other = "Categorias"
+
+[dicas]
+other = "Dicas"
 
 [historias]
 other = "Histórias"
@@ -31,3 +22,18 @@ other = "Notícias"
 
 [projectos]
 other = "Projectos"
+
+[read_more]
+other = "Ler o resto do artigo"
+
+[search]
+other = "Pesquisa"
+
+[search_results]
+other = "Resultados"
+
+[sponsored_by]
+other = "Patrocinado por"
+
+[tudojunto]
+other = "Tudo junto"

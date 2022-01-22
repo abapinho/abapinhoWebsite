@@ -1,30 +1,18 @@
-[categories]
-one = "Category"
-other = "Categories"
-
-[search]
-other = "Search"
-
-[sponsored_by]
-other = "Supported by"
-
-[tgs]
-other = "Tags"
-
-[read_more]
-other = "Read more"
-
-[search_results]
-other = "Results"
-
-[dicas]
-other = "Tips & tricks"
+[arquivo]
+other = "Archive"
 
 [artigos]
 other = "Articles"
 
 [boaspracticas]
 other = "Best practices"
+
+[categories]
+one = "Category"
+other = "Categories"
+
+[dicas]
+other = "Tips & tricks"
 
 [historias]
 other = "Stories"
@@ -34,3 +22,18 @@ other = "News"
 
 [projectos]
 other = "Projects"
+
+[read_more]
+other = "Read more"
+
+[search]
+other = "Search"
+
+[search_results]
+other = "Results"
+
+[sponsored_by]
+other = "Supported by"
+
+[tgs]
+other = "Tags"

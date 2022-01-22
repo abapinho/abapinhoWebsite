@@ -1,11 +1,16 @@
 <ul>
   <li><h2>{{ i18n "categories" }}</h2>
-  <ul>
-  {{- $currentPage := . }}
-  {{ range .Site.Menus.categories -}}
-    <li><a href="{{ .URL }}">{{ .Pre }}<span>{{ i18n .Name }}</span></a></li>
-  {{- end }}
-  </ul>
+    <ul>
+      {{ range .Site.Menus.categories -}}
+        <li><a href="{{ .URL }}">{{ .Pre }}<span>{{ i18n .Name }}</span></a></li>
+      {{- end }}
+    </ul>
+  </li>
+  <li>
+    <h2>{{ i18n "arquivo" }}</h2>
+    <ul>
+      <li><a href="/archive">{{ i18n "arquivo" }}</a></li>
+    </ul>
   </li>
   <li>
     <h2>{{ i18n "projectos" }}</h2>
@@ -17,6 +22,7 @@
   <li>
     <h2>Links</h2>
     <ul>
+      <li><a href="https://github.com/SAP/styleguides/" rel="acquaintance" target="_blank">Clean ABAP</a></li>
       <li><a href="https://www.abapzombie.com/" rel="acquaintance" target="_blank">ABAP Zombie</a></li>
       <li><a href="https://www.sapyard.com/" rel="acquaintance" target="_blank">SAP Yard</a></li>
       <li><a href="https://apolemia.blogspot.com/" rel="acquaintance" title="Blog de Pedro Lima sobre SAP" target="_blank">Pedro Lima</a></li>
