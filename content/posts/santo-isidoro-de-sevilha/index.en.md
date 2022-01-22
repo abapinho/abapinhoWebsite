@@ -17,7 +17,7 @@ A very learned and intelligent gentleman who lived in Spain in the 6th and 7th c
 The Internet, too, spends more time copying and compiling than actually inventing, so it’s understandable that besides being the patron saint of programmers, old Isidore is also the patron saint of the Internet.
 
 Here’s a statue of him:
-![][2]
+![image][2]
 
 Not being a believer, I won’t be using it – but it’s curious all the same.
 

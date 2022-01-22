@@ -17,7 +17,7 @@ description: 'Às vezes é nas coisas mais básicas que se perde mais tempo. Por
 
 Nas propriedades do container, basta ligar os dois atributos "resizing" vertical e horizontal.
 
-[![][1]][1]
+[![image][1]][1]
 
 É simples. Mas nada óbvio.
 

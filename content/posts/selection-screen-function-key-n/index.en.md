@@ -57,7 +57,7 @@ AT SELECTION-SCREEN.
 {{< /highlight >}}
 
 And here's the result:
-[![][1]][1]
+[![image][1]][1]
 
 Greetings from Abapinho.
 

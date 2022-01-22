@@ -52,7 +52,7 @@ If you open the file you will see that it is an XML with your object saved there
 
 An illustrative example:
 
-![][4]
+![image][4]
 
 If you still have doubts read the manual.
 

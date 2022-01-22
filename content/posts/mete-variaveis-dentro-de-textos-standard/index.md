@@ -16,7 +16,7 @@ Textos standard toda a gente usa. Mas sabias que os textos standard podem ter ca
 
 Primeiro tens de definir o texto na SO10. Escolhe um ID (que representa um grupo de textos), depois um nome único para o nosso texto e finalmente a língua em que o vais definir:
 
-![][1]
+![image][1]
 
 A seguir define o texto:
 
@@ -24,7 +24,7 @@ A seguir define o texto:
 
 Agora que tens o texto definido, podes obtê-lo em qualquer lado utilizado a função READ_TEXT. O resultado desta função é uma tabela interna com as linhas do texto:
 
-![][3]
+![image][3]
 
 Como vês, ainda lá estão os campos dinâmicos por substituir. Até aqui, tudo banal. Agora é que vem o truque. Para isto vamos usar duas funções: TEXT_SYMBOL_SETVALUE e TEXT_SYMBOL_REPLACE. A primeira deve ser invocada uma vez por cada símbolo de texto para substituir individualmente cada um deles pelo valor desejado. Esta limita-se a preparar em memória essas alterações. Para as efectivar é necessário invocar a segunda. Tudo junto fica assim:
 

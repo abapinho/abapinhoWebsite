@@ -97,7 +97,7 @@ A primeira concorrente é a banal tabela interna de sempre, usada e abusada, com
 
 Mais convencional é impossível. E os resultados também não são muito animadores. A ver se à luz disto os nossos leitores começam a pensar duas vezes antes de a usar em tudo o que mexe:
 
-![][1]
+![image][1]
 
 **Concorrente número 2**
 
@@ -129,7 +129,7 @@ Mais convencional é impossível. E os resultados também não são muito animad
 
 Esta concorrente tem uma chave única definida com 4 campos. Embora as HASH TABLEs sejam o supra-sumo da barbatana quando invocadas com a chave completa, aqui, por se tratar de um LOOP, tal não é naturalmente possível. Por isso, ela arrasta-se vergonhosamente até à meta. Uma vergonha como podem comprovar pelos resultados seguintes:
 
-![][2]
+![image][2]
 
 **Concorrente número 3**
 
@@ -161,7 +161,7 @@ Segue-se a concorrente número 3, uma bela tabela que já vem ordenada para maio
 
 Incrível, Senhoras e senhores! A concorrente número 3 foi muito rápida. Cerca de 2000x mais rápida a fazer os LOOPs do que as duas concorrentes anteriores! Eis sua pontuação:
 
-![][3]
+![image][3]
 
 **Concorrente número 4**
 
@@ -207,7 +207,7 @@ Por último mas não em último, apresento-vos a concorrente número 4. A mais m
 
 Que resultado impressionante também. Trata-se de uma tabela convencional mas que, graças a umas manobras curiosas, ganha enorme velocidade. No fundo ela faz uns truques para fingir que é mais do que realmente é. Começa por fazer um SORT. Depois, em vez de fazer o segundo LOOP logo de seguida, primeiro faz um READ TABLE BINARY SEARCH e depois faz um LOOP FROM INDEX ([um truque de magia já aqui discutido][4]). E os resultados não poderiam ser mais impressionantes pois, embora seja uma tabela da plebe, comporta-se como se sangue azul tivesse:
 
-![][5]
+![image][5]
 
 **O Vencedor**
 

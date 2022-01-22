@@ -52,7 +52,7 @@ Se abrires o ficheiro vais ver que é um XML com o teu objecto lá guardado num 
 
 Um boneco ilustrativo:
 
-![][4]
+![image][4]
 
 Se ainda tens dúvidas, vai ler o manual.
 

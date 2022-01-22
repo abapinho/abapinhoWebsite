@@ -17,7 +17,7 @@ Um senhor muito culto e inteligente que respirou o ar espanhol dos séculos VI e
 A Internet também passa mais tempo a copiar e compilar do que a inventar propriamente por isso é compreensível que além de apadroar os programadores, o velho Isidoro também acumule o cargo de padroeiro da Internet.
 
 Aqui está ele em forma de estátua:
-![][2]
+![image][2]
 
 Não sendo crente, não farei usufruto. Mas é curioso à mesma.
 

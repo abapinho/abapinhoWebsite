@@ -17,7 +17,7 @@ The command %pc is equivalent to the menu option System/List/Save/Local file:
 
 <!--more-->
 
-![][1]
+![image][1]
 
 Try it!
 

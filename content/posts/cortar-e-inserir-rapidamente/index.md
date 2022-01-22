@@ -18,7 +18,7 @@ Lá aprendi mais uma pequena funcionalidade obscura do SAPGui. Como acelerar o c
 
 No menu de configuração do SAPGui ligar a opção _Cortar e Inserir Rapidamente_. Com esta opção ligada, quando seleccionas algum texto, este é imediatamente copiado para o _Clipboard_. Depois é só usares CTRL-V para o inserires onde quiseres.
 
-[![][1]][1]
+[![image][1]][1]
 
 É discutível se isto é assim tão útil. Eu não vou usar. Até porque a forma como o "corte e costura" funciona é, para mim, algo que deve ser definido ao nível do sistema operativo e funcionar uniformemente em todo o lado. Não entendo estas frescuras da SAP. Mas enfim. Fica a partilha para quem gostar.
 

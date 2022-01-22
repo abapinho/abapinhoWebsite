@@ -26,7 +26,7 @@ While not everyone knows it, SNOTE can also help undoing it:
 
 Menu **SAP Note > Reset SAP Note Implementation**.
 
-[![][1]][1]
+[![image][1]][1]
 
 Thank you Sérgio Fraga for the tip.
 

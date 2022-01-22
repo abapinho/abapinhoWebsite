@@ -12,7 +12,7 @@ resources:
 ---
 Durante toda a minha vida SAPica usei o comando /olalala para iniciar a transacção lalala numa nova janela. Mas nunca tinha experimentado escrever só /o. Experimentei. E o que aconteceu foi interessante:
 
-![][1]
+![image][1]
 
 Ou seja, é o mesmo que ia à SM04 e depois escolher o nosso utilizador. Mas muito mais prático.
 

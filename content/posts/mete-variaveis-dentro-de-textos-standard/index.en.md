@@ -16,7 +16,7 @@ Everyone uses standard texts. But did you know that standard texts can have dyna
 
 First of all you have to define the text in SO10. Choose an ID (which represents a group of texts), then a unique name for our text and finally the language in which you are going to define it:
 
-![][1]
+![image][1]
 
 Next, define the text:
 
@@ -24,7 +24,7 @@ Next, define the text:
 
 Now the text is defined you can get it anywhere using the READ_TEXT function. The result of this function is an internal table with the lines of the text:
 
-![][3]
+![image][3]
 
 As you see, the dynamic fields to be replaced are still there. So far, everything is standard. Now comes the trick. We are going to use two functions for this: TEXT_SYMBOL_SETVALUE and TEXT_SYMBOL_REPLACE. The first must be invoked once for each text symbol to individually replace each one for the desired value. This just prepares these changes in the memory. The second function has to be invoked to make the changes effective. All together it is like this:
 
