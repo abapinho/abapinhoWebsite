@@ -16,8 +16,8 @@ E no entanto, esta maravilhosa funcionalidade só funciona maravilhosamente quan
 PERFORM trata_mensagem1 USING 'E' '056' 'ZSD' a b c.
 
 FORM trata_mensagem1 USING msgty msgno msgid msgv1 msgv2 msgv3 msgv4.
-* Aqui podemos gravar num ficheiro ou 
-* escrever no ecrã ou no application log 
+* Aqui podemos gravar num ficheiro ou
+* escrever no ecrã ou no application log
 * ou o que for preciso.
 ENDFORM.
 {{< /highlight >}}
@@ -33,8 +33,8 @@ MESSAGE E056(ZSD) WITH a b c INTO dummy.
 PERFORM trata_mensagem2.
 
 FORM trata_mensagem2.
-* A única diferença em relação à versão dinâmica é que aqui em 
-* vez de usar as variáveis "msgty", "msgno", etc. deverá usar-se 
+* A única diferença em relação à versão dinâmica é que aqui em
+* vez de usar as variáveis "msgty", "msgno", etc. deverá usar-se
 * as variáveis de systema SY-*MSGTY, SY-MSGNO, etc.
 * o resto é tudo igual.
 ENDFORM.

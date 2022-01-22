@@ -226,7 +226,7 @@ METHOD fetch_data .
 		wa_yidv02_cache-hardct[] = it_hardcoded[].
 		APPEND wa_yidv02_cache TO lt_yidv02_cache.
 	ENDIF.
-	
+
 ENDMETHOD.
 {{< /highlight >}}
 
