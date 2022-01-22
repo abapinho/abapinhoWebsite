@@ -143,6 +143,6 @@ You can see it in action connected to ServiceNow in [this video][11].
    [7]: images/sta7.jpg
    [8]: images/sta8.jpg
    [9]: images/sta9.jpg
-   [10]: http://sta-technologies.com/products/ticket-system/
+   [10]: https://sta-technologies.com/products/ticket-system/
    [11]: https://www.youtube.com/watch?v=ML0G8sCA9K4
    [12]: pdf/Incident_INC0010066_ECC_20151202.pdf

@@ -89,5 +89,5 @@ Independentemente da ferramenta que escolhas, o importante é que o trabalho fiq
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.evernote.com
-   [2]: http://www.evernote.com/about/download/
+   [1]: https://www.evernote.com
+   [2]: https://www.evernote.com/about/download/

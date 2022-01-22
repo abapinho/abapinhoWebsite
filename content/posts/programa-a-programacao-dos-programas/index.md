@@ -48,5 +48,5 @@ Foto: [brewbooks][1] via [Visualhunt.com][2] / [CC BY-SA][3]
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/brewbooks/7780990192/
-   [2]: http://visualhunt.com/
-   [3]: http://creativecommons.org/licenses/by-sa/2.0/
+   [2]: https://visualhunt.com/
+   [3]: https://creativecommons.org/licenses/by-sa/2.0/

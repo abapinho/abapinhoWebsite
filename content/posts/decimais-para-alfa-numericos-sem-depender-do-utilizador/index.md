@@ -40,4 +40,4 @@ E obrigado a a Alexis Tejeda pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/alexonrails/4759137435/
+   [1]: https://www.flickr.com/photos/alexonrails/4759137435/

@@ -38,4 +38,4 @@ Obrigado Câmara Municipal de Castelo de Vide pela [foto][1]
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/cm_castelo_vide/
+   [1]: https://www.flickr.com/photos/cm_castelo_vide/

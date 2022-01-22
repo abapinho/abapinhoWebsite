@@ -52,6 +52,6 @@ Thanks HatM for the [photo][3].
 
 And greets you.
 
-   [1]: http://help.sap.com/saphelp_erp60_sp/helpdata/en/af/40bd38652c8c42e10000009b38f8cf/content.htm?frameset=/en/09/6eb8c3f98011d3964300a0c94260a5/frameset.htm¤t_toc=/en/d1/802cfc454211d189710000e8322d00/plain.htm&node_id=606&show_children=false
-   [2]: http://scn.sap.com/blogs/ttrapp/2011/12/04/abap-package-concept-part-1-the-basics
+   [1]: https://help.sap.com/saphelp_erp60_sp/helpdata/en/af/40bd38652c8c42e10000009b38f8cf/content.htm?frameset=/en/09/6eb8c3f98011d3964300a0c94260a5/frameset.htm¤t_toc=/en/d1/802cfc454211d189710000e8322d00/plain.htm&node_id=606&show_children=false
+   [2]: https://scn.sap.com/blogs/ttrapp/2011/12/04/abap-package-concept-part-1-the-basics
    [3]: https://www.flickr.com/photos/hatm/3448832284/in/photostream/?rb=1

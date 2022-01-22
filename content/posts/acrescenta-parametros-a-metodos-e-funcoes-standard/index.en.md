@@ -34,5 +34,5 @@ Greetings from Abapinho.
 
    [1]: images/param_extra_em_fm.png
    [2]: https://www.flickr.com/photos/mandj98/501413295/
-   [3]: http://visualhunt.com
-   [4]: http://creativecommons.org/licenses/by-nc/2.0/
+   [3]: https://visualhunt.com
+   [4]: https://creativecommons.org/licenses/by-nc/2.0/

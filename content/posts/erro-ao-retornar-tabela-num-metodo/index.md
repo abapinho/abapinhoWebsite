@@ -46,4 +46,4 @@ Obrigado a C.G. Megee pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/88441986@N06/8075257531/in/photostream/
+   [1]: https://www.flickr.com/photos/88441986@N06/8075257531/in/photostream/

@@ -34,4 +34,4 @@ Obrigado Sérgio Fraga pela dica.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/telstar/3339736213/
+   [1]: https://www.flickr.com/photos/telstar/3339736213/

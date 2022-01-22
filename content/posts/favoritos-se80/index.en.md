@@ -27,4 +27,4 @@ _And thank you[~suchitra~][2] for the photo._
 Greetings from Abapinho.
 
    [1]: images/se80-favoritos.png (se80-favoritos)
-   [2]: http://www.flickr.com/photos/chitrasudar/2756691008/
+   [2]: https://www.flickr.com/photos/chitrasudar/2756691008/

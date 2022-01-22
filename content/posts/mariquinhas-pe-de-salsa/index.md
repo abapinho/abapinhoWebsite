@@ -22,5 +22,5 @@ Obrigado a [dawnhops][2] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.sap-press.com/products/Official-ABAP-Programming-Guidelines.html
-   [2]: http://www.flickr.com/photos/seenoevil/349331985/
+   [1]: https://www.sap-press.com/products/Official-ABAP-Programming-Guidelines.html
+   [2]: https://www.flickr.com/photos/seenoevil/349331985/

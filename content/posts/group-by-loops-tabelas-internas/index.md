@@ -76,14 +76,14 @@ cl_demo_output=>display( ).
 {{< /highlight >}}
 
 Para quem queira saber mais sobre o assunto:
-<http://help.sap.com/abapdocu_740/en/index.htm?file=abaploop_at_itab_group_by.htm>
-<http://help.sap.com/abapdocu_740/en/index.htm?file=abenfor_groups_of.htm>
+<https://help.sap.com/abapdocu_740/en/index.htm?file=abaploop_at_itab_group_by.htm>
+<https://help.sap.com/abapdocu_740/en/index.htm?file=abenfor_groups_of.htm>
 
 Referências:
 
-  1. http://scn.sap.com/community/abap/blog/2014/10/02/abap-news-for-740-sp08--grouping-internal-tables
+  1. https://scn.sap.com/community/abap/blog/2014/10/02/abap-news-for-740-sp08--grouping-internal-tables
 
-  2. http://scn.sap.com/community/abap/blog/2014/09/29/abap-news-for-740-sp08--start-value-for-constructor-expressions (aqui podemos ver o que o VALUE permite fazer)
+  2. https://scn.sap.com/community/abap/blog/2014/09/29/abap-news-for-740-sp08--start-value-for-constructor-expressions (aqui podemos ver o que o VALUE permite fazer)
 
 Obrigado Artur Moreira por este artigo.
 
@@ -93,4 +93,4 @@ O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/clickykbd/64464238/
    [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc-sa/2.0/
+   [3]: https://creativecommons.org/licenses/by-nc-sa/2.0/

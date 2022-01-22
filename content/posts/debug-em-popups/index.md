@@ -32,4 +32,4 @@ E assim, desta forma estrambólica, como que por magia, se tiveres gritado, o mo
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/14617207@N00/4609793276/
+   [1]: https://www.flickr.com/photos/14617207@N00/4609793276/

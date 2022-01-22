@@ -52,10 +52,10 @@ Obrigado a irene nobrega pela [foto][7].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.regular-expressions.info/email.html
-   [2]: http://help.sap.com/abapdocu_70/en/ABENREGULAR_EXPRESSIONS.htm
-   [3]: http://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/902ce392-dfce-2d10-4ba9-b4f777843182?QuickLink=index&overridelayout=true&49533857875589
-   [4]: http://regexlib.com/
-   [5]: http://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial
-   [6]: http://en.wikipedia.org/wiki/Regular_expression
-   [7]: http://www.flickr.com/photos/irenewn/2536788858/
+   [1]: https://www.regular-expressions.info/email.html
+   [2]: https://help.sap.com/abapdocu_70/en/ABENREGULAR_EXPRESSIONS.htm
+   [3]: https://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/902ce392-dfce-2d10-4ba9-b4f777843182?QuickLink=index&overridelayout=true&49533857875589
+   [4]: https://regexlib.com/
+   [5]: https://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial
+   [6]: https://en.wikipedia.org/wiki/Regular_expression
+   [7]: https://www.flickr.com/photos/irenewn/2536788858/

@@ -52,4 +52,4 @@ Obrigado a Sergio Aguirre pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/sergiodjt/3928105188/
+   [1]: https://www.flickr.com/photos/sergiodjt/3928105188/

@@ -30,4 +30,4 @@ O Sérgio Fraga saúda-vos.
 
 O Abapinho agradece a Sérgio Fraga.
 
-   [1]: http://sap4u.org/media/userfiles/articles/pdf/26.pdf
+   [1]: https://sap4u.org/media/userfiles/articles/pdf/26.pdf

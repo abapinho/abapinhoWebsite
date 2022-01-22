@@ -150,5 +150,5 @@ O Abapinho saúda-vos.
 _(obrigado[incurable_hippie][2] pela foto)
 _
 
-   [1]: http://www.scribd.com/doc/13176905/SAP-Versions
-   [2]: http://www.flickr.com/photos/hippie/
+   [1]: https://www.scribd.com/doc/13176905/SAP-Versions
+   [2]: https://www.flickr.com/photos/hippie/

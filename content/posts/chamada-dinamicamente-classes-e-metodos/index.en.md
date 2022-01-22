@@ -64,5 +64,5 @@ Thanks, José Faria for showing me this.
 
 Greetings from Abapinho.
 
-   [1]: http://help.sap.com/abapdocu_70/en/ABENNEWS-46-OBJECTS-DYNAMIC.htm
-   [2]: http://help.sap.com/abapdocu_70/en/ABAPCALL_METHOD.htm
+   [1]: https://help.sap.com/abapdocu_70/en/ABENNEWS-46-OBJECTS-DYNAMIC.htm
+   [2]: https://help.sap.com/abapdocu_70/en/ABAPCALL_METHOD.htm

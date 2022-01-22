@@ -32,4 +32,4 @@ Obrigado Sérgio Lopes pela dica.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/tcelestino/2858606793/in/photostream/
+   [1]: https://www.flickr.com/photos/tcelestino/2858606793/in/photostream/

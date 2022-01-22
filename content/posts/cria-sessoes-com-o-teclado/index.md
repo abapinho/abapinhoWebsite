@@ -18,4 +18,4 @@ E obrigado a [freeimageslive / gratuit][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.freeimageslive.co.uk/free_stock_image/additionkeyjpg
+   [1]: https://www.freeimageslive.co.uk/free_stock_image/additionkeyjpg

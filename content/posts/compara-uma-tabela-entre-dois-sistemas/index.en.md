@@ -20,5 +20,5 @@ Thanks to Dale Harris for the [photo][2].
 
 Greetings from Abapinho.
 
-   [1]: http://saptricks.com/105/can-i-compare-the-values-inside-a-table-across-clients
-   [2]: http://www.flickr.com/photos/dale_harris/3013611103/in/photostream/
+   [1]: https://saptricks.com/105/can-i-compare-the-values-inside-a-table-across-clients
+   [2]: https://www.flickr.com/photos/dale_harris/3013611103/in/photostream/

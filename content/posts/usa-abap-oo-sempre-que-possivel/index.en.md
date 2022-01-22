@@ -16,6 +16,6 @@ _Official ABAP Programming Guidelines (page 32) rule 3.1: Use ABAP Objects whene
 
   * pdf/why-abap-objects.pdf
 
-  * http://scn.sap.com/people/thomas.jung/blog/2007/12/19/update-your-abap-development-skills-to-sap-netweaver-70
+  * https://scn.sap.com/people/thomas.jung/blog/2007/12/19/update-your-abap-development-skills-to-sap-netweaver-70
 
-  * http://wiki.sdn.sap.com/wiki/display/ABAP/ABAP+Objects
+  * https://wiki.sdn.sap.com/wiki/display/ABAP/ABAP+Objects

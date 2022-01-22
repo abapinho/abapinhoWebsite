@@ -60,7 +60,7 @@ E se precisares de algum tipo de objecto que o SAPlink ainda não suporte, faz-t
 
 Como se diz em inglês, o SAPlink é muito peixe!
 
-[http://www.saplink.org][5]
+[https://www.saplink.org][5]
 
 Nota: No passado [falei de outro programinha][6] destes que permitia a mesma coisa. Pois fica sabendo que não tem nada a ver porque este é mil vezes melhor.
 
@@ -70,5 +70,5 @@ O Abapinho saúda-vos.
    [2]: https://cw.sdn.sap.com/cw/docs/DOC-145448
    [3]: https://cw.sdn.sap.com/cw/docs/DOC-144115
    [4]: images/saplink_ecra.png (Ecrã do SAPlink)
-   [5]: http://www.saplink.org/
+   [5]: https://www.saplink.org/
    [6]: {{< ref "downloadupload" >}}

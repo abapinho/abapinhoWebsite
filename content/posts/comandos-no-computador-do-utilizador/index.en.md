@@ -34,4 +34,4 @@ Thanks to [alifaan][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/alifaan/2608045107/
+   [1]: https://www.flickr.com/photos/alifaan/2608045107/

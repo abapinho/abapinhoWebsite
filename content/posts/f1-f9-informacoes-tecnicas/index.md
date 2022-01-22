@@ -30,4 +30,4 @@ _E obrigado a[the okapi][1] pela foto._
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/the_okapi/2663109009/
+   [1]: https://www.flickr.com/photos/the_okapi/2663109009/

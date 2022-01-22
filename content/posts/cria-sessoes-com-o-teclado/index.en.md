@@ -18,4 +18,4 @@ And thank you [freeimageslive / gratuit][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.freeimageslive.co.uk/free_stock_image/additionkeyjpg
+   [1]: https://www.freeimageslive.co.uk/free_stock_image/additionkeyjpg

@@ -34,4 +34,4 @@ Thanks Castelo de Vide Municipal Council for the [photo][1]
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/cm_castelo_vide/
+   [1]: https://www.flickr.com/photos/cm_castelo_vide/

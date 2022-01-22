@@ -85,4 +85,4 @@ Em pleno século XXI, evite-se usar áreas de trabalho sempre que possível. Ass
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.sap.com/platform/in-memory-computing/index.epx
+   [1]: https://www.sap.com/platform/in-memory-computing/index.epx

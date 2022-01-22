@@ -38,4 +38,4 @@ Greetings from Abapinho.
 
    [1]: https://www.flickr.com/photos/photodesaster/14417565779/
    [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc/2.0/
+   [3]: https://creativecommons.org/licenses/by-nc/2.0/

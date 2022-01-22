@@ -38,4 +38,4 @@ Obrigado a Kendra pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/63614902@N00/1389081153
+   [1]: https://www.flickr.com/photos/63614902@N00/1389081153

@@ -19,6 +19,6 @@ Actualização: O [Gustavo Pessoa][3] acrescenta que a transacção EWK1 permite
 
 O Abapinho saúda-vos.
 
-   [1]: http://apolemia.blogspot.com/
-   [2]: http://www.onsap.com/en/topic/1-how-to-search-the-source-code-of-abap-programs
-   [3]: http://br.linkedin.com/in/gustavopessoa
+   [1]: https://apolemia.blogspot.com/
+   [2]: https://www.onsap.com/en/topic/1-how-to-search-the-source-code-of-abap-programs
+   [3]: https://br.linkedin.com/in/gustavopessoa

@@ -43,6 +43,6 @@ And thanks to [K. D.][3] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.youtube.com/watch?v=U0gjwpMb-k8
-   [2]: http://pt.wikipedia.org/wiki/Istambul
-   [3]: http://www.flickr.com/photos/kaidolata/5139787330/
+   [1]: https://www.youtube.com/watch?v=U0gjwpMb-k8
+   [2]: https://pt.wikipedia.org/wiki/Istambul
+   [3]: https://www.flickr.com/photos/kaidolata/5139787330/

@@ -37,4 +37,4 @@ Thanks to [funtik.cat][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/funtik/1175522045/
+   [1]: https://www.flickr.com/photos/funtik/1175522045/

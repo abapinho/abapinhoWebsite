@@ -80,4 +80,4 @@ _Thank you to[ensee_89][2] for the photo._
 Greetings from Abapinho.
 
    [1]: images/ecra-seleccao-abas.png (Ecrã de selecção com abas)
-   [2]: http://www.flickr.com/photos/ensee/3092607303/
+   [2]: https://www.flickr.com/photos/ensee/3092607303/

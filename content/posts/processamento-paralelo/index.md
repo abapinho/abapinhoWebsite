@@ -303,4 +303,4 @@ O Abapinho agradece a António Vaz e saúda-o.
    [7]: images/processamento_paralelo_trace3.png
    [8]: images/processamento_paralelo_trace2.png
    [9]: images/processamento_paralelo_trace1.png
-   [10]: http://scn.sap.com/people/antonio.vaz/blog/2014/03
+   [10]: https://scn.sap.com/people/antonio.vaz/blog/2014/03

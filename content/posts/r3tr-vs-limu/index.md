@@ -62,4 +62,4 @@ Obrigado cobra_55 pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/cobra55/6876086286/
+   [1]: https://www.flickr.com/photos/cobra55/6876086286/

@@ -58,7 +58,7 @@ If you still have doubts read the manual.
 
 And if you do need some type of object that SAPlink still does not support, why not consider contributing to developing a plugin for it yourself.
 
-[http://www.saplink.org][5]
+[https://www.saplink.org][5]
 
 Note: In the past [I talked about another little program ][6] for this which enables the same thing. Well you may as well know that this is nothing in comparison because this one is a thousand times better.
 
@@ -68,5 +68,5 @@ Greetings from Abapinho.
    [2]: https://cw.sdn.sap.com/cw/docs/DOC-145448
    [3]: https://cw.sdn.sap.com/cw/docs/DOC-144115
    [4]: images/saplink_ecra.png (Ecrã do SAPlink)
-   [5]: http://www.saplink.org/
+   [5]: https://www.saplink.org/
    [6]: {{< ref "downloadupload" >}}

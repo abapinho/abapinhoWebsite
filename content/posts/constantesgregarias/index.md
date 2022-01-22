@@ -77,4 +77,4 @@ Obrigado a [suki suk][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/vanesuki/2172430914/
+   [1]: https://www.flickr.com/photos/vanesuki/2172430914/

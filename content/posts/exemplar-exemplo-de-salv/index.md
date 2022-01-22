@@ -22,5 +22,5 @@ E obrigado Ruud Cuypers pela [foto][2].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.youtube.com/watch?v=JtN35OUIu0g
-   [2]: http://www.flickr.com/photos/ruudcuypers/5474462570
+   [1]: https://www.youtube.com/watch?v=JtN35OUIu0g
+   [2]: https://www.flickr.com/photos/ruudcuypers/5474462570

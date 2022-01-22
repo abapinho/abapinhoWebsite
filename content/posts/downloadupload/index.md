@@ -24,5 +24,5 @@ Actualização: Entretanto apareceu o [SAPlink][2] que é muito melhor que este.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.multisoft-expert.de/download.htm
-   [2]: http://wiki.sdn.sap.com/wiki/display/ABAP/SAPlink
+   [1]: https://www.multisoft-expert.de/download.htm
+   [2]: https://wiki.sdn.sap.com/wiki/display/ABAP/SAPlink

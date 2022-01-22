@@ -38,4 +38,4 @@ Greetings from Abapinho.
    [1]: images/stepsize.png
    [2]: https://www.flickr.com/photos/runnever/5542838628/
    [3]: https://visualhunt.com
-   [4]: http://creativecommons.org/licenses/by-nd/2.0/
+   [4]: https://creativecommons.org/licenses/by-nd/2.0/
