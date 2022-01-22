@@ -41,7 +41,7 @@ INITIALIZATION.
 
 Done.
 
-[![][2]][2]
+[![image][2]][2]
 
 Photo credit: [MarianaLeme][3].
 

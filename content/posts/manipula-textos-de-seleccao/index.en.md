@@ -28,7 +28,7 @@ INITIALIZATION.
 {{< /highlight >}}
 
 And here's the result (notice the calendar icon prefixing the text):
-[![][1]][2]
+[![image][1]][2]
 
 ABAP is full of weird stuff like this.
 

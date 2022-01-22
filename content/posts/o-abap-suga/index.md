@@ -18,7 +18,7 @@ No editor de ABAP (SE38) espreitem a linha 323 do programa standard RCIFCUST. É
 
 Se tiveres preguiça em ir lá ver, podes ver já aqui:
 
-[![][1]][1]
+[![image][1]][1]
 
 A conclusão é: os programadores da SAP são levados da breca.
 

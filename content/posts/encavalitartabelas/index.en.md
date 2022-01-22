@@ -26,13 +26,13 @@ Na SE11, cria a tabela de cabeçalhos ZTIPO com os seguintes campos:
 
   * DESCRICAO
 
-[![][1]][2]
+[![image][1]][2]
 
 Faz tudo como sempre fazes com uma excepção: no separador "entrega e actualização" garante que a opção "atualiz.visão tabs." tem o valor "exibição/actualização permitida com restrição". Isto serve para impedir que a tabela possa ser mantida independentemente (na SM30).
 
 Agora cria os ecrãs de manutenção desta tabela.
 
-[![][3]][4]
+[![image][3]][4]
 
 **2\. Criar tabela de ZANEDOTA (SE11)**
 
@@ -46,19 +46,19 @@ Na SE11, cria a tabela de itens ZANEDOTA com os seguintes campos:
 
   * DESCRICAO
 
-[![][5]][6]
+[![image][5]][6]
 
 Desta vez, na opção "atualiz. visão tabs." escolhe a opção "exibição/actualização não permitida". Isto porque esta tabela não vai ser usada na manutenção mas sim uma vista criada sobre ela. Por isso, não cries os ecrãs de manutenção desta tabela.
 
 Cria a chave externa para o campo TIPOID fazendo referência à tabela ZTIPO.
 
-![][7]
+![image][7]
 
 **3\. Criar vista de actualização ZANEDOTA_V (SE11)**
 
 Na SE11, cria a vista de actualização ZANEDOTA_V, associa-lhe a tabela ZANEDOTA e escolhe o separador "Campos visão". Nota que ele mostra automaticamente os campos da chave. Adiciona-lhe agora tu o campo DESCRICAO.
 
-[![][8]][9]
+[![image][8]][9]
 
 Nota a 4ª coluna chamada "Caracterização actualização para campo visão". Esta coluna é muito importante. Na linha do campo TIPOID preenche essa coluna com o valor S (campo visão utilizado para formatação subset). Isto na prática quer dizer que, sendo a tabela ZANEDOTA dependente da tabela ZTIPO, o campo ZANEDOTA-TIPOID será herdado da ZTIPO-TIPOID e será preenchido automaticamente. Se não entendeste não te preocupes, falarei disso mais tarde.
 
@@ -66,7 +66,7 @@ No separador "Status at.", vai ao campo "Data Browser/atualiz.visão tabs." e es
 
 Finalmente, cria os ecrãs de manutenção desta vista.
 
-[![][10]][11]
+[![image][10]][11]
 
 E pronto, já está. Grava e vai-te embora da SE11.
 
@@ -74,35 +74,35 @@ E pronto, já está. Grava e vai-te embora da SE11.
 
 Na transacção SE54 escolhe a opção "ProcessCluster visão" (que raio de traduções mas enfim). Vais parar a um novo ecrã onde deverás inserir o nome do nosso cluster de visão: ZANEDOTAS. Depois escolhe "criar/modificar". E pronto, será aqui que tudo vai acontecer.
 
-[![][12]][13]
+[![image][12]][13]
 
 No menu da esquerda escolhe "Estrutura de objecto". Aí vais definir as duas tabelas e como se relacionam.
 
 Na primeira linha introduz a ZTIPO conforme está aqui:
 
-[![][14]][15]
+[![image][14]][15]
 
 Depois selecciona-a, escolhe a opção "dependência de campos" e garante que está conforme aqui se vê:
 
-[![][16]][17]
+[![image][16]][17]
 
 De volta à "estrutura de objecto", introduz na segunda linha a vista de actualização ZANEDOTA_V conforme aqui se vê:
 
-[![][18]][19]
+[![image][18]][19]
 
 Depois selecciona-a, escolhe a opção "dependência de campos" e garante que está como aqui se vê:
 
-[![][16]][17]
+[![image][16]][17]
 
 Pronto, já estão as duas configuradas. Agora é só gravar e activar. Escolhe a opção "entrada de cabeçalho" e depois lá à direita espreme o botão "Ativar". Ele vai perguntar-te se pode alterar os ecrãs de manutenção e tu obedientemente vais dizer que sim.
 
-[![][20]][21]
+[![image][20]][21]
 
 **5\. Experimentar cluster de visão (SM34)**
 
 Se tudo tiver sido feito como deve de ser, agora basta ir à transacção SM34, introduzir o cluster de visão ZANEDOTAS e editar as duas tabelas em conjunto pois lá elas estão encavalitadas uma na outra.
 
-[![][22]][23]
+[![image][22]][23]
 
 Depois de introduzires pelo menos um tipo de anedota na tabela ZTIPO, ao seleccionares uma dessas linhas e navegares para a tabela inferior constatarás que por cima das linhas da tabela inferior aparece um cabeçalho com a chave primária da tabela superior que está actualmente a ser considerada. Isto é por causa do tal S no campo "Caracterização actualização para campo visão" na vista de actualização da tabela ZANEDOTA. Este é o truque que evita ter de preencher o campo TIPOID na tabela ZANEDOTAS.
 

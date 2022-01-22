@@ -46,7 +46,7 @@ O SAP, que lá vai evoluindo lentamente, lançou já há uns anos um editor novo
   5. Aí encontras vários modelos já pré-definidos (ex: TRY) e podes definir outros só teus.
 
 Aqui a definição dos modelos de código:
-![][2]
+![image][2]
 
 Enquanto escreves código basta que em qualquer sítio escrevas o nome de um dos modelos e carregues em TAB para que esse nome seja substituído pelo seu modelo.
 

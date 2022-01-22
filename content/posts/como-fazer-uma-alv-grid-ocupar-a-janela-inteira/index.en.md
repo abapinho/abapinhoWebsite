@@ -17,7 +17,7 @@ Sometimes the simplest things take the longest time to do. For instance, we rece
 
 In the container's properties, just check these two attributes: horizontal and vertical resizing.
 
-[![][1]][1]
+[![image][1]][1]
 
 It's simple. But not at all obvious.
 

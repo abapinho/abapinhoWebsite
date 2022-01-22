@@ -18,15 +18,15 @@ Mas há uma via mais directa. Quando estás a fazer debug de uma função podes,
 
 1\. Faz debug e entra dentro de uma função. Neste caso entrámos na DD_SHLP_CALL_FROM_DYNP:
 
-![][1]
+![image][1]
 
 2\. Depois carregas no ícone das ferramentas assinalado a vermelho na imagem anterior. Aparece-te uma árvore de opções:
 
-![][2]
+![image][2]
 
 3\. Escolhe "Gravar parâmetros como dados de teste(SE37). Aparece-te a caixa de diálogo seguinte pedindo o nome da variante de dados de teste:
 
-![][3]
+![image][3]
 
 Agora é só ires à SE37, fazeres F8 para testar a função, carregares lá em cima no botão "Diretório de dados de teste" e constatares com alegria que a nova variante que acabaste de criar no debugger está lá à tua espera.
 

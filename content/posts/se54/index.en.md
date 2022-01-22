@@ -18,15 +18,15 @@ This tip may help.
 
 When you create maintenance screens of a Z table, you have to assign a group of authorisations. This is normally done in the update dialog generation screen (transaction SE55 normally accessed from SE11).
 
-![][1]
+![image][1]
 
 You now know that there is a transaction where you can see all the authorisation groups associated to tables: SE54. Therefore it is very easy for instance to undertake joint maintenance of all authorisation groups associated with our tables.
 
-![][2]
+![image][2]
 
 In SE54 choose the option "Assign authorisation group" and you will come to this useful list of tables:
 
-![][3]
+![image][3]
 
 The screens shown only have one table, but if you choose Z to ZZZZZZZ from the selection all the Z tables will appear.
 

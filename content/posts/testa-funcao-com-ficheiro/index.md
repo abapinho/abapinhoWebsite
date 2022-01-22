@@ -20,35 +20,35 @@ Aqui fica um truque para o conseguir fazer a partir de um ficheiro.
 
 1\. Entra em modo de depuração na SE37:
 
-[![][1]][1]
+[![image][1]][1]
 
 2\. Cria um _break-point_ no módulo de funções RS_COMPLEX_OBJECT_EDIT:
 
-[![][2]][2]
+[![image][2]][2]
 
 3\. Faz F8 para continuar. Vai parar na função:
 
-[![][3]][3]
+[![image][3]][3]
 
 4\. Inspecciona a variável OBJECT (que é uma tabela interna) e entra nela com duplo clique:
 
-[![][4]][4]
+[![image][4]][4]
 
 5\. Carrega no ícone da ferramenta para aceder às funcionalidades disponíveis:
 
-[![][5]][5]
+[![image][5]][5]
 
 6\. Escolhe a opção "Upload from file" e carrega o ficheiro (que deverá ter a mesma estrutura que a tabela que estás a popular):
 
-[![][6]][6]
+[![image][6]][6]
 
 7\. A tabela ficou agora populada com o conteúdo do ficheiro:
 
-[![][7]][7]
+[![image][7]][7]
 
 8\. Faz F8 para voltar ao ponto de partida, agora com a tabela populada e pronta para correres o teste:
 
-[![][8]][8]
+[![image][8]][8]
 
 Obrigado Rui Couto por nos demonstrares este óptimo e práctico truque.
 Foto: [MGI Construction Corp.][9] em [Visualhunt.com][10] / [ CC BY-ND][11]

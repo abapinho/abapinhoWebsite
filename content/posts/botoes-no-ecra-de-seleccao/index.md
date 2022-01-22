@@ -77,7 +77,7 @@ ENDCASE.
 
 E o resultado é este:
 
-![][2]
+![image][2]
 
 Percebeste? É invulgar e requer uns truques meio manhosos, mas não é nada de especial. Faz bom proveito.
 

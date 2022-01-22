@@ -96,7 +96,7 @@ The first competitor is the common everyday internal table, used and abused, as 
 
 More conventional than this is impossible. The results are not very encouraging. Let’s see if based on this our readers think twice before using it on anything that moves:
 
-![][1]
+![image][1]
 
 **Competitor number 2**
 
@@ -128,7 +128,7 @@ Now it’s the turn of competitor number two, with metallic paint, alloy wheels 
 
 This competitor has a unique key that is defined with four fields. Although the HASH TABLES are the super-speedster when called with the complete key, that is not possible in this race because it is a LOOP. Therefore, it creeps shamefully to the finish line. It is a disgrace, as the following results prove:
 
-![][2]
+![image][2]
 
 **Competitor number 3**
 
@@ -160,7 +160,7 @@ Next is competitor number three, a beautiful table that is already ranked for gr
 
 Incredible, ladies and gentlemen! Competitor number 3 was very fast. About 2000x faster making the loops than the two previous competitors! Here is its score:
 
-![][3]
+![image][3]
 
 **Competitor number 4**
 
@@ -206,7 +206,7 @@ Last but not least, I give you competitor number 4. The craziest and most implau
 
 That too is a stunning result. It is a conventional table that is able to gain enormous speed thanks to some curious manoeuvres. Basically, it pulls some tricks to pretend it's more than it actually is. It starts by doing a SORT. Then instead of doing the second LOOP immediately afterwards it first does a READ TABLE BINARY SEARCH and then makes a LOOP FROM INDEX ([a magic trick already discussed here][4]). The results could not be more impressive because, although it is a common old table, it behaves as if it had royal blood in its veins:
 
-![][5]
+![image][5]
 
 **The Winner**
 

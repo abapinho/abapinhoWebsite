@@ -26,15 +26,15 @@ A transacção SE97 permite definir que, quando estás a correr uma dada transac
 
 Primeiro escolheram a transacção ZFB01:
 
-[![][1]][1]
+[![image][1]][1]
 
 Depois acrescentaram a transacção FB01 e disseram que não queriam que fossem verificadas permissões:
 
-[![][2]][2]
+[![image][2]][2]
 
 Como podes ver pelas colunas até dá para configurares a coisa de forma a que dê um aviso em vez de um erro:
 
-[![][3]][3]
+[![image][3]][3]
 
 O Manelinho e o Joãozinho nunca contaram isto a ninguém e viveram felizes para sempre.
 

@@ -30,7 +30,7 @@ Primeiro há que identificar o utilizador, o que é fácil visto ele vir geralme
 
 Depois é ir à transacção **SE37** e executar a função **TH_POPUP**.
 
-![][1]
+![image][1]
 
 Preenche-se os seguintes campos:
 
@@ -42,7 +42,7 @@ Preenche-se os seguintes campos:
 
 O resto deixa-se como está. Executa-se a função com **F8** e já está: o utilizador é imediatamente confrontado com o seguinte popup:
 
-![][2]
+![image][2]
 
 Nota: Em rigor, através do SAPOffice é também possível enviar mensagens **expresso** que, quando enviadas, notificam imediatamente o utilizador. Mas este recebe apenas um aviso de que tem uma nova mensagem e depois tem de ir ao SAPOffice lê-la. Dá-lhe mais trabalho e há o risco de a ignorar sem a ler.
 

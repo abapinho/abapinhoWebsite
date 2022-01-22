@@ -27,15 +27,15 @@ There you are quite happily carrying out your debug session and you accidentally
 
 Here is the tragic scenario. You skipped the function without altering the variable:
 
-[![][2]][3]
+[![image][2]][3]
 
 To save the situation, right-click on the line above the one you wish to return to and select “Go to instruction” from the menu:
 
-[![][4]][5]
+[![image][4]][5]
 
 Once that is done the debugger goes back in time without causing a fuss:
 
-[![][6]][7]
+[![image][6]][7]
 
 And you can get back to work without having to sing that fado song all the way through.
 

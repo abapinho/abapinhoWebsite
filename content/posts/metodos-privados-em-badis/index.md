@@ -32,27 +32,27 @@ Imagina então que tens de implementar um método de uma BADI. Fazes assim:
 
   2. Em vez de entrares no método que queres implementar, entras antes na classe que lá diz conter a implementação:
 
-![][2]
+![image][2]
 
   3. (Agora estás na SE24) Cria um método privado com um nome que descreva o que pretendes fazer (eu criei 2):
 
-![][3]
+![image][3]
 
   4. Define os parâmetros desse método copiando do método da BADI apenas os parâmetros de que vais necessitar:
 
-![][4]
+![image][4]
 
   5. Define excepções se tal fizer sentido;
 
   6. Implementa a tua lógica dentro do novo método privado:
 
-![][5]
+![image][5]
 
   7. Vai, agora sim, para o o método público da BADI que queres implementar (podes ir directamente pela SE24 ou fazê-lo a partir da SE19);
 
   8. Nesse método invoca o teu novo método privado (neste caso invoco logo os 2):
 
-![][6]
+![image][6]
 
 Já está. Agora é só activares a BADI (na SE19) caso ainda não esteja activa.
 

@@ -41,7 +41,7 @@ INITIALIZATION.
 
 É isto.
 
-[![][2]][2]
+[![image][2]][2]
 
 Foto: [MarianaLeme][3].
 

@@ -28,7 +28,7 @@ INITIALIZATION.
 {{< /highlight >}}
 
 E aqui está o resultado (nota o ícone do calendário à esquerda do texto):
-[![][1]][2]
+[![image][1]][2]
 
 O ABAP está cheio de truques bizarros como este.
 

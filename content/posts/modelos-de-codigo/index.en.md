@@ -42,7 +42,7 @@ SAP is something that evolves slowly, and it launched a new editor a few years a
   5. There you will see various pre-defined templates (e.g. TRY) and you can set up more of your own.
 
 Here is the code templates definition:
-![][2]
+![image][2]
 
 As you write code, just write the name of one of the models anywhere and hit TAB to replace that name with its model.
 

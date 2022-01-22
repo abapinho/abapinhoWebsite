@@ -18,7 +18,7 @@ I don't know for how long has this been available but I just now found out about
 
 Since ever, when I needed to do something more complex with the content of an internal table, I'd have to export it into Excel. Boring. And after all, you can see it in an ALV right there just by clicking a button:
 
-[![][1]][1]
+[![image][1]][1]
 
 There it is, the magical button I had never noticed. Or... maybe it showed up with the recent upgrade to 7.50. You click it and the internal table's content is shown in an ALV, ready to be reordered, filtered and what not. So great.
 

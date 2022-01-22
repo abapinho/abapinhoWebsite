@@ -57,7 +57,7 @@ AT SELECTION-SCREEN.
 {{< /highlight >}}
 
 E aqui está o resultado:
-[![][1]][1]
+[![image][1]][1]
 
 O Abapinho saúda-vos.
 

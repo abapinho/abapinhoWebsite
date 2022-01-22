@@ -20,7 +20,7 @@ Click on the lower right corner icon which gives you access to the SAPGui option
 
 In the _formatting_ option, activate _Enable Auto Brackets_ and voilá, SAP will now automatically close any doors you open.
 
-[![][2]][2]
+[![image][2]][2]
 
 I don't see why this isn't set by default.
 
