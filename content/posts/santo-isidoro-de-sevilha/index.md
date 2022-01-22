@@ -23,5 +23,5 @@ Não sendo crente, não farei usufruto. Mas é curioso à mesma.
 
 O Abapinho saúda-vos.
 
-   [1]: http://pt.wikipedia.org/wiki/Isidoro_de_Sevilha
+   [1]: https://pt.wikipedia.org/wiki/Isidoro_de_Sevilha
    [2]: images/santo_isidoro2.png (Santo Isidoro)

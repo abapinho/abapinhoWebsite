@@ -15,7 +15,7 @@ Se precisas mesmo de aceder a um SAP e ninguém te deixa e não tens um computad
 <!--more-->
 
 Por exemplo aqui:
-<http://www.idesaccess.com>
+<https://www.idesaccess.com>
 
 Sabias?
 
@@ -25,4 +25,4 @@ Obrigado [wildxplorer][1] pela foto.
 
 O Abapinho saúda-vos
 
-   [1]: http://www.flickr.com/photos/krayker/2117736371/
+   [1]: https://www.flickr.com/photos/krayker/2117736371/

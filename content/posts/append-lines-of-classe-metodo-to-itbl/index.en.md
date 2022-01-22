@@ -48,4 +48,4 @@ Thanks to pollovf for the [photo][1].
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/30356381@N02/2847638199/
+   [1]: https://www.flickr.com/photos/30356381@N02/2847638199/

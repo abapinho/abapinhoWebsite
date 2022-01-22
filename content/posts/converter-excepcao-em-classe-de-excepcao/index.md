@@ -108,4 +108,4 @@ Esta abordagem inspirou-se [neste artigo da SAP][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://help.sap.com/abapdocu_740/en/abenmessage_interface_abexa.htm
+   [1]: https://help.sap.com/abapdocu_740/en/abenmessage_interface_abexa.htm

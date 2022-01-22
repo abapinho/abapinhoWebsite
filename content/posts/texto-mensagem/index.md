@@ -26,4 +26,4 @@ Obrigado a [Peteris B][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/flatcat/3555774083/
+   [1]: https://www.flickr.com/photos/flatcat/3555774083/

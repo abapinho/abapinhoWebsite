@@ -99,4 +99,4 @@ Como exemplo, um cenário real com que me deparei há uns dias: num relatório q
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/editor/172690560/
+   [1]: https://www.flickr.com/photos/editor/172690560/

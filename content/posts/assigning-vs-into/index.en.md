@@ -85,4 +85,4 @@ Now that we’re well into the 21st century, avoid using work areas whenever pos
 
 Greetings from Abapinho.
 
-   [1]: http://www.sap.com/platform/in-memory-computing/index.epx
+   [1]: https://www.sap.com/platform/in-memory-computing/index.epx

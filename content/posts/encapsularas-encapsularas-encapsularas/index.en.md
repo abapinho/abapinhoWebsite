@@ -14,4 +14,4 @@ Historically ABAP programs tend to grow very loooong. All programming best pract
 If any routine, be it a program, a method, a function or anything else, becomes longer than 200-300 lines, question it and seriously consider refactoring it into several sub-routines.
 This has the added advantage of potentially increasing code reuse. But the greatest advantage is encapsulation, isolating variables in their local context, instead of having all of them together, resulting in safer and more readable code.
 The Official ABAP Programming Guidelines book advises this in its chapter 2.2 KISS (pages 32-34).
-http://help.sap.com/abapdocu_731/en/abenencapsulation_guidl.htm
+https://help.sap.com/abapdocu_731/en/abenencapsulation_guidl.htm

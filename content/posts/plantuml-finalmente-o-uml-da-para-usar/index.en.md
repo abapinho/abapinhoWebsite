@@ -69,10 +69,10 @@ And if your system still does not have version 7.4 then you can use an older ver
 
 Thank you, Sérgio Fraga, for letting me know this marvel existed.
 
-   [1]: http://plantuml.com
-   [2]: http://www.plantuml.com/plantuml
+   [1]: https://plantuml.com
+   [2]: https://www.plantuml.com/plantuml
    [3]: images/plantuml_class_diagram.png
    [4]: images/plantuml_class_diagram.png
-   [5]: http://plantuml.com/class-diagram
+   [5]: https://plantuml.com/class-diagram
    [6]: https://blogs.sap.com/2017/04/27/plantuml-diagrams/
    [7]: https://blogs.sap.com/2017/04/27/plantuml-diagrams/#comment-381746

@@ -34,4 +34,4 @@ Obrigado [alifaan][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/alifaan/2608045107/
+   [1]: https://www.flickr.com/photos/alifaan/2608045107/

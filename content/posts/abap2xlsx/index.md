@@ -34,10 +34,10 @@ Obrigado a [Filip Dujardin][7] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://scn.sap.com/docs/DOC-26034
-   [2]: http://wiki.sdn.sap.com/wiki/display/ABAP/Exporting+data+to+Excel+-+XML+to+the+rescue
+   [1]: https://scn.sap.com/docs/DOC-26034
+   [2]: https://wiki.sdn.sap.com/wiki/display/ABAP/Exporting+data+to+Excel+-+XML+to+the+rescue
    [3]: https://cw.sdn.sap.com/cw/groups/abap2xlsx
-   [4]: http://www.plinky.it
-   [5]: http://code.google.com/p/saplink/
+   [4]: https://www.plinky.it
+   [5]: https://code.google.com/p/saplink/
    [6]: https://cw.sdn.sap.com/cw/docs/DOC-137513
-   [7]: http://www.filipdujardin.be/
+   [7]: https://www.filipdujardin.be/

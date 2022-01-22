@@ -18,6 +18,6 @@ Quem experimentar, por favor deixe um comentário dizendo se funcionou e se agra
 
 O Abapinho saúda-vos.
 
-   [1]: http://sdn.sap.com
-   [2]: http://www.linkedin.com/groups/Search-SDN-right-inside-Firefox-2044357.S.100123918
+   [1]: https://sdn.sap.com
+   [2]: https://www.linkedin.com/groups/Search-SDN-right-inside-Firefox-2044357.S.100123918
    [3]: images/pesquisa-sap-firefox.jpg (pesquisa-sap-firefox)

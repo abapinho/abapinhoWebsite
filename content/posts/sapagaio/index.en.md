@@ -36,4 +36,4 @@ And thanks to [captainsubtle][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/captainsubtle/4636335123/
+   [1]: https://www.flickr.com/photos/captainsubtle/4636335123/

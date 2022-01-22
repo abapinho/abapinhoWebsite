@@ -11,6 +11,6 @@ resources:
   src: 'images/thumbnail.jpg'
 ---
 In classes, consider using exceptions classes over the old ones. These have great advantages and, once understood, are simple and allow for simpler code.
-http://www.slideshare.net/pruebaedublog/exceptions-handling-concept-in-abap
-http://www.scribd.com/doc/86551830/26/Lesson-Exception-Handling-in-ABAP-Objects
-http://zevolving.com/2011/12/class-based-exception/
+https://www.slideshare.net/pruebaedublog/exceptions-handling-concept-in-abap
+https://www.scribd.com/doc/86551830/26/Lesson-Exception-Handling-in-ABAP-Objects
+https://zevolving.com/2011/12/class-based-exception/

@@ -67,4 +67,4 @@ Obrigado KayVee.INC pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/kayveeinc/4246957346/
+   [1]: https://www.flickr.com/photos/kayveeinc/4246957346/

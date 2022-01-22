@@ -26,4 +26,4 @@ And thanks to net_efekt for the [photo][2].
 Greetings from Abapinho.
 
    [1]: images/boamemoria.jpg
-   [2]: http://www.flickr.com/photos/wheatfields/264890868
+   [2]: https://www.flickr.com/photos/wheatfields/264890868

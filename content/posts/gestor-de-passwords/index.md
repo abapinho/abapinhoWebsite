@@ -33,7 +33,7 @@ E para não te ires embora a praguejar porque esta dica não tem puto a ver com 
 O Abapinho saúda-vos.
 
    [1]: https://agilebits.com/onepassword
-   [2]: http://blog.agilebits.com/
-   [3]: http://keepass.info/
-   [4]: http://www.takecontrolbooks.com/passwords
-   [5]: http://scn.sap.com/community/gui/blog/2012/01/29/using-keepass-instead-of-sap-logon
+   [2]: https://blog.agilebits.com/
+   [3]: https://keepass.info/
+   [4]: https://www.takecontrolbooks.com/passwords
+   [5]: https://scn.sap.com/community/gui/blog/2012/01/29/using-keepass-instead-of-sap-logon

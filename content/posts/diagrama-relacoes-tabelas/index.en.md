@@ -21,5 +21,5 @@ Thanks Rui Dias.
 
 Greetings from Abapinho.
 
-   [1]: http://stechno.net/index.php?option=com_saptable&view=saptable&id=T012&layout=graph
-   [2]: http://stechno.net/index.php?option=com_saptable&view=saptable&id=KNA1&layout=graph
+   [1]: https://stechno.net/index.php?option=com_saptable&view=saptable&id=T012&layout=graph
+   [2]: https://stechno.net/index.php?option=com_saptable&view=saptable&id=KNA1&layout=graph

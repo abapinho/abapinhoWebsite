@@ -18,5 +18,5 @@ Experimentem, caros leitores, e se vos for útil façam-nos saber.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.abapninja.org
-   [2]: http://www.abapninja.org/pages/about
+   [1]: https://www.abapninja.org
+   [2]: https://www.abapninja.org/pages/about

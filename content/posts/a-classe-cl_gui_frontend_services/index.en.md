@@ -129,5 +129,5 @@ Photo credits: [simonella_virus][1] via [VisualHunt.com][2] / [CC BY-NC-ND][3].
 Greetings from Abapinho.
 
    [1]: https://www.flickr.com/photos/simonella_virus/2322193421/
-   [2]: http://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc-nd/2.0/
+   [2]: https://visualhunt.com
+   [3]: https://creativecommons.org/licenses/by-nc-nd/2.0/

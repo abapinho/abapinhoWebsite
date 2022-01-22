@@ -69,4 +69,4 @@ Obrigado Miguel Jorge pela dica.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.citador.pt/poemas/ausencia-carlos-drummond-de-andrade
+   [1]: https://www.citador.pt/poemas/ausencia-carlos-drummond-de-andrade

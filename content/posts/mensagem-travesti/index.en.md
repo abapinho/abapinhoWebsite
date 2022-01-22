@@ -32,4 +32,4 @@ Thanks to Sérgio Lopes for this tip.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/tcelestino/2858606793/in/photostream/
+   [1]: https://www.flickr.com/photos/tcelestino/2858606793/in/photostream/

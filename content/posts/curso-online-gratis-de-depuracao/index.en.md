@@ -19,5 +19,5 @@ Nota: o curso é em inglês.
 O Abapinho saúda-vos
 [:]
 
-   [1]: http://www.onsap.com/
-   [2]: http://academy.onsap.com
+   [1]: https://www.onsap.com/
+   [2]: https://academy.onsap.com

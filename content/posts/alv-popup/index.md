@@ -110,4 +110,4 @@ Obrigado a [Ayelie][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/ayelie/441107616/
+   [1]: https://www.flickr.com/photos/ayelie/441107616/

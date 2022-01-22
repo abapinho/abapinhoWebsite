@@ -54,4 +54,4 @@ Greetings from Abapinho.
 
 _Thank you[Sweet-Rainb0w][1] for the photo._
 
-   [1]: http://www.flickr.com/photos/il0vepullip/3954087408/
+   [1]: https://www.flickr.com/photos/il0vepullip/3954087408/

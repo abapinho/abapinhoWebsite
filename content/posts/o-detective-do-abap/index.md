@@ -82,11 +82,11 @@ Além disso, ajuda-nos a escrever programas mais legíveis e que aderem a conven
 
 **Saber mais**
 
-[http://help.sap.com/saphelp_nwpi711/helpdata/en/8d/ 4b64488cce3945ba42b059319d62dc/content.htm][8]
+[https://help.sap.com/saphelp_nwpi711/helpdata/en/8d/ 4b64488cce3945ba42b059319d62dc/content.htm][8]
 
-<http://scn.sap.com/docs/DOC-15932>
+<https://scn.sap.com/docs/DOC-15932>
 
-<http://scn.sap.com/community/abap/testing-and-troubleshooting/blog/2007/03/12/code-inspector-s-performance-checks-i>
+<https://scn.sap.com/community/abap/testing-and-troubleshooting/blog/2007/03/12/code-inspector-s-performance-checks-i>
 
 O Abapinho agradece a Artur Moreira.
 
@@ -97,4 +97,4 @@ O Abapinho agradece a Artur Moreira.
    [5]: images/odetectivedoabap5.jpg
    [6]: images/odetectivedoabap6.jpg
    [7]: images/odetectivedoabap7.jpg
-   [8]: http://help.sap.com/saphelp_nwpi711/helpdata/en/8d/4b64488cce3945ba42b059319d62dc/content.htm
+   [8]: https://help.sap.com/saphelp_nwpi711/helpdata/en/8d/4b64488cce3945ba42b059319d62dc/content.htm

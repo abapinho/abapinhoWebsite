@@ -14,4 +14,4 @@ Historicamente os programas ABAP tendem a ser muito loooongos. Todas as boas pr�
 Se uma rotina, seja ela um programa, um método, uma função ou outra coisa, tiver mais do que 200-300 linhas, desconfia e considera seriamente modularizá-la em várias sub-rotinas.
 Esta abordagem tem a vantagem adicional de potenciar a reutilização de código. Mas a maior vantagem é o encapsulamento, isolando variáveis no seu contexto local, em vez de as ter todas juntas, tendo como resultado código mais seguro e mais claro.
 O livro Official ABAP Programming Guidelines aconselha istos no capítulo 2.2 KISS (páginsa 32-34).
-http://help.sap.com/abapdocu_731/en/abenencapsulation_guidl.htm
+https://help.sap.com/abapdocu_731/en/abenencapsulation_guidl.htm

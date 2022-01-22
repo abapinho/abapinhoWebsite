@@ -56,5 +56,5 @@ E esta, heim?
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.youtube.com/watch?v=wTuojHso3YA
-   [2]: http://www.flickr.com/photos/itspaulkelly/3366424586/
+   [1]: https://www.youtube.com/watch?v=wTuojHso3YA
+   [2]: https://www.flickr.com/photos/itspaulkelly/3366424586/

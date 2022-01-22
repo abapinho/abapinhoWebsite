@@ -20,4 +20,4 @@ Greetings from Abapinho
 
 _(thank you[Bohman][1] for the photo)_
 
-   [1]: http://www.flickr.com/photos/bohman/210977249/
+   [1]: https://www.flickr.com/photos/bohman/210977249/

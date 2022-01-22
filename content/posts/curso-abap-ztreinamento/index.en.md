@@ -32,7 +32,7 @@ Serão abordados os seguintes temas:
 
 (passou de 8 para 6 semanas mas a carga horária aumentou de 32h para 48h)
 
-Todos os detalhes aqui: <http://ztreinamento.com.br/>.
+Todos os detalhes aqui: <https://ztreinamento.com.br/>.
 
 E se fores um dos 10 primeiros a inscrever-te dizendo que vens da nossa parte (código secreto: ABAPINHO10PORCENTO) terás um desconto de 10%!
 

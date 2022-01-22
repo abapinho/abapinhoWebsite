@@ -14,7 +14,7 @@ resources:
 
   * No próprio SAP: através da transacção STERM;
 
-  * Online: num site da SAP: <http://help.sap.com/saphelp_glossary/en/>;
+  * Online: num site da SAP: <https://help.sap.com/saphelp_glossary/en/>;
 
   * No nosso computador: usando o programa ABAP GLOS_DOWNLOAD_HTML para fazer download de todo o seu conteúdo.
 

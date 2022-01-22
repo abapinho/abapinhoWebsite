@@ -25,4 +25,4 @@ Dá jeito.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/oxherder/4529142926/
+   [1]: https://www.flickr.com/photos/oxherder/4529142926/

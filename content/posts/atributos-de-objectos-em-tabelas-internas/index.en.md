@@ -118,4 +118,4 @@ Thanks to Custodio Oliveira who left this tip in the comments on the [table_line
 Greetings from Abapinho.
 
    [1]: {{< ref "tabela-interna-nao-estruturada" >}}
-   [2]: http://www.flickr.com/photos/diepuppenstubensammlerin/6451375637/in/photostream/
+   [2]: https://www.flickr.com/photos/diepuppenstubensammlerin/6451375637/in/photostream/

@@ -26,4 +26,4 @@ Aqui está um [conjunto de _screencasts_][1] da SAP a ensinar a usar a nova SAT.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.sdn.sap.com/irj/scn/elearn?rid=/library/uuid/d0c750c1-7d04-2e10-8492-a11b9219371d&overridelayout=true
+   [1]: https://www.sdn.sap.com/irj/scn/elearn?rid=/library/uuid/d0c750c1-7d04-2e10-8492-a11b9219371d&overridelayout=true

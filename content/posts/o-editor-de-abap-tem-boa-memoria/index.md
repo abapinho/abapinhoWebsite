@@ -27,4 +27,4 @@ E obrigado a net_efekt pela [foto][2].
 O Abapinho saúda-vos.
 
    [1]: images/boamemoria.jpg
-   [2]: http://www.flickr.com/photos/wheatfields/264890868
+   [2]: https://www.flickr.com/photos/wheatfields/264890868

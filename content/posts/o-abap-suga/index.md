@@ -27,4 +27,4 @@ Obrigado Brian Wolfe pela [foto][2].
 O Abapinho saúda-vos.
 
    [1]: images/abapsucks.gif
-   [2]: http://www.flickr.com/photos/97058136@N00/3774149353
+   [2]: https://www.flickr.com/photos/97058136@N00/3774149353

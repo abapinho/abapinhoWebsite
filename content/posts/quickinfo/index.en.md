@@ -32,4 +32,4 @@ Thanks to See-ming Lee for the [photo][2].
 Greetings from Abapinho.
 
    [1]: images/quickinfo.jpg
-   [2]: http://www.flickr.com/photos/seeminglee/3929959851/
+   [2]: https://www.flickr.com/photos/seeminglee/3929959851/

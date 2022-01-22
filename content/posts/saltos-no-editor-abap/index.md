@@ -32,4 +32,4 @@ Obrigado Sérgio Fraga!
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/epleus/3832528987/
+   [1]: https://www.flickr.com/photos/epleus/3832528987/

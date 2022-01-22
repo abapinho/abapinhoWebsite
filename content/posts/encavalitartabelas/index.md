@@ -135,4 +135,4 @@ O Abapinho saúda-vos.
    [21]: images/cluster10.png
    [22]: images/cluster13.png (cluster13)
    [23]: images/cluster11.png
-   [24]: http://www.flickr.com/photos/52953262@N00/414506361
+   [24]: https://www.flickr.com/photos/52953262@N00/414506361

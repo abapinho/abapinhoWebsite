@@ -26,4 +26,4 @@ E obrigado a [miri695][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/45617397@N05/4190477130/
+   [1]: https://www.flickr.com/photos/45617397@N05/4190477130/

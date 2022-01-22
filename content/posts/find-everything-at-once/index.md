@@ -31,4 +31,4 @@ O Abapinho saúda-vos.
    [1]: images/marcar_tudo.jpg
    [2]: https://www.flickr.com/photos/gregwake/209493486/
    [3]: https://visualhunt.com/photos/sky-images/
-   [4]: http://creativecommons.org/licenses/by-nc-sa/2.0/
+   [4]: https://creativecommons.org/licenses/by-nc-sa/2.0/

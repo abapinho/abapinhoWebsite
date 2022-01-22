@@ -92,4 +92,4 @@ Para saberes mais consulta [este documento da SAP][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/4e515a43-0e01-0010-2da1-9bcc452c280b
+   [1]: https://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/4e515a43-0e01-0010-2da1-9bcc452c280b

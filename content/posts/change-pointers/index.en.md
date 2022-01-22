@@ -58,5 +58,5 @@ Deve haver mais formas de usar _change pointers_ mas não me lembro agora de mai
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.scribd.com/doc/24447/SAP-R3-IDoc-Cookbook-for-EDI-and-Interfaces-by-Axel-Angeli
-   [2]: http://www.scribd.com/doc/5884984/Idoc-Quick-Reference-Sheet
+   [1]: https://www.scribd.com/doc/24447/SAP-R3-IDoc-Cookbook-for-EDI-and-Interfaces-by-Axel-Angeli
+   [2]: https://www.scribd.com/doc/5884984/Idoc-Quick-Reference-Sheet

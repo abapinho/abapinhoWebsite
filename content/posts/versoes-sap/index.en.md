@@ -145,4 +145,4 @@ Ano
 
 If this isn’t enough to make you confused, then you can find [here][1] a very good and detailed presentation on the different versions of SAP and the different capabilities of each one.
 
-   [1]: http://www.scribd.com/doc/13176905/SAP-Versions
+   [1]: https://www.scribd.com/doc/13176905/SAP-Versions

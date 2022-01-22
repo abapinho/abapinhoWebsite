@@ -20,4 +20,4 @@ Nova actualização: se os outros falharem tenta este módulo de função: RS_HD
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/bohman/210977249/
+   [1]: https://www.flickr.com/photos/bohman/210977249/

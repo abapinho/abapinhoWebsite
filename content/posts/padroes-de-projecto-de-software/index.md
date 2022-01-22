@@ -27,7 +27,7 @@ Obrigado Miguel Jorge!
 
 O Abapinho saúda-vos.
 
-   [1]: http://zevolving.com/category/abapobjects/oo-design-patterns/
-   [2]: http://www.headfirstlabs.com/books/hfdp/
-   [3]: http://www.sws.bfh.ch/~amrhein/ADP/index.html
+   [1]: https://zevolving.com/category/abapobjects/oo-design-patterns/
+   [2]: https://www.headfirstlabs.com/books/hfdp/
+   [3]: https://www.sws.bfh.ch/~amrhein/ADP/index.html
    [4]: https://sourcemaking.com/design_patterns

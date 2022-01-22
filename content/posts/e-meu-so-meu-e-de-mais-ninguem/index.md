@@ -18,5 +18,5 @@ Na SE38, nas características técnicas do programa, existe um pisco chamado "Bl
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.idesaccess.com/
+   [1]: https://www.idesaccess.com/
    [2]: images/bloqueio_editor.png (Bloqueio do editor)

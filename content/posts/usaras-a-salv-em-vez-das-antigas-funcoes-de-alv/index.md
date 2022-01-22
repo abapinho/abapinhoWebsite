@@ -11,5 +11,5 @@ resources:
   src: 'images/thumbnail.jpg'
 ---
 As classes SALV são mais versáteis e sofisticadas do que os antigos módulos de função. Portanto, para ALVs novas, usa sempre a SALV. Excepção feita para ALVs que precisem de editar os dados pois nesse caso as SALV ainda são muito pouco capazes.
-http://scn.sap.com/docs/DOC-10365
-http://scn.sap.com/docs/DOC-10366
+https://scn.sap.com/docs/DOC-10365
+https://scn.sap.com/docs/DOC-10366

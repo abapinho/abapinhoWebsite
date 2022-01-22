@@ -26,4 +26,4 @@ Here is a [set of _screencasts_][1] from SAP to teach you how to use the new SAT
 
 Greetings from Abapinho.
 
-   [1]: http://www.sdn.sap.com/irj/scn/elearn?rid=/library/uuid/d0c750c1-7d04-2e10-8492-a11b9219371d&overridelayout=true
+   [1]: https://www.sdn.sap.com/irj/scn/elearn?rid=/library/uuid/d0c750c1-7d04-2e10-8492-a11b9219371d&overridelayout=true

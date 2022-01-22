@@ -27,4 +27,4 @@ Obrigado [NASA's Marshall Space Flight Center][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/nasamarshall/6956818526
+   [1]: https://www.flickr.com/photos/nasamarshall/6956818526

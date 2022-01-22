@@ -40,4 +40,4 @@ And thanks to Alexis Tejeda for the [photo][1].
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/alexonrails/4759137435/
+   [1]: https://www.flickr.com/photos/alexonrails/4759137435/

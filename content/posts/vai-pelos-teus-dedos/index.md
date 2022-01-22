@@ -26,7 +26,7 @@ Vai pelos teus dedos.
 
 O Abapinho saúda-vos.
 
-   [1]: http://pt.wikipedia.org/wiki/Dactilografia
-   [2]: http://en.wikipedia.org/wiki/Touch_typing
-   [3]: http://www.digicurso.com/
-   [4]: http://www.jonmiles.co.uk/fingerjig.php
+   [1]: https://pt.wikipedia.org/wiki/Dactilografia
+   [2]: https://en.wikipedia.org/wiki/Touch_typing
+   [3]: https://www.digicurso.com/
+   [4]: https://www.jonmiles.co.uk/fingerjig.php

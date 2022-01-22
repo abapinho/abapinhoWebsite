@@ -47,4 +47,4 @@ Thanks to Sérgio Lopes for the tip.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/doug88888/4131175353/
+   [1]: https://www.flickr.com/photos/doug88888/4131175353/
