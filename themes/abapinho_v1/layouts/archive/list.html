@@ -1,0 +1,29 @@
+{{- define "pagetitle" -}}
+  <div id='qa-menu'>
+    <div class="pagetitle">{{ i18n "arquivo" }}</div>
+  </div>
+{{- end -}}
+
+{{- define "main" -}}
+	{{ range .Site.Pages.GroupByDate "2006" }}
+
+		<h2>{{ .Key }}</h2>
+		<ul>
+      {{ range .Pages.GroupByDate "01" }}
+        <li>
+          {{ range first 1 .Pages }}
+          <h3>{{ .Date.Format "Jan" }}</h3>
+          {{ end }}
+          <ul>
+            {{ range where ( where .Pages "Title" "!=" "Posts" ) "Section" "posts" }}
+              <li>
+                {{ .Date.Format "02" }}
+                <a href="{{ .Permalink }}" class="permalink">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </li>
+      {{ end }}
+		</ul>
+	{{ end }}
+{{- end -}}
