@@ -45,10 +45,8 @@ A linguagem SQLScript pode ainda ser utilizada diretamente na Base de Dados SAP 
 
 Obrigado Artur Moreira por este interessante artigo.
 
-Foto: [MysteryBee][1] via [VisualHunt][2] / [CC BY-SA][3]
+Foto: [MysteryBee][1]
 
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/mysterybee/1659329016/
-   [2]: https://visualhunt.com
-   [3]: https://creativecommons.org/licenses/by-sa/2.0/

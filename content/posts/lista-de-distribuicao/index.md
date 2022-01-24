@@ -31,8 +31,6 @@ request->add_recipient( recipient ).
 
 O resto é tudo igual.
 
-Foto de [doug turetsky][1].
+Foto de doug turetsky.
 
 O Abapinho saúda-vos.
-
-   [1]: https://visualhunt.co/a6/904f753c

@@ -106,8 +106,6 @@ Esta função mostra o popup que permite ao utilizador seleccionar um ou mais re
 
 E já está.
 
-Obrigado a [Ayelie][1] pela foto.
+Obrigado a Ayelie pela foto.
 
 O Abapinho saúda-vos.
-
-   [1]: https://www.flickr.com/photos/ayelie/441107616/

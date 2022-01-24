@@ -18,4 +18,4 @@ Obrigado Fernanda Mirabile e Talita Polanczyk pela dica.
 
 O Abapinho saúda-vos.
 
-   [1]: https://chrome.google.com/webstore/detail/sap-notes-finder/kioednbfglenbkanjekicddjppflpiln
+   [1]: https://chrome.google.com/webstore/detail/sap-notes-and-support/nlbgnehakmlibpichhhicnifdidgegbo

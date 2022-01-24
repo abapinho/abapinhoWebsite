@@ -116,11 +116,10 @@ Easier to read, right? From now on it will be easier to maintain and more resist
 
 The next person that has to make changes to it will find it much simpler to understand. If the intervention consists in adding a new functionality, let's hope the person creates a new method to encapsulate that new functionality instead of just adding his new code there (as I've seen done too many times) increasing the code's entropy instead of helping decrease it.
 
-Photo: [Nicholas Erwin][4].
+Photo: Nicholas Erwin.
 
 Greetings from Abapinho.
 
    [1]: https://martinfowler.com/books/refactoring.html
    [2]: https://refactoring.com/catalog/
    [3]: https://refactoring.com/catalog/extractMethod.html
-   [4]: https://visualhunt.com/author2/7de346

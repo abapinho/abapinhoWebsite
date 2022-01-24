@@ -24,11 +24,9 @@ When you choose this option, it bookmarks every line containing the searched tex
 
 Thank you, Nuno Morais for the tip.
 
-Photo credit: [gregwake][2] via [VisualHunt][3] / [CC BY-NC-SA][4]
+Photo credit: [gregwake][2]
 
 Greetings from Abapinho.
 
    [1]: images/select_all.jpg
    [2]: https://www.flickr.com/photos/gregwake/209493486/
-   [3]: https://visualhunt.com/photos/sky-images/
-   [4]: https://creativecommons.org/licenses/by-nc-sa/2.0/

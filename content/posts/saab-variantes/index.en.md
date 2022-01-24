@@ -21,10 +21,8 @@ Once we have created and populated or variant, it can be activated at any moment
 
 [![SAAB activation variant][1]][1]
 
-Thank you [Diane Duane][2] for the [photo][3].
+Thank you Diane Duane for the photo.
 
 Greetings from Abapinho.
 
    [1]: images/saab_variant.png
-   [2]: https://visualhunt.co/a2/e383ba
-   [3]: https://visualhunt.com/re4/768a8c03

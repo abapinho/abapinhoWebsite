@@ -126,10 +126,4 @@ E mais algumas coisas.
 
 Como vês há métodos para todos os gostos. Espero que te seja útil.
 
-Créditos da foto: [simonella_virus][1] via [VisualHunt.com][2] / [CC BY-NC-ND][3].
-
 O Abapinho saúda-vos.
-
-   [1]: https://www.flickr.com/photos/simonella_virus/2322193421/
-   [2]: https://visualhunt.com
-   [3]: https://creativecommons.org/licenses/by-nc-nd/2.0/

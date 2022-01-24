@@ -22,9 +22,8 @@ Each time you visit an object that you think you'll visit again in the future, a
 
 Thank you Nuno Morais for the tip.
 
-_And thank you[~suchitra~][2] for the photo._
+And thank you ~suchitra~ for the photo.
 
 Greetings from Abapinho.
 
    [1]: images/se80-favoritos.png (se80-favoritos)
-   [2]: https://www.flickr.com/photos/chitrasudar/2756691008/

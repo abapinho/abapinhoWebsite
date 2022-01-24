@@ -27,11 +27,9 @@ There is a small trick, though. When you’re changing your append structure, ev
 
 We’re always learning.
 
-Photo credit: [Sugar Daze][2] via [VisualHunt.com][3] / [CC BY-NC-ND][4]
+Photo credit: [Sugar Daze][2]
 
 Greetings from Abapinho.
 
    [1]: https://help.sap.com/saphelp_nw73/helpdata/en/cf/21ebc9446011d189700000e8322d00/content.htm
    [2]: https://www.flickr.com/photos/catbeurnier/3114941639/
-   [3]: https://visualhunt.com
-   [4]: https://creativecommons.org/licenses/by-nc-nd/2.0/

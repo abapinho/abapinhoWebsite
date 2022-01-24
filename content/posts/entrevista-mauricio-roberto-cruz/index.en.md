@@ -49,7 +49,7 @@ O maior e melhor site de ABAP do Brasil é, de longe, o ABAP101. Eu sempre menci
 **11 - Obrigado pela entrevista! Deixa os teus comentários e contactos para os leitores poderem entrar em contacto.**
 Obrigado nada, eu é que agredeço, afinal, você respondeu primeiro lá para o [ABAPZombie][2] :P . O Abapinho também é um grande site, sempre acompanho as postagens!
 
-Para quem quiser falar comigo, a melhor maneira é pelo meu Twitter https://twitter.com/mrc_cruz ou pelo meu e-mail mauriciorcruz@gmail.com . Vocês também podem acessar o [ABAPZombie][2], e mandar um mensagem pra gente pela área de Contatos. Também estou compartilhando alguns código ABAP na minha página do Github! <https://github.com/mauriciorcruz/ABAP-Toolbox> Entre lá e compartilhe seus códigos também! :)
+Para quem quiser falar comigo, a melhor maneira é pelo meu Twitter https://twitter.com/mrc_cruz ou pelo meu e-mail mauriciorcruz@gmail.com . Vocês também podem acessar o [ABAPZombie][2], e mandar um mensagem pra gente pela área de Contatos. Também estou compartilhando alguns código ABAP na minha página do Github! github.com/mauriciorcruz/ABAP-Toolbox Entre lá e compartilhe seus códigos também! :)
 
 Um grande abraço a todos, e valeu Nuno!
 

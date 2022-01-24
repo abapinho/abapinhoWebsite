@@ -22,22 +22,19 @@ Then there are some crazy approaches such as [this][2] which explicitly manages 
 
 And there has to be more.
 
-But this is no longer of any interest because now there is [ABAP2XLSX][3]. ABAP2XLSX is SCN (SAP Community Network) project developed by a smart young guy called [Ivan Femia][4]. ABAP2XLSX consists of a set of classes which enable Excel files to be managed within ABAP in native XLSX format or, in other words, without having to use external components. It is simple to develop, quick to execute and can be done in background. It is also well documented, there are dozens of available examples and it is supported by an active community.
+But this is no longer of any interest because now there is [ABAP2XLSX][3]. ABAP2XLSX is SCN (SAP Community Network) project developed by a smart young guy called Ivan Femia. ABAP2XLSX consists of a set of classes which enable Excel files to be managed within ABAP in native XLSX format or, in other words, without having to use external components. It is simple to develop, quick to execute and can be done in background. It is also well documented, there are dozens of available examples and it is supported by an active community.
 
 It enables you to generate technicolour spreadsheets with formulas and absolutely everything and anything. Here is just one example (ZDEMO_EXCEL1):
 
 <https://github.com/abapinho/codesnippets/blob/master/zdemo_excel1.abap>
 
-To start to use it you just have install the nugget via [SAPlink][5] which is available at [página do projecto][3]. Click [here for the instruction manual][6].
+To start to use it you just have install the nugget via [SAPlink][5] which is available at [the project's page][3].
 
-Thanks to [Filip Dujardin][7] for the photo.
+Thanks to Filip Dujardin for the photo.
 
 Greetings from Abapinho.
 
    [1]: https://scn.sap.com/docs/DOC-26034
    [2]: https://wiki.sdn.sap.com/wiki/display/ABAP/Exporting+data+to+Excel+-+XML+to+the+rescue
-   [3]: https://cw.sdn.sap.com/cw/groups/abap2xlsx
-   [4]: https://www.plinky.it
+   [3]: https://wiki.scn.sap.com/wiki/display/ABAP/abap2xlsx
    [5]: https://code.google.com/p/saplink/
-   [6]: https://cw.sdn.sap.com/cw/docs/DOC-137513
-   [7]: https://www.filipdujardin.be/

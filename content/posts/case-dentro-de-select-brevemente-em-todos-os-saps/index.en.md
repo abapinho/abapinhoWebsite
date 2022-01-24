@@ -36,8 +36,4 @@ You just have to wait for version 7.40.
 
 Thank you Sérgio Fraga for the tip.
 
-Thank you Anil Wadghule for the [photo][1].
-
 Greetings from Abapinho.
-
-   [1]: https://www.flickr.com/photos/anildigital/8782613247

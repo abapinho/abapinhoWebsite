@@ -87,10 +87,8 @@ References:
 
 Thank you Artur Moreira for this article.
 
-Photo: [clickykbd][1] via [Visualhunt.com][2] / [CC BY-NC-SA][3]
+Photo: [clickykbd][1]
 
 Greetings from Abapinho.
 
    [1]: https://www.flickr.com/photos/clickykbd/64464238/
-   [2]: https://visualhunt.com
-   [3]: https://creativecommons.org/licenses/by-nc-sa/2.0/

@@ -11,6 +11,5 @@ resources:
   src: 'images/thumbnail.jpg'
 ---
 Nas classes, considera usar classes de excepção tipificadas em vez das excepções antigas. As novas têm imensas vantagens e, uma vez compreendidas, permitem produzir um código mais simples e robusto.
-https://www.slideshare.net/pruebaedublog/exceptions-handling-concept-in-abap
-https://www.scribd.com/doc/86551830/26/Lesson-Exception-Handling-in-ABAP-Objects
-https://zevolving.com/2011/12/class-based-exception/
+
+* <https://zevolving.com/2011/12/class-based-exception/>

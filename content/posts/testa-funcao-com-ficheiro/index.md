@@ -51,7 +51,7 @@ Aqui fica um truque para o conseguir fazer a partir de um ficheiro.
 [![image][8]][8]
 
 Obrigado Rui Couto por nos demonstrares este óptimo e práctico truque.
-Foto: [MGI Construction Corp.][9] em [Visualhunt.com][10] / [ CC BY-ND][11]
+Foto: MGI Construction Corp.
 
 O Abapinho saúda-vos.
 
@@ -63,6 +63,3 @@ O Abapinho saúda-vos.
    [6]: images/Picture6.png
    [7]: images/Picture7.png
    [8]: images/Picture8.png
-   [9]: https://visualhunt.com/author/c56abe
-   [10]: https://visualhunt.com/re/0b3fcb
-   [11]: https://creativecommons.org/licenses/by-nd/2.0/

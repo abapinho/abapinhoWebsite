@@ -27,8 +27,7 @@ If you care about the project and want to help me give it more visibility please
 
 Greetings from Abapinho.
 
-Photo credit: [chucknado][3].
+Photo credit: chucknado.
 
    [1]: https://git-scm.com/
    [2]: https://www.git-scm.com/docs/git-blame
-   [3]: https://visualhunt.co/a4/637c1e

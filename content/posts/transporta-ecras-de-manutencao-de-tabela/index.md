@@ -39,8 +39,6 @@ SE54 > Utilities > Total Transport
 
 Obrigado Ricardo Monteiro pela dica.
 
-Foto: [Wanderin' Weeta][1].
+Foto: Wanderin' Weeta.
 
 O Abapinho saúda-vos.
-
-   [1]: https://visualhunt.com/author/7f395d

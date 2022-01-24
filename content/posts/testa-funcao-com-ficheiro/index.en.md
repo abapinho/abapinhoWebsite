@@ -52,7 +52,7 @@ Here's a trick to do it using a file.
 
 Thank you Rui Couto for demonstrating this great trick.
 
-Photo: [MGI Construction Corp.][9] in [Visualhunt.com][10] / [ CC BY-ND][11]
+Photo: MGI Construction Corp.
 
 Greetings from Abapinho.
 
@@ -64,6 +64,3 @@ Greetings from Abapinho.
    [6]: images/Picture6.png
    [7]: images/Picture7.png
    [8]: images/Picture8.png
-   [9]: https://visualhunt.com/author/c56abe
-   [10]: https://visualhunt.com/re/0b3fcb
-   [11]: https://creativecommons.org/licenses/by-nd/2.0/

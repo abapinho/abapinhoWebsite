@@ -36,8 +36,4 @@ Mais simples do que andar a ler a configuração do utilizador, não?
 
 Obrigado Pierre Ameye pela dica.
 
-E obrigado a a Alexis Tejeda pela [foto][1].
-
 O Abapinho saúda-vos.
-
-   [1]: https://www.flickr.com/photos/alexonrails/4759137435/

@@ -32,7 +32,7 @@ Em relação à primeira parte existem duas abordagens possíveis para usar expr
 
 O primeiro é mais simples e directo mas o segundo é muito mais flexível e tem vantagens em termos de performance se pretenderes aplicar a coisa em massa.
 
-[Aqui][2] encontras a documentação online oficial da SAP sobre expressões regulares em ABAP. E [aqui][3] encontras um PDF que ensina a usar ambas as formas e que é uma óptima referência para aprender a usar expressões regulares em ABAP. Pela net fora há exemplos e documentação de como usar expressões regulares em ABAP.
+[Aqui][2] encontras a documentação online oficial da SAP sobre expressões regulares em ABAP. Pela net fora há exemplos e documentação de como usar expressões regulares em ABAP.
 
 Em relação à segunda parte é importante recordar o seguinte:
 
@@ -54,8 +54,7 @@ O Abapinho saúda-vos.
 
    [1]: https://www.regular-expressions.info/email.html
    [2]: https://help.sap.com/abapdocu_70/en/ABENREGULAR_EXPRESSIONS.htm
-   [3]: https://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/902ce392-dfce-2d10-4ba9-b4f777843182?QuickLink=index&overridelayout=true&49533857875589
    [4]: https://regexlib.com/
    [5]: https://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial
    [6]: https://en.wikipedia.org/wiki/Regular_expression
-   [7]: https://www.flickr.com/photos/irenewn/2536788858/
+   [7]: https://www.flickr.com/photos/irenewn/

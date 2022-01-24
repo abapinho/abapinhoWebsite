@@ -31,8 +31,6 @@ request->add_recipient( recipient ).
 
 The rest remains the same.
 
-Photo credit by [doug turetsky][1].
+Photo credit by doug turetsky.
 
 Greetings from Abapinho.
-
-   [1]: https://visualhunt.co/a6/904f753c

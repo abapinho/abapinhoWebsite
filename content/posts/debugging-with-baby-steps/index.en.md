@@ -31,11 +31,9 @@ It's called "step size" and allows you to change the way the debug moves forward
 
 Thank you Sérgio Fraga for the tip.
 
-Photo: [Denise P.S.][2] via [VisualHunt][3] / [CC BY-ND][4]
+Photo: [Denise P.S.][2]
 
 Greetings from Abapinho.
 
    [1]: images/stepsize.png
    [2]: https://www.flickr.com/photos/runnever/5542838628/
-   [3]: https://visualhunt.com
-   [4]: https://creativecommons.org/licenses/by-nd/2.0/

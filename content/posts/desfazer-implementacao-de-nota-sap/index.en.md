@@ -30,9 +30,8 @@ Menu **SAP Note > Reset SAP Note Implementation**.
 
 Thank you Sérgio Fraga for the tip.
 
-Photo credit: [dps][2].
+Photo credit: dps.
 
 Greetings from Abapinho.
 
    [1]: images/undo_sap_note.png
-   [2]: https://visualhunt.co/a5/a0b96f2b

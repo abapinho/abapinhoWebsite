@@ -27,9 +27,6 @@ Também podes usar isto para deixar mensagens secretas aos utilizadores. Ou para
 
 Era bom ter sabido disto nos tempos em que dava jeito.
 
-Obrigado See-ming Lee pela [foto][2].
-
 O Abapinho saúda-vos.
 
    [1]: images/quickinfo.jpg
-   [2]: https://www.flickr.com/photos/seeminglee/3929959851/

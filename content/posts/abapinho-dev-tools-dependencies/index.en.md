@@ -20,9 +20,6 @@ Soon, an instruction manual. Until then, go on and try it. If you like it or hav
 
 Thank you Nuno for having developed this and for sharing it with the world in Abapinho.
 
-Thank you AJ Cann for the [photo][2].
-
 Greetings from Abapinho.
 
    [1]: https://github.com/abapinho/abapinho_dev_tools
-   [2]: https://www.flickr.com/photos/ajc1/4663140532/

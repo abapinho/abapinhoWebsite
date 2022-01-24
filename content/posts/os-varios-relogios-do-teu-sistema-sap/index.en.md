@@ -45,8 +45,7 @@ GET RUN TIME time measurement accuracy ok !
 {{< /highlight >}}
 
 Thank you Sérgio Fraga for the tip.
-Photo: [CallMeWhatEver][1]
+
+Photo: CallMeWhatEver
 
 Greetings from Abapinho.
-
-   [1]: https://visualhunt.com/author2/4ba334

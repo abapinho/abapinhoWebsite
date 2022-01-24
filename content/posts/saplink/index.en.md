@@ -26,11 +26,11 @@ Take a look here at some examples of how SAPlink can be used:
 
 <!--more-->
 
-SAPlink works with plugins. There is a plugin for each object type. There are plugins for lots of things: classes, function groups, Smartforms, tables, tables contents, etc. But there are still heaps of things without plugins. And there are some plugins with limitations. For example, although there is a plugin for classes, there are times I needed to export abstract classes and it resulted in a bit of a mess. Here you have the [list of available plugins][2] which will be updated as they are developed.
+SAPlink works with plugins. There is a plugin for each object type. There are plugins for lots of things: classes, function groups, Smartforms, tables, tables contents, etc. But there are still heaps of things without plugins. And there are some plugins with limitations. For example, although there is a plugin for classes, there are times I needed to export abstract classes and it resulted in a bit of a mess.
 
 If at the outset SAPlink is not very intuitive, once you have understood it, it is very easy to use. It has, as predicted, two operating modes, one for exporting and one for importing objects. It also has two ways of storing objects, nuggets and slinkees. Let's stay with nuggets which are the most common.
 
-To find out whether SAPlink already exists on your SAP system look up the program ZSAPLINK in SE38. If it does not exist you have [to install it][3].
+To find out whether SAPlink already exists on your SAP system look up the program ZSAPLINK in SE38. If it does not exist you have to install it.
 
 Now the practical implementation.
 
@@ -58,15 +58,15 @@ If you still have doubts read the manual.
 
 And if you do need some type of object that SAPlink still does not support, why not consider contributing to developing a plugin for it yourself.
 
-[https://www.saplink.org][5]
+[Site][5]
 
 Note: In the past [I talked about another little program ][6] for this which enables the same thing. Well you may as well know that this is nothing in comparison because this one is a thousand times better.
+
+Update: meanwhile abapGit came up and SAPLink is now obsolete.
 
 Greetings from Abapinho.
 
    [1]: {{< ref "evernote" >}}
-   [2]: https://cw.sdn.sap.com/cw/docs/DOC-145448
-   [3]: https://cw.sdn.sap.com/cw/docs/DOC-144115
    [4]: images/saplink_ecra.png (Ecrã do SAPlink)
-   [5]: https://www.saplink.org/
+   [5]: https://wiki.scn.sap.com/wiki/display/ABAP/SAPlink
    [6]: {{< ref "downloadupload" >}}
