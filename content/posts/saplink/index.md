@@ -70,5 +70,5 @@ O Abapinho saúda-vos.
 
    [1]: {{< ref "evernote" >}}
    [4]: images/saplink_ecra.png (Ecrã do SAPlink)
-   [5]: https://wiki.scn.sap.com/wiki/display/ABAP/SAPlink
+   [5]: <https://wiki.scn.sap.com/wiki/display/ABAP/SAPlink/>
    [6]: {{< ref "downloadupload" >}}
