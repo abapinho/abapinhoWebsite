@@ -22,8 +22,6 @@ That’s all it is. Now inside the _text_ variable, you find the following text:
 
 "Client 123 does not exist in the system"
 
-Thanks to [Peteris B][1] for the photo.
+Thanks to Peteris B for the photo.
 
 Greetings from Abapinho.
-
-   [1]: https://www.flickr.com/photos/flatcat/3555774083/

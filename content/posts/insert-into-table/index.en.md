@@ -28,7 +28,6 @@ This said, I have nothing against exceptions and my now favourite way to insert 
 
 Greetings from Abapinho.
 
-Photo credit: [Jo Zimny][2]
+Photo credit: Jo Zimny
 
    [1]: https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md#prefer-insert-into-table-to-append-to
-   [2]: https://visualhunt.co/a6/22e2dcd9

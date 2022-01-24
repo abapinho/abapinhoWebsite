@@ -87,10 +87,8 @@ Referências:
 
 Obrigado Artur Moreira por este artigo.
 
-Foto: [clickykbd][1] via [Visualhunt.com][2] / [CC BY-NC-SA][3]
+Foto: [clickykbd][1]
 
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/clickykbd/64464238/
-   [2]: https://visualhunt.com
-   [3]: https://creativecommons.org/licenses/by-nc-sa/2.0/

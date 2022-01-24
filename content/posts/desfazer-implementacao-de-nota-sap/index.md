@@ -26,13 +26,12 @@ Embora nem toda a gente o saiba, felizmente o SNOTE também ajuda nisso:
 
 Menu **SAP Note > Reset SAP Note Implementation**.
 
-[![][1]][1]
+[![image][1]][1]
 
 Obrigado Sérgio Fraga pela dica.
 
-Obrigado [dps][2] pela foto.
+Obrigado dps pela foto.
 
 O Abapinho saúda-vos.
 
    [1]: images/undo_sap_note.png
-   [2]: https://visualhunt.co/a5/a0b96f2b

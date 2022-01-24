@@ -32,15 +32,15 @@ START-OF-SELECTION.
 
 O próximo passo é ir aos textos de selecção definir o texto do parâmetro P_COISO. Antes de lá ires experimenta correr o report SHOWICON para veres a bonecada toda. Quando te fartares de olhar para eles escolhes um e guardas o seu nome. Eu escolhi o ICON_COLOR. Guardas o código alfa-numérico de dois caracteres que aparece lá na antepenúltima coluna chamada "interno". Por exemplo, o código do ícone chamado ICON_COLOR é o G3:
 
-[![][1]][2]
+[![image][1]][2]
 
 Agora sim vais aos textos de selecção e onde quiseres que apareça o ícone escreves o código ladeado por arrobas:
 
-[![][3]][4]
+[![image][3]][4]
 
 E o resultado é, como seria de esperar, animador:
 
-[![][5]][6]
+[![image][5]][6]
 
 Ficas já agora a saber que os bonecos têm de estar no início da linha e que só dá para meter um (que isto não é o msn, pá!).
 

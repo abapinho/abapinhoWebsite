@@ -27,9 +27,6 @@ You can also use it to leave secret messages for users. Or to do treasure hunts.
 
 It would have been good to know this in those days when it could have been useful.
 
-Thanks to See-ming Lee for the [photo][2].
-
 Greetings from Abapinho.
 
    [1]: images/quickinfo.jpg
-   [2]: https://www.flickr.com/photos/seeminglee/3929959851/

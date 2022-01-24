@@ -14,11 +14,10 @@ The SCMP transaction compares the content of a table across two systems. It is v
 
 It is very easy to use. It allows for the pre-selection of the registers and fields to compare. It also allows you to only display the differences, which is convenient for tables with lots of data. I don’t think any more explaining is required. _Ite et videte_.
 
-This tip [recently appeared][1] in the SAPtricks blog [][1] and I think it is so useful that I have reposted it here, in case you haven’t already seen it.
+This tip recently appeared in the ex SAPtricks blog and I think it is so useful that I have reposted it here, in case you haven’t already seen it.
 
-Thanks to Dale Harris for the [photo][2].
+Thanks to Dale Harris for the [photo][1].
 
 Greetings from Abapinho.
 
-   [1]: https://saptricks.com/105/can-i-compare-the-values-inside-a-table-across-clients
-   [2]: https://www.flickr.com/photos/dale_harris/3013611103/in/photostream/
+   [1]: https://www.flickr.com/photos/dale_harris/3013611103/in/photostream/

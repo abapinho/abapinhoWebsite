@@ -27,15 +27,15 @@ Estás tu muito bem a fazer debug e, sem querer, avanças demais. Querias ter mu
 
 Aqui está o cenário trágico. Passaste por cima da função e não alteraste a variável:
 
-[![][2]][3]
+[![image][2]][3]
 
 Para salvares a situação fazes clique com o botão direito na linha acima para a qual desejas regressar e no menu escolhes "Ir para a instrução":
 
-[![][4]][5]
+[![image][4]][5]
 
 Feito isto, depurador regressa ao passado sem refilar:
 
-[![][6]][7]
+[![image][6]][7]
 
 E tu podes continuar a trabalhar e já não precisas de cantar o fado até ao fim.
 

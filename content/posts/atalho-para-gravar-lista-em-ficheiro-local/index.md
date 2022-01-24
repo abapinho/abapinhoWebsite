@@ -17,7 +17,7 @@ O comando %pc é equivalente à opção de menu Sistema/Lista/Gravar/File local:
 
 <!--more-->
 
-![][1]
+![image][1]
 
 Experimenta!
 

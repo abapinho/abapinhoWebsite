@@ -32,27 +32,27 @@ Now imagine that you have to implement a BADI method. This is what you do:
 
   2. Instead of entering the method that you want to implement, you first enter into the class that will contain the implementation:
 
-![][2]
+![image][2]
 
   3. (Now you are in SE24) Create a private method with a name that describes what you intend to do (I created 2):
 
-![][3]
+![image][3]
 
   4. Define the parameters of this method copying only the parameters that you will need from the BADI method:
 
-![][4]
+![image][4]
 
   5. Define exceptions if that makes sense;
 
   6. Implement your logic inside the new private method:
 
-![][5]
+![image][5]
 
   7. Then go to the public method of the BADI that you want to implement (you can go there directly via SE24 or do this from SE19);
 
   8. In this method you invoke your new private method (in this case the 2 are invoked immediately):
 
-![][6]
+![image][6]
 
 Then you're done. Only now do you activate the BADI (in SE19) if it is not already active.
 

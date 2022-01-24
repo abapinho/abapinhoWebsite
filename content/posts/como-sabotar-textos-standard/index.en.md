@@ -48,10 +48,7 @@ Notice how the description for the customer was now much better. My soul was fin
 
 Thank you Carla Luz for the tip.
 
-Thank you Franck Berthelet for [photo][3].
-
 Greetings from Abapinho.
 
    [1]: images/se63_clientes_parasitas.png
    [2]: images/se16n_clientes_parasitas.png
-   [3]: https://www.flickr.com/photos/bigot44/16005934118

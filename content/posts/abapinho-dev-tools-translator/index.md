@@ -34,9 +34,6 @@ Em breve, instruções. Até lá vai experimentando, é intuitivo. E se gostares
 
 Obrigado Nuno por teres desenvolvido isto e por o partilhares com o mundo no Abapinho.
 
-Obrigado AJ Cann pela [foto][2].
-
 O Abapinho saúda-vos.
 
    [1]: https://github.com/abapinho/abapinho_dev_tools
-   [2]: https://www.flickr.com/photos/ajc1/4663140532/

@@ -106,8 +106,6 @@ This function brings up the pop-up that allows the user to choose one or more re
 
 And that’s it.
 
-Thanks to [Ayelie][1] for the photo.
+Thanks to Ayelie for the photo.
 
 Greetings from Abapinho.
-
-   [1]: https://www.flickr.com/photos/ayelie/441107616/

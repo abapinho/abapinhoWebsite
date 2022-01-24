@@ -50,4 +50,4 @@ Obrigado Gianni pela dica.
 
 O Abapinho saúda-vos.
 
-   [1]: https://users.bestweb.net/~bofh/
+   [1]: http://bofharchive.com/

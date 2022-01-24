@@ -14,7 +14,7 @@ Go to the ABAP Editor (SE38) and check out line 323 of standard program RCIFCUST
 
 If you're lazy, here it is:
 
-[![][1]][1]
+[![image][1]][1]
 
 SAP programmers are wild.
 

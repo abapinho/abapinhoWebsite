@@ -44,8 +44,6 @@ SQL Script language can also be used directly in the SAP HANA database, through 
 
 Thank you, Artur Moreira, for this interesting post.
 
-Photo credit: [MysteryBee][1] via [VisualHunt][2] / [CC BY-SA][3]
+Photo credit: [MysteryBee][1]
 
    [1]: https://www.flickr.com/photos/mysterybee/1659329016/
-   [2]: https://visualhunt.com
-   [3]: https://creativecommons.org/licenses/by-sa/2.0/

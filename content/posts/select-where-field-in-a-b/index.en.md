@@ -131,8 +131,6 @@ ENDSELECT.
 
 Ole!! One SELECT, zero IFs, zero auxiliary variables.
 
-Thank you [hello-julie][1] for the photo.
+Thank you hello-julie for the photo.
 
 Greetings from Abapinho.
-
-   [1]: https://visualhunt.co/a6/9d50a0f7

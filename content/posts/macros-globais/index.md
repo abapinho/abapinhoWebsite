@@ -18,7 +18,7 @@ Seja, revelarei.
 
 É possível definir macros a nível global do sistema que podem ser utilizadas em qualquer programa ABAP. Para isso existe a tabela TRMAC:
 
-[![][2]][3]
+[![image][2]][3]
 
 A utilização é evidente: NAME é o nome do macro, NUMM é o número da linha e LINE representa uma linha de código. Um macro com 3 linhas deverá ter 3 entradas na tabela TRMAC.
 

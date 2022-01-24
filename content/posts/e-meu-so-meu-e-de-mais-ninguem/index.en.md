@@ -14,7 +14,7 @@ Imagina que estás a trabalhar num sistema partilhado por muitos outros utilizad
 
 Na SE38, nas características técnicas do programa, existe um pisco chamado "Bloqueio do editor" que, se o activares, só tu próprio passarás a poder modificá-lo.
 
-![][2]
+![image][2]
 
 O Abapinho saúda-vos.
 

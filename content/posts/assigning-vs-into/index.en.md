@@ -79,10 +79,8 @@ ENDLOOP.
 
 {{< /highlight >}}
 
-This is the fastest solution of all ([pre-HANA][1], of course). There’s no more need to do MODIFY because any change made to <lt_kna1> is immediately reflected in lt_kna1, since the field-symbol is just a pointer.
+This is the fastest solution of all (pre-HANA, of course). There’s no more need to do MODIFY because any change made to <lt_kna1> is immediately reflected in lt_kna1, since the field-symbol is just a pointer.
 
 Now that we’re well into the 21st century, avoid using work areas whenever possible. So, I’d say, off the cuff, that the only time they still make sense is when new entries need to be inserted in an internal table.
 
 Greetings from Abapinho.
-
-   [1]: https://www.sap.com/platform/in-memory-computing/index.epx

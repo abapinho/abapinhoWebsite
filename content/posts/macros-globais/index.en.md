@@ -18,7 +18,7 @@ Therefore, I’ll tell all.
 
 Macros can be defined for the entire system and can then be used in any ABAP program. The TRMAC table exists for this purpose:
 
-[![][2]][3]
+[![image][2]][3]
 
 Its use is obvious: NAME is the name of the macro, NUMM is the line number and LINE represents one line of code. A macro with 3 lines should have three entries in the TRMAC table.
 

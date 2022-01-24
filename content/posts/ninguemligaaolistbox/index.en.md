@@ -30,7 +30,7 @@ PARAMETERS: p_land1 LIKE kna1-land1 AS LISTBOX
 {{< /highlight >}}
 
 It then looks like this:
-![][1]
+![image][1]
 
 And you, did you use it already?
 

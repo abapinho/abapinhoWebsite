@@ -19,7 +19,7 @@ Sinto-me neste momento a dar mais um salto. Porque estou finalmente a aprender a
 
 Agora, graças ao Miguel Jorge, encontrei: [Head First Design Patterns][2]. Além de cómico, explica de forma clara e simples as limitações dos paradigmas OO e como é que a utilização de padrões de projecto podem ajudar a contorná-las.
 
-[Este site][3] tem links para vários textos interessantes, inclusive para o que parece ser uma versão PDF do livro acima referido. E também para [esta página][4] que os descrever e até critica.
+[Esta página][3] descreve-os e também os critica.
 
 A partir de hoje sempre que desenhar soluções OO tentarei ter presentes os vários padrões existentes e aplicá-los sempre que tiverem cabimento.
 
@@ -28,6 +28,5 @@ Obrigado Miguel Jorge!
 O Abapinho saúda-vos.
 
    [1]: https://zevolving.com/category/abapobjects/oo-design-patterns/
-   [2]: https://www.headfirstlabs.com/books/hfdp/
-   [3]: https://www.sws.bfh.ch/~amrhein/ADP/index.html
-   [4]: https://sourcemaking.com/design_patterns
+   [2]: https://www.oreilly.com/library/view/head-first-design/9781492077992/
+   [3]: https://sourcemaking.com/design_patterns

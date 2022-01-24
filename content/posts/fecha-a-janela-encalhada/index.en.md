@@ -30,4 +30,4 @@ Greetings from Sérgio Fraga.
 
 Abapinho thanks Sérgio Fraga.
 
-   [1]: https://sap4u.org/media/userfiles/articles/pdf/26.pdf
+   [1]: https://archive.sap.com/kmuuid2/cd12d590-0201-0010-80a6-c3cafeb636ed/The%20New%20ABAP%20Debugger%20-%20An%20Introduction.pdf

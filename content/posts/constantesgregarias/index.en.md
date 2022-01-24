@@ -75,4 +75,4 @@ Thanks to [suki suk][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: https://www.flickr.com/photos/vanesuki/2172430914/
+   [1]: https://www.flickr.com/photos/vanesuki/

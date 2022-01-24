@@ -18,15 +18,15 @@ But there is a more direct route. When you are debugging a function you can crea
 
 1\. Debug and enter a function. In this case we entered into DD_SHLP_CALL_FROM_DYNP:
 
-![][1]
+![image][1]
 
 2\. Then click on the tools icon highlighted in red in the previous image. An options menu appears:
 
-![][2]
+![image][2]
 
 3\. Select "Save parameters as test data (SE37). The following dialog box appears requesting you name the test data variant:
 
-![][3]
+![image][3]
 
 Now just go to SE37, press F8 to test the function, click on the "Test Data Directory" button at the top of the screen and you will note with joy that the new variant you have just created in the debugger is there waiting for you.
 

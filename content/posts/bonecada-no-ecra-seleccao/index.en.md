@@ -32,15 +32,15 @@ START-OF-SELECTION.
 
 The next step is to go to the selection texts and define the P_COISO parameter text. Before you do that, try to run the SHOWICON report and have a look at all the cartoons. When you are tired of looking at them you choose one and keep its name. I chose ICON_COLOR. Keep the two-character alpha-numeric code that appears in the last but two column called “internal.” For instance, the code for the icon called ICON_COLOR is G3:
 
-[![][1]][2]
+[![image][1]][2]
 
 Now you can go to the selection texts and write the code with @ either side of it wherever you want the icon to appear:
 
-[![][3]][4]
+[![image][3]][4]
 
 And the result is, as expected, uplifting:
 
-[![][5]][6]
+[![image][5]][6]
 
 And you might as well know now that the cartoons have to be placed at the start of the line and you can only use one (because this is not msn, man!).
 

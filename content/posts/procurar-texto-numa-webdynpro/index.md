@@ -31,8 +31,4 @@ O bizarro e misterioso é que a classe gerada parece não ter lá código nenhum
 
 Obrigado Sérgio Fraga pela dica.
 
-Obrigado Gary pela [foto][1].
-
 O Abapinho saúda-vos.
-
-   [1]: https://www.flickr.com/photos/encouragement/14759554777

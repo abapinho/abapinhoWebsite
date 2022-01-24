@@ -18,15 +18,15 @@ Esta dica talvez ajude.
 
 Quando crias ecrãs de manutenção de uma tabela Z, tens de lhe atribuir um grupo de autorizações. Isto é normalmente feito no ecrã de geração de diálogos de actualização (transacção SE55, normalmente acedida a partir da SE11).
 
-![][1]
+![image][1]
 
 Ficas agora a saber que há uma transacção onde podes ver todos os grupos de autorização associados a tabelas: SE54. Assim é muito fácil, por exemplo, fazer uma manutenção conjunta de todos os grupos de autorização associados às nossas tabelas.
 
-![][2]
+![image][2]
 
 Na SE54 escolhes a opção "Atrib.grp.autorizações" e vais parar a esta útil lista de tabelas:
 
-![][3]
+![image][3]
 
 Os ecrãs mostrados só têm uma tabela, mas se na selecção escolheres de Z a ZZZZZZZ, aparecerão todas as tabelas Z.
 

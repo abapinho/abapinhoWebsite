@@ -13,12 +13,10 @@ Só que às vezes o que buscamos não se trata de um objecto mas sim de uma fras
 
 Quando é assim pode usar-se o programa RPR_ABAP_SOURCE_SCAN ou, se este não existir, o programa RSRSCAN1. Ambos permitem procurar cadeias de caracteres em todo o código fonte ABAP.
 
-Obrigado a [Pedro Lima][1] pela [dica][2].
+Obrigado a [Pedro Lima][1] pela dica.
 
-Actualização: O [Gustavo Pessoa][3] acrescenta que a transacção EWK1 permite também pesquisar texto em programas.
+Actualização: O Gustavo Pessoa acrescenta que a transacção EWK1 permite também pesquisar texto em programas.
 
 O Abapinho saúda-vos.
 
    [1]: https://apolemia.blogspot.com/
-   [2]: https://www.onsap.com/en/topic/1-how-to-search-the-source-code-of-abap-programs
-   [3]: https://br.linkedin.com/in/gustavopessoa

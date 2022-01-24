@@ -56,4 +56,4 @@ _Obrigado a[cristinacosta][2] pela foto._
 O Abapinho saúda-vos.
 
    [1]: images/call-selection-screen.png (CALL SELECTION-SCREEN)
-   [2]: https://www.flickr.com/photos/cristinacosta/4304968451/
+   [2]: https://www.flickr.com/photos/cristinacosta/

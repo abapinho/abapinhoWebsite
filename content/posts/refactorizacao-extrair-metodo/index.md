@@ -116,11 +116,10 @@ Muito mais legível não? E a partir de agora muito mais fácil de manter e muit
 
 A próxima pessoa que tiver de alterar esta rotina terá muito mais facilidade em compreender o que esta faz e onde deverá fazer a sua intervenção. Se a sua intervenção consistir em acrescentar uma nova funcionalidade, esperemos que tenha o mínimo de brio profissional e crie um novo método em vez de espetar o seu código à bruta directamente ali, contribuindo assim para tornar a aumentar em vez de diminuir a entropia do código.
 
-Foto: [Nicholas Erwin][4].
+Foto: holas Erwin.
 
 O Abapinho saúda-vos.
 
    [1]: https://martinfowler.com/books/refactoring.html
    [2]: https://refactoring.com/catalog/
    [3]: https://refactoring.com/catalog/extractMethod.html
-   [4]: https://visualhunt.com/author2/7de346

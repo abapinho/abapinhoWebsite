@@ -18,4 +18,4 @@ Thank you Fernanda Mirabile and Talita Polanczyk for the tip.
 
 Greetings from Abapinho.
 
-   [1]: https://chrome.google.com/webstore/detail/sap-notes-finder/kioednbfglenbkanjekicddjppflpiln
+   [1]: https://chrome.google.com/webstore/detail/sap-notes-and-support/nlbgnehakmlibpichhhicnifdidgegbo

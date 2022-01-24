@@ -26,15 +26,15 @@ Transaction SE97 allows you to say that, when you're running a given transaction
 
 So first they chose transaction ZFB01:
 
-[![][1]][1]
+[![image][1]][1]
 
 Then they added transaction FB01 and said they didn't want any authorization checks on it:
 
-[![][2]][2]
+[![image][2]][2]
 
 As you can infer by the columns you can even configure it to show a warning instead of halting with an error:
 
-[![][3]][3]
+[![image][3]][3]
 
 John and Mike never told this to anyone and lived happily ever after.
 

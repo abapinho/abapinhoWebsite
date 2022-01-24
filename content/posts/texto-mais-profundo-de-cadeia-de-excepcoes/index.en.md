@@ -66,7 +66,7 @@ Note 1: This just makes sense when you don't care for the rest of the exceptions
 
 Note 2: Unfortunately this technique is not compatible with the command _MESSAGE o_exp TYPE 'E'_. For some reason, it will always give you the text of the top expression. It's a shame.
 
-Photo via [JanDix][5] via [Visualhunt][6]
+Photo via JanDix
 
 Greetings from Abapinho.
 
@@ -74,5 +74,3 @@ Greetings from Abapinho.
    [2]: https://abapinho.com/en/2015/01/usaras-classes-de-excepcao/
    [3]: https://abapinho.com/en/2015/02/cadeias-de-excepcoes/
    [4]: {{< ref "cadeias-de-excepcoes" >}}
-   [5]: https://visualhunt.com/profile/jandix/
-   [6]: https://visualhunt.com/
