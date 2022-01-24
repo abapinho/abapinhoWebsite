@@ -73,7 +73,7 @@ o netlify é grátis.
 
 Ainda que o conteúdo seja todo estático, há algumas coisas que ainda assim têm de ser dinâmicas:
 
-* Comentários: podia usar o [Disqus][14] que é um [SaaS][15] grátis mas eles são famosos por não respeitarem a privacidade dos utilizadores e por isso optei pelo [Remark42][16] que corre num [_Docker container_][17] na minha [VPS][18];
+* Comentários: podia usar o [Disqus][14] que é um [SaaS][15] grátis mas eles são famosos por não respeitarem a privacidade dos utilizadores e por isso optei pelo [Remark42][16] que corre num [_Docker container_][17] na minha [VPS][18];
 * _Analytics_: poderia usar o [Google Analytics][19] mas isso seria dormir com o inimigo, por isso estou a usar o [Matomo][20] que corre noutro _Docker container_ na minha VPS;
 * Pesquisa: estou a usar o [Algolia][21]. Quando o site é publicado, o _pipeline CI/CD_ enviar um JSON com o conteúdo em português e inglês para o Algolia que o transforma em índices pesquisáveis por um scriptzinho Javascript que tenho em todas as páginas.
 * Notificações por email: o Remark42 envia nofificações por email. Para isso estou a usar o [SendGrid][23].
