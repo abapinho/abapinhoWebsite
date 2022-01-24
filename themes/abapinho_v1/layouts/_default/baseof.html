@@ -12,11 +12,11 @@
       {{- block "main" . -}}{{- end -}}
     </div>
     <div id="sidebar">{{ partial "sidebar.html" . }}</div>
-    <hr />
+    <hr>
     <div id="footer">&nbsp;</div>
   </div>
-  {{ block "footerfiles" . -}} {{- end -}}
-  {{ partial "search-footer.html" . }}
-  {{ partial "analytics.html" . }}
+  {{- block "footerfiles" . -}} {{- end -}}
+  {{- partial "search-footer.html" . }}
+  {{- partial "analytics.html" . }}
 </body>
 </html>

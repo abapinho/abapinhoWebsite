@@ -4,7 +4,7 @@
     {{- $category := replace . "#" "%23" -}}
     {{- $category = replace $category "." "%2e" -}}
     {{- $url := print "/categories/" ($category | urlize) "/" -}}
-    <a class="category" href={{- $url | relLangURL -}}>{{- . -}}</a>
+    <a class="category" href="{{- $url | relLangURL -}}">{{- . -}}</a>
   {{ end -}}
   |
   Tags:
@@ -13,6 +13,6 @@
     {{- $tag = replace $tag "." "%2e" -}}
     {{- $url := print "/tags/" ($tag | urlize) "/" -}}
     {{- if gt $index 0 }}, {{ end -}}
-    <a class="tag" rel="tag" href={{- $url | relLangURL -}}>{{- . -}}</a>
+    <a class="tag" rel="tag" href="{{- $url | relLangURL -}}">{{- . -}}</a>
   {{- end -}}
 {{- end -}}

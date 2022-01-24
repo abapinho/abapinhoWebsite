@@ -40,11 +40,11 @@
 {{ if .IsTranslated }}
 <li>
   <ul>
-  {{ range .Translations }}
+  {{- range .Translations }}
     <li>
       <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
     </li>
-  {{ end }}
+  {{- end }}
   </ul>
 </li>
 {{ end }}
