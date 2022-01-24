@@ -649,6 +649,8 @@ a img {
 
 #patrocinio img {
 	vertical-align: text-top;
+	margin-top: 6px;
+	margin-bottom: 6px;
 }
 
 #fbiframe {

@@ -1,6 +1,6 @@
 {{- define "main" -}}
   {{ partial "article-header.html" . }}
-  <p>{{ .Content }}</p>
+  {{ .Content }}
   {{ partial "article-footer.html" . }}
   {{ partial "article-comments.html" }}
 {{- end -}}
