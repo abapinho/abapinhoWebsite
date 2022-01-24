@@ -20,5 +20,5 @@ Se prezas a tua carreira como ABAPer aconselho-te a começares a dar atenção a
 
 O Abapinho saúda-vos.
 
-   [1]: http://abap101.com
-   [2]: http://abap101.com/2015/04/28/livro-ui5-para-desenvolvedores-sapabap
+   [1]: https://abap101.com
+   [2]: https://abap101.com/2015/04/28/livro-ui5-para-desenvolvedores-sapabap

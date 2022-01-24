@@ -8,29 +8,45 @@ copyright = "&copy;2009-2022 Nuno Godinho"
 paginate = 15
 refLinksErrorLevel = "WARNING"
 
-[permalinks]
-posts = "/:year/:month/:slug/"
-
-[params]
-description = "Artigos técnicos sobre SAP e ABAP em português"
-keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
-
-[outputs]
-home = [ "HTML", "JSON",]
-
-[languages.pt]
-languageName = "Português"
-weight = 1
+[languages]
 
 [languages.en]
 languageName = "English"
 weight = 2
 
-[markup.highlight]
-style = "abap"
-tabWidth = 2
+[languages.en.menu]
+
+[[languages.en.menu.categories]]
+name = "dicas"
+url = "/en/categories/dicas/"
+weight = 10
+
+[[languages.en.menu.categories]]
+name = "artigos"
+url = "/en/categories/artigos/"
+weight = 20
+
+[[languages.en.menu.categories]]
+name = "boaspracticas"
+url = "/en/categories/boaspracticas/"
+weight = 30
+
+[[languages.en.menu.categories]]
+name = "historias"
+url = "/en/categories/historias/"
+weight = 40
+
+[[languages.en.menu.categories]]
+name = "noticias"
+url = "/en/categories/noticias/"
+weight = 50
+
+[languages.pt]
+languageName = "Português"
+weight = 1
 
 [languages.pt.menu]
+
 [[languages.pt.menu.categories]]
 name = "dicas"
 url = "/categories/dicas/"
@@ -56,28 +72,16 @@ name = "noticias"
 url = "/categories/noticias/"
 weight = 50
 
-[languages.en.menu]
-[[languages.en.menu.categories]]
-name = "dicas"
-url = "/en/categories/dicas/"
-weight = 10
+[markup.highlight]
+style = "abap"
+tabWidth = 2
 
-[[languages.en.menu.categories]]
-name = "artigos"
-url = "/en/categories/artigos/"
-weight = 20
+[outputs]
+home = [ "HTML", "JSON",]
 
-[[languages.en.menu.categories]]
-name = "boaspracticas"
-url = "/en/categories/boaspracticas/"
-weight = 30
+[params]
+description = "Artigos técnicos sobre SAP e ABAP em português"
+keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
 
-[[languages.en.menu.categories]]
-name = "historias"
-url = "/en/categories/historias/"
-weight = 40
-
-[[languages.en.menu.categories]]
-name = "noticias"
-url = "/en/categories/noticias/"
-weight = 50
+[permalinks]
+posts = "/:year/:month/:slug/"

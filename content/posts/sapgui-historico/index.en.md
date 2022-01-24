@@ -28,4 +28,4 @@ Greetings from Abapinho.
 
    [1]: images/sapgui-opcoes-historico.png (SAPGui - Opções - Histórico)
    [2]: images/saplogon-coneccao-rede.png (SAP Logon - Conexão - Rede)
-   [3]: http://www.flickr.com/photos/unaluzazul/2484113976/
+   [3]: https://www.flickr.com/photos/unaluzazul/2484113976/

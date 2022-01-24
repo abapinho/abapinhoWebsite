@@ -27,4 +27,4 @@ Thank you [NASA Goddard][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/nasamarshall/6956818526
+   [1]: https://www.flickr.com/photos/nasamarshall/6956818526

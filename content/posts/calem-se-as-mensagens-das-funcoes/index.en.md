@@ -69,4 +69,4 @@ Thank you, Miguel Jorge for the hint.
 
 Best greetings from Abapinho.
 
-   [1]: http://www.citador.pt/poemas/ausencia-carlos-drummond-de-andrade
+   [1]: https://www.citador.pt/poemas/ausencia-carlos-drummond-de-andrade

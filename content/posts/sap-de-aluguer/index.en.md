@@ -15,7 +15,7 @@ If you really need to access an SAP and nobody lets you, and you don’t have a 
 <!--more-->
 
 Here, for example:
-<http://www.idesaccess.com>
+<https://www.idesaccess.com>
 
 Did you know about this?
 
@@ -25,4 +25,4 @@ Thanks to [wildxplorer][1] for the photo.
 
 Greetings from Abapinho
 
-   [1]: http://www.flickr.com/photos/krayker/2117736371/
+   [1]: https://www.flickr.com/photos/krayker/2117736371/

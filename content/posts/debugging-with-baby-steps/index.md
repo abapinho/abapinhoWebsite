@@ -30,11 +30,10 @@ Chama-se "Incremento" e permite mudar para um modo em que o debug avança horizo
 ![stepsize][1]
 
 Obrigado Sérgio Fraga pela dica.
-Foto: [Denise P.S.][2] via [VisualHunt][3] / [CC BY-ND][4]
+
+Foto: [Denise P.S.][2]
 
 O Abapinho saúda-vos.
 
    [1]: images/stepsize.png
    [2]: https://www.flickr.com/photos/runnever/5542838628/
-   [3]: https://visualhunt.com
-   [4]: http://creativecommons.org/licenses/by-nd/2.0/

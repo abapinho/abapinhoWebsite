@@ -38,4 +38,4 @@ And thank you [HatM][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/hatm/4549870013/in/photostream/
+   [1]: https://www.flickr.com/photos/hatm/4549870013/in/photostream/

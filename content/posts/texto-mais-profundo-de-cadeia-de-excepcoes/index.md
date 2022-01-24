@@ -64,12 +64,10 @@ Nota 1: isto só fará sentido num cenário em que não queres dar uso aos texto
 
 Nota 2: Infelizmente esta técnica não é compatível com o comando MESSAGE o_exp TYPE ‘E’. Por alguma razão quando fazes isto obténs sempre o texto da excepção de topo. Pena.
 
-Foto via [JanDix][4] via [Visualhunt][5]
+Foto via JanDix
 
 O Abapinho saúda-vos.
 
    [1]: {{< ref "mariquinhas-pe-de-salsa" >}}
    [2]: {{< ref "usaras-classes-de-excepcao" >}}
    [3]: {{< ref "cadeias-de-excepcoes" >}}
-   [4]: https://visualhunt.com/profile/jandix/
-   [5]: https://visualhunt.com/

@@ -28,11 +28,9 @@ Agora vá, vai lá estragar o máximo de funções standard que conseguires.
 
 Obrigado Pierre Ameye pela dica.
 
-Foto: [James Marvin Phelps][2] via [Visual hunt][3] / [CC BY-NC][4]
+Foto: [James Marvin Phelps][2]
 
 O Abapinho saúda-vos.
 
    [1]: images/param_extra_em_fm.png
    [2]: https://www.flickr.com/photos/mandj98/501413295/
-   [3]: http://visualhunt.com
-   [4]: http://creativecommons.org/licenses/by-nc/2.0/

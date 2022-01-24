@@ -124,10 +124,4 @@ Take selfies:
 
 As you can see there is a method for everyone. I hope you find this useful.
 
-Photo credits: [simonella_virus][1] via [VisualHunt.com][2] / [CC BY-NC-ND][3].
-
 Greetings from Abapinho.
-
-   [1]: https://www.flickr.com/photos/simonella_virus/2322193421/
-   [2]: http://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc-nd/2.0/

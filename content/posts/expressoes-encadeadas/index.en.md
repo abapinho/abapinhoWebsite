@@ -67,4 +67,4 @@ Thanks to KayVee.INC for the [photo][1].
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/kayveeinc/4246957346/
+   [1]: https://www.flickr.com/photos/kayveeinc/4246957346/

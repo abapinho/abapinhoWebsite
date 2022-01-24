@@ -43,4 +43,4 @@ Thanks to [Morgaine][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/morgaine/3976750744/
+   [1]: https://www.flickr.com/photos/morgaine/3976750744/

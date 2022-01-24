@@ -43,10 +43,9 @@ Done.
 
 [![image][2]][2]
 
-Photo credit: [MarianaLeme][3].
+Photo credit: MarianaLeme.
 
 Greetings from Abapinho.
 
-   [1]: https://abapinho.com/en/2012/10/ninguemligaaolistbox/
+   [1]: {{< ref "ninguemligaaolistbox" >}}
    [2]: images/listbox.png
-   [3]: https://visualhunt.co/a6/66ca720f

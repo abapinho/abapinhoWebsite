@@ -36,8 +36,4 @@ Só tens de esperar pela versão 7.40.
 
 Obrigado Sérgio Fraga pela dica.
 
-Obrigado Anil Wadghule pela [foto][1].
-
 O Abapinho saúda-vos.
-
-   [1]: https://www.flickr.com/photos/anildigital/8782613247

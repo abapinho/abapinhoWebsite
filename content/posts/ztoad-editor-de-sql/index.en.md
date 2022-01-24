@@ -18,5 +18,5 @@ Thank you Sérgio Fraga for spotting this.
 
 Greetings from Abapinho.
 
-   [1]: http://www.toadworld.com
-   [2]: http://scn.sap.com/community/abap/blog/2015/08/03/ztoad--open-sql-editor
+   [1]: https://www.toadworld.com
+   [2]: https://scn.sap.com/community/abap/blog/2015/08/03/ztoad--open-sql-editor

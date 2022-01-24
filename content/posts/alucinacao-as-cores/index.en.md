@@ -26,4 +26,4 @@ And thanks to [miri695][1] for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/45617397@N05/4190477130/
+   [1]: https://www.flickr.com/photos/45617397@N05/4190477130/

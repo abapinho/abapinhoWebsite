@@ -54,4 +54,4 @@ Thanks to [myrtlewood54][1] for the photo, whoever you are.
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/myrtlewoodfactoryoutlet/2547022024/
+   [1]: https://www.flickr.com/photos/myrtlewoodfactoryoutlet/2547022024/

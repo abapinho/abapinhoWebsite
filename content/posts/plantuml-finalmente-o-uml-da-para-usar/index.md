@@ -71,9 +71,9 @@ E se ainda o teu sistema ainda não tem a versão 7.4 então podes usar uma vers
 
 Obrigado Sérgio Fraga por me dares a conhecer esta maravilha.
 
-   [1]: http://plantuml.com
-   [2]: http://www.plantuml.com/plantuml
+   [1]: https://plantuml.com
+   [2]: https://www.plantuml.com/plantuml
    [3]: images/plantuml_class_diagram.png
-   [4]: http://plantuml.com/class-diagram
+   [4]: https://plantuml.com/class-diagram
    [5]: https://blogs.sap.com/2017/04/27/plantuml-diagrams/
    [6]: https://blogs.sap.com/2017/04/27/plantuml-diagrams/#comment-381746

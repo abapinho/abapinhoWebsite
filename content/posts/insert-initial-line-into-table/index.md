@@ -49,5 +49,5 @@ Obrigado [mscaprikell][3] pela foto.
 O Abapinho saúda-vos.
 
    [1]: {{< ref "assigning-vs-into" >}}
-   [2]: http://www.youtube.com/watch?v=AIXUgtNC4Kc
-   [3]: http://www.flickr.com/photos/mscaprikell/18972629/
+   [2]: https://www.youtube.com/watch?v=AIXUgtNC4Kc
+   [3]: https://www.flickr.com/photos/mscaprikell/18972629/

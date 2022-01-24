@@ -16,4 +16,4 @@ Quando te fartares de jogar podes sempre investigar como é que o programa faz p
 
 O Abapinho saúda-vos.
 
-   [1]: http://tinypaste.com/a9ed6
+   [1]: https://github.com/alejogonzaleze/SAP/blob/master/ABAP/Tetris/ZTETRIS

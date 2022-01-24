@@ -43,10 +43,8 @@ Portanto, pelo menos teoricamente, juntando uns algoritmos genéticos mais uns d
 
 Obrigado Nuno Morais pela dica.
 
-Foto: [brewbooks][1] via [Visualhunt.com][2] / [CC BY-SA][3]
+Foto: [brewbooks][1]
 
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/brewbooks/7780990192/
-   [2]: http://visualhunt.com/
-   [3]: http://creativecommons.org/licenses/by-sa/2.0/

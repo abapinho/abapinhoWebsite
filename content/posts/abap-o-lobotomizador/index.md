@@ -76,10 +76,10 @@ Não és não.
 
    [1]: https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
    [2]: https://archive.sap.com/documents/docs/DOC-10236
-   [3]: http://zevolving.com/category/abapobjects/
+   [3]: https://zevolving.com/category/abapobjects/
    [4]: https://en.wikipedia.org/wiki/Software_design_pattern
    [5]: https://en.wikipedia.org/wiki/Design_Patterns
-   [6]: http://shop.oreilly.com/product/9780596007126.do
+   [6]: https://shop.oreilly.com/product/9780596007126.do
    [7]: https://en.wikipedia.org/wiki/SOLID
    [8]: https://blogs.sap.com/2012/10/18/getting-started-with-the-abap-test-cockpit-for-developers/
    [9]: https://en.wikipedia.org/wiki/Test-driven_development

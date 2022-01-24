@@ -21,4 +21,4 @@ E obrigado a [ImipolexG][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/imipolexg/3228161164/
+   [1]: https://www.flickr.com/photos/imipolexg/3228161164/

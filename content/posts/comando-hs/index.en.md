@@ -25,4 +25,4 @@ Thank you NIAID_Flickr for the [photo][1].
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/niaid/6916074241/
+   [1]: https://www.flickr.com/photos/niaid/6916074241/

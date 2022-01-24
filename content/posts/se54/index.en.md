@@ -41,4 +41,4 @@ Greetings from Abapinho.
    [1]: images/se54-1.png (se54-1)
    [2]: images/se54-2.png (se54-2)
    [3]: images/se54-3.png (se54-3)
-   [4]: http://www.flickr.com/photos/securityguard/3575140798/
+   [4]: https://www.flickr.com/photos/securityguard/3575140798/

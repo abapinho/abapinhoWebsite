@@ -48,10 +48,7 @@ Repara bem na descrição que apareceu no código de cliente. A minha alma senti
 
 Obrigado Carla Luz pela dica.
 
-Obrigado Franck Berthelet pela [foto][3].
-
 O Abapinho saúda-vos.
 
    [1]: images/se63_clientes_parasitas.png
    [2]: images/se16n_clientes_parasitas.png
-   [3]: https://www.flickr.com/photos/bigot44/16005934118

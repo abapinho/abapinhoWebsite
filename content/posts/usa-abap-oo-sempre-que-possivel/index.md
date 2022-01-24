@@ -15,5 +15,5 @@ Quando tiverem de ser alterados, deverás também tentar converter em OO os dese
 _Official ABAP Programming Guidelines (página 32) regra 3.1: Usa ABAP Objects sempre que possível para desenvolvimentos novos ou existentes. Blocos de processamento clássicos podem ser criados só em casos excepcionais._
 
 * <images/why-abap-objects.pdf>
-* <http://scn.sap.com/people/thomas.jung/blog/2007/12/19/update-your-abap-development-skills-to-sap-netweaver-70>
-* <http://wiki.sdn.sap.com/wiki/display/ABAP/ABAP+Objects>
+* <https://scn.sap.com/people/thomas.jung/blog/2007/12/19/update-your-abap-development-skills-to-sap-netweaver-70>
+* <https://wiki.sdn.sap.com/wiki/display/ABAP/ABAP+Objects>

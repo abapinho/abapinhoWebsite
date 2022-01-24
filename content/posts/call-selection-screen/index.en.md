@@ -58,4 +58,4 @@ _Thanks to[cristinacosta][2] for the photo._
 Greetings from Abapinho.
 
    [1]: images/call-selection-screen.png (CALL SELECTION-SCREEN)
-   [2]: http://www.flickr.com/photos/cristinacosta/4304968451/
+   [2]: https://www.flickr.com/photos/cristinacosta/

@@ -14,7 +14,7 @@ Há palavras em inglês que o português de Portugal não se dá ao trabalho de 
 
 Já que a SAP nunca se preocupou em permitir o _download_ e _upload_ de objectos do DDIC e do ABAP Workbench, foram sempre aparecendo umas almas caridosas com uns programas mais ou menos medíocres que o permitiam. A verdade é que nunca nenhum me convenceu.
 
-Agora parece que encontrei um que, não sendo perfeito, é pelo menos decente. [Está aqui][1].
+Agora parece que encontrei um que, não sendo perfeito, é pelo menos decente.
 
 Permite fazer download de tudo e mais um par de botas para ficheiros XML e depois tornar a importá-los. Permite também guardar o código-fonte em ficheiros TXT. Óptimo para fazer backups ou para transferir objectos entre sistemas. E funciona e tudo.
 
@@ -22,7 +22,7 @@ Nota: Descobri que a versão actual tem um bug e não permite fazer download de 
 
 Actualização: Entretanto apareceu o [SAPlink][2] que é muito melhor que este.
 
+Nova actualização: já não existe. De qualquer forma entretanto apareceu o abapGit que é muito melhor.
 O Abapinho saúda-vos.
 
-   [1]: http://www.multisoft-expert.de/download.htm
-   [2]: http://wiki.sdn.sap.com/wiki/display/ABAP/SAPlink
+   [2]: https://wiki.sdn.sap.com/wiki/display/ABAP/SAPlink

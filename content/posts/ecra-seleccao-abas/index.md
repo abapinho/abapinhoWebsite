@@ -99,4 +99,4 @@ _Obrigado a[ensee_89][2] pela foto._
 O Abapinho saúda-vos.
 
    [1]: images/ecra-seleccao-abas.png (Ecrã de selecção com abas)
-   [2]: http://www.flickr.com/photos/ensee/3092607303/
+   [2]: https://www.flickr.com/photos/ensee/

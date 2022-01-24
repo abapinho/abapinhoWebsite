@@ -74,7 +74,7 @@ And this is my modest proposal. I've been trying to apply it for a while and I'm
 
 Greetings from Abapinho.
 
-   [1]: http://abapinho.com/en/2016/11/pacotes-locais/
+   [1]: https://abapinho.com/en/2016/11/pacotes-locais/
    [2]: https://en.wikipedia.org/wiki/A_Modest_Proposal
    [3]: https://en.wikipedia.org/wiki/Domain-driven_design
    [4]: https://dddcommunity.org/book/evans_2003/

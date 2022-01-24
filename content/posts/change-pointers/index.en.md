@@ -48,7 +48,7 @@ Já está. A partir de agora serão criadas entradas nas tabelas BDCP e BDCPS de
 
 **Como usar _change pointers_ **
 Hipótese A: IDOC
-Explicar como se faz não está no âmbito deste artigo mas, uma vez definido e configurado o IDOC, pode utilizar-se o report RBDMIDOC, quer interactivamente quer através de um job recorrente. Para saber mais sobre IDOCs consultar [este][1] e [este][2] documento.
+Explicar como se faz não está no âmbito deste artigo mas, uma vez definido e configurado o IDOC, pode utilizar-se o report RBDMIDOC, quer interactivamente quer através de um job recorrente. Para saber mais sobre IDOCs consultar [este][1] documento.
 
 Hipótese B: Programaticamente
 Esta é a parte mais simples. A função CHANGE_POINTERS_READ devolve todos os _change documents_ para um determinado _message type_ (definindo opcionalmente um intervalo de tempo). A função CHANGE_POINTERS_STATUS_WRITE marca como processados um conjunto de _change pointers_ .
@@ -58,5 +58,4 @@ Deve haver mais formas de usar _change pointers_ mas não me lembro agora de mai
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.scribd.com/doc/24447/SAP-R3-IDoc-Cookbook-for-EDI-and-Interfaces-by-Axel-Angeli
-   [2]: http://www.scribd.com/doc/5884984/Idoc-Quick-Reference-Sheet
+   [1]: https://www.scribd.com/doc/24447/SAP-R3-IDoc-Cookbook-for-EDI-and-Interfaces-by-Axel-Angeli

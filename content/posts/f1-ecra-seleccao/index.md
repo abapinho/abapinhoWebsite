@@ -72,4 +72,4 @@ Obrigado a [Morgaine][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/morgaine/3976750744/
+   [1]: https://www.flickr.com/photos/morgaine/3976750744/

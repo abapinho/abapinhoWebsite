@@ -52,9 +52,8 @@ ENDCASE.
 
 How about that?
 
-(Thanks to [itspaulkelly][2] for the photo.)
+Thanks to itspaulkelly for the photo.
 
 Greetings from Abapinho.
 
-   [1]: http://www.youtube.com/watch?v=wTuojHso3YA
-   [2]: http://www.flickr.com/photos/itspaulkelly/3366424586/
+   [1]: https://www.youtube.com/watch?v=wTuojHso3YA

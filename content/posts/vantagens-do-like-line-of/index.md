@@ -47,4 +47,4 @@ Obrigado [thienzieyung][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/thienzieyung/6937202094/
+   [1]: https://www.flickr.com/photos/thienzieyung/6937202094/

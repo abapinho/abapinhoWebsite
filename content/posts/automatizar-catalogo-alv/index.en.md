@@ -98,4 +98,4 @@ As an example, a real scenario I came across a few days ago: in a report that pr
 
 Greetings from Abapinho.
 
-   [1]: http://www.flickr.com/photos/editor/172690560/
+   [1]: https://www.flickr.com/photos/editor/172690560/

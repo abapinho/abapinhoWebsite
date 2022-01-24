@@ -28,8 +28,6 @@ Se experimentares vais ver que o sistema dá erro mas não sai completamente do 
 
 Obrigado Sérgio Lopes pela dica.
 
-(E obrigado [Tiago Celestino][1] pela foto)
+E obrigado Tiago Celestino pela foto
 
 O Abapinho saúda-vos.
-
-   [1]: http://www.flickr.com/photos/tcelestino/2858606793/in/photostream/

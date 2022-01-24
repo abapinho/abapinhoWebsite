@@ -32,10 +32,8 @@ Por vezes o SQL do ABAP não te permite fazer coisas que conseguirias fazer usan
 
 Mas atenção pois, ao contrário do SQL do ABAP que é genérico, este SQL terá de ser escrito especificamente para a base de dados existente. Por consequência o código fica menos flexível e mais complexo. Como tal, faz isto só mesmo se não tiveres alternativa.
 
-Foto: [Photodesaster][1] via [VisualHunt.com][2] / [CC BY-NC][3]
+Foto: [Photodesaster][1]
 
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/photodesaster/14417565779/
-   [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc/2.0/

@@ -30,7 +30,7 @@ Considering the first step there are two possible approaches to use regular expr
 
 The first one is more simple and direct, but the second one is much more flexible and has the advantage of better performance if we intend to apply the thing on a mass level.
 
-[Here][2] you’ll find the online official SAP documentation on regular expressions in ABAP. And [here][3] you’ll find a PDF teaching how to use both methods and which is a great reference to learn how to use regular expressions in ABAP. All over the web, there are examples and documentation on how to use regular expressions in ABAP.
+[Here][2] you’ll find the online official SAP documentation on regular expressions in ABAP. All over the web, there are examples and documentation on how to use regular expressions in ABAP.
 
 Concerning the second step, it’s important to keep in mind that:
 
@@ -50,10 +50,9 @@ Thank you, Irene Nobrega for the [photo][7].
 
 Greetings from Abapinho.
 
-   [1]: http://www.regular-expressions.info/email.html
-   [2]: http://help.sap.com/abapdocu_70/en/ABENREGULAR_EXPRESSIONS.htm
-   [3]: http://www.sdn.sap.com/irj/scn/go/portal/prtroot/docs/library/uuid/902ce392-dfce-2d10-4ba9-b4f777843182?QuickLink=index&overridelayout=true&49533857875589
-   [4]: http://regexlib.com/
-   [5]: http://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial
-   [6]: http://en.wikipedia.org/wiki/Regular_expression
-   [7]: http://www.flickr.com/photos/irenewn/2536788858/
+   [1]: https://www.regular-expressions.info/email.html
+   [2]: https://help.sap.com/abapdocu_70/en/ABENREGULAR_EXPRESSIONS.htm
+   [4]: https://regexlib.com/
+   [5]: https://www.codeproject.com/Articles/9099/The-30-Minute-Regex-Tutorial
+   [6]: https://en.wikipedia.org/wiki/Regular_expression
+   [7]: https://www.flickr.com/photos/irenewn/

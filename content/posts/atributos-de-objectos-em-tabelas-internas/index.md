@@ -118,4 +118,4 @@ Obrigado a Custodio Oliveira que deixou esta dica no comentário sobre o [table_
 O Abapinho saúda-vos.
 
    [1]: {{< ref "tabela-interna-nao-estruturada" >}}
-   [2]: http://www.flickr.com/photos/diepuppenstubensammlerin/6451375637/in/photostream/
+   [2]: https://www.flickr.com/photos/diepuppenstubensammlerin/6451375637/in/photostream/

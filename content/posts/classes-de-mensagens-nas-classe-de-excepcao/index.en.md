@@ -52,4 +52,4 @@ Thanks to Sergio Aguirre for the [photo][1].
 
 Greetings from Abapinho
 
-   [1]: http://www.flickr.com/photos/sergiodjt/3928105188/
+   [1]: https://www.flickr.com/photos/sergiodjt/3928105188/

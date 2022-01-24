@@ -79,10 +79,8 @@ ENDLOOP.
 
 {{< /highlight >}}
 
-E é esta a solução mais rápida de todas ([pré-HANA][1], claro). Já não é preciso fazer MODIFY porque qualquer alteração feita a <lt_kna1> é imediatamente reflectida na lt_kna1 visto que o field-symbol não é mais do que um ponteiro.
+E é esta a solução mais rápida de todas (pré-HANA, claro). Já não é preciso fazer MODIFY porque qualquer alteração feita a <lt_kna1> é imediatamente reflectida na lt_kna1 visto que o field-symbol não é mais do que um ponteiro.
 
 Em pleno século XXI, evite-se usar áreas de trabalho sempre que possível. Assim de repente diria que a única circunstância em que ainda fazem sentido é quando se pretende inserir novos registos numa tabela interna.
 
 O Abapinho saúda-vos.
-
-   [1]: http://www.sap.com/platform/in-memory-computing/index.epx

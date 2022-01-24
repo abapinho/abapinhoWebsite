@@ -105,10 +105,8 @@ Presto. Now it works.
 
 I hope all these examples help you understand how to properly send REF TO stuff across methods.
 
-Photo credit: [haroldmeerveld][1] via [Visualhunt][2] / [CC BY-NC][3]
+Photo credit: [haroldmeerveld][1]
 
 Greetings from Abapinho.
 
    [1]: https://www.flickr.com/photos/haroldmeerveld/15173387023/
-   [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc/2.0/

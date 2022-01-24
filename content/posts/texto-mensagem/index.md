@@ -22,8 +22,6 @@ MESSAGE ID '00' TYPE 'E' NUMBER '163' WITH '123' INTO texto.
 
 "O mandante 123 não existe no sistema"
 
-Obrigado a [Peteris B][1] pela foto.
+Obrigado a Peteris B pela foto.
 
 O Abapinho saúda-vos.
-
-   [1]: http://www.flickr.com/photos/flatcat/3555774083/

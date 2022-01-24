@@ -43,10 +43,8 @@ We may therefore assume that, at least theoretically, putting some genetic algor
 
 Thank you Nuno Morais for the tip.
 
-Photo: [brewbooks][1] via [Visualhunt.com][2] / [CC BY-SA][3]
+Photo: [brewbooks][1]
 
 Greetings from Abapinho.
 
    [1]: https://www.flickr.com/photos/brewbooks/7780990192/
-   [2]: http://visualhunt.com/
-   [3]: http://creativecommons.org/licenses/by-sa/2.0/

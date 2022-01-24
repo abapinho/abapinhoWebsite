@@ -22,22 +22,19 @@ Depois há abordagens malucas tipo [esta][2] que gera o XML do Excel explicitame
 
 E deve haver mais.
 
-Mas já nada disso interessa porque agora existe o [ABAP2XLSX][3]. O ABAP2XLSX é um projecto da SCN (SAP Community Network) desenvolvido por um rapaz jeitoso chamado [Ivan Femia][4]. O ABAP2XLSX é constituido por um conjunto de classes que permitem gerar em ABAP ficheiros Excel em formato XLSX de forma nativa, ou seja, sem recorrer a componentes externos. É simples de desenvolver, rápido a executar e pode ser feito em background. Além disso está bem documentado, tem dezenas de exemplos disponíveis e é apoiado por uma comunidade activa.
+Mas já nada disso interessa porque agora existe o [ABAP2XLSX][3]. O ABAP2XLSX é um projecto da SCN (SAP Community Network) desenvolvido por um rapaz jeitoso chamado Ivan Femia. O ABAP2XLSX é constituido por um conjunto de classes que permitem gerar em ABAP ficheiros Excel em formato XLSX de forma nativa, ou seja, sem recorrer a componentes externos. É simples de desenvolver, rápido a executar e pode ser feito em background. Além disso está bem documentado, tem dezenas de exemplos disponíveis e é apoiado por uma comunidade activa.
 
 Permite gerar folhas de cálculo às cores e às bolinhas e com fórmulas e tudo e tudo e tudo. Deixo aqui apenas um dos exemplo (ZDEMO_EXCEL1):
 
 <https://github.com/abapinho/codesnippets/blob/master/zdemo_excel1.abap>
 
-Para o começares a usar basta instalares o nugget através do [SAPlink][5] que está disponível na [página do projecto][3]. O manual de instruções está [aqui][6].
+Para o começares a usar basta instalares o nugget através do [SAPlink][5] que está disponível na [página do projecto][3].
 
-Obrigado a [Filip Dujardin][7] pela foto.
+Obrigado a Filip Dujardin pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://scn.sap.com/docs/DOC-26034
-   [2]: http://wiki.sdn.sap.com/wiki/display/ABAP/Exporting+data+to+Excel+-+XML+to+the+rescue
-   [3]: https://cw.sdn.sap.com/cw/groups/abap2xlsx
-   [4]: http://www.plinky.it
-   [5]: http://code.google.com/p/saplink/
-   [6]: https://cw.sdn.sap.com/cw/docs/DOC-137513
-   [7]: http://www.filipdujardin.be/
+   [1]: https://scn.sap.com/docs/DOC-26034
+   [2]: https://wiki.sdn.sap.com/wiki/display/ABAP/Exporting+data+to+Excel+-+XML+to+the+rescue
+   [3]: https://wiki.scn.sap.com/wiki/display/ABAP/abap2xlsx
+   [5]: https://code.google.com/p/saplink/

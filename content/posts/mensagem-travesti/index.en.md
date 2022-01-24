@@ -28,8 +28,6 @@ If you try it out, you’ll see that the system returns an error but it does not
 
 Thanks to Sérgio Lopes for this tip.
 
-(And thanks to [Tiago Celestino][1] for the photo)
+And thanks to Tiago Celestino for the photo
 
 Greetings from Abapinho.
-
-   [1]: http://www.flickr.com/photos/tcelestino/2858606793/in/photostream/

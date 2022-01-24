@@ -26,11 +26,11 @@ Olha aqui exemplos de como o SAPlink pode ser usado:
 
 <!--more-->
 
-O SAPlink funciona com plugins. Tem um plugin para cada tipo de objecto. Há plugins para montes de coisas: classes, grupos de função, smartforms, tabelas, conteúdo de tabelas, etc. Ainda assim, há montes de coisas sem plugins. E há alguns plugins com limitações. Por exemplo, embora exista um plugin para classes, há uns tempos precisei de exportar classes abstractas e deu asneira. Aqui tens a [lista dos plugins][2] disponíveis que vai sendo actualizada à medida que estes são desenvolvidos.
+O SAPlink funciona com plugins. Tem um plugin para cada tipo de objecto. Há plugins para montes de coisas: classes, grupos de função, smartforms, tabelas, conteúdo de tabelas, etc. Ainda assim, há montes de coisas sem plugins. E há alguns plugins com limitações. Por exemplo, embora exista um plugin para classes, há uns tempos precisei de exportar classes abstractas e deu asneira.
 
 Se no início o SAPlink é pouco intuitivo, uma vez compreendido é muito fácil de usar. Tem, como seria previsível, dois modos de funcionamento, um de exportação e outro de importação de objectos. Além disso tem duas formas de armazenar os objectos, os nuggets e os slinkees. Fiquemo-nos pelos Nuggets que são os mais comuns.
 
-Para saberes se o SAPlink já existe no teu sistema SAP procura o programa ZSAPLINK na SE38. Se não existir terás de [instalá-lo][3].
+Para saberes se o SAPlink já existe no teu sistema SAP procura o programa ZSAPLINK na SE38. Se não existir terás de instalá-lo.
 
 Agora a aula prática.
 
@@ -60,15 +60,15 @@ E se precisares de algum tipo de objecto que o SAPlink ainda não suporte, faz-t
 
 Como se diz em inglês, o SAPlink é muito peixe!
 
-[http://www.saplink.org][5]
+[Site][5]
 
 Nota: No passado [falei de outro programinha][6] destes que permitia a mesma coisa. Pois fica sabendo que não tem nada a ver porque este é mil vezes melhor.
+
+Actualização: entretanto apareceu o abapGit que tornou o SAPLink obsoleto.
 
 O Abapinho saúda-vos.
 
    [1]: {{< ref "evernote" >}}
-   [2]: https://cw.sdn.sap.com/cw/docs/DOC-145448
-   [3]: https://cw.sdn.sap.com/cw/docs/DOC-144115
    [4]: images/saplink_ecra.png (Ecrã do SAPlink)
-   [5]: http://www.saplink.org/
+   [5]: <https://wiki.scn.sap.com/wiki/display/ABAP/SAPlink/>
    [6]: {{< ref "downloadupload" >}}

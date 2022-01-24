@@ -24,11 +24,9 @@ Quando escolhes esta opção ele criar "bookmarks" em todas as linhas onde o tex
 
 Obrigado Nuno Morais pela dica.
 
-Foto: [gregwake][2] via [VisualHunt][3] / [CC BY-NC-SA][4]
+Foto: [gregwake][2]
 
 O Abapinho saúda-vos.
 
    [1]: images/marcar_tudo.jpg
    [2]: https://www.flickr.com/photos/gregwake/209493486/
-   [3]: https://visualhunt.com/photos/sky-images/
-   [4]: http://creativecommons.org/licenses/by-nc-sa/2.0/

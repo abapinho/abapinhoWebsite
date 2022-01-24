@@ -32,10 +32,8 @@ Sometimes ABAP SQL doesn't allow you to do something you'd be able to do using t
 
 But pay attention because, unlike the generic ABAP SQL, this SQL will have to be specifically written for the existing database. As a consequence, the code will be less flexible and more complex. So make sure you use this only if you really have no alternativa.
 
-Photo: [Photodesaster][1] via [VisualHunt.com][2] / [CC BY-NC][3]
+Photo: [Photodesaster][1]
 
 Greetings from Abapinho.
 
    [1]: https://www.flickr.com/photos/photodesaster/14417565779/
-   [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc/2.0/

@@ -18,4 +18,4 @@ _(Obrigado a[cloois][1] pela foto)_
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/cloois/86999278/
+   [1]: https://www.flickr.com/photos/cloois/86999278/

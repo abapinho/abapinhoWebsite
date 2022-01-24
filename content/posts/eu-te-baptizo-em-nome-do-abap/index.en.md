@@ -66,5 +66,5 @@ Thank you Stephen Lock for the [photo][2].
 
 Greetings from Abapinho.
 
-   [1]: http://scn.sap.com/community/abap/blog/2015/09/22/hungarian-beginners-course--a-polemic-scripture-against-hungarian-notation
+   [1]: https://scn.sap.com/community/abap/blog/2015/09/22/hungarian-beginners-course--a-polemic-scripture-against-hungarian-notation
    [2]: https://www.flickr.com/photos/stephendl/2212818035

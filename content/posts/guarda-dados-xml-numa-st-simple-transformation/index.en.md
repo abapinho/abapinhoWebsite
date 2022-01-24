@@ -30,8 +30,8 @@ The way to store it in an ST is to wrap it like this:
 
 {{< highlight ABAP >}}
 <xsl:transform version=&quot;1.0&quot;
-  xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
-  xmlns:sap=&quot;http://www.sap.com/sapxsl&quot;>
+  xmlns:xsl=&quot;https://www.w3.org/1999/XSL/Transform&quot;
+  xmlns:sap=&quot;https://www.sap.com/sapxsl&quot;>
   <xsl:strip-space elements=&quot;*&quot;/>
   <xsl:template match=&quot;/&quot;>
     <cocktails>
@@ -61,9 +61,9 @@ To convert this XML into an internal table we just have to use another simple ST
 {{< highlight ABAP >}}
 <?sap.transform simple?>
 <tt:transform
-  xmlns:tt=&quot;http://www.sap.com/transformation-templates&quot;
-  xmlns:ddic=&quot;http://www.sap.com/abapxml/types/dictionary&quot;
-  xmlns:def=&quot;http://www.sap.com/abapxml/types/defined&quot;>
+  xmlns:tt=&quot;https://www.sap.com/transformation-templates&quot;
+  xmlns:ddic=&quot;https://www.sap.com/abapxml/types/dictionary&quot;
+  xmlns:def=&quot;https://www.sap.com/abapxml/types/defined&quot;>
   <tt:root name=&quot;T_COCKTAIL&quot; type=&quot;ddic:ZCOCKTAIL_T&quot;/>
   <tt:template>
     <cocktails>

@@ -25,5 +25,5 @@ Thanks also to cimmyt for the [picture][3].
 Greetings from Abapinho.
 
    [1]: images/append_valor_fixo.jpg
-   [2]: http://apolemia.blogspot.fr/2013/12/more-values-in-sap-domains.html
-   [3]: http://www.flickr.com/photos/44760652@N05/7798732582
+   [2]: https://apolemia.blogspot.fr/2013/12/more-values-in-sap-domains.html
+   [3]: https://www.flickr.com/photos/44760652@N05/7798732582

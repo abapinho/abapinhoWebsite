@@ -21,10 +21,8 @@ Uma vez criada e populada a variante, esta pode ser activada a qualquer momento 
 
 [![Variante de activação da SAAB][1]][1]
 
-Obrigado [Diane Duane][2] pela [foto][3].
+Obrigado Diane Duane pela foto.
 
 O Abapinho saúda-vos.
 
    [1]: images/saab_variant.png
-   [2]: https://visualhunt.co/a2/e383ba
-   [3]: https://visualhunt.com/re4/768a8c03

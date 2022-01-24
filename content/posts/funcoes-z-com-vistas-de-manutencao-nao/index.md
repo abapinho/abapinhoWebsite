@@ -34,4 +34,4 @@ Obrigado a AmsterSam The Wicked Reflectah pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/amstersam/4608512202
+   [1]: https://www.flickr.com/photos/amstersam/4608512202

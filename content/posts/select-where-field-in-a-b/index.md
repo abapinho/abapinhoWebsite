@@ -130,8 +130,6 @@ ENDSELECT.
 
 Olé!! Um SELECT, zero IFs, zero variáveis auxiliares.
 
-Obrigado [hello-julie][1] pela foto.
+Obrigado hello-julie pela foto.
 
 O Abapinho saúda-vos.
-
-   [1]: https://visualhunt.co/a6/9d50a0f7

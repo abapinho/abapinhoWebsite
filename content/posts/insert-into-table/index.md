@@ -28,7 +28,6 @@ Dito isto, eu não tenho nada contra excepções e a minha forma preferida de in
 
 O Abapinho saúda-vos.
 
-Foto: [Jo Zimny][2]
+Foto: Jo Zimny
 
    [1]: https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md#prefer-insert-into-table-to-append-to
-   [2]: https://visualhunt.co/a6/22e2dcd9

@@ -44,4 +44,4 @@ E deu!
 
 Percebeste? O método GET_LINES devolve uma tabela interna tipo T001. Em vez de guardar o resultado numa tabela interna auxiliar e em seguida adicionar as linhas da tabela à tabela final, assim adiciona-se directamente o resultado do método à tabela final. Fica mais simples, mais elegante, e poupa-se uma tabela interna auxiliar. Obrigado a pollovf pela [foto][1]. O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/30356381@N02/2847638199/
+   [1]: https://www.flickr.com/photos/30356381@N02/2847638199/

@@ -14,11 +14,10 @@ A transacção SCMP permite comparar o conteúdo de uma tabela entre dois sistem
 
 É muito simples de usar. Permite fazer uma pré-selecção dos registos bem como dos campos a comparar. Permite também mostrar apenas as diferenças, o que é conveniente para tabelas com muitos dados. E acho que não é preciso explicar mais. _Ite et videte_.
 
-Esta dica [apareceu recentemente][1] no blog SAPtricks e é tão útil que vo-la ofereço aqui também, caso não a tenham lá visto já.
+Esta dica apareceu recentemente no ex-blog SAPtricks e é tão útil que vo-la ofereço aqui também, caso não a tenham lá visto já.
 
-Obrigado a Dale Harris pela [foto][2].
+Obrigado a Dale Harris pela [foto][1].
 
 O Abapinho saúda-vos.
 
-   [1]: http://saptricks.com/105/can-i-compare-the-values-inside-a-table-across-clients
-   [2]: http://www.flickr.com/photos/dale_harris/3013611103/in/photostream/
+   [1]: https://www.flickr.com/photos/dale_harris/3013611103/in/photostream/

@@ -22,9 +22,8 @@ De cada vez que se visita um objecto que se acredita vir a visitar mais vezes no
 
 Obrigado Nuno Morais pela dica.
 
-_E obrigado a[~suchitra~][2] pela foto._
+E obrigado a ~suchitra~ pela foto.
 
 O Abapinho saúda-vos.
 
    [1]: images/se80-favoritos.png (se80-favoritos)
-   [2]: http://www.flickr.com/photos/chitrasudar/2756691008/

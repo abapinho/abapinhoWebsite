@@ -28,4 +28,4 @@ E se tu ainda não usas ABAP OO, penso que depois de leres este guia vais ficar 
 
 O Abapinho saúda-vos.
 
-   [1]: http://cleancoder.com/products
+   [1]: https://www.goodreads.com/book/show/3735293-clean-code

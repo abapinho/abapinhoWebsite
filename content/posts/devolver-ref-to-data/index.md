@@ -103,10 +103,8 @@ ENDMETHOD.
 
 De qualquer forma espero que estes exemplos tenham servido para entenderes melhor como podes usar o REF TO data.
 
-Foto: [haroldmeerveld][1] via [Visualhunt][2] / [CC BY-NC][3]
+Foto: [haroldmeerveld][1]
 
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/haroldmeerveld/15173387023/
-   [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-nc/2.0/

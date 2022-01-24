@@ -28,4 +28,4 @@ And if you still don't use ABAP OO, reading it should probably be enough to conv
 
 Greetings from Abapinho.
 
-   [1]: http://cleancoder.com/products
+   [1]: https://www.goodreads.com/book/show/3735293-clean-code

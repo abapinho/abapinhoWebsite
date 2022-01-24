@@ -27,4 +27,4 @@ Obrigado Rui Sousa.
 O Abapinho saúda-vos.
 
    [1]: images/auto-keyboard.png
-   [2]: http://www.murgee.com/auto-keyboard/
+   [2]: https://www.murgee.com/auto-keyboard/

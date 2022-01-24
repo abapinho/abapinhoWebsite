@@ -16,7 +16,7 @@ Fica aqui a minha modesta proposta para criar uma árvore de pacotes Z que ajude
 
 <!--more-->
 
-Os pacotes, ainda que até aqui largamente menosprezados pela maioria, deveriam ser tratados como cidadões de primeira classe no universo SAP. Os bons programadores não devem focar-se apenas nos IFs e nos SELECTs. Deviam conseguir pensar e desenhar os seus desenvolvimentos a um nível mais alto. Pensar no que vão fazer em termos de blocos e interações entre estes. Caixas dentro de caixas dentro de caixas. Como as матрешки mas sem ter de aprender cirílico. Deveriam adoptar Domain-driven design (https://en.wikipedia.org/wiki/Domain-driven_design), que está muito bem explicada no livro https://dddcommunity.org/book/evans_2003/.
+Os pacotes, ainda que até aqui largamente menosprezados pela maioria, deveriam ser tratados como cidadões de primeira classe no universo SAP. Os bons programadores não devem focar-se apenas nos IFs e nos SELECTs. Deviam conseguir pensar e desenhar os seus desenvolvimentos a um nível mais alto. Pensar no que vão fazer em termos de blocos e interações entre estes. Caixas dentro de caixas dentro de caixas. Como as матрешки mas sem ter de aprender cirílico. Deveriam adoptar Domain-driven design (<https://en.wikipedia.org/wiki/Domain-driven_design>), que está muito bem explicada no livro <https://dddcommunity.org/book/evans_2003/>.
 
 Mas para isso acontecer com sucesso não basta que um ou dois programadores adoptem este paradigma. É fundamental que o próprio sistema seja reflexo dessa abordagem. E um bom princípio para que isso aconteça é ter as grandes caixas bem definidas e já criadas no sistema. É essa a minha proposta.
 
@@ -36,7 +36,7 @@ ZACME
   etc...
 {{< /highlight >}}
 
-A única razão para acrescentar o _ROOT prende-se com o facto de já ser provável que exista um ZMM ou um ZFI com um monte de objectos nos quais não quereremos mexer. Todos os pacotes _ROOT relevantes para o sistema em questão deverão ser criados antecipadamente.
+A única razão para acrescentar o \_ROOT prende-se com o facto de já ser provável que exista um ZMM ou um ZFI com um monte de objectos nos quais não quereremos mexer. Todos os pacotes \_ROOT relevantes para o sistema em questão deverão ser criados antecipadamente.
 
 **Nível 2**
 Aqui é tentador agrupar por tipo de programa (report, user-exit, interface, etc.) mas a minha experiência diz-me que isso é má ideia porque... o que fazer quando um único desenvolvimento necessitar de reports, user-exists e interfaces? Então proponho continuar a lógica do nível 1 e usar o segundo nível da árvore de componentes aplicacionais da SAP:

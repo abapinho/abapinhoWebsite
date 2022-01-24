@@ -26,8 +26,7 @@ Se gostas do projecto e queres ajudar-me a dar-lhe mais visibilidade, por favor 
 
 O Abapinho saúda-vos.
 
-Obrigado pela foto, [chucknado][3].
+Obrigado pela foto, chucknado.
 
    [1]: https://git-scm.com/
    [2]: https://www.git-scm.com/docs/git-blame
-   [3]: https://visualhunt.co/a4/637c1e

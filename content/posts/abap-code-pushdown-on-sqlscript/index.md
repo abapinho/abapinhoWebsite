@@ -33,22 +33,20 @@ As CDS Views e AMDPs são criadas e modificadas através da ferramenta HANA Stud
 O código das CDSs e AMDPs é escrito na linguagem de Base de Dados à qual a SAP chamou SQL Script. A base da linguagem é SQL AINSI, como algumas funcionalidades específicas do HANA.
 
 Para quem queira aprender mais sobre SQLScript, a SAP disponibiliza o seguinte documento:
-<http://help.sap.com/hana/SAP_HANA_SQL_Script_Reference_en.pdf>
+<https://help.sap.com/hana/SAP_HANA_SQL_Script_Reference_en.pdf>
 
 Sobre CDS Views:
-<http://scn.sap.com/docs/DOC-70385>
+<https://scn.sap.com/docs/DOC-70385>
 
 Sobre AMDPs:
-<http://scn.sap.com/docs/DOC-51146>
+<https://scn.sap.com/docs/DOC-51146>
 
 A linguagem SQLScript pode ainda ser utilizada diretamente na Base de Dados SAP HANA, através do HANA Studio, em várias perspetivas e âmbitos, mas neste caso, já fora do cenário ABAP.
 
 Obrigado Artur Moreira por este interessante artigo.
 
-Foto: [MysteryBee][1] via [VisualHunt][2] / [CC BY-SA][3]
+Foto: [MysteryBee][1]
 
 O Abapinho saúda-vos.
 
    [1]: https://www.flickr.com/photos/mysterybee/1659329016/
-   [2]: https://visualhunt.com
-   [3]: http://creativecommons.org/licenses/by-sa/2.0/

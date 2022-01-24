@@ -10,16 +10,16 @@ resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
 ---
-A SAP disponibiliza uma série de documentos PDF que contém ajuda e informação preciosa nas mais variadas áreas. Estes PDFs estão dispersos pelos vários sites da SAP, mas alguém no site [Easy Service Marketplace][1] compilou todos numa conveniente lista:
+A SAP disponibiliza uma série de documentos PDF que contém ajuda e informação preciosa nas mais variadas áreas. Estes PDFs estão dispersos pelos vários sites da SAP, mas alguém no site Easy Service Marketplace compilou todos numa conveniente lista:
 
-<http://www.easymarketplace.de/online-pdfs.php>
+www.easymarketplace.de/online-pdfs.php
 
 Obriado Sérgio Fraga por este outro link com mais uma série de PDFs:
 
-<http://sapignite.com/download-sap-pdf-material-abap/>.
+sapignite.com/download-sap-pdf-material-abap/.
 
 Espero que vos ajude!
 
-O Abapinho saúda-vos.
+Actualização: Isto parece já não existir.
 
-   [1]: http://www.easymarketplace.de
+O Abapinho saúda-vos.

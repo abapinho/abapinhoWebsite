@@ -28,11 +28,9 @@ And now off you go to add your own parameters to as many standard functions as y
 
 Thank you Pierre Ameye for the tip.
 
-Photo: [James Marvin Phelps][2] via [Visual hunt][3] / [CC BY-NC][4]
+Photo: [James Marvin Phelps][2]
 
 Greetings from Abapinho.
 
    [1]: images/param_extra_em_fm.png
    [2]: https://www.flickr.com/photos/mandj98/501413295/
-   [3]: http://visualhunt.com
-   [4]: http://creativecommons.org/licenses/by-nc/2.0/

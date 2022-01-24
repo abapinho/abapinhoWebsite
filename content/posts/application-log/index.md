@@ -48,7 +48,7 @@ A partir daqui vamos usar módulos de funções do grupo de funções SBAL. A fu
 
   wa_log-object = object.
   wa_log-subobject = subobject.
-  wa_log-alprog = sy-repid.            
+  wa_log-alprog = sy-repid.
 
   CALL FUNCTION 'BAL_LOG_CREATE'
     EXPORTING
@@ -168,7 +168,7 @@ FUNCTION z_appl_log_initialize .
 * Collect log handles in table
   INSERT log_handle INTO TABLE it_log_handle.
 
-ENDFUNCTION.              
+ENDFUNCTION.
 
 FUNCTION z_appl_log_write.
 *"--------------------------------------------------
@@ -223,7 +223,7 @@ FUNCTION z_appl_log_write.
     CALL FUNCTION 'BAL_LOG_MSG_ADD'
       EXPORTING
         i_log_handle     = log_handle
-        i_s_msg          = 
+        i_s_msg          =
       EXCEPTIONS
         log_not_found    = 1
         msg_inconsistent = 2
@@ -483,7 +483,7 @@ FUNCTION Z_APPL_LOG_READ_FROM_DB .
     append ls_msg to msg_tab.
   ENDLOOP.
 
-ENDFUNCTION.       
+ENDFUNCTION.
 
 FUNCTION z_appl_log_db_save .
 *"--------------------------------------------------
@@ -579,7 +579,7 @@ FUNCTION z_appl_log_clear.
   LOOP AT it_log_handle ASSIGNING .
     CALL FUNCTION 'BAL_LOG_REFRESH'
       EXPORTING
-        i_log_handle  = 
+        i_log_handle  =
       EXCEPTIONS
         log_not_found = 1
         OTHERS        = 2.

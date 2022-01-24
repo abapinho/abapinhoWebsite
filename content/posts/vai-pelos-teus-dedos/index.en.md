@@ -26,6 +26,6 @@ Follow your fingers.
 
 Greetings from Abapinho.
 
-   [1]: http://en.wikipedia.org/wiki/Touch_typing
-   [2]: http://www.digicurso.com/
-   [3]: http://www.jonmiles.co.uk/fingerjig.php
+   [1]: https://en.wikipedia.org/wiki/Touch_typing
+   [2]: https://www.digicurso.com/
+   [3]: https://www.jonmiles.co.uk/fingerjig.php

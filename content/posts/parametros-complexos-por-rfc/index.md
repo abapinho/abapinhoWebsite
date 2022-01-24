@@ -54,4 +54,4 @@ Obrigado a [myrtlewood54][1] pela foto, sejas lá tu quem fores.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/myrtlewoodfactoryoutlet/2547022024/
+   [1]: https://www.flickr.com/photos/myrtlewoodfactoryoutlet/2547022024/

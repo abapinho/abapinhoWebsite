@@ -45,4 +45,4 @@ Obrigado a [pylbug][1] pela foto.
 
 O Abapinho saúda-vos.
 
-   [1]: http://www.flickr.com/photos/pylbug/1678163229/
+   [1]: https://www.flickr.com/photos/pylbug/1678163229/

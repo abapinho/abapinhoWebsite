@@ -52,6 +52,4 @@ CALL FUNCTION 'ENQUE_SLEEP'
 
 Greetings from Abapinho.
 
-_Thank you[Sweet-Rainb0w][1] for the photo._
-
-   [1]: http://www.flickr.com/photos/il0vepullip/3954087408/
+Thank you Sweet-Rainb0w for the photo.
