@@ -47,13 +47,6 @@ package = "netlify-plugin-no-more-404"
 on404 = "warn"
 cacheKey = "20220121"
 
-[[plugins]]
-package = "netlify-plugin-html-validate"
-
-[plugins.inputs]
-ext = "html"
-config = ".htmlvalidate.json"
-
 [[redirects]]
 from = "/*"
 to = "/en/:splat"
