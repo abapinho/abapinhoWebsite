@@ -1,4 +1,4 @@
 {{ with .Resources.GetMatch "featuredImage" -}}
-{{ $imagethumbnail := .Resize "200x" }}
-<img width="200" height="200" src="{{ $imagethumbnail.RelPermalink }}" class="attachment-post-thumbnail" alt="{{ .Title }} - Thumbnail" />
+{{ $imagethumbnail := .Resize "300x" }}
+<img width="150" height="150" src="{{ $imagethumbnail.RelPermalink }}" class="attachment-post-thumbnail" alt="{{ .Title }} - Thumbnail" />
 {{- end }}
