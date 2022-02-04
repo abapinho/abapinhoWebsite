@@ -9,7 +9,6 @@ keywords: []
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 Infelizmente isto não acontece no código Z dos clientes onde tenho trabalhado. Tanto os IFs como os LOOPs tendem a ser tão grandes que ninguém percebe nada do que lá está. Ainda no outro dia vi um `LOOP` com mais de 1500 linhas.
 

@@ -9,7 +9,6 @@ keywords: []
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 Unfortunately that is not what happens in most of the Z code I have seen in my life as an ABAP programmer. Both IFs and LOOPs tend to grow bigger than anyone can deal with. I recently ran into a LOOP with over 1500 lines.
 
