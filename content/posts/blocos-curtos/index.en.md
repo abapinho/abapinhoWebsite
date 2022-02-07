@@ -20,7 +20,7 @@ Why is it that so many ABAP programmers are trying to hurt other people?
 
 ## Fail fast
 
-Very often, the simplest way to avoid big blocks is to [fail fast](1).
+Very often, the simplest way to avoid big blocks is to [fail fast][1].
 
 Instead of doing this:
 
@@ -50,7 +50,7 @@ It hurts others less.
 
 ## Keep your code shallow
 
-Another great advantagem o failing fast is to [keep your code shallow](2) like Clean ABAP advises.
+Another great advantagem o failing fast is to [keep your code shallow][2] like Clean ABAP advises.
 
 Instead of doing this:
 

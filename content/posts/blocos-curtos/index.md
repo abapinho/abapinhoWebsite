@@ -20,7 +20,7 @@ Porquê que os programadores ABAP se andam todos a magoar uns aos outros?
 
 ## Falha rápido
 
-Muitas vezes, a forma mais simples de evitar ter blocos grandes é _falhar rápido_ ou, como se diz em inglês, [_fail fast_](1).
+Muitas vezes, a forma mais simples de evitar ter blocos grandes é _falhar rápido_ ou, como se diz em inglês, [_fail fast_][1].
 
 Em vez de fazer isto:
 
@@ -50,7 +50,7 @@ Magoa menos.
 
 ## Código pouco profundo
 
-Outra vantagem de falhar rápido é, como o Clean ABAP aconselha, [manter o código pouco profundo](2).
+Outra vantagem de falhar rápido é, como o Clean ABAP aconselha, [manter o código pouco profundo][2].
 
 Em vez de fazer isto:
 
