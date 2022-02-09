@@ -9,6 +9,12 @@ HUGO_VERSION = "0.91.2"
 HUGO_VERSION = "0.91.2"
 HUGO_ENV = "production"
 
+[functions]
+directory = "netlify/functions"
+
+[functions.call-build-hook]
+schedule = "5 9 * * *"
+
 [[headers]]
 for = "/*"
 
