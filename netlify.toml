@@ -9,8 +9,12 @@ HUGO_VERSION = "0.91.2"
 HUGO_VERSION = "0.91.2"
 HUGO_ENV = "production"
 
+[dev]
+framework = "hugo"
+
 [functions]
 directory = "netlify/functions"
+node_bundler = "esbuild"
 
 [functions.call-build-hook]
 schedule = "5 9 * * *"
