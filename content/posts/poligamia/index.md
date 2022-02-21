@@ -2,7 +2,7 @@
 slug: poligamia
 title: Sê polígamo
 description: A maior parte dos programadores ABAP são como os cisnes. Quando casam com o ABAP é para sempre e são-lhe eternamente fiéis.
-date: 2022-02-22T09:00:00Z
+date: 2022-02-21T09:00:00Z
 tags: [java, python, actionscript, bash, programming]
 categories: [artigos]
 keywords: []

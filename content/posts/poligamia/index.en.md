@@ -2,7 +2,7 @@
 slug: poligamia
 title: Try poligamy
 description: Most ABAP programmers are like swans. They marry ABAP forever and are eternally faithful
-date: 2022-02-22T09:00:00Z
+date: 2022-02-21T09:00:00Z
 tags: [java, python, actionscript, bash, programming]
 categories: [artigos]
 keywords: []
