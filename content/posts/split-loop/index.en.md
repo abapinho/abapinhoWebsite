@@ -122,6 +122,9 @@ We now have a `main()` method with high level code, making it very easy to under
 
 Look again at the first `LOOP`. Which of the versions do you prefer? I though so.
 
+Photo credit: [Tim Pierce][2].
+
 Greetings from Abapinho.
 
 [1]: https://refactoring.com/catalog/splitLoop.html
+[2]: https://www.flickr.com/photos/qwrrty/5877478960/

@@ -123,6 +123,9 @@ Temos agora um método `main()` de alto nível onde é muito fácil entender o q
 
 Torna a olhar para o primeiro `LOOP`. Qual das versões preferes? Bem me parecia.
 
+Foto: [Tim Pierce][2].
+
 O Abapinho saúda-vos.
 
 [1]: https://refactoring.com/catalog/splitLoop.html
+[2]: https://www.flickr.com/photos/qwrrty/5877478960/
