@@ -9,7 +9,6 @@ keywords: [split loop]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 When ABAP programmers run into a LOOP they like to use it to get as many things done as possible. Even if that LOOP ends up having hundreds or thousands of lines.
 <!--more-->
