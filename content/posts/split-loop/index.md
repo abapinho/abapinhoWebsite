@@ -9,7 +9,6 @@ keywords: [split loop]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 Os programadores ABAP são muito poupadinhos. Quando lhes aparece um LOOP à frente gostam de o aproveitar para fazer tudo e mais alguma coisa. Mesmo que esse LOOP fique com centenas ou milhares de linhas.
 <!--more-->
