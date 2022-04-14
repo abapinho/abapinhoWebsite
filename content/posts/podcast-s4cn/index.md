@@ -9,7 +9,6 @@ keywords: [podcast s4cn]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 Na terça-feira fui convidado pelo Renan Correa para participar no podcast Sem especificação.
 
