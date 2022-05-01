@@ -19,6 +19,8 @@ Some months ago I said that [code blocks should be small][1]. I don't want to re
 
 Each part of an IF command is called branch. IF branches should be as small as possible so that we, the monkeys, can jump between them without hurting ourselves.
 
+That's it.
+
 Thank you [cuatrok77][2] for the photo.
 
 Greetings from Abapinho.
