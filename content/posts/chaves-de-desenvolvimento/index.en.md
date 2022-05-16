@@ -9,7 +9,6 @@ keywords: [chaves de desenvolvimento]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 When I get to a new project the system administrator generates a development key for each development system assigned to our SAP username. Usually it's sent to me by e-mail. Usually I lose track of it.
 
