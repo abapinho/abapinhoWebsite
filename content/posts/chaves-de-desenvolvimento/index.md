@@ -9,7 +9,6 @@ keywords: [chaves de desenvolvimento]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 Quando chego a um projecto novo atribuem-me uma chave de desenvolvimento para cada sistema de desenvolvimento associado. Normalmente esta é-me enviada por e-mail. Normalmente perco-lhes o rasto.
 
