@@ -26,6 +26,8 @@ SELECT calorias FROM bolos WHERE id = 'bolodearroz' FOR UPDATE.
 
 Tem algumas [regras e limitações][2]. Mas mesmo assim isto é bueda ya, não?
 
+Obrigado Nuno Morais pela dica.
+
 Obrigado Jason Pier pela [foto][1].
 
 O Abapinho saúda-vos.

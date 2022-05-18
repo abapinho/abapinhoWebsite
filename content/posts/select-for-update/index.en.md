@@ -25,6 +25,8 @@ SELECT calories FROM cakes WHERE id = 'cupcake' FOR UPDATE.
 
 It does have some [rules and constraints][2]. But still quick nice, hum?
 
+Thank you Nuno Morais for the tip.
+
 Thank you Jason Pier for the [photo][1].
 
 Greetings from Abapinho.
