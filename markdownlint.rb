@@ -1,2 +1,2 @@
 all
-rule 'MD013', :line_length => 110
+exclude_rule 'MD013'
