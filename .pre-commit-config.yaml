@@ -37,6 +37,11 @@ repos:
   rev: v1.1.0
   hooks:
   - id: detect-missing-css-classes
+    args:
+    - --css-files-dir
+    - themes/abapinho_v1/
+    - --html-files-dir
+    - content/posts/
 
 - repo: https://github.com/markdownlint/markdownlint
   rev: v0.11.0
