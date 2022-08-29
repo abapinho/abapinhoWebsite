@@ -3,6 +3,6 @@
     "algolia": "atomic-algolia"
   },
   "dependencies": {
-    "node-fetch": "^3.2.0"
+    "node-fetch": ">=3.2.10"
   }
 }
