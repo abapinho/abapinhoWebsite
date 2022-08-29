@@ -9,7 +9,6 @@ keywords: [mesh]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 
 O ABAP 7.4 trouxe uma série de novidades aplaudidas. Mas de todas, aquela em que menos se fala é o novo tipo de dados `MESH`.
