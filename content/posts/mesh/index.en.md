@@ -9,7 +9,6 @@ keywords: [mesh]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 
 ABAP 7.4 brought a lot of lauded novelties. Of all of them, the one less talked about is `MESH`. Let's analyse it and see how unfair that has been.
