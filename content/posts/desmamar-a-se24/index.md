@@ -2,7 +2,7 @@
 slug: desmamar-a-se24
 title: Desmamar a SE24
 description: Tira as rodinhas da bicicleta
-date: 2022-10-03T09:09:09+01:00
+date: 2022-10-03T09:00:00+01:00
 tags: [se24]
 categories: [artigos]
 keywords: [se24]

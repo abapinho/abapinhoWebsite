@@ -2,7 +2,7 @@
 slug: desmamar-a-se24
 title: Let go of SE24
 description: Get rid of the bicycle training wheels
-date: 2022-10-03T09:09:09+01:00
+date: 2022-10-03T09:00:00+01:00
 tags: [se24]
 categories: [artigos]
 keywords: [se24]
