@@ -1,5 +1,5 @@
 ---
-slug: split-loop
+slug: python-rewrite
 title: Usa Python para reescrever código ABAP
 description: rewrite-code-with-python
 date: 2022-08-01T09:00:00Z
