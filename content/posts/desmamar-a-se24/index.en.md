@@ -50,7 +50,7 @@ First remember: _no pain, no gain_ 😓:
 
 ### Then become a Jedi
 
-- Install Eclipse and ADT ([ABAP Development Tools][1])
+- Install Eclipse and ADT (ABAP Development Tools)
 - Connect Eclipse to your development systems
 - Add the packages on which you need to work
 - Enjoy a modern IDE: raw code + navigation + inspection + extra functionalities:
@@ -61,5 +61,3 @@ First remember: _no pain, no gain_ 😓:
   - Etc
 
 Greetings from Abapinho
-
-  [1]: <https://developers.sap.com/tutorials/abap-install-adt.html>

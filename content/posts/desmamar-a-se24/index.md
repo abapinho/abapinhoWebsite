@@ -48,7 +48,7 @@ Primeiro lembra-te que _o que não mata engorda_. Ah, não, espera, enganei-me n
 
 ### Depois torna-te um _Jedi_
 
-- Instala o Eclipe e o ADT ([ABAP Development Tools][1]);
+- Instala o Eclipe e o ADT (ABAP Development Tools);
 - Conecta o Eclipse aos teus ambientes de desenvolvimento;
 - Adiciona os pacotes com que precisas de trabalhar;
 - Disfruta o IDE moderno: código fonte + navegação + introspecção + funcionalidades extra:
@@ -59,5 +59,3 @@ Primeiro lembra-te que _o que não mata engorda_. Ah, não, espera, enganei-me n
   - Etc.
 
 O Abapinho saúda-vos.
-
-  [1]: <https://developers.sap.com/tutorials/abap-install-adt.html>
