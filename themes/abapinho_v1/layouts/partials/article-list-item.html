@@ -1,5 +1,5 @@
 {{ partial "article-header.html" . }}
-{{ .Summary | plainify }}
+<p>{{ .Summary | plainify }}</p>
 {{- if .Truncated -}}
   <div><br/><a href="{{ .RelPermalink }}">{{ i18n "read_more" }}</a></div>
 {{- end -}}
