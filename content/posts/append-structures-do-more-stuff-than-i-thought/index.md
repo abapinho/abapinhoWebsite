@@ -17,9 +17,8 @@ Mas aprendi recentemente que afinal servem para mais duas coisas:
 
 <!--more-->
 
-  * Adicionar chaves estrangeiras a campos já existentes na tabela standard
-
-  * Adicionar search-helps a campos já existentes na tabela standard
+* Adicionar chaves estrangeiras a campos já existentes na tabela standard
+* Adicionar search-helps a campos já existentes na tabela standard
 
 A SAP refere-o [aqui][1].
 

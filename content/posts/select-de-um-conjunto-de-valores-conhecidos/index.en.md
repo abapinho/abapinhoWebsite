@@ -12,6 +12,7 @@ resources:
 ---
 Someone asks you to select records based on a criteria for which you'll have a small set of known values which you're told will never change. Did you know you can do it directly in the SELECT?
 
+<!--more-->
 
 {{< highlight ABAP >}}
 SELECT * INTO T_T005T

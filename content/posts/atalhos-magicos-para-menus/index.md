@@ -11,7 +11,7 @@ resources:
   src: 'images/thumbnail.jpg'
 keywords: ['comando atalhos menu']
 ---
-Se tu que estás a ler isto achares que tudo o que está escrito no Abapinho é literalmente verdade, o que te vou dizer a seguir vai desiludir: quando disse mágico não quis dizer que era sobrenatural. É só uma forma mais abrilhantada de dizer que é surpreendente e inesperado. Tomei esta liberdade um bocado como quando dizes "estou morto de sede" e no entanto ainda estás vivo. Tendo clarificado isto, podemos continuar.
+Se tu que estás a ler isto achares que tudo o que está escrito no Abapinho é literalmente verdade, o que te vou dizer a seguir vai desiludir: quando disse mágico não quis dizer que era sobrenatural. É só uma forma mais abrilhantada de dizer que é surpreendente e inesperado. Tomei esta liberdade um bocado como quando dizes _estou morto de sede_ e no entanto ainda estás vivo. Tendo clarificado isto, podemos continuar.
 
 <!--more-->
 
