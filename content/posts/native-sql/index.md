@@ -14,6 +14,8 @@ keywords: ['native sql']
 Por vezes o SQL do ABAP não te permite fazer coisas que conseguirias fazer usando SQL nativo da base de dados. É possível fazê-lo.
 
 
+<!--more-->
+
 {{< highlight ABAP >}}
 * Converte para maiúsculas e acrescenta wildcard
   TRANSLATE l_name1 TO UPPER CASE.

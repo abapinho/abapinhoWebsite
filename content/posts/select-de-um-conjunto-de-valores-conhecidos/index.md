@@ -12,6 +12,7 @@ resources:
 ---
 Pedem-te para seleccionares registos cujo critério é um conjunto de meia dúzia de códigos que são conhecidos e nunca vão mudar. Sabias que podes fazer tudo logo no SELECT?
 
+<!--more-->
 
 {{< highlight ABAP >}}
 SELECT * INTO T_T005T

@@ -35,7 +35,7 @@ DATA(t_land1) =  VALUE ty_t_land1(
 
 Bonito? Bonito!
 
-Actualizaçõa: o Vasco Nascimento notou que o código acima só funciona com estruturas simples (flat) e propôs uma alternativa que também funciona com estruturas complexas (deep):
+Actualização: o Vasco Nascimento notou que o código acima só funciona com estruturas simples (flat) e propôs uma alternativa que também funciona com estruturas complexas (deep):
 
 
 {{< highlight ABAP >}}

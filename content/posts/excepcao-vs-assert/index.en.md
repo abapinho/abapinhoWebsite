@@ -32,9 +32,8 @@ But, why do the two mechanisms exist? And how to know which one to use?
 
 Here's the rule of thumb:
 
-  * Use ASSERT to guarantee that the code is correctly written
-
-  * Use exceptions to handle run-time errors
+* Use ASSERT to guarantee that the code is correctly written
+* Use exceptions to handle run-time errors
 
 Still confused? Let's use examples:
 
@@ -54,4 +53,4 @@ ASSERT can be used by itself or associated with a CHECKPOINT GROUP as already ex
 
 Greetings from Abapinho.
 
-   [1]: {{< ref "saabs-assertar-primeira" >}}
+  [1]: {{< ref "saabs-assertar-primeira" >}}

@@ -12,7 +12,7 @@ resources:
 ---
 O editor de ABAP tem sempre coisas novas para descobrir.
 
-Quando faço CTRL-F para pesquisar texto a opção que costumo usar é a "Continuar proc..." (traduções...).
+Quando faço CTRL-F para pesquisar texto a opção que costumo usar é a Continuar proc.
 
 <!--more-->
 

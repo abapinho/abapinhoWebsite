@@ -12,7 +12,7 @@ resources:
 ---
 Uma das coisas que distingue o homem dos restantes animais é o facto de ser capaz de pensar o pensamento.
 
-Um pardal pode pensar "estou assustado, vou dizer piu piu piu" e, como consequência, quem estiver ao pé dele ouve "piu piu piu".
+Um pardal pode pensar _estou assustado, vou dizer piu piu piu_ e, como consequência, quem estiver ao pé dele ouve _piu piu piu_.
 
 <!--more-->
 

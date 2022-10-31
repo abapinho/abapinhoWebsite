@@ -12,7 +12,7 @@ resources:
 ---
 One of the few things that separates us humans from all the other animals is our ability to think about thoughts.
 
-A sparrow may think "I'm scared, I'll say chirp chirp chirp" and, as a direct consequence, whoever stands close to it will hear "chirp chirp chirp".
+A sparrow may think _I'm scared, I'll say chirp chirp chirp_ and, as a direct consequence, whoever stands close to it will hear _chirp chirp chirp_.
 
 <!--more-->
 

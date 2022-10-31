@@ -13,6 +13,7 @@ keywords: ['native sql']
 ---
 Sometimes ABAP SQL doesn't allow you to do something you'd be able to do using the database's native SQL. It can still be done.
 
+<!--more-->
 
 {{< highlight ABAP >}}
 * Converte para maiúsculas e acrescenta wildcard

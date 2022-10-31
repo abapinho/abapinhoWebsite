@@ -11,7 +11,7 @@ resources:
   src: 'images/thumbnail.jpg'
 keywords: ['fiori']
 ---
-Durante anos queixei-me por o ambiente de desenvolvimento do SAP ser tão retrógrado e antiquado e por demorar tanto tempo a evoluir Sempre que mo ouvia dizer, um amigo meu avisava-me sabiamente: "não mordas a mão que te dá de comer".
+Durante anos queixei-me por o ambiente de desenvolvimento do SAP ser tão retrógrado e antiquado e por demorar tanto tempo a evoluir Sempre que mo ouvia dizer, um amigo meu avisava-me sabiamente: não mordas a mão que te dá de comer.
 
 Mas como pode um homem ficar calado?
 
