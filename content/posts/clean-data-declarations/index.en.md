@@ -34,7 +34,7 @@ DATA: customers   TYPE STANDARD TABLE OF kna1,
 
 Because of how untidy this data declaration is, even though you only added a new variable, you were forced to change the two existing ones:
 
-- Relacing the period with a comma in the `counter` line because the command no longer ends there;
+- Replacing the period with a comma in the `counter` line because the command no longer ends there;
 - Indenting the `TYPE` of both existing lines so that they all remain aligned.
 
 At first sight this is not a big deal. But when, sometime in the future, someone tries to compare both versions, the 3 line swill show up as having been modified, even though 2 of them were not really modified.
