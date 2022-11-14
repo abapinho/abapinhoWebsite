@@ -59,4 +59,6 @@ https://era.uma.vez?ums=mulher<(>&<)>com=cara<(>&<)>de=bolacha
 
 Problema resolvido.
 
+Obrigado David Ralo!
+
 O Abapinho saúda-vos.
