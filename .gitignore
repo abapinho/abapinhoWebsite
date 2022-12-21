@@ -9,3 +9,6 @@ resources/
 # Local Netlify folder
 .netlify
 node_modules
+
+# direnv
+.envrc
