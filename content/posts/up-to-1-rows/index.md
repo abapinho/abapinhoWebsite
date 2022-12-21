@@ -21,6 +21,9 @@ Ok. Faz sentido e sempre fiz isso.
 
 Mas, e quando sabemos que a ordem é totalmente indiferente? Provavelmente aí devemos à mesma usar o `UP TO 1 ROWS` em vez do `SELECT SINGLE` para não vir alguém a seguir dizer mal de nós.
 
+Actualização: por coincidência, [andam a discutir este assunto][2] no Clean ABAP e há bastante discórdia.
+
 O Abapinho saúda-vos.
 
 [1]: <https://blogs.sap.com/2016/06/11/select-single-vs-select-up-to-1-rows/>
+[2]: <https://github.com/SAP/styleguides/issues/179>
