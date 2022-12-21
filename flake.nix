@@ -17,6 +17,7 @@
             pkgs.netlify-cli
             pkgs.pinentry_mac
             pkgs.pre-commit
+            pkgs.libyaml
           ];
           buildInputs = [
           ];
