@@ -9,7 +9,6 @@ keywords: [message list]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 
 As mensagens SAP são todas geridas de forma centralizada através da transacção `SE91`, mas podem aparecer a um programa nos mais diversos formatos.

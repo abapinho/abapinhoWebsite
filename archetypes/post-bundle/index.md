@@ -9,7 +9,6 @@ keywords: []
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 
 <!--more-->
