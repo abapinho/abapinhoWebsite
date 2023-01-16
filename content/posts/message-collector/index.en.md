@@ -9,7 +9,6 @@ keywords: [message list]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
-draft: true
 ---
 
 SAP messages are all managed centrally through the `SE91` transaction, but can appear to a program in a variety of formats.
