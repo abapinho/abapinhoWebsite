@@ -12,7 +12,7 @@ resources:
 ---
 Being used to develop in Java and C++, the way transaction SE24 forces you to navigate between each of its parts and the fact that every method has its own include was very confusing to me when I first started using it. Why does SAP always have to make things so complicated? I eventually got used to it.
 
-At some point in time SE24 introduced the option "source-code based" which shows the class and all its methods in a single text. But for some reason I never felt comfortable using it.
+At some point in time SE24 introduced the option _source-code based_ which shows the class and all its methods in a single text. But for some reason I never felt comfortable using it.
 
 [![baseado_em_texto_fonte][1]][1]
 

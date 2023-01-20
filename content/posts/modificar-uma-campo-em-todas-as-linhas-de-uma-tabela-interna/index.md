@@ -12,6 +12,8 @@ resources:
 ---
 O que vos vou mostrar não é propriamente uma novidade. Até [já foi usado antes][1] no Abapinho. Mas como se continua a ver por aí muita gente a fazer LOOPs a tabelas internas para alterar um campo, achei que valia a pena recordar.
 
+<!--more-->
+
 Tens uma tabela com um milhão e duzentas mil linhas e queres que o campo ICON tenha sempre o valor '@FM@'.
 
 Em vez de fazeres isto:
