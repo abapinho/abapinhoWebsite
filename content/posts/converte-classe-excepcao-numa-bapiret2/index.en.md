@@ -22,10 +22,13 @@ It is less likely but not impossible that you need to convert an exception class
 
 And SAP already has a function module that does exactly this:
 
-RS_EXCEPTION_TO_BAPIRET2
+`RS_EXCEPTION_TO_BAPIRET2`
 
 And that’s it really. A simple tip.
+
+Update: [Here][2] I show another way to do the same.
 
 Greetings from Abapinho.
 
    [1]: {{< ref "converter-excepcao-em-classe-de-excepcao" >}}
+   [2]: {{< ref "message-collector" >}}
