@@ -12,6 +12,8 @@ resources:
 ---
 What I’m about to show you is not exactly new. It [has even been used][1] in Abapinho before. But since there is still a lot of people out there using LOOP to change a single field of an internal table, I thought it would be worth talking about it.
 
+<!--more-->
+
 Say you have an internal table with one million and two hundred thousand entries and want to change the field ICON so that it has ‘@FM@‘ in all lines.
 
 Instead of doing this:

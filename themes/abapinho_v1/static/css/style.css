@@ -385,7 +385,7 @@ img.alignleft {
   float: left
   }
 
-.attachment-post-thumbnail{width:150px; height:150px; padding:0px 0px 10px 0; float:right;}
+.attachment-post-thumbnail{width:150px; height:150px; padding:0px 0px 10px 5px; float:right;}
 /* End Images */
 
 

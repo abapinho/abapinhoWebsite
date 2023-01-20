@@ -12,81 +12,20 @@ resources:
 ---
 Para tua conveniência, aqui tens as portas TCP/IP utilizadas pelo _NetWeaver Application Server ABAP_ e pelo _Internet Connection Manager (ICM)_ :
 
+<!--more-->
 
-{{< highlight ABAP >}}
-<table border="0">
-<thead>
-<tr>
-<th>Serviço</td>
-<th>Número porta/Nome serviço</td>
-<th>Por defeito</td>
-<th>Fixo</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Dispatcher</td>
-<td>32NN/sapdpNN</td>
-<td>3200</td>
-<td>x</td>
-</tr>
-<tr>
-<td>Gateway</td>
-<td>33NN/sapgwNN</td>
-<td>3300</td>
-<td>x</td>
-</tr>
-<tr>
-<td>Gateway</td>
-<td>48NN/sapgwNNs</td>
-<td>4800</td>
-<td>x</td>
-</tr>
-<tr>
-<td>ICM HTTP</td>
-<td>80NN</td>
-<td>8000</td>
-<td> </td>
-</tr>
-<tr>
-<td>ICM HTTPS</td>
-<td>443NN</td>
-<td>Inactivo</td>
-<td> </td>
-</tr>
-<tr>
-<td>ICM SMTP</td>
-<td>25</td>
-<td>Inactivo</td>
-<td> </td>
-</tr>
-<tr>
-<td>Message Server</td>
-<td>36NN/sapmsSID</td>
-<td>3600/sapmsC11</td>
-<td> </td>
-</tr>
-<tr>
-<td>Message Server HTTP</td>
-<td>81NN</td>
-<td>8100</td>
-<td> </td>
-</tr>
-<tr>
-<td>Message Server HTTPS</td>
-<td>444NN</td>
-<td>Inactivo</td>
-<td> </td>
-</tr>
-<tr>
-<td>Central System Log</td>
-<td>UDP: 12NN, 13NN, 14NN, 15NN</td>
-<td>Inactivo</td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-{{< /highlight >}}
+|Serviço|Porta/Nome|Por defeito|Fixo|
+|-|-|-|-|
+|Dispatcher|32NN/sapdnNN|3200|x|
+|Gateway|33NN/sapgwNN|3300|x|
+|Gatewy|48NN/sapgwNNs|4800|x|
+|ICM HTTP|80NN|8000||
+|ICM HTTPS|443NN|Inactivo||
+|ICM SMTP|25|Inactivo||
+|Message server|36NN/sapmsSID|3600/sapmsC11||
+|Message server HTTP|81NN|8100||
+|Message server HTTPS|444N|Inactivo||
+|Central System Log|UDP: 12NN, 13NN, 14NN, 15NN|Inactivo||
 
 Para saberes mais consulta [este documento da SAP][1].
 

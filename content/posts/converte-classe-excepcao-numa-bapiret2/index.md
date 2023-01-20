@@ -22,10 +22,13 @@ Esta dica explica exactamente o contrário.
 
 E a SAP já tem um módulo de função que faz exactamente isto:
 
-RS_EXCEPTION_TO_BAPIRET2
+`RS_EXCEPTION_TO_BAPIRET2`
 
 Pronto, está a dica dada.
+
+Actualização: [Aqui][2] mostro uma alternativa também interessante.
 
 O Abapinho saúda-vos.
 
    [1]: {{< ref "converter-excepcao-em-classe-de-excepcao" >}}
+   [2]: {{< ref "message-collector" >}}

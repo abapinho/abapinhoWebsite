@@ -12,7 +12,7 @@ resources:
 ---
 Estando habituado a programar em Java e C++, a forma como a SE24 obriga a navegar entre as várias partes de uma classe e o facto de cada método estar isolado no seu próprio include ao início fez-me muita confusão. Mas porque é que a SAP complica sempre tudo? Acabei por habituar-me.
 
-A dado momento a SE24 passou a permitir a opção "Basedo em texto fonte" que mostra a classe e os métodos todos ligados em texto corrido. Mas por alguma razão que nunca atinei com aquilo.
+A dado momento a SE24 passou a permitir a opção _Basedo em texto fonte_ que mostra a classe e os métodos todos ligados em texto corrido. Mas por alguma razão que nunca atinei com aquilo.
 
 <!--more-->
 
