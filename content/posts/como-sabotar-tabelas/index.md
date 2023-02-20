@@ -29,13 +29,13 @@ O primeiro sistema é já do século XX e usar a velha transacção SE16.
 
 Se tudo tiver corrido bem agora o registo está editável. Depois é só gravar.
 
-**2\. SE16N &sap;_edit**
+**2\. SE16N &sap_edit**
 
   * na transacção SE16N escolhe a tabela a editar
 
   * selecciona os dados se quiseres filtrar registos
 
-  * no campo da transacção escreve &sap;_edit e enter
+  * no campo da transacção escreve `&sap_edit` e enter
 
   * F8 para ires para a lista de dados
 
