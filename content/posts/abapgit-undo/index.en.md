@@ -8,7 +8,7 @@ categories: [artigos]
 keywords: [abapGit undo]
 resources:
 - name: featuredImage
-  src: 'images/thumbnail.jpg'
+  src: 'images/thumbnail.png'
 ---
 
 Did you know that you can finally make radical changes to a development without fear
