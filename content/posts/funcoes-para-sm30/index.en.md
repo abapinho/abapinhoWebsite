@@ -38,4 +38,6 @@ CALL FUNCTION 'VIEW_MAINTENANCE_SINGLE_ENTRY'.
 
 Nice?
 
+Thank you Luís Rocha for the tip.
+
 Greetings from Abapinho.
