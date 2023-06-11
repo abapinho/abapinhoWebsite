@@ -19,7 +19,7 @@ Quando se pretende obter um único registo de uma tabela usando a chave primári
 
 Eu, como [disse lá][2], uso sempre `SELECT SINGLE`.
 
-Se julgavas que eu te ia dar uma resposta definitiva, lamento. Ficas apenas a saber que eu evito sushi com Filadélfia.
+Se julgavas que eu te ia dar uma resposta definitiva, lamento. Ficas apenas a saber que eu evito sushi com Filadélfia. Mas não digo se meto ananás na pizza porque tenho vergonha.
 
 Obrigado [wuestenigel][3] pela [photo][4].
 

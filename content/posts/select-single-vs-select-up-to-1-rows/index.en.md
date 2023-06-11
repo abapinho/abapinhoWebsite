@@ -19,7 +19,7 @@ When you want to retrieve a single record from a database table using the comple
 
 I, as [said there][2], always use `SELECT SINGLE`.
 
-If you thought I was going to give you a definitive answer, I'm sorry. Just know that I do my best to avoid sushi with Philadelphia cheese.
+If you thought I was going to give you a definitive answer, I'm sorry. Just know that I do my best to avoid sushi with Philadelphia cheese. I won't tell you if I eat pizzas with pinapple because I'm ashamed to say it.
 
 Thank you [wuestenigel][3] for the [photo][4].
 
