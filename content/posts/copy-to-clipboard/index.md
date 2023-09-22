@@ -1,6 +1,6 @@
 ---
 slug: copy-to-clipboard
-title: Copia do SAP para o clipboard
+title: Copia do SAPGUI para o clipboard
 description: O teu programa pode usar o clipboard
 date: 2023-09-25T09:00:00+01:00
 tags: [segredo]
@@ -8,14 +8,14 @@ categories: [dicas]
 keywords: [ABAP clipboard]
 resources:
 - name: featuredImage
-  src: 'images/thumbnail.jpg'
+  src: 'images/thumbnail.png'
 ---
 
 Sabias que o teu programa ABAP pode copiar conteúdo para o clipboard do teu sistema operativo?
 
 <!--more-->
 
-O meu amigo Nuno Morais lembrou-se de usar esta funcionalidade porque criou um programa para gerar GUIDs. Depois de gerados ele tinha de os seleccionar e depois copiar manualmente para o _clipboard_. Até que se lembrou que o programa poderia fazer isso. E aí o mundo ficou ligeiramente mais simples. O mundo dele pelo menos.
+O meu amigo Nuno Morais lembrou-se de usar esta funcionalidade porque criou um programa para gerar GUIDs. Depois de gerados ele tinha de os seleccionar e depois copiar manualmente para o _clipboard_. Até que se lembrou que o programa poderia fazer isso por ele. E aí o mundo ficou ligeiramente mais simples. O mundo dele pelo menos.
 
 Assim:
 

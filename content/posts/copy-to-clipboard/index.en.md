@@ -8,7 +8,7 @@ categories: [dicas]
 keywords: [ABAP clipboard]
 resources:
 - name: featuredImage
-  src: 'images/thumbnail.jpg'
+  src: 'images/thumbnail.png'
 ---
 
 Did you know that your ABAP programme can copy content to your operating system's clipboard?
