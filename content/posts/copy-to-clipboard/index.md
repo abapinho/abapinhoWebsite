@@ -23,19 +23,19 @@ Assim:
 DATA data_for_clipboard TYPE STANDARD TABLE OF char100.
 DATA return_code TYPE sysubrc.
 
-data_for_clipboard = VALUE #( ( 'ABC' ) ).
+data_for_clipboard = VALUE #( ( generate_guid( ) ) ).
 
 cl_gui_frontend_services=>clipboard_export(
   IMPORTING
-    data                 = data_for_clipboard
+    data = data_for_clipboard
   CHANGING
-    rc                   = return_code
+    rc = return_code
   EXCEPTIONS
-    cntl_error           = 1
-    error_no_gui         = 2
+    cntl_error = 1
+    error_no_gui = 2
     not_supported_by_gui = 3
-    no_authority         = 4
-    others               = 5 ).
+    no_authority = 4
+    others = 5 ).
 ```
 
 Provavelmente já me tinha cruzado com este método do `CL_GUI_FRONTEND_SERVICES` mas só lhe prestei atenção depois do Nuno me mostrar como o usa.
