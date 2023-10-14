@@ -9,11 +9,11 @@ draft: false
 ---
 Uma boa parte dos reports, interfaces ou jobs, têm de produzir algum tipo de relatório. É normal ver isso feito recorrendo ao comando WRITE. Ora nos dias que correm, usar o comando WRITE para isto é como recorrer a um par de pedras para acender uma fogueira. Afinal, porque não usar o Application Log que é muito mais simples e prático e standard e é só vantagens?
 
+<!--more-->
+
 [![Application log][1]][2]
 
 O Application Log é um sistema standard do SAP para guardar logs aplicacionais e é usado por várias transacções standard. Ao utilizá-lo podemos simplificar e uniformizar os logs dos nossos programas. Vamos aprender aqui como é simples usá-lo nos nossos desenvolvimentos.
-
-<!--more-->
 
 **Como usar?**
 
