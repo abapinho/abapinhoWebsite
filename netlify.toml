@@ -34,7 +34,7 @@ package = "@netlify/plugin-sitemap"
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"
-version = "0.4.0"
+pinned_version = "0.4.0"
 
 [[plugins]]
 package = "netlify-plugin-checklinks"
@@ -47,7 +47,7 @@ debug = false
 
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
-version = "5.0.0"
+pinned_version = "5.0.0"
 
 [plugins.inputs]
 output_path = "reports/lighthouse.html"
