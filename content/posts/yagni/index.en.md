@@ -2,7 +2,7 @@
 slug: yagni
 title: YAGNI
 description: You Ain't Gonna Need It
-date: 2023-10-09T09:00:00+01:00
+date: 2023-10-16T09:00:00+01:00
 tags: []
 categories: [artigos]
 keywords: [yagni]
@@ -21,7 +21,7 @@ Extreme Programming (XP) is an Agile software development methodology. One of it
 
 It's a good rule. Adopt it.
 
-Thank you mureut.kr for the [photo](1).
+Thank you mureut.kr for the [photo][1].
 
 Greetings from Abapinho
 

@@ -2,7 +2,7 @@
 slug: yagni
 title: YAGNI
 description: Se não vais precisar já, não faças
-date: 2023-10-09T09:00:00+01:00
+date: 2023-10-16T09:00:00+01:00
 tags: []
 categories: [artigos]
 keywords: [yagni]
@@ -21,7 +21,7 @@ Extreme Programming (XP) é uma metodologia Agile de desenvolvimento de software
 
 É uma boa regra. Adopta-a.
 
-Obrigado mureut.kr pela [foto](1).
+Obrigado mureut.kr pela [foto][1].
 
 O Abapinho saúda-vos.
 
