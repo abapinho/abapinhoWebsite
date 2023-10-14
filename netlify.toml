@@ -1,13 +1,13 @@
 [build]
-publish = "public"
 command = "./netlify_build.sh"
+publish = "public"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.91.2"
 
 [context.production.environment]
-HUGO_VERSION = "0.91.2"
 HUGO_ENV = "production"
+HUGO_VERSION = "0.91.2"
 
 [dev]
 framework = "hugo"
@@ -23,17 +23,18 @@ schedule = "5 9 * * *"
 for = "/*"
 
 [headers.values]
-X-Frame-Options = "SAMEORIGIN"
-X-XSS-Protection = "0"
-X-Content-Type-Options = "nosniff"
 Content-Security-Policy = "default-src 'self' abapinho.com *.abapinho.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic; form-action 'self'; script-src 'self' 'unsafe-inline' abapinho.com *.abapinho.com https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js algolianet.com *.algolianet.com; connect-src 'self' abapinho.com *.abapinho.com algolianet.com *.algolianet.com *.algolia.net; img-src 'self'; base-uri 'self';"
 Referrer-Policy = "no-referrer"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "SAMEORIGIN"
+X-XSS-Protection = "0"
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"
+version = "0.4.0"
 
 [[plugins]]
 package = "netlify-plugin-checklinks"
@@ -46,6 +47,7 @@ debug = false
 
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
+version = "5.0.0"
 
 [plugins.inputs]
 output_path = "reports/lighthouse.html"
@@ -54,17 +56,17 @@ output_path = "reports/lighthouse.html"
 package = "netlify-plugin-no-more-404"
 
 [plugins.inputs]
-on404 = "warn"
 cacheKey = "20220121"
+on404 = "warn"
 
 [[redirects]]
-from = "/*"
-to = "/en/:splat"
-status = 301
 force = false
+from = "/*"
+status = 301
+to = "/en/:splat"
 
 [redirects.conditions]
-Language = [ "en",]
+Language = ["en"]
 
 [redirects.query]
 path = ":path"
