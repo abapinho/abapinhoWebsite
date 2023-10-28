@@ -8,7 +8,7 @@ categories: [artigos]
 keywords: [yagni]
 resources:
 - name: featuredImage
-  src: 'images/thumbnail.jpg'
+  src: 'images/thumbnail.png'
 ---
 
 _You Ain't Gonna Need It_ em português quer dizer _Faz o que quiseres, mas não digas que eu não te avisei_. Estou a brincar. Não é bem isso.
@@ -17,14 +17,12 @@ _You Ain't Gonna Need It_ em português quer dizer _Faz o que quiseres, mas não
 
 Quando se está entusiasmado a desenvolver uma coisa há a tendência para fazer mais do que é preciso por achar que provavelmente vai ser preciso e, já agora, fica feito.
 
-Extreme Programming (XP) é uma metodologia Agile de desenvolvimento de software. Uma das suas regras chama-se YAGNI. A regra estipula que, se não precisas de uma funcionalidade agora, não deves implementá-la porque, mesmo que aches que venha a ser necessária, o mais provável é que nunca venha a ser.
+Extreme Programming (XP) é uma metodologia Agile de desenvolvimento de software. Uma das suas regras chama-se YAGNI. A regra estipula que, se não precisas de uma funcionalidade agora, não deves implementá-la porque, mesmo que aches que virá a ser necessária, o mais provável é que nunca venha a ser.
 
 É uma boa regra. Adopta-a.
 
 Obrigado mureut.kr pela [foto][1].
 
 O Abapinho saúda-vos.
-
-Greetings from Abapinho
 
 [1]: <https://visualhunt.co/a7/c98878b0>

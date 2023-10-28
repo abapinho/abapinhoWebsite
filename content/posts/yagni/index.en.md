@@ -8,7 +8,7 @@ categories: [artigos]
 keywords: [yagni]
 resources:
 - name: featuredImage
-  src: 'images/thumbnail.jpg'
+  src: 'images/thumbnail.png'
 ---
 
 _You Ain't Gonna Need It_ means _Do what you want, but don't say I didn't warn you_. Just kidding. Not really.
