@@ -1,7 +1,7 @@
 ---
 slug: eclipse-adt-mudanca-de-contexto
-title: No Eclipse ADT não mudas constantemente de contexto
-description: No SAPGUI estás sempre a mudar de contexto
+title: No constant context changes in Eclipse ADT
+description: In SAPGUI you're constantly switching contexts
 date: 2024-04-01T09:00:00Z
 tags: [eclipse]
 categories: [artigos]
