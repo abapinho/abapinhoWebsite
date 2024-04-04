@@ -33,6 +33,8 @@ Podes fazer _where-used_ em cima de qualquer coisa no código. O código continu
 
 Sempre sempre sempre sem mudares de contexto.
 
+## Conclusão
+
 Portanto, se ainda estás a usar o SAPGUI e poderias estar a usar o Eclipse ADT, és granda totó.
 
 O Abapinho saúda-vos.
