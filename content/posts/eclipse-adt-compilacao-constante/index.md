@@ -29,6 +29,8 @@ Além disso, por alguma razão muito estranha, ele só mostra os _warnings_ se e
 
 O compilador está sempre a trabalhar. É incansável. Enquanto estás a programar, todos os erros e _warnings_ são discretamente assinalados na linha respectiva. Estes sinais estão constantemente a actualizar-se. Basta passares o rato por cima de um deles para ver a descrição do problema. Alternativamente, podes abrir a janela de _Problems_ para ver uma lista com todos. À medida de que os vais corrigindo, eles vão desaparecendo. Se não existir nenhum, à partida sabes que podes activar o código com sucesso. Simples. Isto sim, faz sentido.
 
+## Conclusão
+
 Portanto, se ainda estás a usar o SAPGUI e poderias estar a usar o Eclipse ADT, és granda totó.
 
 O Abapinho saúda-vos.

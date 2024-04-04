@@ -29,6 +29,8 @@ Also, for some very strange reason, it only shows the _warnings_ if there is at 
 
 The compiler is always working. It's tireless. While you're programming, all errors and _warnings_ are discreetly marked on the relevant line. These signals are constantly being updated. Just hover your mouse over one of them to see a description of the problem. Alternatively, you can open the _Problems_ window to see a list of them all. As you fix them, they will disappear. If there aren't any, you know you've successfully activated the code. Simple. Now that makes sense.
 
+## Conclusion
+
 So if you're still using SAPGUI and you could be using Eclipse ADT, you're not the sharpest tool in the shed, are you?
 
 Greetings from Abapinho.
