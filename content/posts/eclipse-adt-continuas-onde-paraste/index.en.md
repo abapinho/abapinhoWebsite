@@ -33,6 +33,6 @@ Your breakpoints last forever. They only disappear when you explicitly delete th
 
 ## Conclusion
 
-So if you're still using SAPGUI and you could be using Eclipse ADT, you're a big geek.
+So if you're still using SAPGUI and you could be using Eclipse ADT, you're not the sharpest tool in the shed, are you?
 
 Greetings from Abapinho
