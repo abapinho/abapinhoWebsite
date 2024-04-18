@@ -1,11 +1,11 @@
 ---
 slug: eclipse-adt-f2
 title: The magical F2 in Eclipse ADT
-description: eclipse-adt-f2
-date: 2024-04-17T17:06:45+01:00
-tags: []
-categories: []
-keywords: []
+description: F2 lets you look at the details of variables, classes and methods without leaving your editor
+date: 2024-04-22T09:00:00+01:00
+tags: [eclipse]
+categories: [dicas]
+keywords: [Eclipse ADT F2]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
