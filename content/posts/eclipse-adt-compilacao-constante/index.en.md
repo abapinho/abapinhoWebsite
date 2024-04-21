@@ -31,6 +31,6 @@ The compiler is always working. It's tireless. While you're programming, all err
 
 ## Conclusion
 
-So if you're still using SAPGUI and you could be using Eclipse ADT, you're not the sharpest tool in the shed, are you?
+So, if you're still using SAPGUI and you could be using Eclipse ADT, you're not the sharpest tool in the shed, are you?
 
 Greetings from Abapinho.
