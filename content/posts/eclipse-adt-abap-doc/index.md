@@ -2,7 +2,7 @@
 slug: eclipse-adt-abap-doc
 title: O Eclipse ADT dá bom uso aos ABAP Doc
 description: O SAPGUI nem sequer sabe o que é ABAP Doc
-date: 2025-04-29T09:00:00+01:00
+date: 2024-04-29T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
 keywords: [Eclipse ADT ABAP Doc]

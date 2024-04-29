@@ -2,7 +2,7 @@
 slug: eclipse-adt-abap-doc
 title: Eclipse ADT puts ABAP Doc to good use
 description: SAPGUI doesn't even know what ABAP Doc is
-date: 2025-04-29T09:00:00+01:00
+date: 2024-04-29T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
 keywords: [Eclipse ADT ABAP Doc]
