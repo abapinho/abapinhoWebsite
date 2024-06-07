@@ -1,7 +1,7 @@
 ---
 slug: eclipse-adt-rename
-title: No Eclipse renomeias automaticamente
-description: No Eclipse renomeias automaticamente
+title: No Eclipse ADT renomeias automaticamente
+description: No Eclipse ADT renomeias automaticamente
 date: 2024-05-06T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
