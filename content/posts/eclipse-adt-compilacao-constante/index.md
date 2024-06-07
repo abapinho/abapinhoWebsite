@@ -1,7 +1,7 @@
 ---
 slug: eclipse-adt-compilacao-constante
-title: No Eclipse o compilador não é preguiçoso
-description: eclipse-adt-compilacao-constante
+title: No Eclipse ADT o compilador não é preguiçoso
+description: No Eclipse ADT o compilador não é preguiçoso
 date: 2024-03-25T09:00:00Z
 tags: [eclipse]
 categories: [artigos]
