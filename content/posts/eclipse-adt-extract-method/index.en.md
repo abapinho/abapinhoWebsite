@@ -45,3 +45,8 @@ There, that's it. The 5 steps described above have been carried out automaticall
 So, if you're still using SAPGUI and you could be using Eclipse ADT, you're not the sharpest tool in the shed, are you?
 
 Greetings from Abapinho
+
+[1]: <https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md#keep-methods-small>
+[2]: <https://martinfowler.com/books/refactoring.html>
+[3]: <https://refactoring.guru>
+[4]: <https://refactoring.guru/extract-method>
