@@ -42,4 +42,6 @@ VALUE #(
 
 And that's it, just copy+paste this to the ABAP Unit and you're done.
 
+Thank you Aurélien Albert for the tip.
+
 Greetings from Abapinho.
