@@ -84,6 +84,8 @@ Já agora, a forma mais simples de topar que uma variável está a ser reutiliza
 
 A conclusão é: tenta usar sempre `FINAL` em vez de `DATA`. Se o compilador se queixar então é porque a variável está a ser reutilizada. Considera repensar o código para não precisares dela.
 
+Obrigado Aurélien Albert pela dica.
+
 O Abapinho saúda-vos.
 
 [1]: <https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md#do-one-thing-do-it-well-do-it-only>

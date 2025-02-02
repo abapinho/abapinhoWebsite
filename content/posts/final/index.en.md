@@ -84,6 +84,8 @@ By the way, the easiest way to spot that a variable is being reused is when `CLE
 
 So, the conclusion is: always try to use `FINAL` instead of `DATA`. If the compiler complains then it's because the variable is being reused. Consider rethinking your code so you don't need it.
 
+Thank you Aurélien Albert for the tip.
+
 Greetings from Abapinho.
 
 [1]: <https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md#do-one-thing-do-it-well-do-it-only>
