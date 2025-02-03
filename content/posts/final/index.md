@@ -50,11 +50,11 @@ METHOD execute.
   DATA sum TYPE i.
 
   LOOP AT itbl1 INTO FINAL(wa1).
-    sum += wa-amount.
+    sum += wa1-amount.
   ENDLOOP.
 
   LOOP AT itbl2 INTO FINAL(wa2).
-    sum += wa-amount.
+    sum += wa2-amount.
   ENDLOOP.
 
   " etc
