@@ -39,7 +39,7 @@ Uma vez que tenhas decidido qual a classe que irá albergar o código novo dever
 
 ## O quê?
 
-Já estás mesmo a ver que agora vamos falar dos nomes dos métodos, não é? É isso, não vou estar com suspenses.
+Aterra. Agora estás no chão. Já estás mesmo a ver que agora vamos falar dos nomes dos métodos, não é? É isso, não vou estar com suspenses.
 
 Afinal, o que é que te foi pedido exactamente? Descreve-o numa palavra. Ou duas. Ou numa pequena expressão. Mas pá, não sejas aldrabão. Se o teu método começar por `GET_` não te ponhas a escrever na base de dados ou a alterar atributos na classe. E se o teu método começar por `SET_` não confundas as pessoas fazendo-o devolver parâmetros. Mas, acima de tudo, não julgues nunca que vais construir toda a tua funcionalidade dentro desse método. Nada disso. A resposta a esta pergunta é só o nome do método público que servirá de ponto de entrada à tua nova funcionalidade. A não ser que o que tens a fazer seja deveras simples, esse ponto de entrada deverá conter só chamadas de alto nível a vários outros métodos igualmente nomeados com igual cuidado.
 
@@ -47,7 +47,7 @@ No nosso exemplo a frase pedida é "Obter lista de ordens de venda". O verbo é 
 
 ## Como?
 
-Chegados aqui, sabemos onde vai ser feito, sabemos quem vai fazê-lo e sabemos o que vai ser feito. Só falta mesmo decidi como será feito. Da minha experiência, a resposta às 3 primeiras perguntas muitas vezes facilita em muito a resposta a esta pergunta. Acima de tudo não te esqueças de que, seja o que for que faça, este método deverá fazer apenas uma coisa. Se fizer várias, então deves delegar essas várias coisas para vários outros métodos. E, claro, deverás aplicar este questionário de 4 perguntas a cada um desses métodos. Só assim conseguirás concluir como se devem chamar e se podem existir na mesma classe ou se deverão antes pertencer a outra, ou mesmo a outro pacote.
+Calça as luvas. Chegados aqui, sabemos onde vai ser feito, sabemos quem vai fazê-lo e sabemos o que vai ser feito. Só falta mesmo decidi como será feito. Da minha experiência, a resposta às 3 primeiras perguntas muitas vezes facilita em muito a resposta a esta pergunta. Acima de tudo não te esqueças de que, seja o que for que faça, este método deverá fazer apenas uma coisa. Se fizer várias, então deves delegar essas várias coisas para vários outros métodos. E, claro, deverás aplicar este questionário de 4 perguntas a cada um desses métodos. Só assim conseguirás concluir como se devem chamar e se podem existir na mesma classe ou se deverão antes pertencer a outra, ou mesmo a outro pacote.
 
 Neste caso o como é o mais fácil. Provavelmente faremos um `SELECT` à tabela `VBAK` ou algo assim.
 

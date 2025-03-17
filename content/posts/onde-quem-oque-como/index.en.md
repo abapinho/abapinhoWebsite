@@ -39,7 +39,7 @@ Once you've decided which class will house the new code, you should also think: 
 
 ## What?
 
-You can see we're going to talk about the names of the methods now, can't you? That's it, I'm not going to get hung up on it.
+Land. You're on the ground now. You can see we're going to talk about the names of the methods now, can't you? That's it, I'm not going to get hung up on it.
 
 After all, what exactly have you been asked to do? Describe it in one word. Or two. Or in a little expression. But man, don't be a cheat: If your method starts with `GET_`, don't write to the database or change attributes in the class. And if your method starts with `SET_` don't confuse people by making it return parameters. But above all, don't ever think that you're going to build all your functionality inside that method. Not at all. The answer to this question is just the name of the public method that will serve as the entry point to your new functionality. Unless what you have to do is really simple, that entry point should only contain high-level calls to several other methods that are also named with equal care.
 
@@ -47,7 +47,7 @@ In our example, the requested phrase is “Get list of sales orders”. The verb
 
 ## How?
 
-We know where it's going to be done, we know who's going to do it and we know what's going to be done. All that remains is to decide how it will be done. In my experience, the answer to the first 3 questions often makes it much easier to answer this question. Above all, don't forget that whatever you do, this method should only do one thing. If it does several, then you should delegate those several things to several other methods. And, of course, you should apply this 4-question quiz to each of these methods. Only then will you be able to conclude what they should be called and whether they can exist in the same class or whether they should belong to another class, or even another package.
+Put on your gloves. We know where it's going to be done, we know who's going to do it and we know what's going to be done. All that remains is to decide how it will be done. In my experience, the answer to the first 3 questions often makes it much easier to answer this question. Above all, don't forget that whatever you do, this method should only do one thing. If it does several, then you should delegate those several things to several other methods. And, of course, you should apply this 4-question quiz to each of these methods. Only then will you be able to conclude what they should be called and whether they can exist in the same class or whether they should belong to another class, or even another package.
 
 In this case, the how is the easiest. We'll probably do a `SELECT` to the `VBAK` table or something like that.
 
