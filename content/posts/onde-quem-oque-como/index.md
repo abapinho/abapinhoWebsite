@@ -21,7 +21,7 @@ A primeira pergunta tem a ver com domínios. Já ouviste falar em _Domain Driven
 
 Caso não tenhas ainda percebido, refiro-me a pacotes. Um sistema bem governado está devidamente subdividido numa hierarquia de pacotes e sub-pacotes.
 
-Se o teu sistema ainda só tem pacotes chamados `ZFI` e `ZSD` então tens muito trabalho pela frente. Não hesites em reivindicar pequenos territórios: começa por criar um pacote para cada desenvolvimento. Proponho-te propores a quem governa o teu sistema que pensem numa hierarquia mais fina feira com 2 níveis de pacotes do tipo `MAIN` debaixo dos quais poderão então começar a criar pacotes tipo `DEVELOPMENT`, cada um albergando um desenvolvimento. Quanto mais pequenos forem os pacotes mais organizado será o sistema e mais fácil será navegares o seu mapa. Já agora, estou a presumir que o [ABAP Package Concept][1] está activo no teu sistema. Se não estiver, devia estar. Trata disso.
+Se o teu sistema ainda só tem pacotes chamados `ZFI` e `ZSD` então tens muito trabalho pela frente. Não hesites em reivindicar pequenos territórios: começa por criar um pacote para cada desenvolvimento. Proponho-te propores a quem governa o teu sistema que pensem numa hierarquia mais fina, feita com 2 níveis de pacotes do tipo `MAIN` debaixo dos quais poderão então começar a criar pacotes tipo `DEVELOPMENT`, cada um albergando um desenvolvimento. Quanto mais pequenos forem os pacotes mais organizado será o sistema e mais fácil será navegares o seu mapa. Já agora, estou a presumir que o [ABAP Package Concept][1] está activo no teu sistema. Se não estiver, devia estar. Trata disso.
 
 Não tem de haver apenas uma resposta certa, claro. Mas haverá certamente pelo menos uma. Essa resposta será o nome do pacote onde irás criar o novo código.
 
