@@ -51,10 +51,6 @@ Put on your gloves. We know where it's going to be done, we know who's going to 
 
 In this case, the how is the easiest. We'll probably do a `SELECT` to the `VBAK` table or something like that.
 
-## Use composition
-
-Note that an alternative possibility would be to choose the `ZCL_SD_CUSTOMER` class and the `GET_SALESORDERS` method. The problem with this is that you can associate a lot of functionality with the client. If you do, the `ZCL_CUSTOMER` class will quickly become ingestible. That's why the option we chose above is preferable. But you can have the best of both worlds. You create the `ZCL_SD_CUSTOMER->GET_SALESORDERS` method which simply calls the `ZCL_SD_SALESORDERS->GET_LIST` method. See? So the `ZCL_SD_CUSTOMER` class, being of a higher level, only serves as a facade for its functionalities, which are implemented in several other lower level classes.
-
 Greetings from Abapinho.
 
 [1]: {{< ref "arvore-de-pacotes-z" >}}
