@@ -1,7 +1,7 @@
 ---
 slug: nao-se-acerta-a-primeira
-title: Não se acerta à primeira
-description: Não se acerta à primeira
+title: É normal não se acertar à primeira
+description: É normal não se acertar à primeira
 date: 2025-04-07T09:00:00Z
 tags: []
 categories: [artigos]
