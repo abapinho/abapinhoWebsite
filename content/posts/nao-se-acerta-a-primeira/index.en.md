@@ -1,7 +1,7 @@
 ---
 slug: nao-se-acerta-a-primeira
-title: We don't get it right the first time
-description: We don't get it right the first time
+title: It's normal to not get it right the first time
+description: It's normal to not get it right the first time
 date: 2025-04-07T09:00:00Z
 tags: []
 categories: [artigos]
