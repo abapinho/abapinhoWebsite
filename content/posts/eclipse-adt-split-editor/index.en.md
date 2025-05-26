@@ -2,7 +2,7 @@
 slug: eclipse-adt-split-editor
 title: Everything Everywhere All At Once
 description: Look at two places of the same place at the same time
-date: 2025-05-26T09:00:00+01:00
+date: 2025-06-02T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
 keywords: [eclipse split editor]

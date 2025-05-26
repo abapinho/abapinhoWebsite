@@ -2,7 +2,7 @@
 slug: eclipse-adt-split-editor
 title: Tudo em Todo o Lado ao Mesmo Tempo
 description: Vê dois sítios de uma classe ao mesmo tempo
-date: 2025-05-26T09:00:00+01:00
+date: 2025-06-02T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
 keywords: [eclipse split editor]
