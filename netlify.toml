@@ -52,13 +52,6 @@ pinned_version = "5.0.0"
 [plugins.inputs]
 output_path = "reports/lighthouse.html"
 
-[[plugins]]
-package = "netlify-plugin-no-more-404"
-
-[plugins.inputs]
-cacheKey = "20220121"
-on404 = "warn"
-
 [[redirects]]
 force = false
 from = "/*"
