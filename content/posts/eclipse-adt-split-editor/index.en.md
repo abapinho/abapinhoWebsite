@@ -15,6 +15,6 @@ Sometimes it's useful to look at two areas of the code at the same time. If the 
 
 <!--more-->
 
-Eclipse ADT allows you to split the code window in two, either vertically (one above the other) or horizontally (side by side). It's in _Edit > Split editor_ but I use it so often that I've memorized the shortcut: ALT + SHIFT + ‘-’.
+Eclipse ADT allows you to split the code window in two, either vertically (one above the other) or horizontally (side by side). It's in _Window > Editor > Toggle split editor_ but I use it so often that I've memorized the shortcut: ALT + SHIFT + ‘-’.
 
 Greetings from Abapinho

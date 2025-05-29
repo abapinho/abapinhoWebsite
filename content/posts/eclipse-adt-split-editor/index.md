@@ -15,6 +15,6 @@ Por vezes dá jeito poder olhar para duas zonas do código em simultâneo. Se as
 
 <!--more-->
 
-O Eclipse ADT permite dividir a janela de código em dois, tanto verticalmente (um por cima do outro) como horizontalmente (lado a lado). Está em _Edit > Split editor_ mas eu uso tantas vezes que já decorei o atalho: ALT + SHIFT + '-'.
+O Eclipse ADT permite dividir a janela de código em dois, tanto verticalmente (um por cima do outro) como horizontalmente (lado a lado). Está em _Window > Editor > Toggle split editor_ mas eu uso tantas vezes que já decorei o atalho: ALT + SHIFT + '-'.
 
 O Abapinho saúda-vos.
