@@ -1,11 +1,11 @@
 ---
-slug: eclipse-adt-abap-doc
+slug: porque-modify
 title: Why always MODIFY?
-description: Why don't you use INSERT and UPDATE instead of always MODIFY?
-date: 2024-04-29T09:00:00+01:00
-tags: [eclipse]
-categories: [dicas]
-keywords: [Eclipse ADT ABAP Doc]
+description: You have INSERT and UPDATE, why not use them instead of MODIFY?
+date: 2025-10-06T09:00:00+01:00
+tags: [estilo]
+categories: [artigos]
+keywords: [MODIFY]
 resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'

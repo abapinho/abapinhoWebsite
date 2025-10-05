@@ -2,7 +2,7 @@
 slug: porque-modify
 title: Porquê sempre MODIFY?
 description: Tens o INSERT e o UPDATE, porque não os usas ao invés do MODIFY?
-date: 2026-09-29T09:00:00+01:00
+date: 2025-10-06T09:00:00+01:00
 tags: [estilo]
 categories: [artigos]
 keywords: [MODIFY]
