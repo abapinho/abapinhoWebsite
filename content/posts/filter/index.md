@@ -26,12 +26,12 @@ Tens de fazer LOOP aos cabeçalhos e depois processar os ítens. O normal é faz
 
 ```abap
 LOOP AT headers INTO FINAL(header).
-  calculate_doc_quantity1(
+  calculate_doc_quantity(
   header = header
   items = items ).
 ENDLOOP.
 
-METHOD calculate_total_quantity.
+METHOD calculate_doc_quantity.
   RETURN REDUCE #(
     INIT quantity TYPE mng13
     FOR item IN items
@@ -47,10 +47,10 @@ Agora repara nesta versão alternativa que faz uso do `FILTER`:
 ```abap
 LOOP AT headers INTO FINAL(header).
   FINAL(header_items) = FILTER #( items WHERE vbeln = header-vbeln ).
-  calculate_doc_quantity2( header_items ).
+  calculate_doc_quantity( header_items ).
 ENDLOOP.
 
-METHOD calculate_total_quantity.
+METHOD calculate_doc_quantity.
   RETURN REDUCE #(
     INIT quantity TYPE mng13
     FOR item IN items
