@@ -2,7 +2,7 @@
 slug: evento-transaction-finished
 title: Execute code after a COMMIT
 description: How to execute any code you want after a COMMIT
-date: 2026-02-09T09:00:00+01:00
+date: 2026-02-16T09:00:00+01:00
 tags: [segredo]
 categories: [dicas]
 keywords: [commit, event, handler]
