@@ -25,6 +25,19 @@ FINAL(cut) = NEW zcl_person(
 
 I have the `head` but I don't have the `arms` nor the `legs`, and I don't feel like creating them because I don't need them for the test. So I can do the following:
 
+You could do this:
+
+```abap
+DATA my_arms TYPE REF TO zif_arms.
+DATA my_legs TYPE REF TO ZIF_legs.
+FINAL(cut) = NEW zcl_person(
+  head = my_head
+  arms = my_arms
+  legs = my_legs ).
+```
+
+But there is a nicer and simpler way:
+
 ```abap
 FINAL(cut) = NEW zcl_person(
   head = my_head

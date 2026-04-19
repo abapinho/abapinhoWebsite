@@ -2,7 +2,7 @@
 slug: odeio-numeros-magicos
 title: Odeio números mágicos
 description: Porque é que toda a gente em SAP adora números mágicos?
-date: 2026-04-20T09:00:00
+date: 2026-04-27T09:00:00
 tags: [magicos]
 categories: [artigos]
 keywords: []

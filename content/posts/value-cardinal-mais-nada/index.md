@@ -23,7 +23,20 @@ FINAL(cut) = NEW zcl_person(
   legs = my_legs ).
 ```
 
-Eu tenho a `head` mas não tenho os `arms` nem as `legs` nem me apetece criá-las porque não preciso delas para o teste. Então posso fazer o seguinte:
+Eu tenho uma instância da `head` mas não tenho os `arms` nem as `legs` nem me apetece criá-las porque não preciso delas para o teste. Então posso fazer o seguinte:
+
+Uma hipótese é fazer isto:
+
+```abap
+DATA my_arms TYPE REF TO zif_arms.
+DATA my_legs TYPE REF TO ZIF_legs.
+FINAL(cut) = NEW zcl_person(
+  head = my_head
+  arms = my_arms
+  legs = my_legs ).
+```
+
+Mas há uma forma mais fixe:
 
 ```abap
 FINAL(cut) = NEW zcl_person(
