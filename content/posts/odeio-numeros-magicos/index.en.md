@@ -2,7 +2,7 @@
 slug: odeio-numeros-magicos
 title: I hate magic numbers
 description: Why does everyone love magic numbers in SAP?
-date: 2026-04-20T09:00:00
+date: 2026-04-27T09:00:00
 tags: [magicos]
 categories: [artigos]
 keywords: []
