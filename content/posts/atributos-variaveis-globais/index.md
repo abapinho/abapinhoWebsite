@@ -10,7 +10,7 @@ resources:
 - name: featuredImage
   src: 'images/thumbnail.jpg'
 ---
-Não há coisa pior do que ver código a abusar das variáveis. São tão delicadas e no entanto tão mal tratadas, coitadas. Ora aqui está uma forma de lhes mostrar amor. E a quem as tem de ler. A pior forma de tratar uma variável é fazê-la global. Parece mentira mas em 2025 este crime continua a flagelar os nossos sistemas.
+Não há coisa pior do que ver código a abusar das variáveis. São tão delicadas e no entanto tão mal tratadas, coitadas. E a quem as tem de ler. A pior forma de tratar uma variável é fazê-la global. Parece mentira mas em 2025 este crime continua a flagelar os nossos sistemas. Ora aqui está uma forma de lhes mostrar amor.
 
 <!--more-->
 
