@@ -25,14 +25,10 @@ else
   echo "Skipping Algolia sync for context: ${CONTEXT}"
 fi
 
-# 3. Check links (production only — this is a ~600-page recursive
-#    crawl and costs ~1m45s; not worth paying on every preview build).
-#    This replaces the netlify-plugin-checklinks entry in netlify.toml,
-#    using the same underlying engine (hyperlink) directly so we can
-#    scope when it runs. See: https://github.com/Munter/netlify-plugin-checklinks
-if [ "$CONTEXT" = "production" ]; then
-  npx --yes hyperlink --root public --canonicalroot "https://abapinho.com" \
-    public/index.html public/en/index.html
-else
-  echo "Skipping link check for context: ${CONTEXT}"
-fi
+# Link checking is handled by netlify-plugin-checklinks in netlify.toml
+# (advisory-only — it reports broken links but does not fail the build).
+# A prior attempt to run `hyperlink` directly here caused a production
+# deploy failure: hyperlink exits non-zero on broken links (unlike the
+# plugin), and several of its checks were false positives for this site
+# (Hugo aliases resolved incorrectly, stale 301/302 expectations for
+# third-party redirects, a 403 from a site blocking the bot's UA).

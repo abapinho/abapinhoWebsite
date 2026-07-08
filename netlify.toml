@@ -39,6 +39,27 @@ package = "netlify-plugin-submit-sitemap"
 pinned_version = "0.4.0"
 
 [[plugins]]
+package = "netlify-plugin-checklinks"
+
+[plugins.inputs]
+# Advisory only — this plugin reports broken links but does not fail
+# the build (unlike running `hyperlink` directly, which we tried and
+# which broke a production deploy on false positives). It does add
+# ~1m45s per build across ~600 pages; there's no clean way to gate a
+# declarative plugin to production-only via netlify.toml, so this cost
+# is paid on every build (previews included).
+skipPatterns = [
+  # Third-party sites whose redirect status code (301 vs 302) the
+  # checker flags as a mismatch — the destination resolves fine, only
+  # the intermediate redirect type differs from what's cached.
+  "git-scm.com",
+  "abapzombie.com",
+  "andymatuschak.org",
+  "sapyard.com",
+  "wiki.sdn.sap.com"
+]
+
+[[plugins]]
 package = "netlify-plugin-hugo-cache-resources"
 
 [plugins.inputs]
