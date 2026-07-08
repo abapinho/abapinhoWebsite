@@ -4,10 +4,12 @@ publish = "public"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.117.0"
+NODE_VERSION = "24"
 
 [context.production.environment]
 HUGO_ENV = "production"
 HUGO_VERSION = "0.117.0"
+NODE_VERSION = "24"
 
 [dev]
 framework = "hugo"
