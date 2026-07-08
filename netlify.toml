@@ -39,9 +39,6 @@ package = "netlify-plugin-submit-sitemap"
 pinned_version = "0.4.0"
 
 [[plugins]]
-package = "netlify-plugin-checklinks"
-
-[[plugins]]
 package = "netlify-plugin-hugo-cache-resources"
 
 [plugins.inputs]
@@ -49,7 +46,7 @@ debug = false
 
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
-pinned_version = "5.0.0"
+pinned_version = "6.0.1"
 
 [plugins.inputs]
 output_path = "reports/lighthouse.html"
@@ -57,7 +54,7 @@ output_path = "reports/lighthouse.html"
 [[redirects]]
 force = false
 from = "/*"
-status = 301
+status = 302
 to = "/en/:splat"
 
 [redirects.conditions]
