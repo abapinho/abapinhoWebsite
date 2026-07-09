@@ -1,6 +1,6 @@
 ---
 slug: quem-lancou-a-excepcao
-title: Quem lançou a excepcao?
+title: Quem lançou a excepção?
 description: Sabes quem a apanhou, mas sabes quem a lançou?
 date: 2026-06-22T09:00:00+01:00
 tags: [segredos]
