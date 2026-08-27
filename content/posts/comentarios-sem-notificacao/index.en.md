@@ -23,4 +23,6 @@ I apologise to everyone who didn’t receive a reply. In the meantime, I’ve be
 
 Thank you for reading Abapinho.
 
+Photo by [Katelyn G][1].
+
 Greetings from Abapinho.

@@ -23,4 +23,8 @@ Peço desculpa a todos os que ficaram sem resposta. Entretanto já tenho tentado
 
 Obrigado por lerem o Abapinho.
 
+Foto de [Katelyn G][1].
+
 O Abapinho saúda-vos.
+
+[1]: <https://unsplash.com/photos/cracked-blue-glass-with-central-hole-NeK5dKVhnig>
