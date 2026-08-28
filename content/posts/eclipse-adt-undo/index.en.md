@@ -1,7 +1,7 @@
 ---
 slug: eclipse-adt-undo
-title: In Eclipse ADT you can always undo
-description: In Eclipse ADT you can always undo
+title: In Eclipse ADT you can always rollback
+description: In Eclipse ADT you can always rollback
 date: 2024-06-17T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
@@ -25,10 +25,14 @@ But the simplest solution to solve the problem is simple: don't use SAPGUI to co
 
 ## In Eclipse ADT
 
-In Eclipse ADT it's simple: when you need to undo, you undo. Even if you've saved and activated and even if you've switched to another window of another class. Whether it's a minute later or the next day. It works the way it's supposed to.
+~~In Eclipse ADT it's simple: when you need to undo, you undo. Even if you've saved and activated and even if you've switched to another window of another class. Whether it's a minute later or the next day. It works the way it's supposed to.~~
+
+In Eclipse ADT you also cannot undo after you activate. But, unlike SAPGUI, you have a local history which keeps track of all the changes you've been doing during that session, and it let's you rollback.
 
 ## Conclusion
 
 So, if you're still using SAPGUI and you could be using Eclipse ADT, you're not the sharpest tool in the shed, are you?
+
+Update: I was mistaken, in Eclipse you cannot undo either after activation. I corrected the article. Thank you Carsten Schlegel for pointing it out.
 
 Greetings from Abapinho

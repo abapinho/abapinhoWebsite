@@ -1,7 +1,7 @@
 ---
 slug: eclipse-adt-undo
-title: No Eclipse ADT podes sempre fazer undo
-description: No Eclipse ADT podes sempre fazer undo
+title: No Eclipse ADT podes sempre fazer rollback
+description: No Eclipse ADT podes sempre fazer rollback
 date: 2024-06-17T09:00:00+01:00
 tags: [eclipse]
 categories: [dicas]
@@ -25,10 +25,14 @@ Mas a solução mais simples para resolveres o problema é simples: não uses o 
 
 ## No Eclipse ADT
 
-No Eclipse ADT é simples: quando precisares de fazer undo, fazes undo. Mesmo que tenhas gravado e activado e mesmo que tenhas trocado para outra janela de outra classe. Seja um minuto depois ou no dia seguinte. Funciona como é suposto.
+~~No Eclipse ADT é simples: quando precisares de fazer undo, fazes undo. Mesmo que tenhas gravado e activado e mesmo que tenhas trocado para outra janela de outra classe. Seja um minuto depois ou no dia seguinte. Funciona como é suposto.~~
+
+No Eclipse ADT também não dá para fazer undo depois da activação. Mas ele guarda localmente um histórico de alterações e permite-te fazer _rollback_ de tudo o que fizeste nessa sessão.
 
 ## Conclusão
 
 Portanto, se ainda estás a usar o SAPGUI e poderias estar a usar o Eclipse ADT, és granda totó.
+
+Actualização 2026-08-28: Eu estava enganado. Afinal no Eclipse também não dá para fazer undo. Artigo corrigido. Obrigado Carsten Schlegel por reparares e comentares.
 
 O Abapinho saúda-vos.
