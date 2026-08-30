@@ -27,6 +27,7 @@ Basta fazeres isto:
 IF dog->is_happy( ).
   dot->feed( treat ).
 ENDIF.
+```
 
 Mais simples, mais bonito, mais legível.
 
