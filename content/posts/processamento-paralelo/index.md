@@ -28,14 +28,14 @@ Na prática o processamento paralelo é uma execução de RFC Assíncronos utili
 **Como funciona?**
 
 
-{{< highlight ABAP >}}
+```abap
 CALL FUNCTION func STARTING NEW TASK task
               [DESTINATION {dest|{IN GROUP {group|DEFAULT}}}]
               [{PERFORMING subr}|{CALLING meth} ON END OF TASK]
               parameter_list.
-{{< /highlight >}}
+```
 
-O elemento atómico desta abordagem será um módulo função _RFC enabled_ que se destine a processar um único item (ou um bloco de ítens, mas vamos simplificar para agora). E o ponto de ligação entre um RFC e o _RFC server group_ é a _keyword IN GROUP <nome definido na RZ12>_.
+O elemento atómico desta abordagem será um módulo função _RFC enabled_ que se destine a processar um único item (ou um bloco de ítens, mas vamos simplificar para agora). E o ponto de ligação entre um RFC e o _RFC server group_ é a _keyword IN GROUP &lt;nome definido na RZ12&gt;_.
 
 É também possível especificar um _callback_ de retorno, que será executado quando este processo terminar, _keyword PERFORMING subr ON END OF TASK_ ou _CALLING method ON END OF TASK_.
 
@@ -48,7 +48,7 @@ Vamos ver um exemplo em que comparamos dois programas cujo objetivo é o mesmo. 
 Para este efeito temos disponível um módulo de função "Z_PP_UNIT_TESTS" que será invocado pelos dois programas.
 
 
-{{< highlight ABAP >}}
+```abap
 FUNCTION Z_PP_UNIT_TESTS.
 *"----------------------------------------------------------------------
 *"*"Interface local:
@@ -86,7 +86,7 @@ FUNCTION Z_PP_UNIT_TESTS.
     ELSEIF l_count > 150000.
       exit.
     ENDIF.
-{{< /highlight >}}
+```
 
 **Processamento sequencial**
 
@@ -95,7 +95,7 @@ Pela sua extensão e complexidade apresentamos o código num ficheiro em separad
 Mostro aqui a parte principal, o _loop_ :
 
 
-{{< highlight ABAP >}}
+```abap
   loop at it_t005 into wa_005.
     clear l_returninfo.
 
@@ -116,7 +116,7 @@ Mostro aqui a parte principal, o _loop_ :
     wa_proc-server = l_returninfo-server.
     append wa_proc to git_processed.
   ENDLOOP.
-{{< /highlight >}}
+```
 
 A medição:
 
@@ -133,7 +133,7 @@ O programa exemplo do processamento paralelo pode ser visto [aqui][4].
 Mosto aqui apenas as partes principais, o _loop_ e a rotina de _callback_ :
 
 
-{{< highlight ABAP >}}
+```abap
   loop at it_t005_data into wa_005_data.
     l_tabix = sy-tabix.
     CONCATENATE 'Task' l_tabix into taskname.
@@ -191,7 +191,7 @@ FORM callback_meth using taskname.
   add 1 to gv_receive.
 
 ENDFORM.                    "callback_meth
-{{< /highlight >}}
+```
 
 A medição:
 
@@ -222,7 +222,7 @@ Para contemplar estes e outros aspectos temos a necessidade de andar sempre com 
 Para efeitos de simplificação criei uma _framework_ que permite simplificar este processo agrupando toda a lógica comum para que seja simples e práctico efectuar alterações de uma forma centralizada. Segue-se um exemplo da sua utilização:
 
 
-{{< highlight ABAP >}}
+```abap
 report  zrep_pp_unit_test.
 
 include zrep_pp_unit_test_top.
@@ -282,7 +282,7 @@ start-of-selection.
       l_err = cx->if_message~get_text( ).
       message l_err type 'S' DISPLAY LIKE 'E'.
   endtry.
-{{< /highlight >}}
+```
 
 **Onde posso obter a framework?**
 

@@ -35,7 +35,7 @@ CALL FUNCTION func STARTING NEW TASK task
               parameter_list.
 {{< /highlight >}}
 
-The smallest constituent of this approach is an _RFC enabled_ function module, aimed at processing one single item (or a block of items, but let’s keep it simple for now). And the connecting point between an RFC and the _RFC server group_ is a _keyword IN GROUP <name defined in RZ12>_.
+The smallest constituent of this approach is an _RFC enabled_ function module, aimed at processing one single item (or a block of items, but let’s keep it simple for now). And the connecting point between an RFC and the _RFC server group_ is a _keyword IN GROUP &lt;name defined in RZ12&gt;_.
 
 You can also define a return _callback_ , that is executed when this process is finished, _keyword PERFORMING subr ON END OF TASK_ or _CALLING method ON END OF TASK_.
 
