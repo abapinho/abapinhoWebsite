@@ -40,8 +40,8 @@ This is a very useful feature that can also be applied in HTTP calls. But this s
 
 Note: In this scenario we assume that the user running the program is the same one that has added the breakpoints in the RFC to be tested, and the terminal ID will therefore be the same. There may, however, be two distinct users and for these cases we can use the following commands to enable/disable the terminal ID-based debugging:
 
-/hset tid=<tid>
-| <tid> = of the user who inserted the breakpoints
+/hset tid=&lt;tid&gt;
+| &lt;tid&gt; = of the user who inserted the breakpoints
 
 ---|---
 

@@ -40,8 +40,8 @@ Esta é uma funcionalidade muito prática e pode também ser aplicada a chamadas
 
 Nota: Neste cenário assumimos que o utilizador que corre o programa é o mesmo que introduz os breakpoints no RFC a testar pois assim, consequentemente, o terminal ID será o mesmo. Podem no entanto haver dois utilizadores distintos e para estes casos podemos usar os seguintes comandos para activar/desactivar o debug com base em terminal ID:
 
-/hset tid=<tid>
-| <tid> = do utilizador que introduziu os breakpoints
+/hset tid=&lt;tid&gt;
+| &lt;tid&gt; = do utilizador que introduziu os breakpoints
 
 ---|---
 

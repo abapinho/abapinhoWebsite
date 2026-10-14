@@ -22,5 +22,5 @@ Todo o código que colocares em user-exits (BADIs, enhancements, SMOD, etc.) dev
 
   * O nome da classe deve estar claramente relacionado com o nome do user-exit: Ex: no user-exit ZXF01U01 usa a classe ZCL_ZXF01U01;
 
-<{{< ref "metodos-privados-em-badis" >}}>
-<{{< ref "melhorar-os-melhoramentos" >}}>
+{{< ref "metodos-privados-em-badis" >}}
+{{< ref "melhorar-os-melhoramentos" >}}

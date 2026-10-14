@@ -1,8 +1,7 @@
-author = "Nuno Godinho"
 baseURL = "https://abapinho.com/"
 copyright = "&copy;2009-2026 Nuno Godinho"
 defaultContentLanguage = "pt"
-languageCode = "pt-PT"
+locale = "pt-PT"
 paginate = 15
 refLinksErrorLevel = "WARNING"
 theme = "abapinho_v1"
@@ -11,7 +10,7 @@ title = "Abapinho"
 [languages]
 
 [languages.en]
-languageName = "English"
+label = "English"
 weight = 2
 
 [languages.en.menu]
@@ -42,7 +41,7 @@ url = "/en/categories/noticias/"
 weight = 50
 
 [languages.pt]
-languageName = "Português"
+label = "Português"
 weight = 1
 
 [languages.pt.menu]
@@ -82,6 +81,9 @@ home = ["HTML", "JSON", "RSS"]
 [params]
 description = "Artigos técnicos sobre SAP e ABAP em português"
 keywords = "ABAP, SAP, IDOC, IDOCS, BAPI, BADI, user-exit, user-exits, enhancements, dicas, artigos"
+
+[params.author]
+name = "Nuno Godinho"
 
 [permalinks]
 posts = "/:year/:month/:slug/"

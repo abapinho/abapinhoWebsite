@@ -2,7 +2,7 @@
 
 <meta name="title" content="{{ .Title }}">
 <meta name="description" content="{{ cond (eq .Description "") .Site.Params.description .Description }}">
-<meta name="author" content="{{ .Site.Author }}">
+<meta name="author" content="{{ .Site.Params.Author }}">
 <meta name="rating" content="General">
 <meta name="revisit after" content="15 days">
 <meta name="robots" content="index, follow">

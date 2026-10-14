@@ -23,6 +23,6 @@ All code to be put in user-exits (BADIs, enhancements, SMOD, etc.) should be enc
   * The name of the class should be clearly related to the name of the user-exit. Ex: for user-exit ZXF01U01 uses class Z3F_CL_ZXF01U01.
 
 [https://abapinho.com/en/2012/03/metodos-privados-em-badis/][1]
-<{{< ref "melhorar-os-melhoramentos" >}}> (in portuguese)
+{{< ref "melhorar-os-melhoramentos" >}} (in portuguese)
 
    [1]: {{< ref "metodos-privados-em-badis" >}} (Implementar métodos privados em BADIs)
