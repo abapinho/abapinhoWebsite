@@ -3,12 +3,12 @@ command = "./netlify_build.sh"
 publish = "public"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.117.0"
+HUGO_VERSION = "0.166.0"
 NODE_VERSION = "24"
 
 [context.production.environment]
 HUGO_ENV = "production"
-HUGO_VERSION = "0.117.0"
+HUGO_VERSION = "0.1&6.0"
 NODE_VERSION = "24"
 
 [dev]
