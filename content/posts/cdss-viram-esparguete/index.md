@@ -21,7 +21,7 @@ Nos dias que correm é fundamental que o código e as ferramentas à volta dele 
 
 ## É tudo global
 
-E não há forma de encapsular código. Não existe o conceito de público e privado como nos métodos. É tudo público e acessível. Por consequência, código que deveria ser específico para uma situação particular e que não deveria pode ser reutilizado acaba disponível e torna-se ruído no meio de tudo o resto. É certo que poderíamos usar O _ABAP Package Concept_ e um _Package Interface_ para tornar algumas CDSs privadas a um pacote, mas acho que todos concordamos que o _ABAP Package Concept_, embora conceptualmente excelente, na práctica é tão rígido e difícil de usar que acaba por atrapalhar mais do que ajuda.
+E não há forma de encapsular código. Não existe o conceito de público e privado como nos métodos. É tudo público e acessível. Por consequência, código que deveria ser específico para uma situação particular e que não deveria pode ser reutilizado acaba disponível e torna-se ruído no meio de tudo o resto. É certo que poderíamos usar O [ABAP Package Concept][1] e um _Package Interface_ para tornar algumas CDSs privadas a um pacote, mas acho que todos concordamos que o _ABAP Package Concept_, embora conceptualmente excelente, na práctica é tão rígido e difícil de usar que acaba por atrapalhar mais do que ajuda.
 
 ## Sem constantes
 
@@ -39,4 +39,9 @@ Faz lembrar os Web Dynpros, essa tecnologia monolítica horrível que nasceu tor
 
 Querida SAP, não me leves a mal o desabafo. Gosto de ti e espero que numa futura versão consigas encontrar solução para todos estes problemas.
 
+Obrigado a alguém pela [foto][2].
+
 O Abapinho saúda-vos.
+
+[1]: {{< ref "pacotes-2-0" >}}
+[2]: <https://pngimg.com/image/85932>
