@@ -39,4 +39,9 @@ It reminds me of Web Dynpros, that awful monolithic technology that was flawed f
 
 Dear SAP, please don’t take my rant the wrong way. I like you and I hope that in a future version you’ll manage to find a solution to all these problems.
 
+Thank you someone for the [photo][2].
+
 Greetings from Abapinho.
+
+[1]: {{< ref "pacotes-2-0" >}}
+[2]: <https://pngimg.com/image/85932>
