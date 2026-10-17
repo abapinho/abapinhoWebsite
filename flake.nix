@@ -13,9 +13,7 @@
       in {
         devShell = pkgs.mkShell {
           nativeBuildInputs = [
-            pkgs.netlify-cli
             pkgs.pinentry_mac # Why is gpg failing? Is this really needed?
-            pkgs.pre-commit
             pkgs.libyaml      # Why is pre-commit failing now?
           ];
           buildInputs = [
