@@ -74,6 +74,8 @@ Até que alguém lhe pergunta a profissão:
 
 Não és não.
 
+Tens de usar o que aprendeste, e tens de continuar a [aprender][19].
+
    [1]: https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
    [2]: https://archive.sap.com/documents/docs/DOC-10236
    [3]: https://zevolving.com/category/abapobjects/
@@ -92,3 +94,4 @@ Não és não.
    [16]: https://blogs.sap.com/2014/03/17/how-to-get-your-colleges-into-abap-in-eclipse/
    [17]: https://github.com/larshp/abapGit
    [18]: https://git-scm.com/
+   [19]: https://yb.digital/choose-online-sap-course-training/
