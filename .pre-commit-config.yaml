@@ -2,7 +2,7 @@
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.5.0
+  rev: v6.0.0
   hooks:
   - id: no-commit-to-branch
   - id: check-xml
@@ -16,7 +16,7 @@ repos:
   - id: trailing-whitespace
 
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
-  rev: v2.11.0
+  rev: v2.16.0
   hooks:
   - id: pretty-format-toml
     args: [--autofix]
@@ -29,12 +29,12 @@ repos:
   - id: csslint
 
 - repo: https://github.com/Lucas-C/pre-commit-hooks
-  rev: v1.5.4
+  rev: v1.5.6
   hooks:
   - id: forbid-tabs
 
 - repo: https://github.com/Lucas-C/pre-commit-hooks-lxml
-  rev: v1.1.0
+  rev: v1.1.1
   hooks:
   - id: detect-missing-css-classes
     args:
@@ -43,18 +43,17 @@ repos:
     - --html-files-dir
     - content/posts/
 
-- repo: https://github.com/markdownlint/markdownlint
-  rev: v0.13.0
+- repo: https://github.com/DavidAnson/markdownlint-cli2
+  rev: v0.18.1   # use the latest tag
   hooks:
-  - id: markdownlint
-    args: [-r ~MD013]
+  - id: markdownlint-cli2
 
 - repo: https://github.com/jlebar/pre-commit-hooks
-  rev: 62ca83ba4958da48ea44d9f24cd0aa58633376c7
+  rev: 6a0c0cbc600e84549e5665cb99a704277526fe18
   hooks:
   - id: do-not-submit
 
 - repo: https://github.com/betterleaks/betterleaks
-  rev: v1.8.1
+  rev: v2.0.0-rc.3
   hooks:
   - id: betterleaks
