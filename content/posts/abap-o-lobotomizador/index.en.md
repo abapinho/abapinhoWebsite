@@ -72,7 +72,9 @@ And then one day someone asks him what he does for a living. And he says:
 
 "I am a Computer Engineer."
 
-Não he's not.
+Não you're not.
+
+You should use what you learned, and keep on [learning][19].
 
    [1]: https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
    [2]: https://archive.sap.com/documents/docs/DOC-10236
@@ -92,3 +94,4 @@ Não he's not.
    [16]: https://blogs.sap.com/2014/03/17/how-to-get-your-colleges-into-abap-in-eclipse/
    [17]: https://github.com/larshp/abapGit
    [18]: https://git-scm.com/
+   [19]: https://yb.digital/choose-online-sap-course-training/
