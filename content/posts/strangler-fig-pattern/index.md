@@ -18,7 +18,7 @@ _Isto faz muito sentido, mas como é que o posso aplicar em código antigo com r
 
 A solução é usar a técnica da figueira-estranguladora ([Strangler Fig Pattern][1]): sempre que precisares de fazer uma alteração em alguma parte de uma rotina dessas faz o seguinte:
 
-1. Identifica o bocado de código que está envolvido nessa alteração e que, por isso, terá de ser novamente testado (vê isso como uma oportunidade para o reescrever));
+1. Identifica o excerto de código que está envolvido nessa alteração e que, por isso, terá de ser novamente testado (vê isso como uma oportunidade para o reescrever);
 2. Extrai esse código para um método novo, idealmente numa classe à parte (usando uma existente ou criando uma nova caso não exista nenhuma adequada. Mas o importante é estar isolado num método);
 3. Cria um parâmetro por cada variável (de entrada e de saída) envolvida nesse código, de forma a que o método se torne autónomo, não dependendo de nenhuma variável global, mantendo assim flexibilidade para, por exemplo, ser movido para outra classe. E também para ser mais fácil de testar;
 4. Reescreve essa rotina, agora isolada e independente, para que fique actual e moderna e siga as boas prácticas actuais;
